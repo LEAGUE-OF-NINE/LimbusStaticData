@@ -1,0 +1,15 @@
+{
+  "mirrorDungeon": {
+    "dailyFreeChanceId": 10001,
+    "weeklyBonusChanceId": 10008,
+    "hardDungeonChanceId": 10007,
+    "openMainChapterId": 1,
+    "openSubChapterId": 102
+  },
+  "expDungeonIds": [ 1, 2, 3, 4, 5, 6 ],
+  "threadDungeonIds": [ 1, 2, 3, 4, 5, 6, 7 ],
+  "expDungeonBonusChanceId": 10003,
+  "threadDungeonBonusChanceId": 10004,
+  "railwayDungeonIds": [ 4 ],
+  "isRailwayDungeonOpened": true
+}

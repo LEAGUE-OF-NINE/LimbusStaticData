@@ -1,0 +1,2123 @@
+{
+  "list": [
+    {
+      "dungeonId": 4,
+      "maxchip": 9999,
+      "buffs": [
+        {
+          "id": 100,
+          "required": [],
+          "cost": 0,
+          "localizeId": "mirror_dungeon_4_buffs_title_1",
+          "summaryDescId": "md4_buffs_summaryDesc_100",
+          "effects": [
+            {
+              "type": "ADDITIONAL_CHIP",
+              "value": 200,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_1"
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "position": {
+              "x": 0
+            },
+            "isNotLinkedToParentBuff": true
+          }
+        },
+        {
+          "id": 101,
+          "required": [ 100 ],
+          "cost": 0,
+          "localizeId": "mirror_dungeon_4_buffs_title_2",
+          "summaryDescId": "md4_buffs_summaryDesc_101",
+          "effects": [
+            {
+              "type": "ADDITIONAL_START_EGO_GIFT_CHANCE_BUF",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_2"
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "position": {
+              "y": 60
+            },
+            "isNotLinkedToParentBuff": true
+          }
+        },
+        {
+          "id": 1011,
+          "required": [ 101 ],
+          "cost": 0,
+          "localizeId": "mirror_dungeon_4_buffs_title_2",
+          "summaryDescId": "md4_buffs_summaryDesc_1011",
+          "effects": [
+            {
+              "type": "ADDITIONAL_START_EGO_GIFT_COMBUSTION",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_2"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 225
+          }
+        },
+        {
+          "id": 1012,
+          "required": [ 101 ],
+          "cost": 0,
+          "localizeId": "mirror_dungeon_4_buffs_title_2",
+          "summaryDescId": "md4_buffs_summaryDesc_1012",
+          "effects": [
+            {
+              "type": "ADDITIONAL_START_EGO_GIFT_LACERATION",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_2"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 180
+          }
+        },
+        {
+          "id": 1013,
+          "required": [ 101 ],
+          "cost": 0,
+          "localizeId": "mirror_dungeon_4_buffs_title_2",
+          "summaryDescId": "md4_buffs_summaryDesc_1013",
+          "effects": [
+            {
+              "type": "ADDITIONAL_START_EGO_GIFT_VIBRATION",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_2"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 135
+          }
+        },
+        {
+          "id": 1014,
+          "required": [ 101 ],
+          "cost": 0,
+          "localizeId": "mirror_dungeon_4_buffs_title_2",
+          "summaryDescId": "md4_buffs_summaryDesc_1014",
+          "effects": [
+            {
+              "type": "ADDITIONAL_START_EGO_GIFT_BURST",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_2"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 90
+          }
+        },
+        {
+          "id": 1015,
+          "required": [ 101 ],
+          "cost": 0,
+          "localizeId": "mirror_dungeon_4_buffs_title_2",
+          "summaryDescId": "md4_buffs_summaryDesc_1015",
+          "effects": [
+            {
+              "type": "ADDITIONAL_START_EGO_GIFT_SINKING",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_2"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 45
+          }
+        },
+        {
+          "id": 1016,
+          "required": [ 101 ],
+          "cost": 0,
+          "localizeId": "mirror_dungeon_4_buffs_title_2",
+          "summaryDescId": "md4_buffs_summaryDesc_1016",
+          "effects": [
+            {
+              "type": "ADDITIONAL_START_EGO_GIFT_BREATH",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_2"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 0
+          }
+        },
+        {
+          "id": 1017,
+          "required": [ 101 ],
+          "cost": 0,
+          "localizeId": "mirror_dungeon_4_buffs_title_2",
+          "summaryDescId": "md4_buffs_summaryDesc_1017",
+          "effects": [
+            {
+              "type": "ADDITIONAL_START_EGO_GIFT_CHARGE",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_2"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 315
+          }
+        },
+        {
+          "id": 102,
+          "required": [ 101 ],
+          "cost": 0,
+          "localizeId": "mirror_dungeon_4_buffs_title_3",
+          "summaryDescId": "md4_buffs_summaryDesc_102",
+          "effects": [
+            {
+              "type": "ADDITIONAL_START_EGO_GIFT_CHANCE_ATK",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_3"
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "position": {
+              "y": 175
+            },
+            "isNotLinkedToParentBuff": true
+          }
+        },
+        {
+          "id": 1021,
+          "required": [ 102 ],
+          "cost": 0,
+          "localizeId": "mirror_dungeon_4_buffs_title_3",
+          "summaryDescId": "md4_buffs_summaryDesc_1021",
+          "effects": [
+            {
+              "type": "ADDITIONAL_START_EGO_GIFT_CHANCE_SLASH",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_3"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 30
+          }
+        },
+        {
+          "id": 1022,
+          "required": [ 102 ],
+          "cost": 0,
+          "localizeId": "mirror_dungeon_4_buffs_title_3",
+          "summaryDescId": "md4_buffs_summaryDesc_1022",
+          "effects": [
+            {
+              "type": "ADDITIONAL_START_EGO_GIFT_CHANCE_PENETRATE",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_3"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 150
+          }
+        },
+        {
+          "id": 1023,
+          "required": [ 102 ],
+          "cost": 0,
+          "localizeId": "mirror_dungeon_4_buffs_title_3",
+          "summaryDescId": "md4_buffs_summaryDesc_1023",
+          "effects": [
+            {
+              "type": "ADDITIONAL_START_EGO_GIFT_CHANCE_HIT",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_3"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 270
+          }
+        },
+        {
+          "id": 103,
+          "required": [ 102 ],
+          "cost": 0,
+          "localizeId": "mirror_dungeon_4_buffs_title_4",
+          "summaryDescId": "md4_buffs_summaryDesc_103",
+          "effects": [
+            {
+              "type": "ADDITIONAL_START_COST",
+              "value": 50,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_4"
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "position": {
+              "y": 255
+            },
+            "isNotLinkedToParentBuff": true
+          }
+        },
+        {
+          "id": 1031,
+          "required": [ 103 ],
+          "cost": 125,
+          "localizeId": "mirror_dungeon_4_buffs_title_4",
+          "summaryDescId": "md4_buffs_summaryDesc_1031",
+          "effects": [
+            {
+              "type": "ADDITIONAL_START_COST_ADD_S1",
+              "value": 50,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_4"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 210
+          }
+        },
+        {
+          "id": 1032,
+          "required": [ 103 ],
+          "cost": 200,
+          "localizeId": "mirror_dungeon_4_buffs_title_4",
+          "summaryDescId": "md4_buffs_summaryDesc_1032",
+          "effects": [
+            {
+              "type": "ADDITIONAL_START_COST_ADD_S2",
+              "value": 50,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_4"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 90
+          }
+        },
+        {
+          "id": 1033,
+          "required": [ 103 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_4",
+          "summaryDescId": "md4_buffs_summaryDesc_1033",
+          "effects": [
+            {
+              "type": "ADDITIONAL_START_COST_ADD_S3",
+              "value": 50,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_4"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 330
+          }
+        },
+        {
+          "id": 104,
+          "required": [ 103 ],
+          "cost": 0,
+          "localizeId": "mirror_dungeon_4_buffs_title_5",
+          "summaryDescId": "md4_buffs_summaryDesc_104",
+          "effects": [
+            {
+              "type": "ADDITIONAL_EGO_GIFT_CHANCE_TIER1TOTIER2",
+              "value": 16,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_5"
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "position": {
+              "x": 540,
+              "y": 70
+            },
+            "isNotLinkedToParentBuff": true
+          }
+        },
+        {
+          "id": 105,
+          "required": [ 104 ],
+          "cost": 0,
+          "localizeId": "mirror_dungeon_4_buffs_title_6",
+          "summaryDescId": "md4_buffs_summaryDesc_105",
+          "effects": [
+            {
+              "type": "ADDITIONAL_EGO_GIFT_CHANCE_TIER3TOTIER4",
+              "value": 28,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_6"
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "position": {
+              "x": 535,
+              "y": -258
+            },
+            "isNotLinkedToParentBuff": true
+          }
+        },
+        {
+          "id": 106,
+
+          "required": [ 105 ],
+          "cost": 0,
+          "localizeId": "mirror_dungeon_4_buffs_title_7",
+          "summaryDescId": "md4_buffs_summaryDesc_106",
+          "effects": [
+            {
+              "type": "ADDITIONAL_START_EGO_GIFT_SELECT",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_7"
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "position": {
+              "y": -435
+            },
+            "isNotLinkedToParentBuff": true
+          }
+        },
+        {
+          "id": 111,
+
+          "required": [ 100 ],
+          "cost": 250,
+          "localizeId": "mirror_dungeon_4_buffs_title_8",
+          "summaryDescId": "md4_buffs_summaryDesc_111",
+          "effects": [
+            {
+              "type": "ADDITIONAL_SHOP_HIGH_TIER_EGO_GIFT_CHANCE",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_8"
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "position": {
+              "x": 105,
+              "y": 0
+            },
+            "isNotLinkedToParentBuff": true
+          }
+        },
+        {
+          "id": 1111,
+
+          "required": [ 111 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_8",
+          "summaryDescId": "md4_buffs_summaryDesc_1111",
+          "effects": [
+            {
+              "type": "ADDITIONAL_SHOP_HIGH_TIER_EGO_GIFT_CHANCE_S1",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_8"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 240
+          }
+        },
+        {
+          "id": 1112,
+
+          "required": [ 111 ],
+          "cost": 375,
+          "localizeId": "mirror_dungeon_4_buffs_title_8",
+          "summaryDescId": "md4_buffs_summaryDesc_1112",
+          "effects": [
+            {
+              "type": "ADDITIONAL_SHOP_HIGH_TIER_EGO_GIFT_CHANCE_S2",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_8"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 120
+          }
+        },
+        {
+          "id": 1113,
+
+          "required": [ 111 ],
+          "cost": 450,
+          "localizeId": "mirror_dungeon_4_buffs_title_8",
+          "summaryDescId": "md4_buffs_summaryDesc_1113",
+          "effects": [
+            {
+              "type": "ADDITIONAL_SHOP_HIGH_TIER_EGO_GIFT_CHANCE_S3",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_8"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 0
+          }
+        },
+        {
+          "id": 112,
+
+          "required": [ 111 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_9",
+          "summaryDescId": "md4_buffs_summaryDesc_112",
+          "effects": [
+            {
+              "type": "ADDITIONAL_SHOP_EGO_GIFT_SLOT",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_9"
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "position": {
+              "x": 310
+            },
+            "isNotLinkedToParentBuff": true
+          }
+        },
+        {
+          "id": 1121,
+
+          "required": [ 112 ],
+          "cost": 400,
+          "localizeId": "mirror_dungeon_4_buffs_title_9",
+          "summaryDescId": "md4_buffs_summaryDesc_1121",
+          "effects": [
+            {
+              "type": "REDUCE_SHOP_REFRESH_EGO_GIFT_COST_RATE",
+              "value": 20,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_9"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 45
+          }
+        },
+        {
+          "id": 1122,
+
+          "required": [ 112 ],
+          "cost": 400,
+          "localizeId": "mirror_dungeon_4_buffs_title_9",
+          "summaryDescId": "md4_buffs_summaryDesc_1122",
+          "effects": [
+            {
+              "type": "REDUCE_SHOP_REFRESH_EGO_GIFT_COST_RATE_NESTING",
+              "value": 20,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_9"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 315
+          }
+        },
+        {
+          "id": 113,
+
+          "required": [ 112 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_10",
+          "summaryDescId": "md4_buffs_summaryDesc_113",
+          "effects": [
+            {
+              "type": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_ALL1",
+              "value": 5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_10"
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "position": {
+              "x": 448
+            },
+            "isNotLinkedToParentBuff": true
+          }
+        },
+        {
+          "id": 1131,
+
+          "required": [ 113 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_10",
+          "summaryDescId": "md4_buffs_summaryDesc_1131",
+          "effects": [
+            {
+              "type": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_TIER1",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_10"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 225
+          }
+        },
+        {
+          "id": 1132,
+
+          "required": [ 113 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_10",
+          "summaryDescId": "md4_buffs_summaryDesc_1132",
+          "effects": [
+            {
+              "type": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_TIER2",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_10"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 135
+          }
+        },
+        {
+          "id": 1133,
+
+          "required": [ 113 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_10",
+          "summaryDescId": "md4_buffs_summaryDesc_1133",
+          "effects": [
+            {
+              "type": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_TIER3",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_10"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 45
+          }
+        },
+        {
+          "id": 1134,
+
+          "required": [ 113 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_10",
+          "summaryDescId": "md4_buffs_summaryDesc_1134",
+          "effects": [
+            {
+              "type": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_TIER4",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_10"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 315
+          }
+        },
+        {
+          "id": 114,
+
+          "required": [ 113 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_11",
+          "summaryDescId": "md4_buffs_summaryDesc_114",
+          "effects": [
+            {
+              "type": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_ALL2",
+              "value": 5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_11"
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "position": {
+              "x": 94,
+              "y": -302
+            },
+            "isNotLinkedToParentBuff": true
+          }
+        },
+        {
+          "id": 1141,
+
+          "required": [ 114 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_11",
+          "summaryDescId": "md4_buffs_summaryDesc_1141",
+          "effects": [
+            {
+              "type": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_COMBUSTION",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_11"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 205
+          }
+        },
+        {
+          "id": 1142,
+
+          "required": [ 114 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_11",
+          "summaryDescId": "md4_buffs_summaryDesc_1142",
+          "effects": [
+            {
+              "type": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_LACERATION",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_11"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 154
+          }
+        },
+        {
+          "id": 1143,
+
+          "required": [ 114 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_11",
+          "summaryDescId": "md4_buffs_summaryDesc_1143",
+          "effects": [
+            {
+              "type": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_VIBRATION",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_11"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 103
+          }
+        },
+        {
+          "id": 1144,
+
+          "required": [ 114 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_11",
+          "summaryDescId": "md4_buffs_summaryDesc_1144",
+          "effects": [
+            {
+              "type": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_BURST",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_11"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 51
+          }
+        },
+        {
+          "id": 1145,
+
+          "required": [ 114 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_11",
+          "summaryDescId": "md4_buffs_summaryDesc_1145",
+          "effects": [
+            {
+              "type": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_SINKING",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_11"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 0
+          }
+        },
+        {
+          "id": 1146,
+
+          "required": [ 114 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_11",
+          "summaryDescId": "md4_buffs_summaryDesc_1146",
+          "effects": [
+            {
+              "type": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_BREATH",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_11"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 308
+          }
+        },
+        {
+          "id": 1147,
+
+          "required": [ 114 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_11",
+          "summaryDescId": "md4_buffs_summaryDesc_1147",
+          "effects": [
+            {
+              "type": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_CHARGE",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_11"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 257
+          }
+        },
+        {
+          "id": 115,
+
+          "required": [ 114 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_12",
+          "summaryDescId": "md4_buffs_summaryDesc_115",
+          "effects": [
+            {
+              "type": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_ALL3",
+              "value": 5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_12"
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "position": {
+              "x": -392,
+              "y": -316
+            },
+            "isNotLinkedToParentBuff": true
+          }
+        },
+        {
+          "id": 1151,
+
+          "required": [ 115 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_12",
+          "summaryDescId": "md4_buffs_summaryDesc_1151",
+          "effects": [
+            {
+              "type": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_SLASH",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_12"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 225
+          }
+        },
+        {
+          "id": 1152,
+
+          "required": [ 115 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_12",
+          "summaryDescId": "md4_buffs_summaryDesc_1152",
+          "effects": [
+            {
+              "type": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_PENETRATE",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_12"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 135
+          }
+        },
+        {
+          "id": 1153,
+
+          "required": [ 115 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_12",
+          "summaryDescId": "md4_buffs_summaryDesc_1153",
+          "effects": [
+            {
+              "type": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_HIT",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_12"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 45
+          }
+        },
+        {
+          "id": 1154,
+
+          "required": [ 115 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_12",
+          "summaryDescId": "md4_buffs_summaryDesc_1154",
+          "effects": [
+            {
+              "type": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_NONE",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_12"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 315
+          }
+        },
+
+        {
+          "id": 116,
+
+          "required": [ 115 ],
+          "cost": 400,
+          "localizeId": "mirror_dungeon_4_buffs_title_13",
+          "summaryDescId": "md4_buffs_summaryDesc_116",
+          "effects": [
+            {
+              "type": "ADDITIONAL_SHOP_EGO_GIFT_SLOT_NESTING",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_13"
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "position": {
+              "x": -803,
+              "y": 11
+            },
+            "isNotLinkedToParentBuff": true
+          }
+        },
+        {
+          "id": 1161,
+
+          "required": [ 116 ],
+          "cost": 200,
+          "localizeId": "mirror_dungeon_4_buffs_title_13",
+          "summaryDescId": "md4_buffs_summaryDesc_1161",
+          "effects": [
+            {
+              "type": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_TIER1",
+              "value": 20,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_13"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 240
+          }
+        },
+        {
+          "id": 1162,
+
+          "required": [ 116 ],
+          "cost": 200,
+          "localizeId": "mirror_dungeon_4_buffs_title_13",
+          "summaryDescId": "md4_buffs_summaryDesc_1162",
+          "effects": [
+            {
+              "type": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_TIER2",
+              "value": 20,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_13"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 180
+          }
+        },
+        {
+          "id": 1163,
+
+          "required": [ 116 ],
+          "cost": 200,
+          "localizeId": "mirror_dungeon_4_buffs_title_13",
+          "summaryDescId": "md4_buffs_summaryDesc_1163",
+          "effects": [
+            {
+              "type": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_TIER3",
+              "value": 20,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_13"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 120
+          }
+        },
+        {
+          "id": 1164,
+
+          "required": [ 116 ],
+          "cost": 200,
+          "localizeId": "mirror_dungeon_4_buffs_title_13",
+          "summaryDescId": "md4_buffs_summaryDesc_1164",
+          "effects": [
+            {
+              "type": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_TIER4MORE",
+              "value": 20,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_13"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 60
+          }
+        },
+        {
+          "id": 1165,
+
+          "required": [ 116 ],
+          "cost": 400,
+          "localizeId": "mirror_dungeon_4_buffs_title_13",
+          "summaryDescId": "md4_buffs_summaryDesc_1165",
+          "effects": [
+            {
+              "type": "REDUCE_SHOP_UPGRADE_SKILL_COST_RATE",
+              "value": 20,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_13"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 0
+          }
+        },
+        {
+          "id": 1166,
+
+          "required": [ 116 ],
+          "cost": 400,
+          "localizeId": "mirror_dungeon_4_buffs_title_13",
+          "summaryDescId": "md4_buffs_summaryDesc_1166",
+          "effects": [
+            {
+              "type": "REDUCE_SHOP_UPGRADE_SKILL_COST_RATE_NESTING",
+              "value": 20,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_13"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 300
+          }
+        },
+        {
+          "id": 121,
+
+          "required": [ 100 ],
+          "cost": 250,
+          "localizeId": "mirror_dungeon_4_buffs_title_14",
+          "summaryDescId": "md4_buffs_summaryDesc_121",
+          "effects": [
+            {
+              "type": "REDUCE_UPGRADE_EGO_GIFT_COST_ALL1",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_14"
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "position": {
+              "y": -57
+            },
+            "isNotLinkedToParentBuff": true
+          }
+        },
+        {
+          "id": 1211,
+
+          "required": [ 121 ],
+          "cost": 250,
+          "localizeId": "mirror_dungeon_4_buffs_title_14",
+          "summaryDescId": "md4_buffs_summaryDesc_1211",
+          "effects": [
+            {
+              "type": "REDUCE_UPGRADE_EGO_GIFT_COST_TIER1",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_14"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 225
+          }
+        },
+        {
+          "id": 1212,
+
+          "required": [ 121 ],
+          "cost": 250,
+          "localizeId": "mirror_dungeon_4_buffs_title_14",
+          "summaryDescId": "md4_buffs_summaryDesc_1212",
+          "effects": [
+            {
+              "type": "REDUCE_UPGRADE_EGO_GIFT_COST_TIER2",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_14"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 135
+          }
+        },
+        {
+          "id": 1213,
+
+          "required": [ 121 ],
+          "cost": 250,
+          "localizeId": "mirror_dungeon_4_buffs_title_14",
+          "summaryDescId": "md4_buffs_summaryDesc_1213",
+          "effects": [
+            {
+              "type": "REDUCE_UPGRADE_EGO_GIFT_COST_TIER3",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_14"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 45
+          }
+        },
+        {
+          "id": 1214,
+
+          "required": [ 121 ],
+          "cost": 250,
+          "localizeId": "mirror_dungeon_4_buffs_title_14",
+          "summaryDescId": "md4_buffs_summaryDesc_1214",
+          "effects": [
+            {
+              "type": "REDUCE_UPGRADE_EGO_GIFT_COST_TIER4MORE",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_14"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 315
+          }
+        },
+        {
+          "id": 122,
+
+          "required": [ 121 ],
+          "cost": 250,
+          "localizeId": "mirror_dungeon_4_buffs_title_15",
+          "summaryDescId": "md4_buffs_summaryDesc_122",
+          "effects": [
+            {
+              "type": "FREE_SHOP_REFRESH_EGO_GIFT_COST_RATE",
+              "value": 20,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_15"
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "position": {
+              "y": -170
+            },
+            "isNotLinkedToParentBuff": true
+          }
+        },
+        {
+          "id": 123,
+
+          "required": [ 122 ],
+          "cost": 250,
+          "localizeId": "mirror_dungeon_4_buffs_title_16",
+          "summaryDescId": "md4_buffs_summaryDesc_123",
+          "effects": [
+            {
+              "type": "REDUCE_UPGRADE_EGO_GIFT_COST_ALL2",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_16"
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "position": {
+              "y": -255
+            },
+            "isNotLinkedToParentBuff": true
+          }
+        },
+        {
+          "id": 1231,
+
+          "required": [ 123 ],
+          "cost": 250,
+          "localizeId": "mirror_dungeon_4_buffs_title_16",
+          "summaryDescId": "md4_buffs_summaryDesc_1231",
+          "effects": [
+            {
+              "type": "REDUCE_UPGRADE_EGO_GIFT_COST_COMBUSTION",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_16"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 206
+          }
+        },
+        {
+          "id": 1232,
+
+          "required": [ 123 ],
+          "cost": 250,
+          "localizeId": "mirror_dungeon_4_buffs_title_16",
+          "summaryDescId": "md4_buffs_summaryDesc_1232",
+          "effects": [
+            {
+              "type": "REDUCE_UPGRADE_EGO_GIFT_COST_LACERATION",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_16"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 154
+          }
+        },
+        {
+          "id": 1233,
+
+          "required": [ 123 ],
+          "cost": 250,
+          "localizeId": "mirror_dungeon_4_buffs_title_16",
+          "summaryDescId": "md4_buffs_summaryDesc_1233",
+          "effects": [
+            {
+              "type": "REDUCE_UPGRADE_EGO_GIFT_COST_VIBRATION",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_16"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 103
+          }
+        },
+        {
+          "id": 1234,
+
+          "required": [ 123 ],
+          "cost": 250,
+          "localizeId": "mirror_dungeon_4_buffs_title_16",
+          "summaryDescId": "md4_buffs_summaryDesc_1234",
+          "effects": [
+            {
+              "type": "REDUCE_UPGRADE_EGO_GIFT_COST_BURST",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_16"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 51
+          }
+        },
+        {
+          "id": 1235,
+
+          "required": [ 123 ],
+          "cost": 250,
+          "localizeId": "mirror_dungeon_4_buffs_title_16",
+          "summaryDescId": "md4_buffs_summaryDesc_1235",
+          "effects": [
+            {
+              "type": "REDUCE_UPGRADE_EGO_GIFT_COST_SINKING",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_16"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 0
+          }
+        },
+        {
+          "id": 1236,
+
+          "required": [ 123 ],
+          "cost": 250,
+          "localizeId": "mirror_dungeon_4_buffs_title_16",
+          "summaryDescId": "md4_buffs_summaryDesc_1236",
+          "effects": [
+            {
+              "type": "REDUCE_UPGRADE_EGO_GIFT_COST_BREATH",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_16"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 308
+          }
+        },
+        {
+          "id": 1237,
+
+          "required": [ 123 ],
+          "cost": 250,
+          "localizeId": "mirror_dungeon_4_buffs_title_16",
+          "summaryDescId": "md4_buffs_summaryDesc_1237",
+          "effects": [
+            {
+              "type": "REDUCE_UPGRADE_EGO_GIFT_COST_CHARGE",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_16"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 257
+          }
+        },
+        {
+          "id": 124,
+
+          "required": [ 123 ],
+          "cost": 250,
+          "localizeId": "mirror_dungeon_4_buffs_title_17",
+          "summaryDescId": "md4_buffs_summaryDesc_124",
+          "effects": [
+            {
+              "type": "FREE_UPGRADE_EGO_GIFT_COST",
+              "value": 20,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_17"
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "position": {
+              "x": -547,
+              "y": -55
+            },
+            "isNotLinkedToParentBuff": true
+          }
+        },
+        {
+          "id": 125,
+
+          "required": [ 124 ],
+          "cost": 250,
+          "localizeId": "mirror_dungeon_4_buffs_title_18",
+          "summaryDescId": "md4_buffs_summaryDesc_125",
+          "effects": [
+            {
+              "type": "REDUCE_UPGRADE_EGO_GIFT_COST_ALL3",
+              "value": 10,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_18"
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "position": {
+              "x": -518,
+              "y": 267
+            },
+            "isNotLinkedToParentBuff": true
+          }
+        },
+        {
+          "id": 1251,
+
+          "required": [ 125 ],
+          "cost": 250,
+          "localizeId": "mirror_dungeon_4_buffs_title_18",
+          "summaryDescId": "md4_buffs_summaryDesc_1251",
+          "effects": [
+            {
+              "type": "REDUCE_UPGRADE_EGO_GIFT_COST_SLASH",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_18"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 180
+          }
+        },
+        {
+          "id": 1252,
+
+          "required": [ 125 ],
+          "cost": 250,
+          "localizeId": "mirror_dungeon_4_buffs_title_18",
+          "summaryDescId": "md4_buffs_summaryDesc_1252",
+          "effects": [
+            {
+              "type": "REDUCE_UPGRADE_EGO_GIFT_COST_PENETRATE",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_18"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 90
+          }
+        },
+        {
+          "id": 1253,
+
+          "required": [ 125 ],
+          "cost": 250,
+          "localizeId": "mirror_dungeon_4_buffs_title_18",
+          "summaryDescId": "md4_buffs_summaryDesc_1253",
+          "effects": [
+            {
+              "type": "REDUCE_UPGRADE_EGO_GIFT_COST_HIT",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_18"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 0
+          }
+        },
+        {
+          "id": 1254,
+
+          "required": [ 125 ],
+          "cost": 250,
+          "localizeId": "mirror_dungeon_4_buffs_title_18",
+          "summaryDescId": "md4_buffs_summaryDesc_1254",
+          "effects": [
+            {
+              "type": "REDUCE_UPGRADE_EGO_GIFT_COST_NONE",
+              "value": 7.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_18"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "subNodeAngle": 270
+          }
+        },
+        {
+          "id": 126,
+
+          "required": [ 125 ],
+          "cost": 250,
+          "localizeId": "mirror_dungeon_4_buffs_title_19",
+          "summaryDescId": "md4_buffs_summaryDesc_126",
+          "effects": [
+            {
+              "type": "ADDITIONAL_BATTLE_WIN_COST_RATE",
+              "value": 10,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_19"
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "position": {
+              "x": 10,
+              "y": 435
+            },
+            "isNotLinkedToParentBuff": true
+          }
+        },
+        {
+          "id": 1261,
+
+          "required": [ 126 ],
+          "cost": 250,
+          "localizeId": "mirror_dungeon_4_buffs_title_19",
+          "summaryDescId": "md4_buffs_summaryDesc_1261",
+          "effects": [
+            {
+              "type": "ADDITIONAL_BATTLE_WIN_COST_RATE_NORMAL",
+              "value": 10,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_19"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 225
+          }
+        },
+        {
+          "id": 1262,
+
+          "required": [ 126 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_19",
+          "summaryDescId": "md4_buffs_summaryDesc_1262",
+          "effects": [
+            {
+              "type": "ADDITIONAL_BATTLE_WIN_COST_RATE_ABNORMALITY",
+              "value": 10,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_19"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 135
+          }
+        },
+        {
+          "id": 1263,
+
+          "required": [ 126 ],
+          "cost": 350,
+          "localizeId": "mirror_dungeon_4_buffs_title_19",
+          "summaryDescId": "md4_buffs_summaryDesc_1263",
+          "effects": [
+            {
+              "type": "ADDITIONAL_BATTLE_WIN_COST_RATE_HARD",
+              "value": 10,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_19"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 45
+          }
+        },
+        {
+          "id": 1264,
+
+          "required": [ 126 ],
+          "cost": 450,
+          "localizeId": "mirror_dungeon_4_buffs_title_19",
+          "summaryDescId": "md4_buffs_summaryDesc_1264",
+          "effects": [
+            {
+              "type": "ADDITIONAL_BATTLE_WIN_COST_RATE_BOSS",
+              "value": 10,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_19"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 315
+          }
+        },
+        {
+          "id": 131,
+
+          "required": [ 100 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_19_1",
+          "summaryDescId": "md4_buffs_summaryDesc_131",
+          "effects": [
+            {
+              "type": "ADDITIONAL_FLOOR_THEME_NUMBER",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_19_1"
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "position": {
+              "x": -106
+            },
+            "isNotLinkedToParentBuff": true
+          }
+        },
+        {
+          "id": 132,
+          "required": [ 131 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_20",
+          "summaryDescId": "md4_buffs_summaryDesc_132",
+          "effects": [
+            {
+              "type": "AttackDamageMultiply",
+              "value": 2.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_20"
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "position": {
+              "x": -314
+            },
+            "isNotLinkedToParentBuff": true
+          }
+        },
+        {
+          "id": 1321,
+          "required": [ 132 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_20",
+          "summaryDescId": "md4_buffs_summaryDesc_1321",
+          "effects": [
+            {
+              "type": "AttackDamageMultiply",
+              "value": 2.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_20"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 252
+          }
+        },
+        {
+          "id": 1322,
+          "required": [ 132 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_20",
+          "summaryDescId": "md4_buffs_summaryDesc_1322",
+          "effects": [
+            {
+              "type": "AttackDamageMultiply",
+              "value": 2.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_20"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 180
+          }
+        },
+        {
+          "id": 1323,
+          "required": [ 132 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_20",
+          "summaryDescId": "md4_buffs_summaryDesc_1323",
+          "effects": [
+            {
+              "type": "AttackDamageMultiply",
+              "value": 2.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_20"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 108
+          }
+        },
+        {
+          "id": 1324,
+          "required": [ 132 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_20",
+          "summaryDescId": "md4_buffs_summaryDesc_1324",
+          "effects": [
+            {
+              "type": "AttackLevelAdder",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_20"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 36
+          }
+        },
+        {
+          "id": 1325,
+          "required": [ 132 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_20",
+          "summaryDescId": "md4_buffs_summaryDesc_1325",
+          "effects": [
+            {
+              "type": "AttackLevelAdder",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_20"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 324
+          }
+        },
+        {
+          "id": 133,
+
+          "required": [ 132 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_21",
+          "summaryDescId": "md4_buffs_summaryDesc_133",
+          "effects": [
+            {
+              "type": "ADDITIONAL_BATTLE_REWARD_CASE_NUMBER",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_21"
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "position": {
+              "x": -464
+            },
+            "isNotLinkedToParentBuff": true
+          }
+        },
+        {
+          "id": 134,
+          "required": [ 133 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_22",
+          "summaryDescId": "md4_buffs_summaryDesc_134",
+          "effects": [
+            {
+              "type": "TakeAttackDamageMultipliedReducer",
+              "value": 2.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_22"
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "position": {
+              "x": -262,
+              "y": 256
+            },
+            "isNotLinkedToParentBuff": true
+          }
+        },
+        {
+          "id": 1341,
+          "required": [ 134 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_22",
+          "summaryDescId": "md4_buffs_summaryDesc_1341",
+          "effects": [
+            {
+              "type": "TakeAttackDamageMultipliedReducer",
+              "value": 2.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_22"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 240
+          }
+        },
+        {
+          "id": 1342,
+          "required": [ 134 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_22",
+          "summaryDescId": "md4_buffs_summaryDesc_1342",
+          "effects": [
+            {
+              "type": "TakeAttackDamageMultipliedReducer",
+              "value": 2.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_22"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 180
+          }
+        },
+        {
+          "id": 1343,
+          "required": [ 134 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_22",
+          "summaryDescId": "md4_buffs_summaryDesc_1343",
+          "effects": [
+            {
+              "type": "TakeAttackDamageMultipliedReducer",
+              "value": 2.5,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_22"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 120
+          }
+        },
+        {
+          "id": 1344,
+          "required": [ 134 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_22",
+          "summaryDescId": "md4_buffs_summaryDesc_1344",
+          "effects": [
+            {
+              "type": "DefenseLevelAdder",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_22"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 60
+          }
+        },
+        {
+          "id": 1345,
+          "required": [ 134 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_22",
+          "summaryDescId": "md4_buffs_summaryDesc_1345",
+          "effects": [
+            {
+              "type": "DefenseLevelAdder",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_22"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 0
+          }
+        },
+        {
+          "id": 1346,
+          "required": [ 134 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_4_buffs_title_22",
+          "summaryDescId": "md4_buffs_summaryDesc_1346",
+          "effects": [
+            {
+              "type": "DefenseLevelAdder",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_22"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 300
+          }
+        },
+        {
+          "id": 135,
+
+          "required": [ 134 ],
+          "cost": 400,
+          "localizeId": "mirror_dungeon_4_buffs_title_23",
+          "summaryDescId": "md4_buffs_summaryDesc_135",
+          "effects": [
+            {
+              "type": "ADDITIONAL_FLOOR_THEME_NUMBER_NESTING",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_23"
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "position": {
+              "x": 428,
+              "y": 314
+            },
+            "isNotLinkedToParentBuff": true
+          }
+        },
+        {
+          "id": 136,
+          "required": [ 135 ],
+          "cost": 400,
+          "localizeId": "mirror_dungeon_4_buffs_title_24",
+          "summaryDescId": "md4_buffs_summaryDesc_136",
+          "effects": [
+            {
+              "type": "ADDITIONAL_ALLTYPE_EGOSTOCK",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_24"
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "position": {
+              "x": 789
+            },
+            "isNotLinkedToParentBuff": true
+          }
+        },
+        {
+          "id": 1361,
+          "required": [ 136 ],
+          "cost": 400,
+          "localizeId": "mirror_dungeon_4_buffs_title_24",
+          "summaryDescId": "md4_buffs_summaryDesc_1361",
+          "effects": [
+            {
+              "type": "ADDITIONAL_ALLTYPE_EGOSTOCK_NESTING",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_24"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 150
+          }
+        },
+        {
+          "id": 1362,
+          "required": [ 136 ],
+          "cost": 400,
+          "localizeId": "mirror_dungeon_4_buffs_title_24",
+          "summaryDescId": "md4_buffs_summaryDesc_1362",
+          "effects": [
+            {
+              "type": "MaxSpeedUpAdder",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_24"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 30
+          }
+        },
+        {
+          "id": 1363,
+          "required": [ 136 ],
+          "cost": 400,
+          "localizeId": "mirror_dungeon_4_buffs_title_24",
+          "summaryDescId": "md4_buffs_summaryDesc_1363",
+          "effects": [
+            {
+              "type": "MaxSpeedUpAdder",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_24"
+            }
+          ],
+          "nodeType": "Sub",
+          "uiConfig": {
+            "isUseSpecificSubNodeAngle": true,
+            "subNodeAngle": 270
+          }
+        },
+        {
+          "id": 141,
+
+          "required": [],
+          "cost": 100,
+          "localizeId": "mirror_dungeon_4_buffs_title_25",
+          "summaryDescId": "md4_buffs_summaryDesc_141",
+          "effects": [
+            {
+              "type": "ADDITIONAL_START_EGO_GIFT_SELECT",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_25"
+            }
+          ],
+          "nodeType": "Special"
+        },
+        {
+          "id": 142,
+
+          "required": [],
+          "cost": 250,
+          "localizeId": "mirror_dungeon_4_buffs_title_26",
+          "summaryDescId": "md4_buffs_summaryDesc_142",
+          "effects": [
+            {
+              "type": "ADDITIONAL_START_COST",
+              "value": 250,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_26"
+            }
+          ],
+          "nodeType": "Special"
+        },
+        {
+          "id": 143,
+          "required": [],
+          "cost": 500,
+          "localizeId": "mirror_dungeon_4_buffs_title_27",
+          "summaryDescId": "md4_buffs_summaryDesc_14",
+          "effects": [
+            {
+              "type": "ACQUIRE_4_TIER_START_EGO_GIFT",
+              "value": 1,
+              "isTypoExist": false,
+              "typoName": "mirror_dungeon_4_buffs_title_27"
+            }
+          ],
+          "nodeType": "Special"
+        }
+
+      ]
+    }
+  ]
+}

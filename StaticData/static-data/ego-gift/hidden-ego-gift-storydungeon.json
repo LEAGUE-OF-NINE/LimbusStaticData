@@ -1,0 +1,21 @@
+{
+  "list": [
+    {
+      "id": 991008,
+      "useLimit": 1
+    },
+    {
+      "id": 991009,
+      "useLimit": 1
+    },
+    {
+      "id": 991010,
+      "useLimit": 2
+    },
+    {
+      "id": 991011,
+      "type": "CHOICE_SELECTED_CHARACTER",
+      "useLimit": 1
+    }
+  ]
+}

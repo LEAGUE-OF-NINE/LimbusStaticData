@@ -1,0 +1,35 @@
+{
+  "list": [
+    {
+      "id": "Bullet",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "destroyableOnZero": false,
+      "list": [
+
+      ],
+      "categoryKeywordList": [
+        "RESOURCE",
+        "BULLET"
+      ]
+    },
+    {
+      "id": "BulletLament",
+      "buffClass": "CountableBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "destroyableOnZero": false,
+      "destroyableOnZeroTurn": false,
+      "maxStack": 20,
+      "maxTurn": 20,
+      "list": [
+
+      ],
+      "categoryKeywordList": [
+        "RESOURCE",
+        "BULLET"
+      ]
+    }
+  ]
+}

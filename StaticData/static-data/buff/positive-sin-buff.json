@@ -1,0 +1,57 @@
+{
+  "list": [
+    {
+      "id": "Breath",
+      "buffClass": "SinBuff",
+      "attributeType": "INDIGO",
+      "buffType": "Positive",
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "Breath",
+          "value": 0.05
+        }
+      ],
+      "categoryKeywordList": [ "SIN", "BREATH" ]
+    },
+    {
+      "id": "Charge",
+      "buffClass": "SinBuff",
+      "attributeType": "VIOLET",
+      "buffType": "Positive",
+      "maxTurn": 20,
+      "canBeDespelled": true,
+      "destroyableOnZeroTurn": false,
+      "list": [
+        {
+          "ability": "LoseTurnOnRoundEnd",
+          "value": 1
+        }
+      ],
+      "categoryKeywordList": [ "SIN", "CHARGE" ]
+    },
+    {
+      "id": "VibrationDistribution",
+      "subIdList": [ "Vibration" ],
+      "buffClass": "SinBuff",
+      "attributeType": "AMBER",
+      "buffType": "Positive",
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "Vibration",
+          "value": 1
+        },
+        {
+          "ability": "LoseTurnOnRoundEnd",
+          "value": 1
+        },
+        {
+          "ability": "VibrationDistribution",
+          "value": 1
+        }
+      ],
+      "categoryKeywordList": [ "SIN", "VIBRATION" ]
+    }
+  ]
+}

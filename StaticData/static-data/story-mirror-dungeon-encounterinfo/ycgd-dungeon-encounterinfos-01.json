@@ -1,0 +1,62 @@
+{
+  "list": [
+    {
+      "dungeonId": 910701,
+      "encounters": [
+        {
+          "encounterType": "BATTLE",
+          "floorList": [
+            {
+              "floor": 1,
+              "rewardList": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "encounterType": "AB_BATTLE",
+          "floorList": [
+            {
+              "floor": 1,
+              "rewardList": [
+                {
+                  "type": "GetEgogift",
+                  "probability": 0.75,
+                  "showNumber": 1,
+                  "selectNumber": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "encounterType": "HARD_BATTLE",
+          "floorList": [
+            {
+              "floor": 1,
+              "rewardList": [
+                {
+                  "type": "GetEgogift",
+                  "probability": 1,
+                  "showNumber": 1,
+                  "selectNumber": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "encounterType": "BOSS",
+          "floorList": [
+            {
+              "floor": 1,
+              "rewardList": [
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

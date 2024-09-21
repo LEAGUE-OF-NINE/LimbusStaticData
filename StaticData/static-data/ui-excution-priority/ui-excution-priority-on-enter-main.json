@@ -1,0 +1,32 @@
+{
+  "list": [
+    {
+      "id": "NewDungeonUpdated",
+      "priority": 5
+    },
+    {
+      "id": "BattlePassOpened",
+      "priority": 3
+    },
+    {
+      "id": "SeasonOpenedOrClosed",
+      "priority": 2
+    },
+    {
+      "id": "Limbus1stAnniv0227",
+      "priority": 1
+    },
+    {
+      "id": "Limbus1stAnnivAttendance",
+      "priority": 4
+    },
+    {
+      "id": "PersonalityLevelLimitRelease",
+      "priority": 6
+    },
+    {
+      "id": "Membership_Remain_7days_Alarm",
+      "priority": 99
+    }
+  ]
+}

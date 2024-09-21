@@ -1,0 +1,95 @@
+{
+	"list": [
+		{
+			"id": 4,
+			"bannerInfo": {
+				"bannerSpr": "banner_vendingMachine4",
+				"priority": 14
+			},
+			"groups": [
+				{
+					"groupType": "GACHA",
+					"contents": [
+						{
+							"type": "PERSONALITY",
+							"id": 10408,
+							"price": 400
+						},
+						{
+							"type": "PERSONALITY",
+							"id": 10710,
+							"price": 400
+						},
+						{
+							"type": "PERSONALITY",
+							"id": 11108,
+							"price": 400
+						},
+						{
+							"type": "PERSONALITY",
+							"id": 11209,
+							"price": 400
+						},
+
+
+
+						{
+							"type": "PERSONALITY",
+							"id": 10209,
+							"price": 150
+						},
+						{
+							"type": "PERSONALITY",
+							"id": 10509,
+							"price": 150
+						},
+						{
+							"type": "PERSONALITY",
+							"id": 10809,
+							"price": 150
+						},
+
+
+
+						{
+							"type": "EGO",
+							"id": 20407,
+							"price": 400
+						}
+					]
+				},
+
+
+
+
+				{
+					"groupType": "EVENT",
+					"contents": [
+						{
+							"type": "PERSONALITY",
+							"id": 10609,
+							"price": 400
+						},
+						{
+							"type": "PERSONALITY",
+							"id": 10210,
+							"price": 400
+						},
+
+
+						{
+							"type": "EGO",
+							"id": 20206,
+							"price": 400
+						},
+						{
+							"type": "EGO",
+							"id": 21107,
+							"price": 400
+						}
+					]
+				}
+			]
+		}
+	]
+}

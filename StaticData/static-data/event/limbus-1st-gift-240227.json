@@ -1,0 +1,38 @@
+{
+	"list": [
+		{
+			"id": 9,
+
+			"startDate": "2024-02-26T15:00:00.000Z",
+			"startDateForUI": "2024-02-26T15:00:00.000Z",
+
+			"endDate": "2024-03-21T01:00:00.000Z",
+			"endDateForUI": "2024-03-21T01:00:00.000Z",
+
+			"gracePeriod": "2024-03-21T01:00:00.000Z",
+			"dailyLoginRewardItem": {
+				"type": "ITEM",
+				"id": 20014,
+				"num": 1
+			},
+			"eventRewardDatas": [
+				{
+					"rewardId": 1,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20014,
+						"num": 1
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id": 103,
+							"num": 1
+						}
+					],
+					"limitCount": 1
+				}
+			]
+		}
+	]
+}

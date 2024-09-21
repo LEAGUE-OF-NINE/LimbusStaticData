@@ -1,0 +1,155 @@
+{
+  "list": [
+    {
+        "characterId": 3,
+        "storyList":
+        [
+            {
+                "personalityId": 10301,
+                "releaseDay": 20221223,
+                "cv_Id": "",
+                "personalityStoryList":
+                [
+                ],
+                "profileId": "",
+                "analysisId": ""
+            },
+            {
+                "personalityId": 10302,
+                "releaseDay": 20221223,
+                "cv_Id": "",
+                "personalityStoryList":
+                [
+                  {
+                    "storyId": "P10302",
+                    "lockCondition": [
+                      {"condition": "gacksung"}
+                    ],
+                    "order": 1,
+                    "reward":{"type":"ITEM","id":2,"num":40}
+                  }
+                ],
+                "profileId": "wcorp_donquixote_profile",
+                "analysisId": "wcorp_donquixote_analysis"
+            },
+            {
+                "personalityId": 10303,
+                "releaseDay": 20221223,
+                "cv_Id": "",
+                "personalityStoryList": [
+                  {
+                    "storyId": "P10303",
+                    "lockCondition": [
+                      {"condition": "gacksung"}
+                    ],
+                    "order": 3,
+                    "reward":{"type":"ITEM","id":2,"num":40}
+                  }
+                ],
+                "profileId": "shi_donquixote_profile",
+                "analysisId": "shi_donquixote_analysis"
+            },
+            {
+              "personalityId": 10304,
+              "releaseDay": 20230504,
+              "cv_Id": "",
+              "personalityStoryList": [
+                {
+                  "storyId": "P10304",
+                  "lockCondition": [
+                    {"condition": "gacksung"}
+                  ],
+                  "order": 3,
+                  "reward":{"type":"ITEM","id":2,"num":40}
+                }
+              ],
+              "profileId": "ncorp_donquixote_profile",
+              "analysisId": "ncorp_donquixote_analysis"
+          },
+          {
+            "personalityId": 10305,
+            "releaseDay": 20230720,
+            "cv_Id": "",
+            "personalityStoryList": [
+              {
+                "storyId": "P10305",
+                "lockCondition": [
+                  {"condition": "gacksung"}
+                ],
+                "order": 1,
+                "reward":{"type":"ITEM","id":2,"num":40}
+              }
+            ],
+            "profileId": "cinq_donquixote_profile",
+            "analysisId": "cinq_donquixote_analysis"
+          },
+          {
+            "personalityId": 10306,
+            "releaseDay": 20231123,
+            "cv_Id": "",
+            "personalityStoryList": [
+              {
+                "storyId": "P10306",
+                "lockCondition": [
+                  {"condition": "gacksung"}
+                ],
+                "order": 2,
+                "reward":{"type":"ITEM","id":2,"num":40}
+              }
+            ],
+            "profileId": "middlefinger_donquixote_profile",
+            "analysisId": "middlefinger_donquixote_analysis"
+          },
+          {
+            "personalityId": 10307,
+            "releaseDay": 20240111,
+            "cv_Id": "",
+            "personalityStoryList": [
+              {
+                "storyId": "P10307",
+                "lockCondition": [
+                  {"condition": "gacksung"}
+                ],
+                "order": 3,
+                "reward":{"type":"ITEM","id":2,"num":40}
+              }
+            ],
+            "profileId": "lego_donquixote_profile",
+            "analysisId": "lego_donquixote_analysis"
+          },
+          {
+            "personalityId": 10308,
+            "releaseDay": 20240222,
+            "cv_Id": "",
+            "personalityStoryList": [
+              {
+                "storyId": "P10308",
+                "lockCondition": [
+                  {"condition": "gacksung"}
+                ],
+                "order": 10,
+                "reward":{"type":"ITEM","id":2,"num":40}
+              }
+            ],
+            "profileId": "blade_donquixote_profile",
+            "analysisId": "blade_donquixote_analysis"
+          },
+          {
+            "personalityId": 10309,
+            "releaseDay": 20240627,
+            "cv_Id": "",
+            "personalityStoryList": [
+              {
+                "storyId": "P10309",
+                "lockCondition": [
+                  {"condition": "gacksung"}
+                ],
+                "order": 1,
+                "reward":{"type":"ITEM","id":2,"num":40}
+              }
+            ]
+          }
+        ]
+    }
+  ]
+}

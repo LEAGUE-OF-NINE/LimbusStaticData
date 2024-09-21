@@ -1,0 +1,193 @@
+{
+  "list": [
+    {
+      "id": 10001,
+      "type": "KILL_ENEMY_ONCE_BATTLE",
+      "valueType": "PEAK",
+      "targetList1": [ 10550, 10552 ],
+      "targetList2": [ 0 ],
+      "targetList3": [],
+      "startDate": "2023-12-26T00:00:00.000Z",
+      "endDate": "2024-01-25T01:00:00.000Z"
+    },
+    {
+      "id": 10002,
+      "type": "KILL_ENEMY_ONCE_BATTLE",
+      "valueType": "PEAK",
+      "targetList1": [ 10550, 10552 ],
+      "targetList2": [ 8149, 90108 ],
+      "targetList3": [],
+      "startDate": "2023-12-26T00:00:00.000Z",
+      "endDate": "2024-01-25T01:00:00.000Z"
+    },
+    {
+      "id": 10003,
+      "type": "KILL_ENEMY_ONCE_BATTLE",
+      "valueType": "PEAK",
+      "targetList1": [ 10550, 10552 ],
+      "targetList2": [ 8150, 90109 ],
+      "targetList3": [],
+      "startDate": "2023-12-26T00:00:00.000Z",
+      "endDate": "2024-01-25T01:00:00.000Z"
+    },
+    {
+      "id": 10004,
+      "type": "CLEAR_ALIVE_ALL",
+      "valueType": "ACCUMULATED",
+      "targetList1": [ 10550, 10552 ],
+      "targetList2": [ 0 ],
+      "targetList3": [ 0 ],
+      "startDate": "2023-12-26T00:00:00.000Z",
+      "endDate": "2024-01-25T01:00:00.000Z"
+    },
+    {
+      "id": 10005,
+      "type": "CLEAR_EQUANNIMITY_ALL",
+      "valueType": "ACCUMULATED",
+      "targetList1": [ 10550, 10552 ],
+      "targetList2": [ 0 ],
+      "targetList3": [ 0 ],
+      "startDate": "2023-12-26T00:00:00.000Z",
+      "endDate": "2024-01-25T01:00:00.000Z"
+    },
+    {
+      "id": 10006,
+      "type": "KILL_ENEMY_ONCE_ATTACK_SKILL",
+      "valueType": "PEAK",
+      "targetList1": [ 10550, 10552 ],
+      "targetList2": [ 0 ],
+      "targetList3": [ 0 ],
+      "startDate": "2023-12-26T00:00:00.000Z",
+      "endDate": "2024-01-25T01:00:00.000Z"
+    },
+    {
+      "id": 10007,
+      "type": "KILL_ENEMY_COUNT_BY_ATTACK_SKILL",
+      "valueType": "PEAK",
+      "targetList1": [ 10550, 10552 ],
+      "targetList2": [ 0 ],
+      "targetList3": [ 1 ],
+      "startDate": "2023-12-26T00:00:00.000Z",
+      "endDate": "2024-01-25T01:00:00.000Z"
+    },
+    {
+      "id": 10008,
+      "type": "TL_DAMAGE_ATTACK_SKILL",
+      "valueType": "ACCUMULATED",
+      "targetList1": [ 10550, 10552 ],
+      "targetList2": [ 10 ],
+      "targetList3": [ 1 ],
+      "startDate": "2023-12-26T00:00:00.000Z",
+      "endDate": "2024-01-25T01:00:00.000Z"
+    },
+    {
+      "id": 20001,
+      "type": "KILL_ENEMY_ONCE_BATTLE",
+      "valueType": "PEAK",
+      "targetList1": [ 10551, 10553 ],
+      "targetList2": [ 0 ],
+      "targetList3": [],
+      "startDate": "2023-12-26T00:00:00.000Z",
+      "endDate": "2024-01-25T01:00:00.000Z"
+    },
+    {
+      "id": 20002,
+      "type": "KILL_ENEMY_ONCE_BATTLE",
+      "valueType": "PEAK",
+      "targetList1": [ 10551, 10553 ],
+      "targetList2": [ 8149, 90108 ],
+      "targetList3": [],
+      "startDate": "2023-12-26T00:00:00.000Z",
+      "endDate": "2024-01-25T01:00:00.000Z"
+    },
+    {
+      "id": 20003,
+      "type": "KILL_ENEMY_ONCE_BATTLE",
+      "valueType": "PEAK",
+      "targetList1": [ 10551, 10553 ],
+      "targetList2": [ 8150, 90109 ],
+      "targetList3": [],
+      "startDate": "2023-12-26T00:00:00.000Z",
+      "endDate": "2024-01-25T01:00:00.000Z"
+    },
+    {
+      "id": 20004,
+      "type": "CLEAR_ALIVE_ALL",
+      "valueType": "ACCUMULATED",
+      "targetList1": [ 10551, 10553 ],
+      "targetList2": [ 0 ],
+      "targetList3": [ 0 ],
+      "startDate": "2023-12-26T00:00:00.000Z",
+      "endDate": "2024-01-25T01:00:00.000Z"
+    },
+    {
+      "id": 20005,
+      "type": "CLEAR_EQUANNIMITY_ALL",
+      "valueType": "ACCUMULATED",
+      "targetList1": [ 10551, 10553 ],
+      "targetList2": [ 0 ],
+      "targetList3": [ 0 ],
+      "startDate": "2023-12-26T00:00:00.000Z",
+      "endDate": "2024-01-25T01:00:00.000Z"
+    },
+    {
+      "id": 20006,
+      "type": "KILL_ENEMY_ONCE_ATTACK_SKILL",
+      "valueType": "PEAK",
+      "targetList1": [ 10551, 10553 ],
+      "targetList2": [ 0 ],
+      "targetList3": [ 0 ],
+      "startDate": "2023-12-26T00:00:00.000Z",
+      "endDate": "2024-01-25T01:00:00.000Z"
+    },
+    {
+      "id": 20007,
+      "type": "KILL_ENEMY_COUNT_BY_ATTACK_SKILL",
+      "valueType": "PEAK",
+      "targetList1": [ 10551, 10553 ],
+      "targetList2": [ 0 ],
+      "targetList3": [ 1 ],
+      "startDate": "2023-12-26T00:00:00.000Z",
+      "endDate": "2024-01-25T01:00:00.000Z"
+    },
+    {
+      "id": 20008,
+      "type": "TL_DAMAGE_ATTACK_SKILL",
+      "valueType": "ACCUMULATED",
+      "targetList1": [ 10551, 10553 ],
+      "targetList2": [ 5 ],
+      "targetList3": [ 1 ],
+      "startDate": "2023-12-26T00:00:00.000Z",
+      "endDate": "2024-01-25T01:00:00.000Z"
+    },
+    {
+      "id": 30001,
+      "type": "MISSION_ALL_CLEAR",
+      "valueType": "ACCUMULATED",
+      "targetList1": [ 
+        10001,
+        10002,
+        10003,
+        10004,
+        10005,
+        10006,
+        10007,
+        10008,
+        10009,
+        20001,
+        20002,
+        20003,
+        20004,
+        20005,
+        20006,
+        20007,
+        20008,
+        20009,
+        20010,
+        20011,
+        20012],
+      "targetList2": [],
+      "targetList3": []
+    }
+  ]
+}

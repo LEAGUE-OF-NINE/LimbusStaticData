@@ -1,0 +1,475 @@
+{
+  "list": [
+    {
+      "id": 10010,
+      "category": "EVENT_WALPU3_NORMAL",
+      "requiredConditions": [
+        {
+          "id": 10009,
+          "value": 1
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 101,
+          "num": 2
+        }
+      ]
+    },
+    {
+      "id": 10011,
+      "category": "EVENT_WALPU3_NORMAL",
+      "requiredConditions": [
+        {
+          "id": 10010,
+          "value": 1
+        }
+      ],
+      "rewards": [
+        {
+          "type": "USERBANNER",
+          "id": 36,
+          "num": 1
+        }
+      ]
+    },
+    {
+      "id": 10012,
+      "category": "EVENT_WALPU3_NORMAL",
+      "requiredConditions": [
+        {
+          "id": 10016,
+          "value": 1
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 101,
+          "num": 2
+        }
+      ]
+    },
+    {
+      "id": 10013,
+      "category": "EVENT_WALPU3_NORMAL",
+      "requiredConditions": [
+        {
+          "id": 10016,
+          "value": 3
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 14
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 20
+        }
+      ]
+    },
+    {
+      "id": 10014,
+      "category": "EVENT_WALPU3_NORMAL",
+      "requiredConditions": [
+        {
+          "id": 10011,
+          "value": 1
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 101,
+          "num": 2
+        }
+      ]
+    },
+    {
+      "id": 10015,
+      "category": "EVENT_WALPU3_NORMAL",
+      "requiredConditions": [
+        {
+          "id": 10012,
+          "value": 1
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 14
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 20
+        }
+      ]
+    },
+    {
+      "id": 10016,
+      "category": "EVENT_WALPU3_NORMAL",
+      "requiredConditions": [
+        {
+          "id": 10018,
+          "value": 10
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 8
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 20
+        }
+      ]
+    },
+    {
+      "id": 10017,
+      "category": "EVENT_WALPU3_NORMAL",
+      "requiredConditions": [
+        {
+          "id": 10020,
+          "value": 1
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 8
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 20
+        }
+      ]
+    },
+    {
+      "id": 10018,
+      "category": "EVENT_WALPU3_NORMAL",
+      "requiredConditions": [
+        {
+          "id": 10013,
+          "value": 1
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 14
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 20
+        }
+      ]
+    },
+    {
+      "id": 20013,
+      "category": "EVENT_WALPU3_HARD",
+      "requiredConditions": [
+        {
+          "id": 20009,
+          "value": 1
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 101,
+          "num": 3
+        }
+      ]
+    },
+    {
+      "id": 20014,
+      "category": "EVENT_WALPU3_HARD",
+      "requiredConditions": [
+        {
+          "id": 20010,
+          "value": 1
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 2,
+          "num": 500
+        }
+      ]
+    },
+    {
+      "id": 20015,
+      "category": "EVENT_WALPU3_HARD",
+      "requiredConditions": [
+        {
+          "id": 20016,
+          "value": 10
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 7
+        },
+        {
+          "type": "ITEM",
+          "id": 1104,
+          "num": 5
+        }
+      ]
+    },
+    {
+      "id": 20016,
+      "category": "EVENT_WALPU3_HARD",
+      "requiredConditions": [
+        {
+          "id": 20017,
+          "value": 3
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 101,
+          "num": 4
+        }
+      ]
+    },
+    {
+      "id": 20017,
+      "category": "EVENT_WALPU3_HARD",
+      "requiredConditions": [
+        {
+          "id": 20015,
+          "value": 1
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 4
+        },
+        {
+          "type": "ITEM",
+          "id": 1204,
+          "num": 5
+        }
+      ]
+    },
+    {
+      "id": 20018,
+      "category": "EVENT_WALPU3_HARD",
+      "requiredConditions": [
+        {
+          "id": 20014,
+          "value": 1
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 7
+        },
+        {
+          "type": "ITEM",
+          "id": 1104,
+          "num": 5
+        }
+      ]
+    },
+    {
+      "id": 20019,
+      "category": "EVENT_WALPU3_HARD",
+      "requiredConditions": [
+        {
+          "id": 20018,
+          "value": 20
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 7
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 35
+        }
+      ]
+    },
+    {
+      "id": 20020,
+      "category": "EVENT_WALPU3_HARD",
+      "requiredConditions": [
+        {
+          "id": 20018,
+          "value": 40
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 4
+        },
+        {
+          "type": "ITEM",
+          "id": 1204,
+          "num": 5
+        }
+      ]
+    },
+    {
+      "id": 20021,
+      "category": "EVENT_WALPU3_HARD",
+      "requiredConditions": [
+        {
+          "id": 20020,
+          "value": 1
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 7
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 35
+        }
+      ]
+    },
+    {
+      "id": 20022,
+      "category": "EVENT_WALPU3_HARD",
+      "requiredConditions": [
+        {
+          "id": 20021,
+          "value": 3
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 4
+        },
+        {
+          "type": "ITEM",
+          "id": 1204,
+          "num": 5
+        }
+      ]
+    },
+    {
+      "id": 20023,
+      "category": "EVENT_WALPU3_HARD",
+      "requiredConditions": [
+        {
+          "id": 20011,
+          "value": 1
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 101,
+          "num": 3
+        }
+      ]
+    },
+    {
+      "id": 20024,
+      "category": "EVENT_WALPU3_HARD",
+      "requiredConditions": [
+        {
+          "id": 20012,
+          "value": 1
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 7
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 35
+        }
+      ]
+    },
+    {
+      "id": 20025,
+      "category": "EVENT_WALPU3_HARD",
+      "requiredConditions": [
+        {
+          "id": 20013,
+          "value": 1
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 7
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 35
+        }
+      ]
+    },
+    {
+      "id": 30002,
+      "category": "EVENT_WALPU3_COMMON",
+      "requiredConditions": [
+        {
+          "id": 30002,
+          "value": 22
+        }
+      ],
+      "rewards": [
+        {
+          "type": "USER_TICKET_DECO_LEFT",
+          "id": 30,
+          "num": 1
+        },
+        {
+          "type": "USER_TICKET_DECO_RIGHT",
+          "id": 30,
+          "num": 1
+        },
+        {
+          "type": "USER_TICKET_DECO_EGOBG",
+          "id": 30,
+          "num": 1
+        }
+      ]
+    }
+  ]
+}

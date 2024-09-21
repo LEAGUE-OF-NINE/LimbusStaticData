@@ -1,0 +1,60 @@
+{
+	"list": [
+		{
+			"id": 2017,
+			"attributeType": "AZURE"
+		},
+		{
+			"id": 2018,
+			"attributeType": "AZURE"
+		},
+		{
+			"id": 2019,
+			"attributeType": "INDIGO"
+		},
+		{
+			"id": 2020,
+			"attributeType": "CRIMSON"
+		},
+		{
+			"id": 2021,
+			"attributeType": "AMBER"
+		},
+		{
+			"id": 2022,
+			"attributeType": "INDIGO"
+		},
+		{
+			"id": 2023,
+			"attributeType": "VIOLET"
+		},
+		{
+			"id": 2024,
+			"attributeType": "SCARLET"
+		},
+		{
+			"id": 2025,
+			"attributeType": "INDIGO"
+		},
+		{
+			"id": 2026,
+			"attributeType": "AZURE",
+			"subEgoGiftAbilityIDList": [
+				20261,
+				20262
+			]
+		},
+		{
+			"id": 9019,
+			"attributeType": "SHAMROCK"
+		},
+		{
+			"id": 9009,
+			"attributeType": "SCARLET"
+		},
+		{
+			"id": 9073,
+			"attributeType": "VIOLET"
+		}
+	]
+}

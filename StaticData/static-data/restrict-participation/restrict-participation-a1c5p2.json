@@ -1,0 +1,99 @@
+{
+  "list": [
+    {
+      "stageType": "NORMAL_BATTLE",
+      "restrictList": [
+        {
+          "id": 10532,
+          "mustParticipateIds": [ 8 ]
+        },
+        {
+          "id": 910503,
+          "abstainIds": [ 1, 2, 4, 5, 6, 8, 9, 10, 11, 12 ]
+        },
+        {
+          "id": 910504,
+          "abstainIds": [ 3, 7 ]
+        },
+        {
+          "id": 910505,
+          "abstainIds": [ 3, 7 ]
+        },
+        {
+          "id": 910506,
+          "abstainIds": [ 3, 7 ]
+        },
+        {
+          "id": 910507,
+          "abstainIds": [ 3, 7 ]
+        },
+        {
+          "id": 910508,
+          "abstainIds": [ 3, 7 ]
+        },
+        {
+          "id": 910509,
+          "abstainIds": [ 3, 7 ]
+        },
+        {
+          "id": 10632,
+          "mustParticipateIds": [ 7 ]
+        },
+        {
+          "id": 10633,
+          "mustParticipateIds": [ 7 ]
+        },
+        {
+          "id": 10634,
+          "mustParticipateIds": [ 7 ]
+        },
+        {
+          "id": 10635,
+          "abstainIds": [ 7 ]
+        },
+        {
+          "id": 10641,
+          "mustParticipateIds": [ 7 ]
+        },
+        {
+          "id": 10644,
+          "mustParticipateIds": [ 7 ]
+        },
+        {
+          "id": 10645,
+          "mustParticipateIds": [ 7 ]
+        },
+        {
+          "id": 10648,
+          "mustParticipateIds": [ 7 ]
+        },
+
+        {
+          "id": 910906,
+          "mustParticipateIds": [ 4, 6, 9 ],
+          "abstainIds": [ 1, 2, 3, 5, 7, 8, 10, 11, 12 ]
+        },
+        {
+          "id": 910907,
+          "mustParticipateIds": [ 4, 6, 9 ],
+          "abstainIds": [ 1, 2, 3, 5, 7, 8, 10, 11, 12 ]
+        },
+        {
+          "id": 910908,
+          "mustParticipateIds": [ 4, 6, 9 ],
+          "abstainIds": [ 1, 2, 3, 5, 7, 8, 10, 11, 12 ]
+        },
+        {
+          "id": 910909,
+          "mustParticipateIds": [ 4, 6, 9 ],
+          "abstainIds": [ 1, 2, 3, 5, 7, 8, 10, 11, 12 ]
+        },
+        {
+          "id": 910910,
+          "mustParticipateIds": [ 4, 6, 9 ],
+          "abstainIds": [ 1, 2, 3, 5, 7, 8, 10, 11, 12 ]
+        }
+      ]
+    }
+  ]
+}

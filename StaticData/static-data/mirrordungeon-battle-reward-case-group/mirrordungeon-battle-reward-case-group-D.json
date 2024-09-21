@@ -1,0 +1,93 @@
+{
+  "list":[
+    {
+      "groupID":4,
+      "rewardCaseList": [
+        {
+          "id": 401,
+          "rewardType": "CHIPMIN_CHIPMAX",
+          "rewardLV": 1,
+          "rewardParams": {
+            "bonusChip": {
+              "min": 4,
+              "max": 10
+            }
+          },
+          "localizeTextFormat": "dungeon_battle_reward_case_format_chip_acquisition"
+        },
+        {
+          "id": 402,
+          "rewardType": "CHIPMIN_CHIPMAX",
+          "rewardLV": 2,
+          "rewardParams": {
+            "bonusChip": {
+              "min": 6,
+              "max": 12
+            }
+          },
+          "localizeTextFormat": "dungeon_battle_reward_case_format_chip_acquisition"
+        },
+        {
+          "id": 403,
+          "rewardType": "CHIPMIN_CHIPMAX",
+          "rewardLV": 3,
+          "rewardParams": {
+            "bonusChip": {
+              "min": 8,
+              "max": 14
+            }
+          },
+          "localizeTextFormat": "dungeon_battle_reward_case_format_chip_acquisition"
+        },
+        {
+          "id": 404,
+          "rewardType": "CHIPMIN_CHIPMAX",
+          "rewardLV": 4,
+          "rewardParams": {
+            "bonusChip": {
+              "min": 10,
+              "max": 16
+            }
+          },
+          "localizeTextFormat": "dungeon_battle_reward_case_format_chip_acquisition"
+        },
+        {
+          "id": 405,
+          "rewardType": "CHIPMIN_CHIPMAX",
+          "rewardLV": 5,
+          "rewardParams": {
+            "bonusChip": {
+              "min": 12,
+              "max": 18
+            }
+          },
+          "localizeTextFormat": "dungeon_battle_reward_case_format_chip_acquisition"
+        },
+        {
+          "id": 406,
+          "rewardType": "CHIPMIN_CHIPMAX",
+          "rewardLV": 6,
+          "rewardParams": {
+            "bonusChip": {
+              "min": 14,
+              "max": 20
+            }
+          },
+          "localizeTextFormat": "dungeon_battle_reward_case_format_chip_acquisition"
+        },
+        {
+          "id": 407,
+          "rewardType": "CHIPMIN_CHIPMAX",
+          "rewardLV": 7,
+          "rewardParams": {
+            "bonusChip": {
+              "min": 17,
+              "max": 25
+            }
+          },
+          "localizeTextFormat": "dungeon_battle_reward_case_format_chip_acquisition"
+        }
+      ]
+    }
+  ]
+}

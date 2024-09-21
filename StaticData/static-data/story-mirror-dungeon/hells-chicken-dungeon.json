@@ -1,0 +1,254 @@
+{
+  "list": [
+    {
+      "id": 910301,
+      "requireEnkephalinModule":1,
+      "isHardMode": false,
+      "hasStartEgoGift": true,
+      "useMapGenSequence":false,
+      "startCost": 200,
+      "gradeList": [ 5 ],
+      "levelList": [ 40 ],
+      "floors": [
+        {
+          "count": 0,
+          "roomCount": 3,
+          "sectorCount": 9,
+          "hardBattlePercentage": 0.05,
+          "abnormalityBattlePercentage": 0.10,
+          "eventNodePercentage": 0.25
+        }
+      ],
+      "startSelectCount": 5,
+      "globalBattlePercentage": 0.5,
+      "globalEventPercentage": 0.5,
+      "globalBossPercentage": 0.5,
+      "specialBattleAppearedFloor": 1,
+      "openCondition": {
+        "chapterCleared": {
+          "mainChapterId": 91,
+          "subChapterId": 9103,
+          "nodeId": 910308,
+          "unlockCode": 103
+        },
+        "dungeonCleared": {
+          "isConditionExist": false
+        }
+      },
+      "restingEvent": {
+        "heal": [
+          {
+            "index": 0,
+            "price": 100,
+            "isForAll": false,
+            "isHealHpPercentage": true,
+            "healHpAmount": 0.5,
+            "isHealMpPercentage": false,
+            "healMpAmount": 45
+          },
+          {
+            "index": 1,
+            "price": 100,
+            "isForAll": true,
+            "isHealHpPercentage": true,
+            "healHpAmount": 0.2,
+            "isHealMpPercentage": false,
+            "healMpAmount": 15
+          }
+        ],
+        "changeFormation": {
+          "price": 100,
+          "changeableCount": 3
+        },
+        "egoGiftUpgrade": {
+          "isActive": true
+        },
+        "egoGiftComposite": {
+          "isActive": true
+        }
+      },
+      "shop": {
+        "heal": [
+          {
+            "index": 0,
+            "price": 100,
+            "isForAll": false,
+            "isHealHpPercentage": true,
+            "healHpAmount": 0.5,
+            "isHealMpPercentage": false,
+            "healMpAmount": 45
+          },
+          {
+            "index": 1,
+            "price": 100,
+            "isForAll": true,
+            "isHealHpPercentage": true,
+            "healHpAmount": 0.2,
+            "isHealMpPercentage": false,
+            "healMpAmount": 15
+          }
+        ],
+        "upgradePersonality": [
+          {
+            "index": 0,
+            "fromSkill": 0,
+            "toSkill": 1,
+            "price": 75
+          },
+          {
+            "index": 1,
+            "fromSkill": 1,
+            "toSkill": 2,
+            "price": 125
+          },
+          {
+            "index": 2,
+            "fromSkill": 0,
+            "toSkill": 2,
+            "price": 200
+          }
+        ],
+        "changeFormation": {
+          "price": 100,
+          "changeableCount": 3
+        },
+        "egoGiftSell": {
+          "isActive": true
+        },
+        "refreshShop": {
+          "isActive": true,
+          "shopKeywordRefreshCostAdder": 125
+        }
+      },
+      "uiConfig": {
+        "floorBackgroundXPos": 1,
+        "maskImageWidth": 100
+      }
+    },
+    {
+      "id": 910302,
+      "requireEnkephalinModule": 2,
+      "isHardMode": true,
+      "hasStartEgoGift": true,
+      "startCost": 200,
+      "gradeList": [ 5 ],
+      "levelList": [ 40 ],
+      "floors": [
+        {
+          "count": 0,
+          "roomCount": 3,
+          "sectorCount": 9,
+          "hardBattlePercentage": 0.05,
+          "abnormalityBattlePercentage": 0.10,
+          "eventNodePercentage": 0.25
+
+        }
+      ],
+      "startSelectCount": 5,
+      "globalBattlePercentage": 0.5,
+      "globalEventPercentage": 0.5,
+      "globalBossPercentage": 0.5,
+      "specialBattleAppearedFloor": 1,
+      "openCondition": {
+        "chapterCleared": {
+          "mainChapterId": 91,
+          "subChapterId": 9103,
+          "nodeId": 910309,
+          "unlockCode": 103
+        },
+        "dungeonCleared": {
+          "isConditionExist": false
+        }
+      },
+      "restingEvent": {
+        "heal": [
+          {
+            "index": 0,
+            "price": 100,
+            "isForAll": false,
+            "isHealHpPercentage": true,
+            "healHpAmount": 0.5,
+            "isHealMpPercentage": false,
+            "healMpAmount": 45
+          },
+          {
+            "index": 1,
+            "price": 100,
+            "isForAll": true,
+            "isHealHpPercentage": true,
+            "healHpAmount": 0.2,
+            "isHealMpPercentage": false,
+            "healMpAmount": 15
+          }
+        ],
+        "changeFormation": {
+          "price": 100,
+          "changeableCount": 3
+        },
+        "egoGiftUpgrade": {
+          "isActive": true
+        },
+        "egoGiftComposite": {
+          "isActive": true
+        }
+      },
+      "shop": {
+        "heal": [
+          {
+            "index": 0,
+            "price": 100,
+            "isForAll": false,
+            "isHealHpPercentage": true,
+            "healHpAmount": 0.5,
+            "isHealMpPercentage": false,
+            "healMpAmount": 45
+          },
+          {
+            "index": 1,
+            "price": 100,
+            "isForAll": true,
+            "isHealHpPercentage": true,
+            "healHpAmount": 0.2,
+            "isHealMpPercentage": false,
+            "healMpAmount": 15
+          }
+        ],
+        "upgradePersonality": [
+          {
+            "index": 0,
+            "fromSkill": 0,
+            "toSkill": 1,
+            "price": 75
+          },
+          {
+            "index": 1,
+            "fromSkill": 1,
+            "toSkill": 2,
+            "price": 125
+          },
+          {
+            "index": 2,
+            "fromSkill": 0,
+            "toSkill": 2,
+            "price": 200
+          }
+        ],
+        "changeFormation": {
+          "price": 100,
+          "changeableCount": 3
+        },
+        "egoGiftSell": {
+          "isActive": true
+        },
+        "refreshShop": {
+          "isActive": true,
+          "shopKeywordRefreshCostAdder": 125
+        }
+      },
+      "uiConfig": {
+        "floorBackgroundXPos": 1,
+        "maskImageWidth": 100
+      }
+    }
+  ]
+}

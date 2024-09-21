@@ -1,0 +1,453 @@
+{
+  "list": [
+    {
+      "id": 10001,
+      "category": "EVENT_NEWYEAR_2024_NORMAL",
+      "requiredConditions": [
+        {
+          "id": 10001,
+          "value": 15
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 101,
+          "num": 2
+        }
+      ]
+    },
+    {
+      "id": 10002,
+      "category": "EVENT_NEWYEAR_2024_NORMAL",
+      "requiredConditions": [
+        {
+          "id": 10001,
+          "value": 30
+        }
+      ],
+      "rewards": [
+        {
+          "type": "USERBANNER",
+          "id": 25,
+          "num": 1
+        }
+      ]
+    },
+    {
+      "id": 10003,
+      "category": "EVENT_NEWYEAR_2024_NORMAL",
+      "requiredConditions": [
+        {
+          "id": 10002,
+          "value": 1
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 101,
+          "num": 2
+        }
+      ]
+    },
+    {
+      "id": 10004,
+      "category": "EVENT_NEWYEAR_2024_NORMAL",
+      "requiredConditions": [
+        {
+          "id": 10003,
+          "value": 1
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 6
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 30
+        }
+      ]
+    },
+    {
+      "id": 10005,
+      "category": "EVENT_NEWYEAR_2024_NORMAL",
+      "requiredConditions": [
+        {
+          "id": 10004,
+          "value": 1
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 101,
+          "num": 2
+        }
+      ]
+    },
+    {
+      "id": 10006,
+      "category": "EVENT_NEWYEAR_2024_NORMAL",
+      "requiredConditions": [
+        {
+          "id": 10005,
+          "value": 1
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 6
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 30
+        }
+      ]
+    },
+    {
+      "id": 10007,
+      "category": "EVENT_NEWYEAR_2024_NORMAL",
+      "requiredConditions": [
+        {
+          "id": 10006,
+          "value": 3
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 3
+        },
+        {
+          "type": "ITEM",
+          "id": 1103,
+          "num": 5
+        }
+      ]
+    },
+    {
+      "id": 10008,
+      "category": "EVENT_NEWYEAR_2024_NORMAL",
+      "requiredConditions": [
+        {
+          "id": 10007,
+          "value": 10
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 3
+        },
+        {
+          "type": "ITEM",
+          "id": 1103,
+          "num": 5
+        }
+      ]
+    },
+    {
+      "id": 10009,
+      "category": "EVENT_NEWYEAR_2024_NORMAL",
+      "requiredConditions": [
+        {
+          "id": 10008,
+          "value": 1
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 6
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 30
+        }
+      ]
+    },
+    {
+      "id": 20001,
+      "category": "EVENT_NEWYEAR_2024_HARD",
+      "requiredConditions": [
+        {
+          "id": 20001,
+          "value": 15
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 101,
+          "num": 3
+        }
+      ]
+    },
+    {
+      "id": 20002,
+      "category": "EVENT_NEWYEAR_2024_HARD",
+      "requiredConditions": [
+        {
+          "id": 20001,
+          "value": 48
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 6
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 30
+        }
+      ]
+    },
+    {
+      "id": 20003,
+      "category": "EVENT_NEWYEAR_2024_HARD",
+      "requiredConditions": [
+        {
+          "id": 20001,
+          "value": 77
+        }
+      ],
+      "rewards": [
+        {
+          "type": "USER_TICKET_DECO_LEFT",
+          "id": 20,
+          "num": 1
+        },
+        {
+          "type": "USER_TICKET_DECO_RIGHT",
+          "id": 20,
+          "num": 1
+        },
+        {
+          "type": "USER_TICKET_DECO_EGOBG",
+          "id": 20,
+          "num": 1
+        }
+      ]
+    },
+    {
+      "id": 20004,
+      "category": "EVENT_NEWYEAR_2024_HARD",
+      "requiredConditions": [
+        {
+          "id": 20002,
+          "value": 3
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 101,
+          "num": 4
+        }
+      ]
+    },
+    {
+      "id": 20005,
+      "category": "EVENT_NEWYEAR_2024_HARD",
+      "requiredConditions": [
+        {
+          "id": 20002,
+          "value": 5
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 6
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 30
+        }
+      ]
+    },
+    {
+      "id": 20006,
+      "category": "EVENT_NEWYEAR_2024_HARD",
+      "requiredConditions": [
+        {
+          "id": 20003,
+          "value": 1
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 6
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 30
+        }
+      ]
+    },
+    {
+      "id": 20007,
+      "category": "EVENT_NEWYEAR_2024_HARD",
+      "requiredConditions": [
+        {
+          "id": 20003,
+          "value": 3
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 3
+        },
+        {
+          "type": "ITEM",
+          "id": 1203,
+          "num": 5
+        }
+      ]
+    },
+    {
+      "id": 20008,
+      "category": "EVENT_NEWYEAR_2024_HARD",
+      "requiredConditions": [
+        {
+          "id": 20004,
+          "value": 1
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 101,
+          "num": 3
+        }
+      ]
+    },
+    {
+      "id": 20009,
+      "category": "EVENT_NEWYEAR_2024_HARD",
+      "requiredConditions": [
+        {
+          "id": 20005,
+          "value": 1
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 6
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 30
+        }
+      ]
+    },
+    {
+      "id": 20010,
+      "category": "EVENT_NEWYEAR_2024_HARD",
+      "requiredConditions": [
+        {
+          "id": 20006,
+          "value": 7
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 3
+        },
+        {
+          "type": "ITEM",
+          "id": 1203,
+          "num": 5
+        }
+      ]
+    },
+    {
+      "id": 20011,
+      "category": "EVENT_NEWYEAR_2024_HARD",
+      "requiredConditions": [
+        {
+          "id": 20007,
+          "value": 25
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 3
+        },
+        {
+          "type": "ITEM",
+          "id": 1203,
+          "num": 5
+        }
+      ]
+    },
+    {
+      "id": 20012,
+      "category": "EVENT_NEWYEAR_2024_HARD",
+      "requiredConditions": [
+        {
+          "id": 20008,
+          "value": 1
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 6
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 30
+        }
+      ]
+    },
+    {
+      "id": 30001,
+      "category": "EVENT_NEWYEAR_2024_COMMON",
+      "requiredConditions": [
+        {
+          "id": 30001,
+          "value": 21
+        }
+      ],
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 2,
+          "num": 500
+        }
+      ]
+    }
+  ]
+}

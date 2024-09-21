@@ -1,0 +1,644 @@
+{
+  "list": [
+    {
+      "id": 910322,
+      "stageLevel": 25,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant_inside"
+          },
+          "unitList": [
+            {
+              "unitID": 8016,
+              "unitCount": 2,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8034,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8035,
+              "unitCount": 1,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp3_5_Enemy_1"
+          ],
+          "enemyPositionID": 17
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "dangerLevel": 1
+    },
+    {
+      "id": 910323,
+      "stageLevel": 25,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant_inside"
+          },
+          "unitList": [
+            {
+              "unitID": 8005,
+              "unitCount": 2,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8034,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8036,
+              "unitCount": 1,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp3_5_Enemy_1"
+          ],
+          "enemyPositionID": 17
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "dangerLevel": 1
+    },
+    {
+      "id": 910324,
+      "stageLevel": 25,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant_inside"
+          },
+          "unitList": [
+            {
+              "unitID": 8035,
+              "unitCount": 2,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8007,
+              "unitCount": 2,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp3_5_Enemy_1"
+          ],
+          "enemyPositionID": 17
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "dangerLevel": 1
+    },
+    {
+      "id": 910325,
+      "stageLevel": 25,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant_inside"
+          },
+          "unitList": [
+            {
+              "unitID": 8007,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8006,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8034,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8037,
+              "unitCount": 1,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_2",
+            "Battle_Cp3_5_Enemy_1"
+          ],
+          "enemyPositionID": 17
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "dangerLevel": 1
+    },
+    {
+      "id": 910326,
+      "stageLevel": 25,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant_inside"
+          },
+          "unitList": [
+            {
+              "unitID": 8006,
+              "unitCount": 2,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8036,
+              "unitCount": 2,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp3_5_Enemy_1"
+          ],
+          "enemyPositionID": 17
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "dangerLevel": 1
+    },
+    {
+      "id": 910327,
+      "stageLevel": 25,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant_inside"
+          },
+          "unitList": [
+            {
+              "unitID": 8034,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8035,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8036,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8037,
+              "unitCount": 1,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_2",
+            "Battle_Cp3_5_Enemy_1"
+          ],
+          "enemyPositionID": 17
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "dangerLevel": 1
+    },
+    {
+      "id": 910328,
+      "stageLevel": 25,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant_inside"
+          },
+          "unitList": [
+            {
+              "unitID": 8034,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8035,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8036,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8037,
+              "unitCount": 1,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_2",
+            "Battle_Cp3_5_Enemy_1"
+          ],
+          "enemyPositionID": 17
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "dangerLevel": 1
+    },
+    {
+      "id": 910329,
+      "stageLevel": 25,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant_inside"
+          },
+          "unitList": [
+            {
+              "unitID": 8034,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8035,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8036,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8037,
+              "unitCount": 1,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_2",
+            "Battle_Cp3_5_Enemy_1"
+          ],
+          "enemyPositionID": 17
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "dangerLevel": 1
+    },
+    {
+      "id": 910330,
+      "stageLevel": 25,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant_inside"
+          },
+          "unitList": [
+            {
+              "unitID": 8034,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8035,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8036,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8037,
+              "unitCount": 1,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_2",
+            "Battle_Cp3_5_Enemy_1"
+          ],
+          "enemyPositionID": 17
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "dangerLevel": 1
+    },
+    {
+      "id": 910331,
+      "stageLevel": 25,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant_boss"
+          },
+          "unitList": [
+            {
+              "unitID": 8039,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8035,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8036,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8037,
+              "unitCount": 1,
+              "unitLevel": 25
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 8034,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8035,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8036,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8037,
+              "unitCount": 1,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_3",
+            "Battle_Cp3_5_Enemy_2"
+          ],
+          "enemyPositionID": 28
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "story": {
+        "enter": [
+          "E306B"
+        ],
+        "exit": [
+          "E306A"
+        ]
+      },
+      "dangerLevel": 1,
+      "stageScriptList": ["Eunbong_Strong"]
+    },
+    {
+      "id": 910332,
+      "stageLevel": 25,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant_boss"
+          },
+          "unitList": [
+            {
+              "unitID": 8040,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8035,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8036,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8034,
+              "unitCount": 1,
+              "unitLevel": 25
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 8034,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8035,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8036,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8037,
+              "unitCount": 1,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_3",
+            "Battle_Cp3_5_Enemy_2"
+          ],
+          "enemyPositionID": 28
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "dangerLevel": 1,
+      "stageScriptList": ["Eunbong_Hard"]
+    }
+  ]
+}

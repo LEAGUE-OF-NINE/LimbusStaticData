@@ -1,0 +1,89 @@
+{
+  "list": [
+    {
+      "id": 100,
+      "unlockcodeType": "SUBCHAPTER_CLEAR",
+      "desc": "0"
+    },
+    {
+      "id": 101,
+      "unlockcodeType": "SUBCHAPTER_CLEAR",
+      "desc": "1"
+    },
+    {
+      "id": 102,
+      "unlockcodeType": "SUBCHAPTER_CLEAR",
+      "desc": "2"
+    },
+    {
+      "id": 103,
+      "unlockcodeType": "SUBCHAPTER_CLEAR",
+      "desc": "3"
+    },
+    {
+      "id": 9103,
+      "unlockcodeType": "SUBCHAPTER_CLEAR",
+      "desc": "3.5-hc"
+    },
+    {
+      "id": 104,
+      "unlockcodeType": "SUBCHAPTER_CLEAR",
+      "desc": "4"
+    },
+    {
+      "id": 9104,
+      "unlockcodeType": "SUBCHAPTER_CLEAR",
+      "desc": "4.5-umida"
+    },
+    {
+      "id": 105,
+      "unlockcodeType": "SUBCHAPTER_CLEAR",
+      "desc": "5"
+    },
+    {
+      "id": 9105,
+      "unlockcodeType": "SUBCHAPTER_CLEAR",
+      "desc": "5.5-miracle"
+    },
+    {
+      "id": 9106,
+      "unlockcodeType": "SUBCHAPTER_CLEAR",
+      "desc": "walpu2"
+    },
+    {
+      "id": 9107,
+      "unlockcodeType": "SUBCHAPTER_CLEAR",
+      "desc": "5.5-ycgd"
+    },
+    {
+      "id": 9108,
+      "unlockcodeType": "SUBCHAPTER_CLEAR",
+      "desc": "walpu3"
+    },
+    {
+      "id": 10644,
+      "unlockcodeType": "SUBCHAPTER_NODE_CLEAR",
+      "desc": "6-44"
+    },
+    {
+      "id": 106,
+      "unlockcodeType": "SUBCHAPTER_CLEAR",
+      "desc": "6"
+    },
+    {
+      "id": 9109,
+      "unlockcodeType": "SUBCHAPTER_CLEAR",
+      "desc": "6.5-TKT"
+    },
+    {
+      "id": 9110,
+      "unlockcodeType": "SUBCHAPTER_CLEAR",
+      "desc": "6.5-MOWE"
+    },
+    {
+      "id": 9111,
+      "unlockcodeType": "SUBCHAPTER_CLEAR",
+      "desc": "Walpu 4"
+    }
+  ]
+}

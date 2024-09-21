@@ -1,0 +1,18 @@
+{
+  "list": [
+    {
+      "id": 910901,
+      "dungeonType": "STORY_MIRROR_DUNGEON",
+      "staminaModule": 2,
+      "recommendedLevel": 45,
+      "entranceStory": "E615B",
+      "clearStory": "E615A",
+      "illustname": "chapter6.5_1_StoryDungeon",
+      "questlist": [
+        {
+          "localizeId": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "list": [
+    {
+      "eventId": "Walpu4",
+      "mainUIPhaseTypeList": [
+        "Lobby",
+        "Stage"
+      ],
+      "bannerSpriteId": "banner_NoonOfViolet",
+      "isBannerVisible": true
+    },
+    {
+      "eventId": "Walpu4Reward",
+      "mainUIPhaseTypeList": [
+        "Stage"
+      ],
+      "isBannerVisible": true
+    },
+    {
+      "eventId": "RailwayDungeonBanner",
+      "mainUIPhaseTypeList": [
+        "Lobby"
+      ],
+      "bannerSpriteId": "banner_RailwayLine4",
+      "isBannerVisible": true
+    },
+    {
+      "eventId": "MirrorDungeon",
+      "mainUIPhaseTypeList": [
+        "Lobby"
+      ],
+      "bannerSpriteId": "banner_MirrorDungeon4",
+      "isBannerVisible": true
+    },
+
+    {
+      "eventId": "RemainMembership",
+      "mainUIPhaseTypeList": [
+        "Lobby"
+      ],
+      "isBannerVisible": false
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+	"list": [
+		{
+			"id": 3,
+			"bannerInfo": {
+				"bannerSpr": "banner_vendingMachine3",
+				"priority": 13
+			},
+			"groups": [
+				{
+					"groupType": "PASS",
+					"contents": [
+						{
+							"type": "EGO",
+							"id": 20805,
+							"price": 400,
+							"paidLunacyPrice": 2600
+						},
+						{
+							"type": "EGO",
+							"id": 20605,
+							"price": 400,
+							"paidLunacyPrice": 2600
+						},
+						{
+							"type": "EGO",
+							"id": 21005,
+							"price": 400,
+							"paidLunacyPrice": 2600
+						},
+						{
+							"type": "EGO",
+							"id": 20904,
+							"price": 400,
+							"paidLunacyPrice": 2600
+						},
+						{
+							"type": "EGO",
+							"id": 20205,
+							"price": 400,
+							"paidLunacyPrice": 2600
+						},
+						{
+							"type": "EGO",
+							"id": 20406,
+							"price": 400,
+							"paidLunacyPrice": 2600
+						}
+					]
+				},
+				{
+					"groupType": "ANNOUNCER",
+					"contents": [
+						{
+							"type": "ANNOUNCER",
+							"id": 7,
+							"paidLunacyPrice": 1300
+						},
+						{
+							"type": "ANNOUNCER",
+							"id": 8,
+							"paidLunacyPrice": 1300
+						}
+					]
+				}
+			]
+		}
+	]
+}

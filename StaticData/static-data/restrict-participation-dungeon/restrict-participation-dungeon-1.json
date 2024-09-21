@@ -1,0 +1,21 @@
+{
+  "list": [
+    {
+      "dungeonType": "STORY_DUNGEON",
+      "dungeonList": [
+        {
+          "id": 10401,
+          "restrictForAll": {
+            "mustParticipateIds": [ 1 ]
+          }
+        },
+        {
+          "id": 10501,
+          "restrictForAll": {
+            "mustParticipateIds": [ 8 ]
+          }
+        }
+      ]
+    }
+  ]
+}

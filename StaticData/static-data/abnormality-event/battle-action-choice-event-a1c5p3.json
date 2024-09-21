@@ -1,0 +1,21 @@
+{
+  "list": [
+    {
+      "id": 810601,
+      "canSkip": false,
+      "eventType": "EVENT",
+      "actionEvent": {
+        "eachOptionList": [
+          {
+            "index": 0,
+            "resultList": [
+              {
+                "nextEventID": 810602
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

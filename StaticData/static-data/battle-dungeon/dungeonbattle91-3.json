@@ -1,0 +1,1048 @@
+{
+  "list": [
+    {
+      "id": 910301,
+      "stageLevel": 25,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant"
+          },
+          "unitList": [
+            {
+              "unitID": 90042,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90043,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90042,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90043,
+              "unitCount": 1,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp2_Enemy_1"
+          ],
+          "enemyPositionID": 17
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910302,
+      "stageLevel": 25,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant_inside"
+          },
+          "unitList": [
+            {
+              "unitID": 90028,
+              "unitCount": 2,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90044,
+              "unitCount": 2,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp2_Enemy_1"
+          ],
+          "enemyPositionID": 17
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910303,
+      "stageLevel": 25,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant"
+          },
+          "unitList": [
+            {
+              "unitID": 90031,
+              "unitCount": 2,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90045,
+              "unitCount": 2,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp2_Enemy_1"
+          ],
+          "enemyPositionID": 17
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910304,
+      "stageLevel": 25,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant_inside"
+          },
+          "unitList": [
+            {
+              "unitID": 90044,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90028,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90031,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90044,
+              "unitCount": 1,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp2_Enemy_1"
+          ],
+          "enemyPositionID": 17
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910305,
+      "stageLevel": 25,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant"
+          },
+          "unitList": [
+            {
+              "unitID": 90042,
+              "unitCount": 2,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90028,
+              "unitCount": 2,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp2_Enemy_1"
+          ],
+          "enemyPositionID": 17
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910306,
+      "stageLevel": 25,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant"
+          },
+          "unitList": [
+            {
+              "unitID": 90043,
+              "unitCount": 2,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90030,
+              "unitCount": 2,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp2_Enemy_1"
+          ],
+          "enemyPositionID": 17
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910307,
+      "stageLevel": 25,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant_inside"
+          },
+          "unitList": [
+            {
+              "unitID": 90043,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90044,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90045,
+              "unitCount": 2,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp2_Enemy_1"
+          ],
+          "enemyPositionID": 17
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910308,
+      "stageLevel": 25,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant"
+          },
+          "unitList": [
+            {
+              "unitID": 90042,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90044,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90045,
+              "unitCount": 2,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp2_Enemy_1"
+          ],
+          "enemyPositionID": 17
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910309,
+      "stageLevel": 25,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant_inside"
+          },
+          "unitList": [
+            {
+              "unitID": 90044,
+              "unitCount": 4,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp2_Enemy_1"
+          ],
+          "enemyPositionID": 17
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910310,
+      "stageLevel": 25,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant"
+          },
+          "unitList": [
+            {
+              "unitID": 90043,
+              "unitCount": 4,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp2_Enemy_1"
+          ],
+          "enemyPositionID": 17
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910311,
+      "stageLevel": 25,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant_inside"
+          },
+          "unitList": [
+            {
+              "unitID": 90045,
+              "unitCount": 4,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp2_Enemy_1"
+          ],
+          "enemyPositionID": 17
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910312,
+      "stageLevel": 25,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant_inside"
+          },
+          "unitList": [
+            {
+              "unitID": 90042,
+              "unitCount": 4,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp2_Enemy_1"
+          ],
+          "enemyPositionID": 17
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910313,
+      "stageLevel": 25,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant_inside"
+          },
+          "unitList": [
+            {
+              "unitID": 90028,
+              "unitCount": 2,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90045,
+              "unitCount": 2,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp2_Enemy_1"
+          ],
+          "enemyPositionID": 17
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910314,
+      "stageLevel": 25,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant_inside"
+          },
+          "unitList": [
+            {
+              "unitID": 90030,
+              "unitCount": 2,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90044,
+              "unitCount": 2,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp2_Enemy_1"
+          ],
+          "enemyPositionID": 17
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910315,
+      "stageLevel": 25,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant_inside"
+          },
+          "unitList": [
+            {
+              "unitID": 90044,
+              "unitCount": 4,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp2_Enemy_1"
+          ],
+          "enemyPositionID": 17
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910316,
+      "stageLevel": 25,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant"
+          },
+          "unitList": [
+            {
+              "unitID": 90042,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90044,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90031,
+              "unitCount": 3,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp2_Enemy_2"
+          ],
+          "enemyPositionID": 18
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90044,
+              "unitCount": 4,
+              "unitLevel": 25
+            }
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910317,
+      "stageLevel": 25,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant"
+          },
+          "unitList": [
+            {
+              "unitID": 90028,
+              "unitCount": 3,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90045,
+              "unitCount": 2,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp2_Enemy_2"
+          ],
+          "enemyPositionID": 18
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90043,
+              "unitCount": 2,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90044,
+              "unitCount": 3,
+              "unitLevel": 25
+            }
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910318,
+      "stageLevel": 25,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant"
+          },
+          "unitList": [
+            {
+              "unitID": 90044,
+              "unitCount": 3,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90045,
+              "unitCount": 2,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp2_Enemy_2"
+          ],
+          "enemyPositionID": 18
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90028,
+              "unitCount": 3,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90044,
+              "unitCount": 2,
+              "unitLevel": 25
+            }
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910319,
+      "stageLevel": 25,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant"
+          },
+          "unitList": [
+            {
+              "unitID": 90031,
+              "unitCount": 2,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90045,
+              "unitCount": 3,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp2_Enemy_2"
+          ],
+          "enemyPositionID": 18
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90043,
+              "unitCount": 3,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90045,
+              "unitCount": 2,
+              "unitLevel": 25
+            }
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910320,
+      "stageLevel": 25,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant"
+          },
+          "unitList": [
+            {
+              "unitID": 90043,
+              "unitCount": 2,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90044,
+              "unitCount": 3,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp2_Enemy_2"
+          ],
+          "enemyPositionID": 18
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90030,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90031,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90045,
+              "unitCount": 3,
+              "unitLevel": 25
+            }
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910321,
+      "stageLevel": 25,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "OldRestaurant"
+          },
+          "unitList": [
+            {
+              "unitID": 90028,
+              "unitCount": 2,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90044,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90045,
+              "unitCount": 2,
+              "unitLevel": 25
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp2_Enemy_2"
+          ],
+          "enemyPositionID": 18
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90045,
+              "unitCount": 2,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90044,
+              "unitCount": 3,
+              "unitLevel": 25
+            }
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 25,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    }
+  ]
+}

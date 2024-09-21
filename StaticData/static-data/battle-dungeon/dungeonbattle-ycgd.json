@@ -1,0 +1,1974 @@
+{
+  "list": [
+    {
+      "id": 910701,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_BackStreet"
+          },
+          "unitList": [
+            {
+              "unitID": 90110,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90112,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910702,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_BackStreet"
+          },
+          "unitList": [
+            {
+              "unitID": 90110,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90113,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910703,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_BackStreet"
+          },
+          "unitList": [
+            {
+              "unitID": 90110,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90112,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910704,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_BackStreet"
+          },
+          "unitList": [
+            {
+              "unitID": 90110,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90112,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90113,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910705,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_BackStreet"
+          },
+          "unitList": [
+            {
+              "unitID": 90110,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90113,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910706,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_BackStreet"
+          },
+          "unitList": [
+            {
+              "unitID": 90110,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90113,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90112,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910707,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_BackStreet"
+          },
+          "unitList": [
+            {
+              "unitID": 90111,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90112,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90110,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910708,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_BackStreet"
+          },
+          "unitList": [
+            {
+              "unitID": 90111,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90112,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90113,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910709,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_BackStreet"
+          },
+          "unitList": [
+            {
+              "unitID": 90111,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90113,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90110,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910710,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_BackStreet"
+          },
+          "unitList": [
+            {
+              "unitID": 90111,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90113,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90112,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910711,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_Front_YongjinTower",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90112,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90113,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90110,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910712,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_Front_YongjinTower",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90112,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90113,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910713,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_Front_YongjinTower",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90110,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90112,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90113,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910714,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_Front_YongjinTower",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90110,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90112,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90113,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910715,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_Front_YongjinTower",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90110,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90112,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90113,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910716,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_Front_YongjinTower",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90110,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90112,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90113,
+              "unitCount": 2,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910717,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_Front_YongjinTower",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90110,
+              "unitCount": 3,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 2,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910718,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_Front_YongjinTower",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90110,
+              "unitCount": 3,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90112,
+              "unitCount": 2,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910719,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_Front_YongjinTower",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90110,
+              "unitCount": 3,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90113,
+              "unitCount": 2,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910720,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_Front_YongjinTower",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90111,
+              "unitCount": 3,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90110,
+              "unitCount": 2,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910721,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_YongjinTower_2F",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90111,
+              "unitCount": 3,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90112,
+              "unitCount": 2,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910722,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_YongjinTower_2F",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90111,
+              "unitCount": 3,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90113,
+              "unitCount": 2,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910723,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_YongjinTower_2F",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90112,
+              "unitCount": 3,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90110,
+              "unitCount": 2,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910724,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_YongjinTower_2F",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90112,
+              "unitCount": 3,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 2,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910725,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_YongjinTower_2F",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90112,
+              "unitCount": 3,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90113,
+              "unitCount": 2,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910726,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_YongjinTower_2F",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90113,
+              "unitCount": 3,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90110,
+              "unitCount": 2,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910727,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_YongjinTower_2F",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90113,
+              "unitCount": 3,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 2,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910728,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_YongjinTower_2F",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90113,
+              "unitCount": 3,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90112,
+              "unitCount": 2,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910739,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_YongjinTower_2F",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90110,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90112,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 91013,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910740,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_YongjinTower_2F",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90110,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90113,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 91013,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910741,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_YongjinTower_3~5F",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90110,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90112,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90113,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 91013,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910742,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_YongjinTower_3~5F",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90111,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90110,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90112,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 91013,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910743,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_YongjinTower_3~5F",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90111,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90110,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90113,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 91013,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910744,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_YongjinTower_3~5F",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90111,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90112,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90113,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 91013,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910745,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_YongjinTower_3~5F",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90112,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90110,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 91013,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910746,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_YongjinTower_3~5F",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90112,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90110,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90113,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 91013,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910747,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_YongjinTower_3~5F",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90112,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90113,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 91013,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910748,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_YongjinTower_3~5F",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90113,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90110,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 91013,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910749,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_YongjinTower_3~5F",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90113,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90110,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90112,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 91013,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 910750,
+      "stageLevel": 40,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_YongjinTower_3~5F",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90113,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90112,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 91013,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    }
+  ]
+}
