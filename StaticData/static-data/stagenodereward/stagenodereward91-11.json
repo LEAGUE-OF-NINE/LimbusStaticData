@@ -34,6 +34,15 @@
       ],
       "exClearRewards": [
       ]
+    },
+    {
+      "nodeid": 911104,
+      "acquireExp": 0,
+      "acquireTotalExpForPersonality": 0,
+      "normalClearRewards": [
+      ],
+      "exClearRewards": [
+      ]
     }
   ]
 }

@@ -627,7 +627,7 @@
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnUse",
+              "scriptName": "GiveBuffOnTryEvade",
               "buffData": {
                 "buffKeyword": "Combustion",
                 "target": "Target",

@@ -25,6 +25,14 @@
       "priority": 6
     },
     {
+      "id": "NewUserDailyLoginEvent",
+      "priority": 7
+    },
+    {
+      "id": "ReturningUserDailyLoginEvent",
+      "priority": 8
+    },
+    {
       "id": "Membership_Remain_7days_Alarm",
       "priority": 99
     }

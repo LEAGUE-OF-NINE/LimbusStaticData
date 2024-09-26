@@ -118,7 +118,7 @@
       "category": "NORMAL",
       "spriteStr": "level_ticket_4"
     },
-
+    
     {
       "id": 231,
       "desc" : "인격 성장 도약 티켓",
@@ -138,11 +138,10 @@
       "spriteStr": "jumping_ticket_1",
       "itemUseType":"LEAPUP_TICKET"
     },
-
     {
       "id": 232,
       "desc": "도약 모듈 - 인격 동기화",
-
+      
       "itemUseFuncs":[
         {
           "itemUseFuncType":"PERSONALITY_GACKSUNG_TO",

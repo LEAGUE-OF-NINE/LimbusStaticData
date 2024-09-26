@@ -269,6 +269,8 @@
                 "item-200-ticket",
                 "item-300-consumable",
                 "item-400-consumablebox",
+                "item-500-optionalPersonality",
+                "item-600-optionalEgo",
                 "item-1100-season-randompackage",
                 "item-1100-season-randompackage-a1c5",
                 "item-1200-season-optionalpackage",
@@ -277,6 +279,7 @@
                 "item-piece-a1c5",
                 "item-20000-event",
                 "item-piece-a1c6",
+                "item-piece-growth-s4",
                 "item-1100-season-randompackage-a1c6",
                 "item-1200-season-optionalpackage-a1c6",
                 "item-100-gacha-a1c6"
@@ -695,7 +698,8 @@
             "fileList": [
                 "storytheater-dantenote-detail-1",
                 "storytheater-dantenote-detail-2",
-                "storytheater-dantenote-detail-3"
+                "storytheater-dantenote-detail-3",
+                "storytheater-dantenote-detail-4"
             ]
         },
         {
@@ -975,7 +979,8 @@
         {
             "dataClass": "main-event",
             "fileList": [
-                "main-event"
+              "main-event",
+              "permanent-main-event"
             ]
         },
         {
@@ -1109,7 +1114,9 @@
             "fileList": [
                 "limbus-1st-gift-240227",
                 "mowe-event",
-                "walpu4-event-data"
+                "walpu4-event-data",
+                "newuser-event",
+                "returninguser-event"
             ]
         },
         {
@@ -1164,7 +1171,8 @@
         {
             "dataClass": "unlockcode",
             "fileList": [
-                "unlockcode-subchapter"
+                "unlockcode-subchapter",
+                "unlockcode-event-user"
             ]
         },
         {
@@ -1176,13 +1184,14 @@
         {
             "dataClass": "mission",
             "fileList": [
-                "event-walpu4-mission"
+                "return-mission"
             ]
         },
         {
             "dataClass": "mission-condition",
             "fileList": [
-                "event-walpu4-mission-condition"
+                "return-mission-condition",
+                "return-mission-open-condition"
             ]
         },
         {

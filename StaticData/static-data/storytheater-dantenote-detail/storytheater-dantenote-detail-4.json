@@ -1,0 +1,58 @@
+{
+  "defaultOpenOrder": 49,
+  "maxOpenOrder": 56,
+  "startDate": "2024-09-25T21:00:00.000Z",
+  "endDate":"2024-10-02T21:00:00.000Z",
+  "openConditionChapter": 9110,
+  "list": [
+    {
+      "id": 115,
+      "openOrder": 50,
+      "openDate": "",
+      "titleOrder": 1,
+      "days": "984.11.20"
+    },
+    {
+      "id": 121,
+      "openOrder": 51,
+      "openDate": "",
+      "titleOrder": 1,
+      "days": "984.11.21"
+    },
+    {
+      "id": 117,
+      "openOrder": 52,
+      "openDate": "",
+      "titleOrder": 3,
+      "days": "984.11.22"
+    },
+    {
+      "id": 120,
+      "openOrder": 53,
+      "openDate": "",
+      "titleOrder": 1,
+      "days": "984.11.23"
+    },
+    {
+      "id": 116,
+      "openOrder": 54,
+      "openDate": "",
+      "titleOrder": 1,
+      "days": "984.11.24"
+    },
+    {
+      "id": 118,
+      "openOrder": 55,
+      "openDate": "",
+      "titleOrder": 2,
+      "days": "984.11.25"
+    },
+    {
+      "id": 119,
+      "openOrder": 56,
+      "openDate": "",
+      "titleOrder": 4,
+      "days": "984.11.26"
+    }
+  ]
+}

@@ -6,7 +6,8 @@
       "endDate": "2024-12-31T14:59:59.999Z",
       "seasonalPieceRandomPackageId": 1104,
       "seasonalPieceOptionalPackageId": 1204,
-      "seasonalPieceIdList": [ 10104, 10204, 10304, 10404, 10504, 10604, 10704, 10804, 10904, 11004, 11104, 11204 ]
+      "seasonalPieceIdList": [ 10104, 10204, 10304, 10404, 10504, 10604, 10704, 10804, 10904, 11004, 11104, 11204 ],
+      "seasonalGlobalGrowthPiece": 12004
     }
   ]
 }

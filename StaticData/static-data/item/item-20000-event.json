@@ -149,6 +149,16 @@
       "ignoreExcess": true,
 
       "spriteStr": "mowe_event_item_2"
+    },
+    {
+      "id": 20022,
+
+      "ignoreExcess": true
+    },
+    {
+      "id": 20023,
+
+      "ignoreExcess": true
     }
   ]
 }

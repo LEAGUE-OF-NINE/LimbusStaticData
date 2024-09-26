@@ -534,12 +534,16 @@
       "name": "모제스",
       "krname": "모제스",
       "fileName": "",
+      "nameTagColor": "#0b1310",
+      "nameFontColor": "#fbf9f8",
       "nickName": "LCD"
     },
     {
       "name": "에즈라",
       "krname": "에즈라",
       "fileName": "",
+      "nameTagColor": "#384049",
+      "nameFontColor": "#ce8e5e",
       "nickName": "LCD"
     },
     {

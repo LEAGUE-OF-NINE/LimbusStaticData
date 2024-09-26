@@ -1,0 +1,1013 @@
+{
+  "list": [
+    {
+      "id": 103001001,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103001001,
+        "value": 1
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 301,
+          "num": 1
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "스테이지 누적 클리어 1회"
+      }
+    },
+    {
+      "id": 103001002,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103001001,
+        "value": 4
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 301,
+          "num": 1
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "스테이지 누적 클리어 4회"
+      }
+    },
+    {
+      "id": 103001003,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103001001,
+        "value": 9
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 301,
+          "num": 1
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "스테이지 누적 클리어 9회"
+      }
+    },
+    {
+      "id": 103001004,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103001001,
+        "value": 16
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 301,
+          "num": 1
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "스테이지 누적 클리어 16회"
+      }
+    },
+    {
+      "id": 103001005,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103001001,
+        "value": 25
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 301,
+          "num": 2
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "스테이지 누적 클리어 25회"
+      }
+    },
+
+
+
+    {
+      "id": 103002001,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103002001,
+        "value": 1
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 11,
+          "num": 1
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "경험치 채광 1회"
+      }
+    },
+    {
+      "id": 103002002,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103002001,
+        "value": 3
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 11,
+          "num": 1
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "경험치 채광"
+      }
+    },
+    {
+      "id": 103002003,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103002001,
+        "value": 6
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 11,
+          "num": 1
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "경험치 채광"
+      }
+    },
+    {
+      "id": 103002004,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103002001,
+        "value": 9
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 11,
+          "num": 1
+        },
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 8
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "경험치 채광"
+      }
+    },
+    {
+      "id": 103002005,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103002001,
+        "value": 12
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 11,
+          "num": 1
+        },
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 10
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "경험치 채광"
+      }
+    },
+
+
+
+    {
+      "id": 103003001,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103003001,
+        "value": 1
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 11,
+          "num": 1
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "끈 채광"
+      }
+    },
+    {
+      "id": 103003002,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103003001,
+        "value": 3
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 11,
+          "num": 1
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "끈 채광"
+      }
+    },
+    {
+      "id": 103003003,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103003001,
+        "value": 6
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 11,
+          "num": 1
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "끈 채광"
+      }
+    },
+    {
+      "id": 103003004,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103003001,
+        "value": 9
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 11,
+          "num": 1
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 14
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "끈 채광"
+      }
+    },
+    {
+      "id": 103003005,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103003001,
+        "value": 12
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 11,
+          "num": 1
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 16
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "끈 채광"
+      }
+    },
+
+
+
+    {
+      "id": 103004001,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103004001,
+        "value": 1
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 11,
+          "num": 1
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags"
+      }
+    },
+    {
+      "id": 103004002,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103004002,
+        "value": 1
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 11,
+          "num": 2
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags"
+      }
+    },
+    {
+      "id": 103004003,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103004003,
+        "value": 1
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 11,
+          "num": 3
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags"
+      }
+    },
+    {
+      "id": 103004004,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103004004,
+        "value": 1
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 11,
+          "num": 6
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags"
+      }
+    },
+    {
+      "id": 103004005,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103004004,
+        "value": 3
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 11,
+          "num": 16
+        },
+        {
+          "type": "ITEM",
+          "id": 101,
+          "num": 1
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags"
+      }
+    },
+
+
+
+    {
+      "id": 103005001,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103005001,
+        "value": 1
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 8
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags"
+      }
+    },
+    {
+      "id": 103005002,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103005001,
+        "value": 3
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 16
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags"
+      }
+    },
+    {
+      "id": 103005003,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103005002,
+        "value": 1
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 20
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags"
+      }
+    },
+    {
+      "id": 103005004,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103005003,
+        "value": 1
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 40
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags"
+      }
+    },
+    {
+      "id": 103005005,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103005004,
+        "value": 1
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 30
+        },
+        {
+          "type": "ITEM",
+          "id": 12004,
+          "num": 25
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags"
+      }
+    },
+
+
+
+    {
+      "id": 103006001,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103006001,
+        "value": 1
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 11,
+          "num": 1
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags"
+      }
+    },
+    {
+      "id": 103006002,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103006001,
+        "value": 5
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 11,
+          "num": 1
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags"
+      }
+    },
+    {
+      "id": 103006003,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103006001,
+        "value": 10
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 11,
+          "num": 2
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags"
+      }
+    },
+    {
+      "id": 103006004,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103006002,
+        "value": 1
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 11,
+          "num": 2
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags"
+      }
+    },
+    {
+      "id": 103006005,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103006002,
+        "value": 5
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 11,
+          "num": 6
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags"
+      }
+    },
+
+
+
+    {
+      "id": 103009001,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103009001,
+        "value": 4
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 101,
+          "num": 1
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags"
+      }
+    },
+    {
+      "id": 103009002,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103009001,
+        "value": 10
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 101,
+          "num": 1
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags"
+      }
+    },
+    {
+      "id": 103009003,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103009001,
+        "value": 18
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 101,
+          "num": 1
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags"
+      }
+    },
+    {
+      "id": 103009004,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103009001,
+        "value": 24
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 12004,
+          "num": 75
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags"
+      }
+    },
+    {
+      "id": 103009005,
+      "category": "RETURN",
+      "startDate": "2024-09-26T03:00:00.000Z",
+      "endDate": "2024-10-30T20:59:59.000Z",
+      "requiredCondition": {
+        "id": 103009001,
+        "value": 30
+      },
+      "openCondition": {
+        "id": 104001001,
+        "value": 1
+      },
+      "openType": "OPEN_ONCE",
+      "openPeriod": 14,
+      "progressType": "FROM_CURRENT",
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 232,
+          "num": 1
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags"
+      }
+    }
+
+  ]
+}

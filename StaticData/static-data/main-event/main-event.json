@@ -1,19 +1,19 @@
 {
   "list": [
     {
-      "eventId": "Walpu4",
+      "eventId": "NewUserDailyLoginEvent",
       "mainUIPhaseTypeList": [
-        "Lobby",
-        "Stage"
+        "Lobby"
       ],
-      "bannerSpriteId": "banner_NoonOfViolet",
+      "bannerSpriteId": "banner_NewUser_event",
       "isBannerVisible": true
     },
     {
-      "eventId": "Walpu4Reward",
+      "eventId": "ReturningUserDailyLoginEvent",
       "mainUIPhaseTypeList": [
-        "Stage"
+        "Lobby"
       ],
+      "bannerSpriteId": "banner_ReturnUser",
       "isBannerVisible": true
     },
     {

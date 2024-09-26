@@ -615,5 +615,21 @@
       "unlockcode": 105,
       "maxlevel": 45
     }
-  ]
+  ],
+  "newUserDefinition": {
+    "eventId": 15,
+    "eventUnlockCode": 90001,
+    "unlockCodeExpireDay": 30
+  },
+  "returningUserDefinition": {
+    "eventId": 16,
+    "eventUnlockCode": 90002,
+    "unlockCodeExpireDay": 14,
+    "returnCoolTimeDay": 60,
+    "checkingEndDate": "2024-10-30T21:00:00.000Z",
+    "returnCondition": {
+      "unlockCode": 101
+    }
+  },
+  "returningUserPackageId": 401
 }

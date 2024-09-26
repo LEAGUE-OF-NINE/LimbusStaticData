@@ -6,9 +6,7 @@
       "valueType": "PEAK",
       "targetList1": [ 10550, 10552 ],
       "targetList2": [ 0 ],
-      "targetList3": [],
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z"
+      "targetList3": []
     },
     {
       "id": 10002,
@@ -16,9 +14,7 @@
       "valueType": "PEAK",
       "targetList1": [ 10550, 10552 ],
       "targetList2": [ 8149, 90108 ],
-      "targetList3": [],
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z"
+      "targetList3": []
     },
     {
       "id": 10003,
@@ -26,9 +22,7 @@
       "valueType": "PEAK",
       "targetList1": [ 10550, 10552 ],
       "targetList2": [ 8150, 90109 ],
-      "targetList3": [],
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z"
+      "targetList3": []
     },
     {
       "id": 10004,
@@ -36,9 +30,7 @@
       "valueType": "ACCUMULATED",
       "targetList1": [ 10550, 10552 ],
       "targetList2": [ 0 ],
-      "targetList3": [ 0 ],
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z"
+      "targetList3": [ 0 ]
     },
     {
       "id": 10005,
@@ -46,9 +38,7 @@
       "valueType": "ACCUMULATED",
       "targetList1": [ 10550, 10552 ],
       "targetList2": [ 0 ],
-      "targetList3": [ 0 ],
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z"
+      "targetList3": [ 0 ]
     },
     {
       "id": 10006,
@@ -56,9 +46,7 @@
       "valueType": "PEAK",
       "targetList1": [ 10550, 10552 ],
       "targetList2": [ 0 ],
-      "targetList3": [ 0 ],
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z"
+      "targetList3": [ 0 ]
     },
     {
       "id": 10007,
@@ -66,9 +54,7 @@
       "valueType": "PEAK",
       "targetList1": [ 10550, 10552 ],
       "targetList2": [ 0 ],
-      "targetList3": [ 1 ],
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z"
+      "targetList3": [ 1 ]
     },
     {
       "id": 10008,
@@ -76,9 +62,7 @@
       "valueType": "ACCUMULATED",
       "targetList1": [ 10550, 10552 ],
       "targetList2": [ 10 ],
-      "targetList3": [ 1 ],
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z"
+      "targetList3": [ 1 ]
     },
     {
       "id": 20001,
@@ -86,9 +70,7 @@
       "valueType": "PEAK",
       "targetList1": [ 10551, 10553 ],
       "targetList2": [ 0 ],
-      "targetList3": [],
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z"
+      "targetList3": []
     },
     {
       "id": 20002,
@@ -96,9 +78,7 @@
       "valueType": "PEAK",
       "targetList1": [ 10551, 10553 ],
       "targetList2": [ 8149, 90108 ],
-      "targetList3": [],
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z"
+      "targetList3": []
     },
     {
       "id": 20003,
@@ -106,9 +86,7 @@
       "valueType": "PEAK",
       "targetList1": [ 10551, 10553 ],
       "targetList2": [ 8150, 90109 ],
-      "targetList3": [],
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z"
+      "targetList3": []
     },
     {
       "id": 20004,
@@ -116,9 +94,7 @@
       "valueType": "ACCUMULATED",
       "targetList1": [ 10551, 10553 ],
       "targetList2": [ 0 ],
-      "targetList3": [ 0 ],
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z"
+      "targetList3": [ 0 ]
     },
     {
       "id": 20005,
@@ -126,9 +102,7 @@
       "valueType": "ACCUMULATED",
       "targetList1": [ 10551, 10553 ],
       "targetList2": [ 0 ],
-      "targetList3": [ 0 ],
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z"
+      "targetList3": [ 0 ]
     },
     {
       "id": 20006,
@@ -136,9 +110,7 @@
       "valueType": "PEAK",
       "targetList1": [ 10551, 10553 ],
       "targetList2": [ 0 ],
-      "targetList3": [ 0 ],
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z"
+      "targetList3": [ 0 ]
     },
     {
       "id": 20007,
@@ -146,9 +118,7 @@
       "valueType": "PEAK",
       "targetList1": [ 10551, 10553 ],
       "targetList2": [ 0 ],
-      "targetList3": [ 1 ],
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z"
+      "targetList3": [ 1 ]
     },
     {
       "id": 20008,
@@ -156,9 +126,7 @@
       "valueType": "ACCUMULATED",
       "targetList1": [ 10551, 10553 ],
       "targetList2": [ 5 ],
-      "targetList3": [ 1 ],
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z"
+      "targetList3": [ 1 ]
     },
     {
       "id": 30001,

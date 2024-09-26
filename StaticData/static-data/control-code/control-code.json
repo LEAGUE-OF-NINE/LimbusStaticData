@@ -86,5 +86,7 @@
   "isSendblog": true,
   "battleLogCheckSize": 4194304,
   "isEnableFetchSynchronousApi": true,
-  "isSolveBattlePassEscBuff": true
+  "isSolveBattlePassEscBuff": true,
+  "isEnableShopUseUnlockcode": true,
+  "warningReturnMissionIds": [ 103005005, 103009004 ]
 }

@@ -689,6 +689,38 @@
         }
       ],
       "priorityForUI": 77
+    },
+    
+    
+    
+    {
+      "id": 401,
+      "category": "PACKAGE",
+      "returnpolicytype": "PACKAGE_C",
+      "productId": "special_pack_for_return_user_1st",
+      "priceTier": 7,
+      "chanceId": 1401,
+      "unlockCondition": {
+        "unlockCode": 90002
+      },
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 101,
+          "num": 5
+        },
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 45
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 100
+        }
+      ],
+      "priorityForUI": 100
     }
   ]
 }

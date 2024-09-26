@@ -11,5 +11,20 @@
   "expDungeonBonusChanceId": 10003,
   "threadDungeonBonusChanceId": 10004,
   "railwayDungeonIds": [ 4 ],
-  "isRailwayDungeonOpened": true
+  "isRailwayDungeonOpened": true,
+
+  "expDungeonBuffReward": {
+    "unlockCondition": {
+      "unlockCode": 90002
+    },
+    "chanceId": 10009,
+    "buffRewardModify": 2
+  },
+  "threadDungeonBuffReward": {
+    "unlockCondition": {
+      "unlockCode": 90002
+    },
+    "chanceId": 10010,
+    "buffRewardModify": 2
+  }
 }

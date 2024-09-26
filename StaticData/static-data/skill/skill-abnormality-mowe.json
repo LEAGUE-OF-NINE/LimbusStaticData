@@ -429,7 +429,7 @@
               "scriptName": "EmptyBody"
             },
             {
-              "scriptName": "SkillPowerAdderOnUseViaBuffCheckDevideByTurnWithLimit4",
+              "scriptName": "SkillPowerAdderOnTryEvadeViaBuffCheckDevideByTurnWithLimit4",
               "buffData": {
                 "buffKeyword": "Laceration",
                 "target": "",

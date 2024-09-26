@@ -8,6 +8,15 @@
       "middleCategoryList": [
         {
           "middleCategory": {
+            "id": 112,
+            "name": "CityDirection",
+            "danteNoteDetailId": [
+              116
+            ]
+          }
+        }  ,
+        {
+          "middleCategory": {
             "id": 101,
             "name": "Limbuscompany",
             "danteNoteDetailId": [
@@ -89,6 +98,13 @@
                     108,
                     110
                   ]
+                },
+                {
+                  "id": 1010208,
+                  "name": "Line4",
+                  "danteNoteDetailId": [
+                    120
+                  ]
                 }
               ]
             },
@@ -120,7 +136,8 @@
                 "name": "Goldenbranch",
                 "danteNoteDetailId": [
                   20,
-                  42
+                  42,
+                  117
                   
                 ]
               }
@@ -140,6 +157,15 @@
                 "name": "LCD",
                 "danteNoteDetailId": [
                   102                  
+                ]
+              }
+            },
+            {
+              "smallCategory": {
+                "id": 10108,
+                "name": "PDA",
+                "danteNoteDetailId": [
+                  121                  
                 ]
               }
             }
@@ -222,7 +248,8 @@
                 "danteNoteDetailId": [
                   45,
                   52,
-                  55
+                  55,
+                  119
                 ]
               }
             },
@@ -231,7 +258,8 @@
                 "id": 10207,
                 "name": "NestT",
                 "danteNoteDetailId": [
-                  79
+                  79,
+                  118
                 ]
               }
             },
@@ -338,6 +366,15 @@
               "name": "Armory",
               "danteNoteDetailId": [
                 86
+              ]
+            }
+          },
+          {
+            "smallCategory": {
+              "id": 10304,
+              "name": "ButlerAssoc",
+              "danteNoteDetailId": [
+                115
               ]
             }
           }
@@ -615,7 +652,8 @@
               }
             }
           ]
-        }            
+        }
+          
       ]
     }
   ]
