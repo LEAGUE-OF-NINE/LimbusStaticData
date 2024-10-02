@@ -281,6 +281,15 @@
                   103
                 ]
               }
+            },
+            {
+              "smallCategory": {
+                "id": 10210,
+                "name": "NestP",
+                "danteNoteDetailId": [
+                  125
+                ]
+              }
             }
           ]
         },
@@ -344,7 +353,15 @@
                 "id": 1030106,
                 "name": "DebatyAsso",
                 "danteNoteDetailId": [
-                  84
+                  84,
+                  127
+                ]
+              },
+              {
+                "id": 1030107,
+                "name": "ZweiAsso",
+                "danteNoteDetailId": [
+                  126
                 ]
               }
             ]
@@ -405,6 +422,15 @@
                 "name": "Kurokumo",
                 "danteNoteDetailId": [
                   19
+                ]
+              }
+            },
+            {
+              "smallCategory": {
+                "id": 10404,
+                "name": "Yurodivy",
+                "danteNoteDetailId": [
+                  128
                 ]
               }
             }
@@ -537,7 +563,26 @@
                 "name": "Monolith",
                 "danteNoteDetailId": [
                   105,
-                  107
+                  107,
+                  123
+                ]
+              }
+            },
+            {
+              "smallCategory": {
+                "id": 10513,
+                "name": "DimensionTrunk",
+                "danteNoteDetailId": [
+                  130
+                ]
+              }
+            },
+            {
+              "smallCategory": {
+                "id": 10514,
+                "name": "MirrorWorld",
+                "danteNoteDetailId": [
+                  122
                 ]
               }
             }
@@ -627,7 +672,8 @@
             "name": "Distortion",
             "danteNoteDetailId": [
               96,
-              98
+              98,
+              124
             ]
           },
           "smallCategoryList": [
@@ -637,7 +683,8 @@
                 "name": "Peccatula",
                 "danteNoteDetailId": [
                   97,
-                  99
+                  99,
+                  129
                 ]
               }
             },

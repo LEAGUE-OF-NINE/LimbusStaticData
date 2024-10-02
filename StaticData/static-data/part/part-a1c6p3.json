@@ -1803,14 +1803,18 @@
           "uiConfig": {
             "illustId": "story-id_E061X",
             "customChapterText": 1,
-            "mapAreaId": 9109
+            "mapAreaId": 9109,
+            "timeLine": "984-11"
           }
         },
         {
           "chapterId": 91,
           "subchapterId": 9109,
           "type": "SUB",
-          "relatedEventId": "TKT"
+          "relatedEventId": "TKT",
+          "uiConfig": {
+            "timeLine": "984-12"
+          }
         },
         {
           "subchapterId": 9017,
@@ -1821,14 +1825,18 @@
           "uiConfig": {
             "illustId": "story-id_E063X",
             "customChapterText": "2",
-            "mapAreaId": 9109
+            "mapAreaId": 9109,
+            "timeLine": "984-12"
           }
         },
         {
           "chapterId": 91,
           "subchapterId": 9110,
           "type": "SUB",
-          "relatedEventId": "MOWE"
+          "relatedEventId": "MOWE",
+          "uiConfig": {
+            "timeLine": "984-12"
+          }
         },
         {
           "isUnlockByUnlockCode": true,
@@ -1845,7 +1853,8 @@
             "customChapterText": 3,
             "region": "p",
             "mapAreaId": 9111,
-            "chapterTagIconType": "BATTLE"
+            "chapterTagIconType": "BATTLE",
+            "timeLine": "984-12"
           }
         }
       ]

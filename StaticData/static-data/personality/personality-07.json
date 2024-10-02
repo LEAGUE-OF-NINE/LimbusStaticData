@@ -430,6 +430,7 @@
       "characterId": 7,
       "panicType": 9999,
       "season": 2,
+      "isPlusCoinUnit" : false,
       "defenseSkillIDList": [
         1070504
       ],

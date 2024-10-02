@@ -533,14 +533,18 @@
     {
       "name": "모제스",
       "krname": "모제스",
+      "jpname": "モーゼス",
+      "enname": "Moses",
       "fileName": "",
       "nameTagColor": "#0b1310",
-      "nameFontColor": "#fbf9f8",
+      "nameFontColor": "#fee265",
       "nickName": "LCD"
     },
     {
       "name": "에즈라",
       "krname": "에즈라",
+      "jpname": "エズラ",
+      "enname": "Ezra",
       "fileName": "",
       "nameTagColor": "#384049",
       "nameFontColor": "#ce8e5e",

@@ -289,7 +289,7 @@
     {
       "id": 2060511,
       "skillType": "EGO_AWAKEN",
-      "skillTier": 2,
+      "skillTier": 3,
       "requireIDList": [],
       "skillData": [
         {
@@ -440,7 +440,7 @@
     {
       "id": 2060521,
       "skillType": "EGO_EROSION",
-      "skillTier": 2,
+      "skillTier": 3,
       "requireIDList": [],
       "skillData": [
         {

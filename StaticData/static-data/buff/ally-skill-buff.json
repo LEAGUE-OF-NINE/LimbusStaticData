@@ -840,6 +840,33 @@
           "ability": "DevyatDimensionalSack"
         }
       ]
+    },
+    {
+      "id": "DefensiveStance",
+      "buffClass": "RenewalTypeBuff",
+      "buffType": "Positive",
+      "maxStack": 2,
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "DefensiveStance",
+          "value": 10,
+          "buffData": {
+            "buffKeyword": "DefenseUp",
+            "target": "Self",
+            "stack": 5,
+            "turn": 0,
+            "activeRound": 1
+          }
+        },
+        {
+          "ability": "LoseStackOnRoundEnd",
+          "value": 1
+        },
+        {
+          "ability": "CanChangeMainTargetEvenIfSlower"
+        }
+      ]
     }
   ]
 }

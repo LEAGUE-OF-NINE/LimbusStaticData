@@ -10,7 +10,8 @@
       "passSeasonInfo": {
         "startDate": "2024-03-27T21:00:00.000Z",
         "startDateForUI": "2024-03-27T21:00:00.000Z",
-        "endDate": "2024-12-31T14:59:59.999Z",
+        "endDate": "2024-10-09T21:00:00.000Z",
+        "endDateForUI": "2024-10-09T21:00:00.000Z",
         "banner": "banner_battlepass4",
         "acquirableEgoIds": [
         ],
@@ -2635,7 +2636,8 @@
         ]
       },
       "uiConfigs": {
-        "bannerId": "banner_battlepass_season4"
+        "bannerId": "banner_battlepass_season4",
+        "isShowEndDate": true
       },
       "limbusPassPriceinfo": {
         "requiredItemId": 1,

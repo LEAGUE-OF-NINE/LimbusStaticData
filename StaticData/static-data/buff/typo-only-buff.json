@@ -149,6 +149,20 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": []
+    },
+    {
+      "id": "CanDuelGuard",
+      "buffClass": "TypoOnlyBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": []
+    },
+    {
+      "id": "SuperCoin",
+      "buffClass": "TypoOnlyBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": []
     }
   ]
 }

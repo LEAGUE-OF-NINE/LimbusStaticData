@@ -150,6 +150,21 @@
           ],
           "profileId": "butler_ishmael_profile",
           "analysisId": "butler_ishmael_analysis"
+        },
+        {
+          "personalityId": 10810,
+          "releaseDay": 20241003,
+          "cv_Id": "",
+          "personalityStoryList": [
+            {
+              "storyId": "P10810",
+              "lockCondition": [
+                {"condition": "gacksung"}
+              ],
+              "order": 1,
+              "reward": {"type": "ITEM", "id": 2, "num": 40}
+            }
+          ]
         }
         ]
     }
