@@ -1314,7 +1314,7 @@
       "pivotList": [
         {
           "cutsceneType": "GACKSUNG_BEFORE",
-          "offsetX": 12,
+          "offsetX": 0.12,
           "offsetY": 0.18,
           "closeUp": 0.8
         },

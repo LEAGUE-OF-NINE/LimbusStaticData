@@ -1569,7 +1569,7 @@
     {
       "id": "DefensiveStance",
       "name": "Defensive Stance",
-      "desc": "- Max Value: 2\n- This effect does not compound in potency; stacking it only extends its duration.\n- Reduced by 1 at Turn End\n- When a unit gains this effect, gain the following effects:\n  · Fix this unit's Speed to its minimum value\n  · Gain 5 Defense Level Up\n  · Each of this unit's Slots gain +(10 / this unit's # of Slots) Aggro\n  · When chaining Skills, this unit can draw enemies' attack toward this unit regardless of Speed (Focused Encounters only)\n  · Upon Clash Win, trigger Tremor Burst\n  · Cannot be Staggered by damage",
+      "desc": "- Max Value: 2\n- This effect does not compound in potency; stacking it only extends its duration.\n- Reduced by 1 at Turn End\n- When a unit gains this effect, gain the following effects next turn:\n  · Fix this unit's Speed to its minimum value\n  · Gain 5 Defense Level Up\n  · Each of this unit's Slots gain +(10 / this unit's # of Slots) Aggro\n  · When chaining Skills, this unit can draw enemies' attack toward this unit regardless of Speed (Focused Encounters only)\n  · Upon Clash Win, trigger Tremor Burst\n  · Cannot be Staggered by damage",
       "summary": ""
     },
     {
