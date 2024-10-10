@@ -1,0 +1,19 @@
+{
+  "list": [
+    {
+      "id": 1106,
+      "max": 1,
+      "resetTimeType": "MONTHLY"
+    },
+    {
+      "id": 1601,
+      "max": 1,
+      "resetTimeType": "SEASONAL"
+    },
+    {
+      "id": 1602,
+      "max": 1,
+      "resetTimeType": "SEASONAL"
+    }
+  ]
+}

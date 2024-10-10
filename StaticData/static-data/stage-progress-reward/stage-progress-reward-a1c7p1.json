@@ -1,0 +1,16 @@
+{
+  "list": [
+    {
+      "mainchapterid": 1,
+      "subchapterlist": [
+        {
+          "subchapterid": 107,
+          "progressRewardList": [
+          ],
+          "excludedNodeIdList": [
+          ]
+        }
+      ]
+    }
+  ]
+}
