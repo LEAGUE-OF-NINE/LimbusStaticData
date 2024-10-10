@@ -2,7 +2,7 @@
   "list": [
     {
       "id": 4,
-      "isCurrentForUI": true,
+      "isCurrentForUI": false,
       "currentPartitionForUI": 2,
       "isExRewardAcquirable": true,
       "limbusExRewardAcquireType": "COLLECT_FROM_MAX_LEVEL",

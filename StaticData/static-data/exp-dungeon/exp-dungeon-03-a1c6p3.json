@@ -2,12 +2,13 @@
   "list": [
     {
       "id": 6,
+      "groupid": 5,
       "requiredItem": {
         "id": 11,
         "num": 3,
         "type": "ITEM"
       },
-	  "skipRequiredItem": {
+	    "skipRequiredItem": {
         "id": 11,
         "num": 6,
         "type": "ITEM"
@@ -26,17 +27,17 @@
         "rewards": [
           {
             "id": 214,
-            "num": 2,
+            "num": 4,
             "type": "ITEM"
           },
           {
             "id": 213,
-            "num": 6,
+            "num": 2,
             "type": "ITEM"
           },
           {
             "id": 212,
-            "num": 3,
+            "num": 2,
             "type": "ITEM"
           }
         ]

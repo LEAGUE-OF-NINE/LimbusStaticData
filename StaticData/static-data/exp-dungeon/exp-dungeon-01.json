@@ -2,12 +2,13 @@
   "list": [
     {
       "id": 1,
+      "groupid": 1,
       "requiredItem": {
         "id": 11,
         "num": 2,
         "type": "ITEM"
       },
-	  "skipRequiredItem": {
+	    "skipRequiredItem": {
         "id": 11,
         "num": 4,
         "type": "ITEM"
@@ -40,12 +41,13 @@
     },
     {
       "id": 2,
+      "groupid": 2,
       "requiredItem": {
         "id": 11,
         "num": 2,
         "type": "ITEM"
       },
-	  "skipRequiredItem": {
+      "skipRequiredItem": {
         "id": 11,
         "num": 4,
         "type": "ITEM"
@@ -74,16 +76,17 @@
           }
         ]
       },
-	  "skipRewardModify": 1.5
+      "skipRewardModify": 1.5
     },
     {
       "id": 3,
+      "groupid": 3,
       "requiredItem": {
         "id": 11,
         "num": 2,
         "type": "ITEM"
       },
-	  "skipRequiredItem": {
+      "skipRequiredItem": {
         "id": 11,
         "num": 4,
         "type": "ITEM"
@@ -112,7 +115,7 @@
           }
         ]
       },
-	  "skipRewardModify": 1.5
+      "skipRewardModify": 1.5
     }
   ]
 }

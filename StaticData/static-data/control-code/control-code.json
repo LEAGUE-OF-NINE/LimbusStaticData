@@ -88,6 +88,7 @@
   "isEnableFetchSynchronousApi": true,
   "isSolveBattlePassEscBuff": true,
   "isEnableShopUseUnlockcode": true,
-  "warningReturnMissionIds": [ 103005005, 103009004 ],
-  "isEnableSteamWalletUpdate": true
+  "warningReturnMissionIds": [],
+  "isEnableSteamWalletUpdate": true,
+  "tempSolveEgoGacksungOnPassiveTab": true
 }

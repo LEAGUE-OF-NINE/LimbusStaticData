@@ -7,85 +7,61 @@
 				"priority": 14
 			},
 			"groups": [
+
 				{
-					"groupType": "GACHA",
+					"groupType": "PASS",
 					"contents": [
-						{
-							"type": "PERSONALITY",
-							"id": 10408,
-							"price": 400
-						},
-						{
-							"type": "PERSONALITY",
-							"id": 10710,
-							"price": 400
-						},
-						{
-							"type": "PERSONALITY",
-							"id": 11108,
-							"price": 400
-						},
-						{
-							"type": "PERSONALITY",
-							"id": 11209,
-							"price": 400
-						},
-
-
-
-						{
-							"type": "PERSONALITY",
-							"id": 10209,
-							"price": 150
-						},
-						{
-							"type": "PERSONALITY",
-							"id": 10509,
-							"price": 150
-						},
-						{
-							"type": "PERSONALITY",
-							"id": 10809,
-							"price": 150
-						},
-
-
 
 						{
 							"type": "EGO",
-							"id": 20407,
-							"price": 400
+							"id": 20706,
+							"price": 400,
+							"paidLunacyPrice": 2600
+						},
+						{
+							"type": "EGO",
+							"id": 21106,
+							"price": 400,
+							"paidLunacyPrice": 2600
+						},
+						{
+							"type": "EGO",
+							"id": 20506,
+							"price": 400,
+							"paidLunacyPrice": 2600
+						},
+						{
+							"type": "EGO",
+							"id": 20306,
+							"price": 400,
+							"paidLunacyPrice": 2600
+						},
+						{
+							"type": "EGO",
+							"id": 21206,
+							"price": 400,
+							"paidLunacyPrice": 2600
+						},
+						{
+							"type": "EGO",
+							"id": 20106,
+							"price": 400,
+							"paidLunacyPrice": 2600
 						}
 					]
 				},
-
-
-
-
 				{
-					"groupType": "EVENT",
+					"groupType": "ANNOUNCER",
 					"contents": [
 						{
-							"type": "PERSONALITY",
-							"id": 10609,
-							"price": 400
+							"type": "ANNOUNCER",
+							"id": 13,
+							"paidLunacyPrice": 1300
 						},
 						{
-							"type": "PERSONALITY",
-							"id": 10210,
-							"price": 400
-						},
-
-
-						{
-							"type": "EGO",
-							"id": 20206,
-							"price": 400
-						},
-						{
-							"type": "EGO",
-							"id": 21107,
-							"price": 400
+							"type": "ANNOUNCER",
+							"id": 14,
+							"paidLunacyPrice": 1300
 						}
 					]
 				}

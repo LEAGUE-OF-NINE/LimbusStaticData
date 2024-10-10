@@ -8,6 +8,95 @@
 			},
 			"groups": [
 				{
+					"groupType": "GACHA",
+					"contents": [
+						{
+							"type": "EGO",
+							"id": 21205,
+							"price": 400
+						},
+
+
+						{
+							"type": "PERSONALITY",
+							"id": 10306,
+							"price": 400
+						},
+						{
+							"type": "PERSONALITY",
+							"id": 10707,
+							"price": 400
+						},
+						{
+							"type": "PERSONALITY",
+							"id": 10808,
+							"price": 400
+						},
+						{
+							"type": "PERSONALITY",
+							"id": 11207,
+							"price": 400
+						},
+
+
+						{
+							"type": "PERSONALITY",
+							"id": 10107,
+							"price": 150
+						},
+						{
+							"type": "PERSONALITY",
+							"id": 10406,
+							"price": 150
+						},
+						{
+							"type": "PERSONALITY",
+							"id": 10507,
+							"price": 150
+						}
+					]
+				},
+				{
+					"groupType": "EVENT",
+					"contents": [
+						{
+							"type": "EGO",
+							"id": 21105,
+							"price": 400
+						},
+						{
+							"type": "EGO",
+							"id": 20705,
+							"price": 400
+						},
+
+
+						{
+							"type": "PERSONALITY",
+							"id": 10508,
+							"price": 400
+						},
+						{
+							"type": "PERSONALITY",
+							"id": 10208,
+							"price": 400
+						},
+
+
+						{
+							"type": "PERSONALITY",
+							"id": 11208,
+							"price": 150
+						},
+						{
+							"type": "PERSONALITY",
+							"id": 10308,
+							"price": 150
+						}
+					]
+				},
+				
+				{
 					"groupType": "PASS",
 					"contents": [
 						{

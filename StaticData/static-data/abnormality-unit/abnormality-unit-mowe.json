@@ -3,7 +3,7 @@
     {
       "id": 8350,
       "appearance": "8350_CassetteAppearance",
-      "unitKeywordList": [ "SMALL" ],
+      "unitKeywordList": [ "BLOODFIEND", "DEPENDENT", "SMALL" ],
       "classType": "ZAYIN",
       "attributeType": "SCARLET",
       "hp": {
@@ -784,6 +784,7 @@
       "unitKeywordList": [
         "FIXER",
         "MACHINE_BOUND_ORGANISM",
+        "BLOODBAG",
         "SMALL"
       ],
       "level": 3,
@@ -843,6 +844,8 @@
       "unitKeywordList": [
         "FIXER",
         "MACHINE_BOUND_ORGANISM",
+        "BLOODFIEND", 
+        "DEPENDENT",
         "SMALL"
       ],
       "level": 3,
@@ -1218,6 +1221,7 @@
         "W_CORP"
       ],
       "unitKeywordList": [
+        "BLOODBAG",
         "SMALL"
       ],
       "level": 3,
@@ -1271,6 +1275,7 @@
       "sdPortrait": 90145,
       "appearance": "90145_Passenger_Blood_AAppearance",
       "unitKeywordList": [
+        "BLOODBAG",
         "SMALL"
       ],
       "level": 3,
@@ -1330,6 +1335,7 @@
       "unitKeywordList": [
         "FIXER",
         "MACHINE_BOUND_ORGANISM",
+        "BLOODBAG",
         "SMALL"
       ],
       "level": 3,
@@ -1390,6 +1396,8 @@
       "unitKeywordList": [
         "FIXER",
         "MACHINE_BOUND_ORGANISM",
+        "BLOODFIEND", 
+        "DEPENDENT",
         "SMALL"
       ],
       "level": 3,
@@ -1767,6 +1775,7 @@
         "W_CORP"
       ],
       "unitKeywordList": [
+        "BLOODBAG",
         "SMALL"
       ],
       "level": 3,
@@ -1821,6 +1830,7 @@
       "sdPortrait": 90145,
       "appearance": "90145_Passenger_Blood_AAppearance",
       "unitKeywordList": [
+        "BLOODBAG",
         "SMALL"
       ],
       "level": 3,
@@ -1871,7 +1881,8 @@
       "sdPortrait": 8350,
       "nameID": 8350,
       "appearance": "8350_CassetteAppearance",
-      "unitKeywordList": [ "SMALL" ],
+      "unitKeywordList": [ 
+        "BLOODFIEND", "DEPENDENT","SMALL" ],
       "classType": "ZAYIN",
       "attributeType": "SCARLET",
       "hp": {
@@ -2654,6 +2665,7 @@
       "unitKeywordList": [
         "FIXER",
         "MACHINE_BOUND_ORGANISM",
+        "BLOODBAG",
         "SMALL"
       ],
       "level": 3,
@@ -2715,6 +2727,8 @@
       "unitKeywordList": [
         "FIXER",
         "MACHINE_BOUND_ORGANISM",
+        "BLOODFIEND", 
+        "DEPENDENT",
         "SMALL"
       ],
       "level": 3,
@@ -3092,6 +3106,7 @@
         "W_CORP"
       ],
       "unitKeywordList": [
+        "BLOODBAG",
         "SMALL"
       ],
       "level": 3,
@@ -3147,6 +3162,7 @@
       "sdPortrait": 90145,
       "appearance": "90145_Passenger_Blood_AAppearance",
       "unitKeywordList": [
+        "BLOODBAG",
         "SMALL"
       ],
       "level": 3,
@@ -3202,6 +3218,7 @@
           "W_CORP"
       ],
       "unitKeywordList": [
+        "BLOODBAG",
         "SMALL"
       ],
       "level": 3,
@@ -3258,6 +3275,7 @@
           "W_CORP"
       ],
       "unitKeywordList": [
+        "BLOODBAG",
         "SMALL"
       ],
       "level": 3,
@@ -3315,6 +3333,7 @@
         "W_CORP"
       ],
       "unitKeywordList": [
+        "BLOODBAG",
         "SMALL"
       ],
       "level": 3,

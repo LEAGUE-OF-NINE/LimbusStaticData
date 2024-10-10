@@ -158,6 +158,21 @@
           ],
           "profileId": "dawn_sinclair_profile",
           "analysisId": "dawn_sinclair_analysis"
+        },
+        {
+          "personalityId": 11010,
+          "releaseDay": 20241010,
+          "cv_Id": "",
+          "personalityStoryList": [
+            {
+              "storyId": "P11010",
+              "lockCondition": [
+                {"condition": "gacksung"}
+              ],
+              "order": 1,
+              "reward":{"type":"ITEM","id":2,"num":40}
+            }
+          ]
         }
         ]
     }

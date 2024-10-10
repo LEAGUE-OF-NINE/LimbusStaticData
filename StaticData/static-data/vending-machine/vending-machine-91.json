@@ -4,7 +4,7 @@
 			"id": 91,
 			"bannerInfo": {
 				"bannerSpr": "banner_vendingMachine91",
-				"priority": 90,
+				"priority": 1,
 				"festival": true
 			},
 			"groups": [

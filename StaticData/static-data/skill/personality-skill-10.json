@@ -3979,7 +3979,7 @@
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
-            
+
           ],
           "coinList": [
             {
@@ -4015,7 +4015,7 @@
         {
           "gaksungLevel": 2,
           "abilityScriptList": [
-            
+
           ],
           "coinList": [
             {
@@ -4069,7 +4069,7 @@
           "targetNum": 1,
           "mpUsage": 0,
           "range": 5,
-          "arearange" : 3,
+          "arearange": 3,
           "skillLevelCorrection": 2,
           "defaultValue": 4,
           "canTeamKill": false,
@@ -4358,7 +4358,7 @@
             {
               "operatorType": "ADD",
               "scale": 3,
-              "actionIndex" :  3,
+              "actionIndex": 3,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
@@ -4605,7 +4605,7 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "range" :  8,
+          "range": 8,
           "skillLevelCorrection": 5,
           "defaultValue": 13,
           "canTeamKill": false,
@@ -4764,6 +4764,741 @@
                   }
                 }
               ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101001,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "SCARLET",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 0,
+          "defaultValue": 2,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "AddTauntOnUse3"
+            },
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "DefenseUp",
+                "target": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnWinDuel",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 2,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackAfterWinDuel",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "DefenseUp",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 2,
+          "abilityScriptList": [
+            {
+              "scriptName": "AddTauntOnUse3"
+            },
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "DefenseUp",
+                "target": "Self",
+                "stack": 2,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "ParryingPowerResultAdderOnStartTurnSelfViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Target",
+                "buffOwner": "Target",
+                "stack": 0,
+                "turn": 4,
+                "value": 1,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnWinDuel",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 2,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackAfterWinDuel",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "DefenseUp",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 3
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "AddTauntOnUse3"
+            },
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "DefenseUp",
+                "target": "Self",
+                "stack": 2,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "ParryingPowerResultAdderOnStartTurnSelfViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Target",
+                "buffOwner": "Target",
+                "stack": 0,
+                "turn": 4,
+                "value": 2,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnWinDuel",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 3,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackAfterWinDuel",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "DefenseUp",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101002,
+      "skillType": "SKILL",
+      "skillTier": 2,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "AZURE",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 1,
+          "defaultValue": 3,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "AddTauntOnUse3"
+            },
+            {
+              "scriptName": "GiveBuffOnWinDuel",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 2,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "TenthSinclairSecondSkillSecondCoinAbility_DefenseUp1(limit:1)",
+                  "buffData": {
+                    "buffKeyword": "AttackUp",
+                    "target": "Custom",
+                    "buffOwner": "",
+                    "stack": -1,
+                    "turn": 0,
+                    "activeRound": 1,
+                    "value": 3,
+                    "limit": 3
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 2,
+          "abilityScriptList": [
+            {
+              "scriptName": "AddTauntOnUse3"
+            },
+            {
+              "scriptName": "GiveBuffOnUsePerBuffTurn_Vibration2_Limit3",
+              "buffData": {
+                "buffKeyword": "DefenseUp",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "CoinScaleAdderOnStartTurnViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "DefenseUp",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": 4,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnWinDuel",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 3,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackAfterWinDuel",
+                  "buffData": {
+                    "buffKeyword": "DefenseUp",
+                    "target": "LowestHpRatioAllyExceptSelf1",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "TenthSinclairSecondSkillSecondCoinAbility_DefenseUp1(limit:1)",
+                  "buffData": {
+                    "buffKeyword": "AttackUp",
+                    "target": "Custom",
+                    "buffOwner": "",
+                    "stack": -1,
+                    "turn": 0,
+                    "activeRound": 1,
+                    "value": 2,
+                    "limit": 3
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 4
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "AddTauntOnUse3"
+            },
+            {
+              "scriptName": "GiveBuffOnUsePerBuffTurn_Vibration2_Limit3",
+              "buffData": {
+                "buffKeyword": "DefenseUp",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "CoinScaleAdderOnStartTurnViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "DefenseUp",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": 4,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnWinDuel",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 3,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackAfterWinDuel",
+                  "buffData": {
+                    "buffKeyword": "DefenseUp",
+                    "target": "LowestHpRatioAllyExceptSelf2",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "TenthSinclairSecondSkillSecondCoinAbility_DefenseUp2(limit:1)",
+                  "buffData": {
+                    "buffKeyword": "AttackUp",
+                    "target": "Custom",
+                    "buffOwner": "",
+                    "stack": -1,
+                    "turn": 0,
+                    "activeRound": 1,
+                    "value": 2,
+                    "limit": 3
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101003,
+      "skillType": "SKILL",
+      "skillTier": 3,
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ],
+      "skillData": [
+        {
+          "gaksungLevel": 3,
+          "attributeType": "AMBER",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 2,
+          "defaultValue": 4,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S3",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUsePerBuffTurn_Vibration2_Limit2",
+              "buffData": {
+                "buffKeyword": "DefenseUp",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "CoinScaleAdderOnStartTurnViaBuffCheckDevideByStackWithLimit2",
+              "buffData": {
+                "buffKeyword": "DefenseUp",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 3,
+                "turn": 0,
+                "value": 1,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+
+              "scale": 3,
+              "actionIndex": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "DefenseUp",
+                    "target": "LowestHpRatioAllyExceptSelf1",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "actionIndex": 2
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "actionIndex": 3,
+              "cutsceneStart": true,
+              "abilityScriptList": [
+                {
+                  "scriptName": "TenthSinclairThirdSkillThirdCoinAbility",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "Self",
+                    "stack": 0,
+                    "turn": -1,
+                    "activeRound": 0,
+                    "limit": 8
+                  }
+                },
+                {
+                  "scriptName": "VibrationExplosionOnSucceedAttackAndLoseTargetVibrationTurn1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUsePerBuffTurn_Vibration2_Limit4",
+              "buffData": {
+                "buffKeyword": "DefenseUp",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "CoinScaleAdderOnStartTurnViaBuffCheckDevideByStackWithLimit3",
+              "buffData": {
+                "buffKeyword": "DefenseUp",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 3,
+                "turn": 0,
+                "value": 1,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "actionIndex": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "DefenseUp",
+                    "target": "LowestHpRatioAllyExceptSelf1",
+                    "buffOwner": "",
+                    "stack": 4,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "actionIndex": 2
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "actionIndex": 3,
+              "cutsceneStart": true,
+              "abilityScriptList": [
+                {
+                  "scriptName": "TenthSinclairThirdSkillThirdCoinAbility",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "Self",
+                    "stack": 0,
+                    "turn": -1,
+                    "activeRound": 0,
+                    "limit": 8
+                  }
+                },
+                {
+                  "scriptName": "VibrationExplosionOnSucceedAttackAndLoseTargetVibrationTurn1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101004,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "GUARD",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "range" : 999,
+          "mpUsage": 0,
+          "skillLevelCorrection": 0,
+          "defaultValue": 2,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "AddTauntOnBattleStart5"
+            },
+            {
+              "scriptName": "GiveBuffOnUse(limit:1)",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "stack": 0,
+                "turn": 2,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "VibrationExplosionOnWinDuel"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 7
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "attributeType": "AMBER",
+          "iconID": "1101004_4",
+          "abilityScriptList": [
+            {
+              "scriptName": "AddTauntOnBattleStart5"
+            },
+            {
+              "scriptName": "GiveBuffOnUse(limit:1)",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "stack": 0,
+                "turn": 3,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "VibrationExplosionOnWinDuel"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 9
             }
           ]
         }

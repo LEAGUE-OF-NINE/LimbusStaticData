@@ -2907,6 +2907,61 @@
       ]
     },
     {
+      "id": 1101001,
+      "attributeStockCondition": [
+        {
+          "type": "AMBER",
+          "value": 5
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1101021,
+      "attributeStockCondition": [
+        {
+          "type": "AMBER",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1051101,
+      "attributeStockCondition": [
+        {
+          "type": "INDIGO",
+          "value": 2
+        },
+        {
+          "type": "SHAMROCK",
+          "value": 2
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1051121,
+      "attributeResonanceCondition": [
+        {
+          "type": "INDIGO",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1051102
+    },
+    {
       "id": 90001
     },
     {

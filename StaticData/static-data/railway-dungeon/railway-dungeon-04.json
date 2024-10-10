@@ -64,7 +64,7 @@
               "count": 100
             }
           ],
-          "endDate": "2025-12-29T21:00:00.000Z",
+          "endDate": "2024-10-09T21:00:00.000Z",
           "reward": {
             "type": "USERBANNER",
             "id": 40,
@@ -198,7 +198,7 @@
             }
           ],
           "startDateForUI": "2024-07-04T03:00:00.000Z",
-          "endDate": "2025-12-29T21:00:00.000Z",
+          "endDate": "2024-10-09T21:00:00.000Z",
           "rewards": [
             {
               "type": "USER_TICKET_DECO_LEFT",
