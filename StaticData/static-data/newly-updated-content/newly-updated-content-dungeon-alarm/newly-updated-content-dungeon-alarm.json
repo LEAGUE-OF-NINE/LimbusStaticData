@@ -1,7 +1,7 @@
 {
   "contentType": "DUNGEON",
   "conentIdList": [
-    "4th_walpurgis_night"
+    "EXP_DUNGEON_7_AND_THREAD_DUNGEON_4"
   ],
   "previouslyUsedContentIdList": [
     "MirrorDungeon_3_Normal",
@@ -10,6 +10,7 @@
     "Refraction_Railway_Line_3",
     "EXP_DUNGEON_6",
     "MirrorDungeon_4_and_3rd_walpurgis_night",
-    "Refraction_Railway_Line_4"
+    "Refraction_Railway_Line_4",
+    "4th_walpurgis_night"
   ]
 }

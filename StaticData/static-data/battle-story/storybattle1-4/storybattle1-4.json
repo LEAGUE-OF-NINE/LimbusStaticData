@@ -27,6 +27,10 @@
           ]
         },
         {
+          "battleMapInfo": {
+            "mapName": "Cp4_BrokenKCorpStreet_v1",
+            "mapSize": 33.28
+          },
           "unitList": [
             {
               "unitID": 90071,
@@ -87,6 +91,10 @@
           ]
         },
         {
+          "battleMapInfo": {
+            "mapName": "Cp4_BrokenKCorpStreet",
+            "mapSize": 33.28
+          },
           "unitList": [
             {
               "unitID": 8041,
@@ -149,6 +157,10 @@
           ]
         },
         {
+          "battleMapInfo": {
+            "mapName": "Cp4_BrokenKCorpStreet_v1",
+            "mapSize": 33.28
+          },
           "unitList": [
             {
               "unitID": 90071,
@@ -209,6 +221,10 @@
           ]
         },
         {
+          "battleMapInfo": {
+            "mapName": "Cp4_BrokenKCorpStreet_v1",
+            "mapSize": 33.28
+          },
           "unitList": [
             {
               "unitID": 90071,
@@ -348,7 +364,7 @@
           "S410B"
         ]
       },
-      "stageScriptList": ["Robot"]
+      "stageScriptList": [ "Robot" ]
     },
     {
       "id": 10411,
@@ -408,7 +424,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["Robot"]
+      "stageScriptList": [ "Robot" ]
     },
     {
       "id": 10412,
@@ -512,6 +528,10 @@
           ]
         },
         {
+          "battleMapInfo": {
+            "mapName": "Cp4_KCropLab_2F_Corridor_v1",
+            "mapSize": 33.28
+          },
           "unitList": [
             {
               "unitID": 90047,
@@ -577,6 +597,10 @@
           ]
         },
         {
+          "battleMapInfo": {
+            "mapName": "Cp4_KCropLab_2F_Corridor_v1",
+            "mapSize": 33.28
+          },
           "unitList": [
             {
               "unitID": 90047,
@@ -591,6 +615,10 @@
           ]
         },
         {
+          "battleMapInfo": {
+            "mapName": "Cp4_KCropLab_2F_Corridor",
+            "mapSize": 33.28
+          },
           "unitList": [
             {
               "unitID": 90047,
@@ -685,7 +713,7 @@
           "S416A"
         ]
       },
-      "stageScriptList": ["Robot"]
+      "stageScriptList": [ "Robot" ]
     },
     {
       "id": 10417,
@@ -750,7 +778,7 @@
           "S417A"
         ]
       },
-      "stageScriptList": ["Robot"]
+      "stageScriptList": [ "Robot" ]
     },
     {
       "id": 10418,
@@ -784,7 +812,7 @@
           ]
         },
         {
-          "unitList": [
+          "unitList":[
             {
               "unitID": 90049,
               "unitCount": 2,
@@ -815,7 +843,7 @@
           "S418B"
         ]
       },
-      "stageScriptList": ["Robot"]
+      "stageScriptList": [ "Robot" ]
     },
     {
       "id": 10419,
@@ -849,7 +877,7 @@
           ]
         },
         {
-          "unitList": [
+          "unitList":[
             {
               "unitID": 90049,
               "unitCount": 2,
@@ -863,7 +891,7 @@
           ]
         },
         {
-          "unitList": [
+          "unitList":[
             {
               "unitID": 90049,
               "unitCount": 2,
@@ -894,7 +922,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["Robot"]
+      "stageScriptList": [ "Robot"]
     },
     {
       "id": 10420,
@@ -955,7 +983,12 @@
             },
             {
               "unitID": 91007,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 91007,
+              "unitCount": 1,
               "unitLevel": 32
             }
           ]
@@ -973,7 +1006,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["Robot"]
+      "stageScriptList": [ "Robot" ]
     },
     {
       "id": 10421,
@@ -1004,10 +1037,8 @@
           "bgmList": [
             "Battle_Cp4_Ally_3",
             "Battle_Cp4_Enemy_3"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90052,
               "unitCount": 1,
@@ -1015,7 +1046,12 @@
             },
             {
               "unitID": 90053,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90053,
+              "unitCount": 1,
               "unitLevel": 33
             },
             {
@@ -1043,7 +1079,7 @@
           "S421B"
         ]
       },
-      "stageScriptList": ["Troubleshooter"]
+      "stageScriptList": ["Troubleshooter", "Refill", "SubUnitDefaultSlotAdder" ]
     },
     {
       "id": 10422,
@@ -1074,13 +1110,11 @@
           "bgmList": [
             "Battle_Cp4_Ally_1",
             "Battle_Cp4_Enemy_1"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90051,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 31
             },
             {
@@ -1090,6 +1124,11 @@
             },
             {
               "unitID": 90053,
+              "unitCount": 1,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90051,
               "unitCount": 1,
               "unitLevel": 31
             }
@@ -1113,7 +1152,7 @@
           "S422B"
         ]
       },
-      "stageScriptList": ["Troubleshooter"]
+      "stageScriptList": [ "Troubleshooter", "Refill", "SubUnitDefaultSlotAdder" ]
     },
     {
       "id": 10423,
@@ -1144,10 +1183,8 @@
           "bgmList": [
             "Battle_Cp4_Ally_1",
             "Battle_Cp4_Enemy_1"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90051,
               "unitCount": 1,
@@ -1155,12 +1192,22 @@
             },
             {
               "unitID": 90052,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 31
             },
             {
               "unitID": 90053,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90052,
+              "unitCount": 1,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90053,
+              "unitCount": 1,
               "unitLevel": 31
             }
           ]
@@ -1178,7 +1225,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["Troubleshooter"]
+      "stageScriptList": [ "Troubleshooter", "Refill", "SubUnitDefaultSlotAdder" ]
     },
     {
       "id": 10424,
@@ -1263,7 +1310,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["Robot"]
+      "stageScriptList": [ "Robot"]
     },
     {
       "id": 10425,
@@ -1299,10 +1346,8 @@
           "bgmList": [
             "Battle_Cp4_Ally_3",
             "Battle_Cp4_Enemy_3"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90051,
               "unitCount": 1,
@@ -1337,7 +1382,8 @@
           "localizeId": 1
         }
       ],
-      "rewardList": []
+      "rewardList": [],
+      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder" ]
     },
     {
       "id": 10430,
@@ -1417,7 +1463,7 @@
           "S430B"
         ]
       },
-      "stageScriptList": ["KCorpDrone"]
+      "stageScriptList": [ "KCorpDrone" ]
     },
     {
       "id": 10431,
@@ -1487,7 +1533,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["KCorpDrone"]
+      "stageScriptList": [ "KCorpDrone"]
     },
     {
       "id": 10432,
@@ -1547,7 +1593,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["KCorpDrone"]
+      "stageScriptList": [ "KCorpDrone" ]
     },
     {
       "id": 10433,
@@ -1578,18 +1624,31 @@
           "bgmList": [
             "Battle_Cp4_Ally_1",
             "Battle_Cp4_Enemy_1"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90058,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 31
             },
             {
               "unitID": 90059,
-              "unitCount": 3,
+              "unitCount": 1,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90058,
+              "unitCount": 1,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90059,
+              "unitCount": 1,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90059,
+              "unitCount": 1,
               "unitLevel": 31
             }
           ]
@@ -1606,6 +1665,7 @@
           "localizeId": 1
         }
       ],
+      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder" ],
       "rewardList": [],
       "story": {
         "enter": [
@@ -1645,18 +1705,31 @@
           "bgmList": [
             "Battle_Cp4_Ally_1",
             "Battle_Cp4_Enemy_1"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90058,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 31
             },
             {
               "unitID": 90059,
-              "unitCount": 3,
+              "unitCount": 1,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90058,
+              "unitCount": 1,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90059,
+              "unitCount": 1,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90059,
+              "unitCount": 1,
               "unitLevel": 31
             }
           ]
@@ -1673,7 +1746,8 @@
           "localizeId": 1
         }
       ],
-      "rewardList": []
+      "rewardList": [],
+      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder" ]
     },
     {
       "id": 10435,
@@ -1704,13 +1778,16 @@
           "bgmList": [
             "Battle_Cp4_Ally_1",
             "Battle_Cp4_Enemy_1"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90058,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90058,
+              "unitCount": 1,
               "unitLevel": 32
             },
             {
@@ -1720,7 +1797,12 @@
             },
             {
               "unitID": 90061,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90061,
+              "unitCount": 1,
               "unitLevel": 32
             }
           ]
@@ -1737,6 +1819,7 @@
           "localizeId": 1
         }
       ],
+      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder" ],
       "rewardList": [],
       "story": {
         "enter": [
@@ -1773,13 +1856,16 @@
           "bgmList": [
             "Battle_Cp4_Ally_1",
             "Battle_Cp4_Enemy_1"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90058,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90058,
+              "unitCount": 1,
               "unitLevel": 32
             },
             {
@@ -1789,7 +1875,12 @@
             },
             {
               "unitID": 90060,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90060,
+              "unitCount": 1,
               "unitLevel": 32
             }
           ]
@@ -1806,7 +1897,8 @@
           "localizeId": 1
         }
       ],
-      "rewardList": []
+      "rewardList": [],
+      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder" ]
     },
     {
       "id": 10437,
@@ -1837,32 +1929,56 @@
           "bgmList": [
             "Battle_Cp4_Ally_3",
             "Battle_Cp4_Enemy_3"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90060,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 33
             },
             {
               "unitID": 90061,
-              "unitCount": 3,
+              "unitCount": 1,
               "unitLevel": 33
-            }
-          ]
-        },
-        {
-          "unitList": [
+            },
             {
               "unitID": 90060,
-              "unitCount": 3,
+              "unitCount": 1,
               "unitLevel": 33
             },
             {
               "unitID": 90061,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90061,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90060,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90061,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90060,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90060,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90061,
+              "unitCount": 1,
               "unitLevel": 33
             }
           ]
@@ -1879,6 +1995,7 @@
           "localizeId": 1
         }
       ],
+      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder" ],
       "rewardList": []
     },
     {
@@ -1949,7 +2066,7 @@
           "S438B"
         ]
       },
-      "stageScriptList": ["KCorpDrone"]
+      "stageScriptList": [ "KCorpDrone"]
     },
     {
       "id": 10439,
@@ -2014,7 +2131,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["KCorpDrone"]
+      "stageScriptList": [ "KCorpDrone"]
     },
     {
       "id": 10440,
@@ -2079,7 +2196,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["KCorpDrone"]
+      "stageScriptList": [ "KCorpDrone"]
     },
     {
       "id": 10441,
@@ -2115,18 +2232,31 @@
           "bgmList": [
             "Battle_Cp4_Ally_1",
             "Battle_Cp4_Enemy_1"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90060,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 33
             },
             {
               "unitID": 90061,
-              "unitCount": 3,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90060,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90061,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90061,
+              "unitCount": 1,
               "unitLevel": 33
             }
           ]
@@ -2149,7 +2279,7 @@
           "S441B"
         ]
       },
-      "stageScriptList": ["KCorpDrone"]
+      "stageScriptList": [ "KCorpDrone", "Refill", "SubUnitDefaultSlotAdder" ]
     },
     {
       "id": 10442,
@@ -2180,32 +2310,51 @@
           "bgmList": [
             "Battle_Cp4_Ally_1",
             "Battle_Cp4_Enemy_1"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90060,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 33
             },
             {
               "unitID": 90061,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 33
-            }
-          ]
-        },
-        {
-          "unitList": [
+            },
             {
               "unitID": 90060,
-              "unitCount": 3,
+              "unitCount": 1,
               "unitLevel": 33
             },
             {
               "unitID": 90061,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90060,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90061,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90060,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90061,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90060,
+              "unitCount": 1,
               "unitLevel": 33
             }
           ]
@@ -2223,7 +2372,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["KCorpDrone"]
+      "stageScriptList": [ "KCorpDrone", "Refill", "SubUnitDefaultSlotAdder" ]
     },
     {
       "id": 10443,
@@ -2254,24 +2403,8 @@
           "bgmList": [
             "Battle_Cp4_Ally_3",
             "Battle_Cp4_Enemy_3"
-          ]
-        },
-        {
-          "unitList": [
-            {
-              "unitID": 90060,
-              "unitCount": 2,
-              "unitLevel": 34
-            },
-            {
-              "unitID": 90061,
-              "unitCount": 2,
-              "unitLevel": 34
-            }
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90060,
               "unitCount": 1,
@@ -2279,7 +2412,32 @@
             },
             {
               "unitID": 90061,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 34
+            },
+            {
+              "unitID": 90060,
+              "unitCount": 1,
+              "unitLevel": 34
+            },
+            {
+              "unitID": 90061,
+              "unitCount": 1,
+              "unitLevel": 34
+            },
+            {
+              "unitID": 90060,
+              "unitCount": 1,
+              "unitLevel": 34
+            },
+            {
+              "unitID": 90061,
+              "unitCount": 1,
+              "unitLevel": 34
+            },
+            {
+              "unitID": 90061,
+              "unitCount": 1,
               "unitLevel": 34
             },
             {
@@ -2301,6 +2459,7 @@
           "localizeId": 1
         }
       ],
+      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder" ],
       "rewardList": [],
       "story": {
         "enter": [
@@ -2371,7 +2530,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["KCorpDrone"]
+      "stageScriptList": [ "KCorpDrone" ]
     },
     {
       "id": 10445,
@@ -2402,18 +2561,31 @@
           "bgmList": [
             "Battle_Cp4_Ally_1",
             "Battle_Cp4_Enemy_1"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90060,
-              "unitCount": 3,
+              "unitCount": 1,
               "unitLevel": 32
             },
             {
               "unitID": 90061,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90060,
+              "unitCount": 1,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90061,
+              "unitCount": 1,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90060,
+              "unitCount": 1,
               "unitLevel": 32
             }
           ]
@@ -2430,6 +2602,7 @@
           "localizeId": 1
         }
       ],
+      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder" ],
       "rewardList": [],
       "story": {
         "enter": [
@@ -2476,18 +2649,31 @@
           "bgmList": [
             "Battle_Cp4_Ally_1",
             "Battle_Cp4_Enemy_1"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90060,
-              "unitCount": 3,
+              "unitCount": 1,
               "unitLevel": 33
             },
             {
               "unitID": 90061,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90060,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90061,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90060,
+              "unitCount": 1,
               "unitLevel": 33
             }
           ]
@@ -2505,7 +2691,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["KCorpDrone"]
+      "stageScriptList": [ "KCorpDrone", "Refill", "SubUnitDefaultSlotAdder" ]
     },
     {
       "id": 10447,
@@ -2656,10 +2842,8 @@
           "bgmList": [
             "Battle_Cp4_Ally_1",
             "Battle_Cp4_Enemy_1"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90064,
               "unitCount": 1,
@@ -2694,6 +2878,7 @@
           "localizeId": 1
         }
       ],
+      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder" ],
       "rewardList": [],
       "story": {
         "enter": [
@@ -2730,10 +2915,8 @@
           "bgmList": [
             "Battle_Cp4_Ally_1",
             "Battle_Cp4_Enemy_1"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90064,
               "unitCount": 1,
@@ -2768,6 +2951,7 @@
           "localizeId": 1
         }
       ],
+      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder" ],
       "rewardList": []
     },
     {
@@ -2799,18 +2983,26 @@
           "bgmList": [
             "Battle_Cp4_Ally_1",
             "Battle_Cp4_Enemy_1"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90062,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 33
             },
             {
               "unitID": 90063,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90062,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90063,
+              "unitCount": 1,
               "unitLevel": 33
             }
           ]
@@ -2827,6 +3019,7 @@
           "localizeId": 1
         }
       ],
+      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder" ],
       "rewardList": [],
       "story": {
         "enter": [
@@ -2863,18 +3056,26 @@
           "bgmList": [
             "Battle_Cp4_Ally_1",
             "Battle_Cp4_Enemy_1"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90062,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 34
             },
             {
               "unitID": 90063,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 34
+            },
+            {
+              "unitID": 90062,
+              "unitCount": 1,
+              "unitLevel": 34
+            },
+            {
+              "unitID": 90063,
+              "unitCount": 1,
               "unitLevel": 34
             }
           ]
@@ -2891,6 +3092,7 @@
           "localizeId": 1
         }
       ],
+      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder" ],
       "rewardList": []
     },
     {
@@ -2917,18 +3119,25 @@
           "bgmList": [
             "Battle_Cp4_Ally_3",
             "Battle_Cp4_Enemy_3"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90069,
-              "unitCount": 3,
+              "unitCount": 1,
+              "unitLevel": 35
+            },
+            {
+              "unitID": 90069,
+              "unitCount": 1,
+              "unitLevel": 35
+            },
+            {
+              "unitID": 90069,
+              "unitCount": 1,
               "unitLevel": 35
             }
           ]
         }
-
       ],
       "staminaCost": 20,
       "recommendedLevel": 35,
@@ -2941,6 +3150,7 @@
           "localizeId": 1
         }
       ],
+      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder" ],
       "rewardList": []
     }
   ]

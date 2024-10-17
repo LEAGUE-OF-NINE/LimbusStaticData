@@ -34,10 +34,8 @@
           "bgmList": [
             "Battle_Cp6_Ally_1",
             "Battle_Cp6_Enemy_4"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 8203,
               "unitCount": 1,
@@ -50,7 +48,12 @@
             },
             {
               "unitID": 8068,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 39
+            },
+            {
+              "unitID": 8068,
+              "unitCount": 1,
               "unitLevel": 39
             }
           ]
@@ -73,7 +76,7 @@
           "S622B"
         ]
       },
-      "stageScriptList": ["a1c6p2_Buff_Abnormality_Filter"]
+      "stageScriptList": ["a1c6p2_Buff_Abnormality_Filter", "Refill_Abnormality"]
     },
     {
       "id": 10623,
@@ -109,10 +112,8 @@
           "bgmList": [
             "Battle_Cp6_Ally_1",
             "Battle_Cp6_Enemy_4"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 8160,
               "unitCount": 1,
@@ -120,12 +121,22 @@
             },
             {
               "unitID": 8068,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 39
             },
             {
               "unitID": 8066,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 39
+            },
+            {
+              "unitID": 8068,
+              "unitCount": 1,
+              "unitLevel": 39
+            },
+            {
+              "unitID": 8066,
+              "unitCount": 1,
               "unitLevel": 39
             }
           ]
@@ -148,7 +159,7 @@
           "S623A"
         ]
       },
-      "stageScriptList": ["a1c6p2_Buff_Abnormality_Filter"]
+      "stageScriptList": ["a1c6p2_Buff_Abnormality_Filter", "Refill_Abnormality"]
     },
     {
       "id": 10624,
@@ -184,10 +195,8 @@
           "bgmList": [
             "Battle_Cp6_Ally_1",
             "Battle_Cp6_Enemy_4"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 8202,
               "unitCount": 1,
@@ -200,7 +209,12 @@
             },
             {
               "unitID": 8066,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 39
+            },
+            {
+              "unitID": 8066,
+              "unitCount": 1,
               "unitLevel": 39
             },
             {
@@ -228,7 +242,7 @@
           "S624B"
         ]
       },
-      "stageScriptList": ["a1c6p2_Buff_Abnormality_Filter"]
+      "stageScriptList": ["a1c6p2_Buff_Abnormality_Filter", "Refill_Abnormality"]
     },
     {
       "id": 10625,
@@ -260,22 +274,29 @@
             "Battle_Cp6_Ally_2",
             "Battle_Cp6_Enemy_2"
           ],
-          "enemyPositionID": 64
-        },
-        {
-          "unitList": [
+          "enemyPositionID": 64,
+          "subUnitList": [
             {
               "unitID": 90131,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
               "unitID": 90132,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90131,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90132,
+              "unitCount": 1,
               "unitLevel": 40
             }
-          ],
-          "enemyPositionID": 64
+          ]
         }
       ],
       "staminaCost": 20,
@@ -295,7 +316,7 @@
           "S625B"
         ]
       },
-      "stageScriptList": ["a1c6p2_Buff_Normal_Filter"]
+      "stageScriptList": ["a1c6p2_Buff_Normal_Filter", "Refill_Abnormality"]
     },
     {
       "id": 10626,
@@ -396,23 +417,34 @@
             "Battle_Cp4_Enemy_5"
           ],
           "allyPositionID": 65,
-          "enemyPositionID": 66
-        },
-        {
-          "unitList": [
+          "enemyPositionID": 66,
+          "subUnitList": [
             {
               "unitID": 90131,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
               "unitID": 90132,
-              "unitCount": 3,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90131,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90132,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90132,
+              "unitCount": 1,
               "unitLevel": 40
             }
-          ],
-          "allyPositionID": 65,
-          "enemyPositionID": 66
+          ]
         }
       ],
       "staminaCost": 20,
@@ -427,7 +459,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["a1c6p2_Buff_Normal_Filter"]
+      "stageScriptList": ["a1c6p2_Buff_Normal_Filter","Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 10628,
@@ -465,23 +497,34 @@
             "Battle_Cp4_Enemy_5"
           ],
           "allyPositionID": 65,
-          "enemyPositionID": 66
-        },
-        {
-          "unitList": [
+          "enemyPositionID": 66,
+          "subUnitList": [
             {
               "unitID": 90131,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 42
             },
             {
               "unitID": 90132,
-              "unitCount": 3,
+              "unitCount": 1,
+              "unitLevel": 42
+            },
+            {
+              "unitID": 90131,
+              "unitCount": 1,
+              "unitLevel": 42
+            },
+            {
+              "unitID": 90132,
+              "unitCount": 1,
+              "unitLevel": 42
+            },
+            {
+              "unitID": 90132,
+              "unitCount": 1,
               "unitLevel": 42
             }
-          ],
-          "allyPositionID": 65,
-          "enemyPositionID": 66
+          ]
         }
       ],
       "staminaCost": 20,
@@ -501,7 +544,7 @@
           "S628B"
         ]
       },
-      "stageScriptList": ["a1c6p2_Buff_Normal_Filter"]
+      "stageScriptList": ["a1c6p2_Buff_Normal_Filter", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 10629,
@@ -602,13 +645,21 @@
             "Battle_Cp6_Enemy_1"
           ],
           "allyPositionID": 65,
-          "enemyPositionID": 66
-        },
-        {
-          "unitList": [
+          "enemyPositionID": 66,
+          "subUnitList": [
             {
               "unitID": 90118,
-              "unitCount": 3,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90118,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90118,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
@@ -616,9 +667,7 @@
               "unitCount": 1,
               "unitLevel": 40
             }
-          ],
-          "allyPositionID": 65,
-          "enemyPositionID": 66
+          ]
         }
       ],
       "staminaCost": 20,
@@ -638,7 +687,7 @@
           "S630B"
         ]
       },
-      "stageScriptList": ["a1c6p2_Buff_Normal_Filter"]
+      "stageScriptList": ["a1c6p2_Buff_Normal_Filter","Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 10631,
@@ -676,18 +725,26 @@
             "Battle_Cp6_Enemy_2"
           ],
           "allyPositionID": 65,
-          "enemyPositionID": 66
-        },
-        {
-          "unitList": [
+          "enemyPositionID": 66,
+          "subUnitList": [
             {
               "unitID": 90118,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 42
             },
             {
               "unitID": 90119,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 42
+            },
+            {
+              "unitID": 90118,
+              "unitCount": 1,
+              "unitLevel": 42
+            },
+            {
+              "unitID": 90119,
+              "unitCount": 1,
               "unitLevel": 42
             },
             {
@@ -695,9 +752,7 @@
               "unitCount": 1,
               "unitLevel": 42
             }
-          ],
-          "allyPositionID": 65,
-          "enemyPositionID": 66
+          ]
         }
       ],
       "staminaCost": 20,
@@ -717,7 +772,7 @@
           "S631A"
         ]
       },
-      "stageScriptList": ["a1c6p2_Buff_Normal_Filter"]
+      "stageScriptList": ["a1c6p2_Buff_Normal_Filter", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 10632,

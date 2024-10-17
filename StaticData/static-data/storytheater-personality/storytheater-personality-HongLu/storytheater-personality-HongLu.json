@@ -150,7 +150,22 @@
             ],
             "profileId": "yuro_honglu_profile",
             "analysisId": "yuro_honglu_analysis"
-            }         
+            },
+            {
+              "personalityId": 10610,
+              "releaseDay": 20241017,
+              "cv_Id": "",
+              "personalityStoryList": [
+              {
+                "storyId": "P10610",
+                "lockCondition": [
+                  {"condition": "gacksung"}
+                ],
+                "order": 2,
+                "reward":{"type":"ITEM","id":2,"num":40}
+              }
+            ]
+            }
         ]
     }
   ]

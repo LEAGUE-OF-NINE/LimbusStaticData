@@ -1020,13 +1020,8 @@
           "bgmList": [
             "Battle_Cp3_Ally_2",
             "Battle_Cp3_Enemy_2"
-          ]
-        },
-        {
-          "battleMapInfo": {
-            "mapName": "Cp3_B3_Alter"
-          },
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 8017,
               "unitCount": 1,
@@ -1034,11 +1029,15 @@
             },
             {
               "unitID": 8018,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 28
+            },
+            {
+              "unitID": 8018,
+              "unitCount": 1,
               "unitLevel": 28
             }
-          ],
-          "enemyPositionID": 16
+          ]
         }
       ],
       "staminaCost": 0,
@@ -1060,7 +1059,10 @@
           "3D303B"
         ]
       },
-      "dangerLevel": 1
+      "dangerLevel": 1,
+      "stageScriptList":[
+        "Refill_Abnormality"
+      ]
     },
     {
       "id": 10344,

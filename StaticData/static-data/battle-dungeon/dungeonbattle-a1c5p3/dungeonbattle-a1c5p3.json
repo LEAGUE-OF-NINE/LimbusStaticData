@@ -511,27 +511,43 @@
           "bgmList": [
             "Battle_Cp5_Ally_3",
             "Battle_Cp5_Enemy_4"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90089,
-              "unitCount": 3,
+              "unitCount": 1,
               "unitLevel": 38
             },
             {
               "unitID": 90091,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 38
+            },
+            {
+              "unitID": 90089,
+              "unitCount": 1,
+              "unitLevel": 38
+            },
+            {
+              "unitID": 90091,
+              "unitCount": 1,
+              "unitLevel": 38
+            },
+            {
+              "unitID": 90089,
+              "unitCount": 1,
               "unitLevel": 38
             }
           ]
+        },
+        {
+          
         }
       ],
       "staminaCost": 0,
       "recommendedLevel": 38,
       "turnLimit": 99,
-      "stageScriptList": ["a1c5p1_4"],
+      "stageScriptList": ["a1c5p1_4", "Refill", "SubUnitDefaultSlotAdder" ],
       "questlist": [
         {
           "args": [

@@ -39,6 +39,10 @@
           ]
         },
         {
+          "battleMapInfo": {
+            "mapName": "Cp5_LccbSecret_v1",
+            "mapSize": 28.0
+          },
           "unitList": [
             {
               "unitID": 90084,
@@ -113,6 +117,10 @@
           "allyPositionID": 48
         },
         {
+          "battleMapInfo": {
+            "mapName": "Cp5_LccbSecret",
+            "mapSize": 28.0
+          },
           "unitList": [
             {
               "unitID": 90084,
@@ -184,28 +192,39 @@
             "Battle_Cp4_Enemy_2"
           ],
           "enemyPositionID": 49,
-          "allyPositionID": 48
-        },
-        {
-          "unitList": [
+          "allyPositionID": 48,
+          "subUnitList": [
             {
               "unitID": 90084,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 34
             },
             {
               "unitID": 90085,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 34
             },
             {
               "unitID": 90086,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 34
+            },
+            {
+              "unitID": 90084,
+              "unitCount": 1,
+              "unitLevel": 34
+            },
+            {
+              "unitID": 90085,
+              "unitCount": 1,
+              "unitLevel": 34
+            },
+            {
+              "unitID": 90086,
+              "unitCount": 1,
               "unitLevel": 34
             }
-          ],
-          "enemyPositionID": 49,
-          "allyPositionID": 48
+          ]
         }
       ],
       "staminaCost": 20,
@@ -225,7 +244,7 @@
           "S506B"
         ]
       },
-      "stageScriptList": ["a1c5p1_4"]
+      "stageScriptList": [ "a1c5p1_4", "Refill", "SubUnitDefaultSlotAdder" ]
     },
     {
       "id": 10507,
@@ -266,6 +285,10 @@
           "allyPositionID": 48
         },
         {
+          "battleMapInfo": {
+            "mapName": "Cp5_ClubHouse_v1",
+            "mapSize": 28.0
+          },
           "unitList": [
             {
               "unitID": 90084,
@@ -350,6 +373,10 @@
           "allyPositionID": 48
         },
         {
+          "battleMapInfo": {
+            "mapName": "Cp5_ClubHouse_v3",
+            "mapSize": 28.0
+          },
           "unitList": [
             {
               "unitID": 90084,
@@ -439,6 +466,10 @@
           "allyPositionID": 48
         },
         {
+          "battleMapInfo": {
+            "mapName": "Cp5_ClubHouse_v2",
+            "mapSize": 28.0
+          },
           "unitList": [
             {
               "unitID": 90084,
@@ -515,10 +546,8 @@
             "Battle_Cp4_Enemy_3"
           ],
           "enemyPositionID": 49,
-          "allyPositionID": 48
-        },
-        {
-          "unitList": [
+          "allyPositionID": 48,
+          "subUnitList": [
             {
               "unitID": 90084,
               "unitCount": 1,
@@ -531,20 +560,9 @@
             },
             {
               "unitID": 90086,
-              "unitCount": 2,
-              "unitLevel": 37
-            },
-            {
-              "unitID": 90087,
               "unitCount": 1,
               "unitLevel": 37
-            }
-          ],
-          "enemyPositionID": 49,
-          "allyPositionID": 48
-        },
-        {
-          "unitList": [
+            },
             {
               "unitID": 90086,
               "unitCount": 1,
@@ -552,7 +570,27 @@
             },
             {
               "unitID": 90087,
-              "unitCount": 3,
+              "unitCount": 1,
+              "unitLevel": 37
+            },
+            {
+              "unitID": 90086,
+              "unitCount": 1,
+              "unitLevel": 37
+            },
+            {
+              "unitID": 90087,
+              "unitCount": 1,
+              "unitLevel": 37
+            },
+            {
+              "unitID": 90087,
+              "unitCount": 1,
+              "unitLevel": 37
+            },
+            {
+              "unitID": 90087,
+              "unitCount": 1,
               "unitLevel": 37
             },
             {
@@ -560,9 +598,7 @@
               "unitCount": 1,
               "unitLevel": 37
             }
-          ],
-          "enemyPositionID": 49,
-          "allyPositionID": 48
+          ]
         }
       ],
       "staminaCost": 20,
@@ -585,7 +621,7 @@
           "S510A"
         ]
       },
-      "stageScriptList": ["a1c5p1_4"]
+      "stageScriptList": [ "a1c5p1_4", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 10511,
@@ -623,10 +659,8 @@
             "Battle_Cp1_Enemy_2"
           ],
           "enemyPositionID": 49,
-          "allyPositionID": 48
-        },
-        {
-          "unitList": [
+          "allyPositionID": 48,
+          "subUnitList": [
             {
               "unitID": 90084,
               "unitCount": 1,
@@ -634,7 +668,17 @@
             },
             {
               "unitID": 90085,
-              "unitCount": 3,
+              "unitCount": 1,
+              "unitLevel": 36
+            },
+            {
+              "unitID": 90085,
+              "unitCount": 1,
+              "unitLevel": 36
+            },
+            {
+              "unitID": 90085,
+              "unitCount": 1,
               "unitLevel": 36
             },
             {
@@ -642,9 +686,7 @@
               "unitCount": 1,
               "unitLevel": 36
             }
-          ],
-          "enemyPositionID": 49,
-          "allyPositionID": 48
+          ]
         }
       ],
       "staminaCost": 20,
@@ -664,7 +706,7 @@
           "S511B"
         ]
       },
-      "stageScriptList": ["a1c5p1_4"]
+      "stageScriptList": [ "a1c5p1_4", "Refill", "SubUnitDefaultSlotAdder" ]
     },
     {
       "id": 10512,
@@ -707,23 +749,39 @@
             "Battle_Cp1_Enemy_2"
           ],
           "enemyPositionID": 49,
-          "allyPositionID": 48
-        },
-        {
-          "unitList": [
+          "allyPositionID": 48,
+          "subUnitList": [
             {
               "unitID": 90084,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 36
             },
             {
               "unitID": 90087,
-              "unitCount": 4,
+              "unitCount": 1,
+              "unitLevel": 36
+            },
+            {
+              "unitID": 90084,
+              "unitCount": 1,
+              "unitLevel": 36
+            },
+            {
+              "unitID": 90087,
+              "unitCount": 1,
+              "unitLevel": 36
+            },
+            {
+              "unitID": 90087,
+              "unitCount": 1,
+              "unitLevel": 36
+            },
+            {
+              "unitID": 90087,
+              "unitCount": 1,
               "unitLevel": 36
             }
-          ],
-          "enemyPositionID": 49,
-          "allyPositionID": 48
+          ]
         }
       ],
       "staminaCost": 20,
@@ -738,7 +796,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["a1c5p1_4"]
+      "stageScriptList": [ "a1c5p1_4", "Refill", "SubUnitDefaultSlotAdder" ]
     },
     {
       "id": 10516,
@@ -776,13 +834,26 @@
             "Battle_Cp4_Enemy_5"
           ],
           "enemyPositionID": 49,
-          "allyPositionID": 48
-        },
-        {
-          "unitList": [
+          "allyPositionID": 48,
+          "subUnitList": [
             {
               "unitID": 90084,
-              "unitCount": 4,
+              "unitCount": 1,
+              "unitLevel": 36
+            },
+            {
+              "unitID": 90084,
+              "unitCount": 1,
+              "unitLevel": 36
+            },
+            {
+              "unitID": 90084,
+              "unitCount": 1,
+              "unitLevel": 36
+            },
+            {
+              "unitID": 90084,
+              "unitCount": 1,
               "unitLevel": 36
             },
             {
@@ -795,9 +866,7 @@
               "unitCount": 1,
               "unitLevel": 36
             }
-          ],
-          "enemyPositionID": 49,
-          "allyPositionID": 48
+          ]
         }
       ],
       "staminaCost": 20,
@@ -817,7 +886,7 @@
           "S516B"
         ]
       },
-      "stageScriptList": ["a1c5p1_4"]
+      "stageScriptList": [ "a1c5p1_4", "Refill", "SubUnitDefaultSlotAdder" ]
     },
     {
       "id": 10517,
@@ -860,18 +929,26 @@
             "Battle_Cp4_Enemy_5"
           ],
           "enemyPositionID": 49,
-          "allyPositionID": 48
-        },
-        {
-          "unitList": [
+          "allyPositionID": 48,
+          "subUnitList": [
             {
               "unitID": 90084,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 36
             },
             {
               "unitID": 90085,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 36
+            },
+            {
+              "unitID": 90084,
+              "unitCount": 1,
+              "unitLevel": 36
+            },
+            {
+              "unitID": 90085,
+              "unitCount": 1,
               "unitLevel": 36
             },
             {
@@ -884,9 +961,7 @@
               "unitCount": 1,
               "unitLevel": 36
             }
-          ],
-          "enemyPositionID": 49,
-          "allyPositionID": 48
+          ]
         }
       ],
       "staminaCost": 20,
@@ -906,7 +981,7 @@
           "S517A"
         ]
       },
-      "stageScriptList": ["a1c5p1_4"]
+      "stageScriptList": [ "a1c5p1_4", "Refill", "SubUnitDefaultSlotAdder" ]
     },
     {
       "id": 10518,

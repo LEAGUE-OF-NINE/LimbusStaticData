@@ -23138,10 +23138,8 @@
           "bgmList": [
             "Battle_Cp4_Ally_3",
             "Battle_Cp4_Enemy_3"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 70084,
               "unitCount": 1,
@@ -23154,26 +23152,37 @@
             },
             {
               "unitID": 70086,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70086,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
               "unitID": 70087,
               "unitCount": 1,
               "unitLevel": 40
-            }
-          ]
-        },
-        {
-          "unitList": [
+            },
             {
               "unitID": 70086,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
               "unitID": 70087,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70086,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70087,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
@@ -23195,6 +23204,7 @@
           "localizeId": 1
         }
       ],
+      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder" ],
       "rewardList": [],
       "attackType": "",
       "attributeType": ""
@@ -28739,32 +28749,56 @@
           "bgmList": [
             "Battle_Cp6_Ally_2",
             "Battle_Cp6_Enemy_2"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 70126,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70126,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
               "unitID": 70127,
-              "unitCount": 4,
-              "unitLevel": 40
-            }
-          ]
-        },
-        {
-          "unitList": [
-            {
-              "unitID": 70126,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
               "unitID": 70127,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70127,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70127,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70126,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70127,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70126,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70127,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
@@ -28789,7 +28823,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptList": ["FilterAddForce2"]
+      "stageScriptList": ["FilterAddForce2", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 2061643,
@@ -28804,7 +28838,7 @@
         "defaultPosY": 0,
         "defaultPosZ": 20
       },
-      "stageScriptList": ["FilterAddForce3"],
+      "stageScriptList": ["FilterAddForce3", "Refill", "SubUnitDefaultSlotAdder"],
       "waveList": [
         {
           "battleMapInfo": {
@@ -28828,18 +28862,26 @@
             "Battle_Cp6_Enemy_2"
           ],
           "allyPositionID": 65,
-          "enemyPositionID": 66
-        },
-        {
-          "unitList": [
+          "enemyPositionID": 66,
+          "subUnitList": [
             {
               "unitID": 70118,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
               "unitID": 70119,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70118,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70119,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
@@ -28847,9 +28889,7 @@
               "unitCount": 1,
               "unitLevel": 40
             }
-          ],
-          "allyPositionID": 65,
-          "enemyPositionID": 66
+          ]
         }
       ],
       "staminaCost": 0,
@@ -92944,13 +92984,16 @@
           ],
           "bgmList": [
             "Battle_Cp6_5_TKT_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 70140,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70140,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
@@ -92980,7 +93023,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptList": ["FilterAddForce_NonMapFilter"]
+      "stageScriptList": ["FilterAddForce_NonMapFilter", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 2066327,
@@ -93009,13 +93052,16 @@
           ],
           "bgmList": [
             "Battle_Cp6_5_TKT_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 70140,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70140,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
@@ -93045,7 +93091,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptList": ["FilterAddForce_NonMapFilter"]
+      "stageScriptList": ["FilterAddForce_NonMapFilter", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 2066328,
@@ -93074,13 +93120,16 @@
           ],
           "bgmList": [
             "Battle_Cp6_5_TKT_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 70140,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70140,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
@@ -93110,7 +93159,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptList": ["FilterAddForce_NonMapFilter"]
+      "stageScriptList": ["FilterAddForce_NonMapFilter", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 2066329,
@@ -93139,13 +93188,16 @@
           ],
           "bgmList": [
             "Battle_Cp6_5_TKT_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 70140,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70140,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
@@ -93175,7 +93227,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptList": ["FilterAddForce_NonMapFilter"]
+      "stageScriptList": ["FilterAddForce_NonMapFilter", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 2066330,
@@ -93204,13 +93256,16 @@
           ],
           "bgmList": [
             "Battle_Cp6_5_TKT_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 70140,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70140,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
@@ -93240,7 +93295,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptList": ["FilterAddForce_NonMapFilter"]
+      "stageScriptList": ["FilterAddForce_NonMapFilter", "Refill", "SubUnitDefaultSlotAdder"]
     }
 
     ,

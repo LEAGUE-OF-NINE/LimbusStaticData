@@ -386,6 +386,85 @@
       ],
       "awakeningSkillId": 2020611,
       "corrosionSkillId": 2020621
+    },
+    {
+      "id": 20207,
+      "characterId": 2,
+      "egoType": "TETH",
+      "egoClass": 2,
+      "season": 5,
+      "skillTier": 3,
+      "attributeResistList": [
+        {
+          "type": "CRIMSON",
+          "value": 2
+        },
+        {
+          "type": "SCARLET",
+          "value": 1
+        },
+        {
+          "type": "AMBER",
+          "value": 1
+        },
+        {
+          "type": "SHAMROCK",
+          "value": 0.5
+        },
+        {
+          "type": "AZURE",
+          "value": 2
+        },
+        {
+          "type": "INDIGO",
+          "value": 1
+        },
+        {
+          "type": "VIOLET",
+          "value": 1
+        },
+        {
+          "type": "WHITE",
+          "value": 2
+        },
+        {
+          "type": "BLACK",
+          "value": 2
+        }
+      ],
+      "requirementList": [
+        {
+          "attributeType": "SCARLET",
+          "num": 1
+        },
+        {
+          "attributeType": "SHAMROCK",
+          "num": 3
+        },
+        {
+          "attributeType": "VIOLET",
+          "num": 2
+        }
+      ],
+      "corrosionSectionList": [
+        {
+          "section": 0.5,
+          "probability": 0.25
+        },
+        {
+          "section": 0.25,
+          "probability": 0.75
+        },
+        {
+          "section": 0,
+          "probability": 1.0
+        }
+      ],
+      "awakeningPassiveList": [
+        2020711
+      ],
+      "awakeningSkillId": 2020711,
+      "corrosionSkillId": 2020721
     }
   ]
 }

@@ -882,6 +882,139 @@
           "ability": "LoseAllStackOnDie"
         }
       ]
+    },
+    {
+      "id": "Snare",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "maxStack": 3,
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "GiveBuffOnRoundEndBySpeed",
+          "buffData": {
+            "buffKeyword": "Burst",
+            "target": "Self",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0,
+            "limit": 5
+          }
+        },
+        {
+          "ability": "GiveBuffOnRoundEnd",
+          "buffData": {
+            "buffKeyword": "Binding",
+            "target": "Self",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 1
+          }
+        },
+        {
+          "ability": "LoseStackOnRoundEnd",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "BloodScissorPersonalityFirst",
+      "iconId": "BloodScissor",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": false,
+      "maxStack": 30,
+      "list": [
+        {
+          "ability": "BloodScissorPersonalityBase"
+        }
+      ]
+    },
+    {
+      "id": "BloodScissorPersonalitySecond",
+      "iconId": "BloodScissor",
+      "subIdList": [ "BloodScissorPersonalityFirst" ],
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": false,
+      "maxStack": 30,
+      "list": [
+        {
+          "ability": "BloodScissorPersonalityBase"
+        },
+        {
+          "ability": "GiveBuffOnRoundStartFloorToInt",
+          "value": 0.2,
+          "buffData": {
+            "buffKeyword": "AttackUp",
+            "target": "Self",
+            "stack": -1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "GiveBuffOnRoundStartFloorToInt",
+          "value": 0.2,
+          "buffData": {
+            "buffKeyword": "DefenseDown",
+            "target": "Self",
+            "stack": -1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "BloodScissorPersonalityThird",
+      "iconId": "BloodScissor",
+      "subIdList": [ "BloodScissorPersonalityFirst" ],
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": false,
+      "maxStack": 30,
+      "list": [
+        {
+          "ability": "BloodScissorPersonalityBase"
+        },
+        {
+          "ability": "GiveBuffOnRoundStartFloorToInt",
+          "value": 0.2,
+          "buffData": {
+            "buffKeyword": "AttackUp",
+            "target": "Self",
+            "stack": -1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "LineCuttingPersonality",
+      "iconId": "LineCutting",
+      "buffClass": "VolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": true,
+      "maxStack": 1,
+      "list": [
+        {
+          "ability": "TakeAtkDamageMultiplierViaBuffCheckDevideByStack",
+          "buffData": {
+            "buffKeyword": "Laceration",
+            "target": "Self",
+            "buffOwner": "Self",
+            "stack": 1,
+            "turn": 0,
+            "value": 0.005,
+            "limit": 10
+          }
+        },
+        {
+          "ability": "LineCuttingEffect"
+        }
+      ]
     }
   ]
 }

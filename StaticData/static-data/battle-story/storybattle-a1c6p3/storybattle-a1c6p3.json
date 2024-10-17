@@ -108,10 +108,8 @@
             "Battle_Cp6_Enemy_2"
           ],
           "allyPositionID": 69,
-          "enemyPositionID": 71
-        },
-        {
-          "unitList": [
+          "enemyPositionID": 71,
+          "subUnitList": [
             {
               "unitID": 90121,
               "unitCount": 1,
@@ -137,9 +135,7 @@
               "unitCount": 1,
               "unitLevel": 44
             }
-          ],
-          "allyPositionID": 69,
-          "enemyPositionID": 71
+          ]
         }
       ],
       "staminaCost": 20,
@@ -162,7 +158,7 @@
           "S637A"
         ]
       },
-      "stageScriptList": ["a1c6p3_Buff_Normal_Filter"]
+      "stageScriptList": ["a1c6p3_Buff_Normal_Filter", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 10638,
@@ -204,18 +200,26 @@
             "Battle_Cp6_Enemy_6"
           ],
           "allyPositionID": 69,
-          "enemyPositionID": 71
-        },
-        {
-          "unitList": [
+          "enemyPositionID": 71,
+          "subUnitList": [
             {
               "unitID": 90118,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 44
             },
             {
               "unitID": 90119,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 44
+            },
+            {
+              "unitID": 90118,
+              "unitCount": 1,
+              "unitLevel": 44
+            },
+            {
+              "unitID": 90119,
+              "unitCount": 1,
               "unitLevel": 44
             },
             {
@@ -223,9 +227,7 @@
               "unitCount": 1,
               "unitLevel": 44
             }
-          ],
-          "allyPositionID": 69,
-          "enemyPositionID": 71
+          ]
         }
       ],
       "staminaCost": 20,
@@ -245,7 +247,7 @@
           "S638B"
         ]
       },
-      "stageScriptList": ["a1c6p3_EnemyFiltered"]
+      "stageScriptList": ["a1c6p3_EnemyFiltered", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 10639,
@@ -290,7 +292,7 @@
           "enemyPositionID": 71
         },
         {
-          "unitList": [
+            "unitList": [
             {
               "unitID": 8159,
               "unitCount": 2,
@@ -306,9 +308,7 @@
               "unitCount": 2,
               "unitLevel": 44
             }
-          ],
-          "allyPositionID": 69,
-          "enemyPositionID": 71
+          ]
         }
       ],
       "staminaCost": 20,
@@ -379,9 +379,7 @@
               "unitCount": 3,
               "unitLevel": 44
             }
-          ],
-          "allyPositionID": 69,
-          "enemyPositionID": 71
+          ]
         }
       ],
       "staminaCost": 20,
@@ -621,9 +619,7 @@
               "unitCount": 2,
               "unitLevel": 44
             }
-          ],
-          "allyPositionID": 73,
-          "enemyPositionID": 72
+          ]
         }
       ],
       "staminaCost": 20,

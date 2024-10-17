@@ -205,6 +205,9 @@
           ]
         },
         {
+          "battleMapInfo": {
+            "mapName": "B1Vault_v3"
+          },
           "unitList": [
             {
               "unitID": 90020,

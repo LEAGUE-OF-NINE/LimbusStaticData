@@ -784,13 +784,16 @@
           ],
           "bgmList": [
             "Battle_Cp6_5_TKT_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90140,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 90140,
+              "unitCount": 1,
               "unitLevel": 45
             },
             {
@@ -818,7 +821,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["FilterAddForce_NonMapFilter"]
+      "stageScriptList": ["FilterAddForce_NonMapFilter", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 910937,
@@ -847,10 +850,8 @@
           ],
           "bgmList": [
             "Battle_Cp6_5_TKT_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90140,
               "unitCount": 2,
@@ -881,7 +882,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["FilterAddForce_NonMapFilter"]
+      "stageScriptList": ["FilterAddForce_NonMapFilter", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 910938,
@@ -910,13 +911,16 @@
           ],
           "bgmList": [
             "Battle_Cp6_5_TKT_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90140,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 90140,
+              "unitCount": 1,
               "unitLevel": 45
             },
             {
@@ -944,7 +948,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["FilterAddForce_NonMapFilter"]
+      "stageScriptList": ["FilterAddForce_NonMapFilter", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 910939,
@@ -973,13 +977,16 @@
           ],
           "bgmList": [
             "Battle_Cp6_5_TKT_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90140,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 90140,
+              "unitCount": 1,
               "unitLevel": 45
             },
             {
@@ -1007,7 +1014,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["FilterAddForce_NonMapFilter"]
+      "stageScriptList": ["FilterAddForce_NonMapFilter", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 910940,
@@ -1036,13 +1043,16 @@
           ],
           "bgmList": [
             "Battle_Cp6_5_TKT_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90140,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 90140,
+              "unitCount": 1,
               "unitLevel": 45
             },
             {
@@ -1070,7 +1080,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["FilterAddForce_NonMapFilter"]
+      "stageScriptList": ["FilterAddForce_NonMapFilter", "Refill", "SubUnitDefaultSlotAdder"]
     }
   ]
 }
