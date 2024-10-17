@@ -199,7 +199,7 @@
     {
       "id": 35,
       "model": "뫼르소",
-      "teller": "Muersault",
+      "teller": "Meursault",
       "title": "Cinq West\nSection 3",
       "content": "I made an appointment with all of them, scheduled to occur at the same time, for the sake of efficiency. However, it seems that I have underestimated the duration of this interview."
     },
@@ -301,6 +301,7 @@
     {
       "id": 54,
       "content": "This interviewer had already gotten her time's worth by watching that impressive duel in person; it would make for a hell of an article."
-    }
+    },
+    {}
   ]
 }

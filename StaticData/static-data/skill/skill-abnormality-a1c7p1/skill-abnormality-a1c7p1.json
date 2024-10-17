@@ -15,7 +15,7 @@
           "skillMotion": "S1",
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 3,
+          "defaultValue": 4,
           "skillLevelCorrection": 0,
           "abilityScriptList": [
             {
@@ -55,7 +55,7 @@
           "coinList": [
             {
               "operatorType": "ADD",
-              "scale": 6
+              "scale": 7
             }
           ]
         }
@@ -96,7 +96,7 @@
           "coinList": [
             {
               "operatorType": "ADD",
-              "scale": 5,
+              "scale": 6,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
@@ -122,7 +122,7 @@
             },
             {
               "operatorType": "ADD",
-              "scale": 5,
+              "scale": 6,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",

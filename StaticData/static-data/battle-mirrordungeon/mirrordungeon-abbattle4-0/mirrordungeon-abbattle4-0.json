@@ -12142,27 +12142,31 @@
           ],
           "bgmList": [
             "Battle_Cp5_5_Xmas_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 8114,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8114,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
               "unitID": 8115,
               "unitCount": 1,
               "unitLevel": 40
-            }
-          ]
-        },
-        {
-          "unitList": [
+            },
             {
               "unitID": 8114,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8114,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
@@ -12174,11 +12178,7 @@
               "unitID": 8116,
               "unitCount": 1,
               "unitLevel": 40
-            }
-          ]
-        },
-        {
-          "unitList": [
+            },
             {
               "unitID": 8114,
               "unitCount": 1,
@@ -12213,6 +12213,7 @@
           "localizeId": 1
         }
       ],
+      "stageScriptList": [ "Refill_Abnormality" ],
       "rewardList": [],
       "attackType": "",
       "attributeType": ""

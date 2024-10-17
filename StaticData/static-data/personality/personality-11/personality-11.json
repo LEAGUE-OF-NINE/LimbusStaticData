@@ -4,7 +4,8 @@
       "id": 11101,
       "appearance": "11101_Outis_BaseAppearance",
       "unitKeywordList": [
-        "BASE_APPEARANCE", "SMALL"
+        "BASE_APPEARANCE",
+        "SMALL"
       ],
       "associationList": [ "LIMBUS_COMPANY" ],
       "characterId": 11,
@@ -714,7 +715,7 @@
       "id": 11108,
       "appearance": "11108_Outis_JosephineAppearance",
       "associationList": [ "WUTHERING_HEIGHTS" ],
-      "unitKeywordList": [  "FIXER", "BUTLER", "SMALL" ],
+      "unitKeywordList": [ "FIXER", "BUTLER", "SMALL" ],
       "characterId": 11,
       "panicType": 9999,
       "season": 4,
@@ -1012,6 +1013,108 @@
         },
         {
           "skillId": 1111003,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 11111,
+      "appearance": "11111_Outis_BarberAppearance",
+      "associationList": [
+      ],
+      "unitKeywordList": [ "SMALL", "BLOODFIEND", "THIRD_DEPENDENT" ],
+      "unitScriptID": "11111",
+      "characterId": 11,
+      "panicType": 9999,
+      "season": 5,
+      "defenseSkillIDList": [
+        1111104
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 73,
+        "incrementByLevel": 2.23
+      },
+      "defCorrection": 0,
+      "minSpeedList": [
+        2,
+        3,
+        3,
+        3
+      ],
+      "maxSpeedList": [
+        5,
+        6,
+        7,
+        7
+      ],
+      "uniqueAttribute": "SHAMROCK",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          65,
+          35,
+          15
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1111101,
+          "number": 3
+        },
+        {
+          "skillId": 1111102,
+          "number": 2
+        },
+        {
+          "skillId": 1111103,
           "number": 1
         }
       ]

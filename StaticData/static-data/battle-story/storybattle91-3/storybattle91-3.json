@@ -84,22 +84,30 @@
             "Battle_Cp2_Ally_1",
             "Battle_Cp2_Enemy_1"
           ],
-          "enemyPositionID": 18
-        },
-        {
-          "unitList": [
+          "enemyPositionID": 18,
+          "subUnitList": [
             {
               "unitID": 90043,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 28
             },
             {
               "unitID": 90044,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 28
             },
             {
               "unitID": 90045,
+              "unitCount": 1,
+              "unitLevel": 28
+            },
+            {
+              "unitID": 90043,
+              "unitCount": 1,
+              "unitLevel": 28
+            },
+            {
+              "unitID": 90044,
               "unitCount": 1,
               "unitLevel": 28
             }
@@ -117,6 +125,7 @@
           "localizeId": 1
         }
       ],
+      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder" ],
       "rewardList": []
     },
     {
@@ -144,18 +153,26 @@
             "Battle_Cp2_Ally_1",
             "Battle_Cp3_5_Enemy_1"
           ],
-          "enemyPositionID": 17
-        },
-        {
-          "unitList": [
+          "enemyPositionID": 17,
+          "subUnitList": [
             {
               "unitID": 8034,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 28
             },
             {
               "unitID": 8035,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 28
+            },
+            {
+              "unitID": 8034,
+              "unitCount": 1,
+              "unitLevel": 28
+            },
+            {
+              "unitID": 8035,
+              "unitCount": 1,
               "unitLevel": 28
             }
           ]
@@ -172,6 +189,7 @@
           "localizeId": 1
         }
       ],
+      "stageScriptList": [ "Refill_Abnormality" ],
       "rewardList": [],
       "story": {
         "enter": [
@@ -212,10 +230,8 @@
             "Battle_Cp2_Ally_1",
             "Battle_Cp3_5_Enemy_1"
           ],
-          "enemyPositionID": 18
-        },
-        {
-          "unitList": [
+          "enemyPositionID": 18,
+          "subUnitList": [
             {
               "unitID": 8034,
               "unitCount": 1,
@@ -223,12 +239,22 @@
             },
             {
               "unitID": 8035,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 28
             },
             {
               "unitID": 8036,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 28
+            },
+            {
+              "unitID": 8035,
+              "unitCount": 1,
+              "unitLevel": 28
+            },
+            {
+              "unitID": 8036,
+              "unitCount": 1,
               "unitLevel": 28
             }
           ]
@@ -245,6 +271,7 @@
           "localizeId": 1
         }
       ],
+      "stageScriptList": [ "Refill_Abnormality" ],
       "rewardList": []
     },
     {
@@ -298,7 +325,7 @@
             },
             {
               "unitID": 8036,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 28
             }
           ],
@@ -325,7 +352,7 @@
           "E303A"
         ]
       },
-      "stageScriptList": ["Eunbong_Weak"]
+      "stageScriptList": [ "Eunbong_Weak" ]
     },
     {
       "id": 910306,
@@ -362,10 +389,8 @@
             "Battle_Cp2_Ally_2",
             "Battle_Cp2_Enemy_2"
           ],
-          "enemyPositionID": 18
-        },
-        {
-          "unitList": [
+          "enemyPositionID": 18,
+          "subUnitList": [
             {
               "unitID": 8034,
               "unitCount": 1,
@@ -378,11 +403,16 @@
             },
             {
               "unitID": 8036,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 25
             },
             {
               "unitID": 8037,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8036,
               "unitCount": 1,
               "unitLevel": 25
             }
@@ -400,6 +430,7 @@
           "localizeId": 1
         }
       ],
+      "stageScriptList": [ "Refill_Abnormality" ],
       "rewardList": [],
       "dangerLevel": 1
     },
@@ -433,10 +464,8 @@
             "Battle_Cp2_Ally_2",
             "Battle_Cp3_5_Enemy_1"
           ],
-          "enemyPositionID": 18
-        },
-        {
-          "unitList": [
+          "enemyPositionID": 18,
+          "subUnitList": [
             {
               "unitID": 8034,
               "unitCount": 1,
@@ -444,12 +473,22 @@
             },
             {
               "unitID": 8036,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 25
             },
             {
               "unitID": 8037,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8036,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8037,
+              "unitCount": 1,
               "unitLevel": 25
             }
           ]
@@ -466,6 +505,7 @@
           "localizeId": 1
         }
       ],
+      "stageScriptList": [ "Refill_Abnormality" ],
       "rewardList": [],
       "story": {
         "enter": [
@@ -517,10 +557,8 @@
             "Battle_Cp2_Ally_2",
             "Battle_Cp3_5_Enemy_1"
           ],
-          "enemyPositionID": 18
-        },
-        {
-          "unitList": [
+          "enemyPositionID": 18,
+          "subUnitList": [
             {
               "unitID": 8034,
               "unitCount": 1,
@@ -538,7 +576,12 @@
             },
             {
               "unitID": 8037,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8037,
+              "unitCount": 1,
               "unitLevel": 25
             }
           ]
@@ -555,6 +598,7 @@
           "localizeId": 1
         }
       ],
+      "stageScriptList": [ "Refill_Abnormality" ],
       "rewardList": [],
       "dangerLevel": 1
     }

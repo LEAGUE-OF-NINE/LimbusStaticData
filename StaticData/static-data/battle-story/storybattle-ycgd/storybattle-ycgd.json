@@ -27,18 +27,36 @@
           ],
           "bgmList": [
             "Battle_Cp5_5_YCGD_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90110,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90110,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
               "unitID": 90111,
-              "unitCount": 4,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 1,
               "unitLevel": 40
             }
           ]
@@ -64,7 +82,7 @@
           "E511A"
         ]
       },
-      "stageScriptList": ["FilterBase"]
+      "stageScriptList": ["FilterBase", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 910703,
@@ -93,18 +111,36 @@
           ],
           "bgmList": [
             "Battle_Cp5_5_YCGD_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90111,
-              "unitCount": 3,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
               "unitID": 90112,
-              "unitCount": 3,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90112,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90112,
+              "unitCount": 1,
               "unitLevel": 40
             }
           ]
@@ -127,7 +163,7 @@
           "E512B"
         ]
       },
-      "stageScriptList": ["FilterBase"]
+      "stageScriptList": ["FilterBase", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 910704,
@@ -156,18 +192,36 @@
           ],
           "bgmList": [
             "Battle_Cp5_5_YCGD_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90111,
-              "unitCount": 3,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
               "unitID": 90113,
-              "unitCount": 3,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90113,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90113,
+              "unitCount": 1,
               "unitLevel": 40
             }
           ]
@@ -190,7 +244,7 @@
           "E512A"
         ]
       },
-      "stageScriptList": ["FilterBase"]
+      "stageScriptList": ["FilterBase", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 910705,
@@ -219,13 +273,16 @@
           ],
           "bgmList": [
             "Battle_Cp5_5_YCGD_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90110,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90110,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
@@ -235,7 +292,12 @@
             },
             {
               "unitID": 90112,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90112,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
@@ -258,7 +320,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["FilterBase"]
+      "stageScriptList": ["FilterBase", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 910706,
@@ -293,18 +355,26 @@
           ],
           "bgmList": [
             "Battle_Cp5_5_YCGD_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90110,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
               "unitID": 90111,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90110,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
@@ -340,7 +410,7 @@
           "E513A"
         ]
       },
-      "stageScriptList": ["FilterBase"]
+      "stageScriptList": ["FilterBase", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 910707,
@@ -380,18 +450,26 @@
           ],
           "bgmList": [
             "Battle_Cp5_5_YCGD_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90110,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
               "unitID": 90111,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90110,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
@@ -424,7 +502,7 @@
           "E514B"
         ]
       },
-      "stageScriptList": ["FilterBase"]
+      "stageScriptList": ["FilterBase", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 910708,
@@ -464,23 +542,36 @@
           ],
           "bgmList": [
             "Battle_Cp5_5_YCGD_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90110,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
               "unitID": 90111,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
               "unitID": 90113,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90110,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90111,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90113,
+              "unitCount": 1,
               "unitLevel": 40
             }
           ]
@@ -498,7 +589,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["FilterBase"]
+      "stageScriptList": ["FilterBase", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 910709,
@@ -612,10 +703,8 @@
           ],
           "bgmList": [
             "Battle_Cp5_5_YCGD_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90110,
               "unitCount": 1,
@@ -664,7 +753,7 @@
           "E516A"
         ]
       },
-      "stageScriptList": ["FilterBase"]
+      "stageScriptList": ["FilterBase", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 910711,

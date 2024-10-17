@@ -24,23 +24,29 @@
             "Battle_Cp2_Ally_1",
             "Battle_Cp2_Enemy_1"
           ],
-          "enemyPositionID": 16
-        },
-        {
-          "unitList": [
+          "enemyPositionID": 17,
+          "subUnitList": [
             {
               "unitID": 90005,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 6
             },
             {
               "unitID": 90007,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 6
+            },
+            {
+              "unitID": 90005,
+              "unitCount": 1,
+              "unitLevel": 6
+            },
+            {
+              "unitID": 90007,
+              "unitCount": 1,
               "unitLevel": 6
             }
-          ],
-          "enemyPositionID": 17
-
+          ]
         }
       ],
       "staminaCost": 16,
@@ -54,6 +60,7 @@
           "localizeId": 1
         }
       ],
+      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder" ],
       "rewardList": [
        
       ],
@@ -95,22 +102,29 @@
             "Battle_Cp2_Ally_1",
             "Battle_Cp2_Enemy_1"
           ],
-          "enemyPositionID": 16
-        },
-        {
-          "unitList": [
+          "enemyPositionID": 17,
+          "subUnitList": [
             {
               "unitID": 90018,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 7
             },
             {
               "unitID": 90019,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 7
+            },
+            {
+              "unitID": 90018,
+              "unitCount": 1,
+              "unitLevel": 7
+            },
+            {
+              "unitID": 90019,
+              "unitCount": 1,
               "unitLevel": 7
             }
-          ],
-          "enemyPositionID": 17
+          ]
         }
       ],
       "staminaCost": 16,
@@ -124,6 +138,7 @@
           "localizeId": 1
         }
       ],
+      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder" ],
       "rewardList": [
        
       ],
@@ -157,13 +172,21 @@
             "Battle_Cp2_Ally_1",
             "Battle_Cp2_Enemy_1"
           ],
-          "enemyPositionID": 17
-        },
-        {
-          "unitList": [
+          "enemyPositionID": 17,
+          "subUnitList": [
             {
               "unitID": 90019,
-              "unitCount": 3,
+              "unitCount": 1,
+              "unitLevel": 8
+            },
+            {
+              "unitID": 90019,
+              "unitCount": 1,
+              "unitLevel": 8
+            },
+            {
+              "unitID": 90019,
+              "unitCount": 1,
               "unitLevel": 8
             },
             {
@@ -171,8 +194,7 @@
               "unitCount": 1,
               "unitLevel": 8
             }
-          ],
-          "enemyPositionID": 17
+          ]
         }
       ],
       "staminaCost": 16,
@@ -186,6 +208,7 @@
           "localizeId": 1
         }
       ],
+      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder" ],
       "rewardList": [
        
       ],
@@ -232,10 +255,8 @@
             "Battle_Cp2_Ally_1",
             "Battle_Cp2_Enemy_1"
           ],
-          "enemyPositionID": 18
-        },
-        {
-          "unitList": [
+          "enemyPositionID": 18,
+          "subUnitList": [
             {
               "unitID": 90018,
               "unitCount": 1,
@@ -243,16 +264,25 @@
             },
             {
               "unitID": 90019,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 9
             },
             {
               "unitID": 90017,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 9
+            },
+            {
+              "unitID": 90019,
+              "unitCount": 1,
+              "unitLevel": 9
+            },
+            {
+              "unitID": 90017,
+              "unitCount": 1,
               "unitLevel": 9
             }
-          ],
-          "enemyPositionID": 18
+          ]
         }
       ],
       "staminaCost": 16,
@@ -266,6 +296,7 @@
           "localizeId": 1
         }
       ],
+      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder" ],
       "rewardList": [
        
       ],
@@ -309,10 +340,8 @@
             "Battle_Cp2_Ally_1",
             "Battle_Cp2_Enemy_1"
           ],
-          "enemyPositionID": 17
-        },
-        {
-          "unitList": [
+          "enemyPositionID": 18,
+          "subUnitList": [
             {
               "unitID": 90017,
               "unitCount": 1,
@@ -325,14 +354,14 @@
             },
             {
               "unitID": 90019,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 11
-            }
-          ],
-          "enemyPositionID": 17
-        },
-        {
-          "unitList": [
+            },
+            {
+              "unitID": 90019,
+              "unitCount": 1,
+              "unitLevel": 11
+            },
             {
               "unitID": 90018,
               "unitCount": 1,
@@ -345,7 +374,12 @@
             },
             {
               "unitID": 90017,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 11
+            },
+            {
+              "unitID": 90017,
+              "unitCount": 1,
               "unitLevel": 11
             },
             {
@@ -353,8 +387,7 @@
               "unitCount": 1,
               "unitLevel": 11
             }
-          ],
-          "enemyPositionID": 18
+          ]
         }
       ],
       "staminaCost": 16,
@@ -368,6 +401,7 @@
           "localizeId": 1
         }
       ],
+      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder" ],
       "rewardList": [
        
       ],
@@ -404,22 +438,29 @@
             "Battle_Cp2_Ally_2",
             "Battle_Cp2_Enemy_2"
           ],
-          "enemyPositionID": 16
-        },
-        {
-          "unitList": [
+          "enemyPositionID": 17,
+          "subUnitList": [
             {
               "unitID": 90020,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 10
             },
             {
               "unitID": 90021,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 10
+            },
+            {
+              "unitID": 90020,
+              "unitCount": 1,
+              "unitLevel": 10
+            },
+            {
+              "unitID": 90021,
+              "unitCount": 1,
               "unitLevel": 10
             }
-          ],
-          "enemyPositionID": 17
+          ]
         }
       ],
       "staminaCost": 16,
@@ -441,7 +482,7 @@
           "S208B"
         ]
       },
-      "stageScriptList": ["Casino"]
+      "stageScriptList": [ "Casino", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 10209,
@@ -472,10 +513,8 @@
             "Battle_Cp2_Ally_2",
             "Battle_Cp2_Enemy_2"
           ],
-          "enemyPositionID": 17
-        },
-        {
-          "unitList": [
+          "enemyPositionID": 18,
+          "subUnitList": [
             {
               "unitID": 90020,
               "unitCount": 1,
@@ -488,7 +527,12 @@
             },
             {
               "unitID": 90022,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 10
+            },
+            {
+              "unitID": 90022,
+              "unitCount": 1,
               "unitLevel": 10
             },
             {
@@ -496,8 +540,7 @@
               "unitCount": 1,
               "unitLevel": 10
             }
-          ],
-          "enemyPositionID": 18
+          ]
         }
       ],
       "staminaCost": 16,
@@ -522,7 +565,7 @@
           "S209A"
         ]
       },
-      "stageScriptList": ["Casino"]
+      "stageScriptList": ["Casino", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 10210,
@@ -556,6 +599,9 @@
           "enemyPositionID": 17
         },
         {
+          "battleMapInfo": {
+            "mapName": "Casino2F"
+          },
           "unitList": [
             {
               "unitID": 90020,
@@ -608,7 +654,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Casino2F_v1"
+            "mapName": "Casino2F"
           },
           "unitList": [
             {
@@ -625,7 +671,7 @@
         },
         {
           "battleMapInfo": {
-            "mapName": "Casino2F"
+            "mapName": "Casino2F_v1"
           },
           "unitList": [
             {
@@ -664,7 +710,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Casino2F"
+            "mapName": "Casino2F_v1"
           },
           "unitList": [
             {
@@ -685,6 +731,9 @@
           "enemyPositionID": 18
         },
         {
+          "battleMapInfo": {
+            "mapName": "Casino2F"
+          },
           "unitList": [
             {
               "unitID": 90024,
@@ -758,22 +807,29 @@
             "Battle_Cp2_Ally_2",
             "Battle_Cp2_Enemy_2"
           ],
-          "enemyPositionID": 17
-        },
-        {
-          "unitList": [
+          "enemyPositionID": 17,
+          "subUnitList": [
             {
               "unitID": 90021,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 10
             },
             {
               "unitID": 90027,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 10
+            },
+            {
+              "unitID": 90021,
+              "unitCount": 1,
+              "unitLevel": 10
+            },
+            {
+              "unitID": 90027,
+              "unitCount": 1,
               "unitLevel": 10
             }
-          ],
-          "enemyPositionID": 17
+          ]
         }
       ],
       "staminaCost": 16,
@@ -795,7 +851,7 @@
           "S213B"
         ]
       },
-      "stageScriptList": ["Casino"]
+      "stageScriptList": ["Casino", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 10214,
@@ -826,22 +882,34 @@
             "Battle_Cp2_Ally_2",
             "Battle_Cp2_Enemy_2"
           ],
-          "enemyPositionID": 17
-        },
-        {
-          "unitList": [
+          "enemyPositionID": 18,
+          "subUnitList": [
             {
               "unitID": 90026,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 11
             },
             {
               "unitID": 90027,
-              "unitCount": 3,
+              "unitCount": 1,
+              "unitLevel": 11
+            },
+            {
+              "unitID": 90026,
+              "unitCount": 1,
+              "unitLevel": 11
+            },
+            {
+              "unitID": 90027,
+              "unitCount": 1,
+              "unitLevel": 11
+            },
+            {
+              "unitID": 90027,
+              "unitCount": 1,
               "unitLevel": 11
             }
-          ],
-          "enemyPositionID": 18
+          ]
         }
       ],
       "staminaCost": 16,
@@ -858,7 +926,7 @@
       "rewardList": [
 
       ],
-      "stageScriptList": ["Casino"]
+      "stageScriptList": ["Casino", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 10215,
@@ -889,22 +957,34 @@
             "Battle_Cp2_Ally_2",
             "Battle_Cp2_Enemy_2"
           ],
-          "enemyPositionID": 18
-        },
-        {
-          "unitList": [
+          "enemyPositionID": 18,
+          "subUnitList": [
             {
               "unitID": 90026,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 12
             },
             {
               "unitID": 90027,
-              "unitCount": 3,
+              "unitCount": 1,
+              "unitLevel": 12
+            },
+            {
+              "unitID": 90026,
+              "unitCount": 1,
+              "unitLevel": 12
+            },
+            {
+              "unitID": 90027,
+              "unitCount": 1,
+              "unitLevel": 12
+            },
+            {
+              "unitID": 90027,
+              "unitCount": 1,
               "unitLevel": 12
             }
-          ],
-          "enemyPositionID": 18
+          ]
         }
       ],
       "staminaCost": 16,
@@ -929,7 +1009,7 @@
           "S215A"
         ]
       },
-      "stageScriptList": ["Casino"]
+      "stageScriptList": ["Casino", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 10218,
@@ -960,25 +1040,28 @@
             "Battle_Cp2_Ally_2",
             "Battle_Cp2_Enemy_2"
           ],
-          "enemyPositionID": 17
-        },
-        {
-          "unitList": [
+          "enemyPositionID": 18,
+          "subUnitList": [
             {
               "unitID": 90024,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 13
             },
             {
               "unitID": 90025,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 13
-            }
-          ],
-          "enemyPositionID": 18
-        },
-        {
-          "unitList": [
+            },
+            {
+              "unitID": 90024,
+              "unitCount": 1,
+              "unitLevel": 13
+            },
+            {
+              "unitID": 90025,
+              "unitCount": 1,
+              "unitLevel": 13
+            },
             {
               "unitID": 90024,
               "unitCount": 1,
@@ -994,8 +1077,7 @@
               "unitCount": 1,
               "unitLevel": 13
             }
-          ],
-          "enemyPositionID": 18
+          ]
         }
       ],
       "staminaCost": 16,
@@ -1017,7 +1099,7 @@
           "S218B"
         ]
       },
-      "stageScriptList": ["Casino_Eyed"]
+      "stageScriptList": ["Casino_Eyed", "Refill", "SubUnitDefaultSlotAdder"]
     }
   ]
 }

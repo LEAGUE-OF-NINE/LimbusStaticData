@@ -909,6 +909,107 @@
           "number": 1
         }
       ]
+    },
+    {
+      "id": 10610,
+      "appearance": "10610_Honglu_BloodfiendHunterAppearance",
+      "unitKeywordList": [ "FIXER", "SMALL" ],
+      "associationList": [ "FANG_HUNT" ],
+      "characterId": 6,
+      "panicType": 9999,
+      "season": 5,
+      "additionalAttachment": "",
+      "defenseSkillIDList": [
+        1061004
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 2,
+      "hp": {
+        "defaultStat": 73,
+        "incrementByLevel": 2.51
+      },
+      "defCorrection": 0,
+      "minSpeedList": [
+        2,
+        2,
+        3,
+        3
+      ],
+      "maxSpeedList": [
+        5,
+        6,
+        6,
+        6
+      ],
+      "uniqueAttribute": "SHAMROCK",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          70,
+          40,
+          20
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1061001,
+          "number": 3
+        },
+        {
+          "skillId": 1061002,
+          "number": 2
+        },
+        {
+          "skillId": 1061003,
+          "number": 1
+        }
+      ]
     }
   ]
 }

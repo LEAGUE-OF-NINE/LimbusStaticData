@@ -39,7 +39,8 @@
     {
       "dataClass": "assistant",
       "fileList": [
-        "assistant"
+        "assistant",
+        "assistant-a1c7p2"
       ]
     },
     {
@@ -68,7 +69,8 @@
         "abnormality-shadowenemy-part",
         "abnormality-refraction4-part",
         "abnormality-part-wp4",
-        "abnormality-part-a1c7p1"
+        "abnormality-part-a1c7p1",
+        "abnormality-part-a1c7p2"
       ]
     },
     {
@@ -97,7 +99,8 @@
         "abnormality-shadowenemy-unit",
         "abnormality-refraction4-unit",
         "abnormality-unit-wp4",
-        "abnormality-unit-a1c7p1"
+        "abnormality-unit-a1c7p1",
+        "abnormality-unit-a1c7p2"
       ]
     },
     {
@@ -145,7 +148,8 @@
         "buff-enemy-refraction4",
         "buff-player-refraction4",
         "buff-enemy-wp4",
-        "buff-enemy-a1c7p1"
+        "buff-enemy-a1c7p1",
+        "buff-enemy-a1c7p2"
       ]
     },
     {
@@ -158,7 +162,8 @@
         "panic-overwrite-buff",
         "panic-buff-tkt",
         "panic-buff-mowe",
-        "panic-buff-a1c7p1"
+        "panic-buff-a1c7p1",
+        "panic-buff-a1c7p2"
       ]
     },
     {
@@ -171,7 +176,7 @@
     {
       "dataClass": "part",
       "fileList": [
-        "part-a1c7p1"
+        "part-a1c7p2"
       ]
     },
     {
@@ -202,7 +207,8 @@
         "ego-11",
         "ego-12",
         "ego-a1c5p2",
-        "ego-a1c5p3"
+        "ego-a1c5p3",
+        "ego-a1c7p2"
       ]
     },
     {
@@ -247,7 +253,8 @@
         "enemy-mirrordungeon4",
         "enemy-tkt",
         "enemy-mowe",
-        "enemy-a1c7p1"
+        "enemy-a1c7p1",
+        "enemy-a1c7p2"
       ]
     },
     {
@@ -266,7 +273,8 @@
         "gacha-191",
         "gacha-192",
         "gacha-193",
-        "gacha-194"
+        "gacha-194",
+        "gacha-195"
       ]
     },
     {
@@ -304,6 +312,7 @@
       "fileList": [
         "passive",
         "passive-assistant",
+        "passive-assistant-a1c7p2",
         "passive-mr2",
         "passive_check4",
         "passive-ego",
@@ -322,7 +331,8 @@
         "passive-enemy-mowe",
         "passive-enemy-refraction4",
         "passive-enemy-wp4",
-        "passive-enemy-a1c7p1"
+        "passive-enemy-a1c7p1",
+        "passive-enemy-a1c7p2"
       ]
     },
     {
@@ -364,6 +374,7 @@
       "fileList": [
         "abnormality-skill",
         "assistant-skill",
+        "assistant-skill-a1c7p2",
         "abnormality-skill91-4",
         "abnormality-refraction-skill",
         "abnormality-refraction2-skill",
@@ -424,7 +435,9 @@
         "skill-enemy-mowe",
         "skill-abnormality-wp4",
         "skill-abnormality-a1c7p1",
-        "skill-enemy-a1c7p1"
+        "skill-abnormality-a1c7p2",
+        "skill-enemy-a1c7p1",
+        "skill-enemy-a1c7p2"
       ]
     },
     {
@@ -450,7 +463,8 @@
         "storybattle-tkt",
         "storybattle-mowe",
         "storybattle-wp4",
-        "storybattle-a1c7p1"
+        "storybattle-a1c7p1",
+        "storybattle-a1c7p2"
       ]
     },
     {
@@ -523,7 +537,8 @@
         "stagenodereward91-9",
         "stagenodereward91-10",
         "stagenodereward91-11",
-        "stagenodereward-a1c7p1"
+        "stagenodereward-a1c7p1",
+        "stagenodereward-a1c7p2"
       ]
     },
     {
@@ -532,7 +547,8 @@
         "story",
         "story-a1c6p1",
         "story-a1c6p3",
-        "story-a1c7p1"
+        "story-a1c7p1",
+        "story-a1c7p2"
       ]
     },
     {
@@ -559,7 +575,7 @@
         "vending-machine-3",
         "vending-machine-4-a1c6",
         "vending-machine-91",
-        "vending-machine-5-a1c7p1"
+        "vending-machine-5-a1c7p2"
       ]
     },
     {
@@ -652,7 +668,7 @@
         "battlepass-2",
         "battlepass-3-a1c5",
         "battlepass-4-a1c6p3",
-        "battlepass-5-a1c7p1"
+        "battlepass-5-a1c7p2"
       ]
     },
     {
@@ -665,7 +681,7 @@
         "storytheater-main-104",
         "storytheater-main-a1c5p3",
         "storytheater-main-a1c6p3",
-        "storytheater-main-a1c7p1"
+        "storytheater-main-a1c7p2"
       ]
     },
     {
@@ -953,7 +969,8 @@
       "dataClass": "battle-thread-dungeon",
       "fileList": [
         "battle-thread-dungeon-01",
-        "battle-thread-dungeon-02"
+        "battle-thread-dungeon-02",
+        "battle-thread-dungeon-03-a1c7p2"
       ]
     },
     {
@@ -961,7 +978,8 @@
       "fileList": [
         "exp-dungeon-01",
         "exp-dungeon-02-a1c5p1",
-        "exp-dungeon-03-a1c6p3"
+        "exp-dungeon-03-a1c6p3",
+        "exp-dungeon-04-a1c7p2"
       ]
     },
     {
@@ -969,7 +987,8 @@
       "fileList": [
         "battle-exp-dungeon-01",
         "battle-exp-dungeon-02",
-        "battle-exp-dungeon-03-a1c6p3"
+        "battle-exp-dungeon-03-a1c6p3",
+        "battle-exp-dungeon-04-a1c7p2"
       ]
     },
     {
@@ -1072,7 +1091,7 @@
         "subchapter-detail",
         "subchapter-detail-a1c5p3",
         "subchapter-detail-a1c6p3",
-        "subchapter-detail-a1c7p1"
+        "subchapter-detail-a1c7p2"
       ]
     },
     {
@@ -1100,7 +1119,7 @@
         "main-stage-map-setting-a1c5p1",
         "main-stage-map-setting-a1c6p1",
         "main-stage-map-setting-a1c6p3",
-        "main-stage-map-setting-a1c7p1"
+        "main-stage-map-setting-a1c7p2"
       ]
     },
     {
@@ -1120,7 +1139,8 @@
         "restrict-participation-a1c6p2",
         "restrict-participation-walpu3",
         "restrict-participation-walpu4",
-        "restrict-participation-a1c7p1"
+        "restrict-participation-a1c7p1",
+        "restrict-participation-a1c7p2"
       ]
     },
     {

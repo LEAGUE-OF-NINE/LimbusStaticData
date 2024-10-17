@@ -28,18 +28,36 @@
           "bgmList": [
             "Battle_Cp4_Ally_4",
             "Battle_Cp4_Enemy_4"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90114,
-              "unitCount": 3,
+              "unitCount": 1,
               "unitLevel": 25
             },
             {
               "unitID": 90115,
-              "unitCount": 3,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90114,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90115,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90114,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90115,
+              "unitCount": 1,
               "unitLevel": 25
             }
           ]
@@ -62,7 +80,7 @@
           "S602B"
         ]
       },
-      "stageScriptList": ["FilterAddForce"]
+      "stageScriptList": ["FilterAddForce", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 10603,
@@ -92,18 +110,36 @@
           "bgmList": [
             "Battle_Cp4_Ally_4",
             "Battle_Cp4_Enemy_4"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90114,
-              "unitCount": 3,
+              "unitCount": 1,
               "unitLevel": 25
             },
             {
               "unitID": 90115,
-              "unitCount": 3,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90114,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90115,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90114,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90115,
+              "unitCount": 1,
               "unitLevel": 25
             }
           ]
@@ -129,7 +165,7 @@
           "S603A"
         ]
       },
-      "stageScriptList": ["FilterAddForce"]
+      "stageScriptList": ["FilterAddForce", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 10609,
@@ -160,18 +196,31 @@
           "bgmList": [
             "Battle_Cp4_Ally_5",
             "Battle_Cp4_Enemy_5"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90116,
-              "unitCount": 3,
+              "unitCount": 1,
               "unitLevel": 37
             },
             {
               "unitID": 90117,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 37
+            },
+            {
+              "unitID": 90116,
+              "unitCount": 1,
+              "unitLevel": 37
+            },
+            {
+              "unitID": 90117,
+              "unitCount": 1,
+              "unitLevel": 37
+            },
+            {
+              "unitID": 90116,
+              "unitCount": 1,
               "unitLevel": 37
             }
           ]
@@ -197,7 +246,7 @@
           "S609A"
         ]
       },
-      "stageScriptList": ["a1c6p1_EnemyRun_Normal_Filter"]
+      "stageScriptList": ["a1c6p1_EnemyRun_Normal_Filter", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 10614,
@@ -228,18 +277,31 @@
           "bgmList": [
             "Battle_Cp6_Ally_1",
             "Battle_Cp6_Enemy_1"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90126,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
               "unitID": 90127,
-              "unitCount": 3,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90126,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90127,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90127,
+              "unitCount": 1,
               "unitLevel": 40
             }
           ]
@@ -262,7 +324,7 @@
           "S614B"
         ]
       },
-      "stageScriptList": ["a1c6p1_Buff_EnemyRun_Normal_Filter"]
+      "stageScriptList": ["a1c6p1_Buff_EnemyRun_Normal_Filter", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 10615,
@@ -293,32 +355,56 @@
           "bgmList": [
             "Battle_Cp6_Ally_2",
             "Battle_Cp6_Enemy_2"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90126,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 42
+            },
+            {
+              "unitID": 90126,
+              "unitCount": 1,
               "unitLevel": 42
             },
             {
               "unitID": 90127,
-              "unitCount": 4,
-              "unitLevel": 42
-            }
-          ]
-        },
-        {
-          "unitList": [
-            {
-              "unitID": 90126,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 42
             },
             {
               "unitID": 90127,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 42
+            },
+            {
+              "unitID": 90127,
+              "unitCount": 1,
+              "unitLevel": 42
+            },
+            {
+              "unitID": 90127,
+              "unitCount": 1,
+              "unitLevel": 42
+            },
+            {
+              "unitID": 90126,
+              "unitCount": 1,
+              "unitLevel": 42
+            },
+            {
+              "unitID": 90127,
+              "unitCount": 1,
+              "unitLevel": 42
+            },
+            {
+              "unitID": 90126,
+              "unitCount": 1,
+              "unitLevel": 42
+            },
+            {
+              "unitID": 90127,
+              "unitCount": 1,
               "unitLevel": 42
             },
             {
@@ -341,7 +427,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["a1c6p1_Buff_EnemyRun_Normal_Filter"]
+      "stageScriptList": ["a1c6p1_Buff_EnemyRun_Normal_Filter", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 10616,
@@ -372,18 +458,31 @@
           "bgmList": [
             "Battle_Cp6_Ally_1",
             "Battle_Cp6_Enemy_1"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90118,
-              "unitCount": 3,
+              "unitCount": 1,
               "unitLevel": 39
             },
             {
               "unitID": 90119,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 39
+            },
+            {
+              "unitID": 90118,
+              "unitCount": 1,
+              "unitLevel": 39
+            },
+            {
+              "unitID": 90119,
+              "unitCount": 1,
+              "unitLevel": 39
+            },
+            {
+              "unitID": 90118,
+              "unitCount": 1,
               "unitLevel": 39
             }
           ]
@@ -406,7 +505,7 @@
           "S616B"
         ]
       },
-      "stageScriptList": ["a1c6p1_Buff_Normal_Filter"]
+      "stageScriptList": ["a1c6p1_Buff_Normal_Filter", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 10617,
@@ -437,18 +536,31 @@
           "bgmList": [
             "Battle_Cp6_Ally_2",
             "Battle_Cp6_Enemy_2"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90118,
-              "unitCount": 3,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
               "unitID": 90119,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90118,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90119,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90118,
+              "unitCount": 1,
               "unitLevel": 40
             }
           ]
@@ -471,7 +583,7 @@
           "S617B"
         ]
       },
-      "stageScriptList": ["a1c6p1_Buff_Normal_Filter"]
+      "stageScriptList": ["a1c6p1_Buff_Normal_Filter", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 10618,
@@ -502,18 +614,36 @@
           "bgmList": [
             "Battle_Cp6_Ally_1",
             "Battle_Cp6_Enemy_1"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90118,
-              "unitCount": 3,
+              "unitCount": 1,
               "unitLevel": 41
             },
             {
               "unitID": 90119,
-              "unitCount": 3,
+              "unitCount": 1,
+              "unitLevel": 41
+            },
+            {
+              "unitID": 90118,
+              "unitCount": 1,
+              "unitLevel": 41
+            },
+            {
+              "unitID": 90119,
+              "unitCount": 1,
+              "unitLevel": 41
+            },
+            {
+              "unitID": 90118,
+              "unitCount": 1,
+              "unitLevel": 41
+            },
+            {
+              "unitID": 90119,
+              "unitCount": 1,
               "unitLevel": 41
             }
           ]
@@ -536,7 +666,7 @@
           "S618B"
         ]
       },
-      "stageScriptList": ["a1c6p1_Buff_Normal_Filter"]
+      "stageScriptList": ["a1c6p1_Buff_Normal_Filter", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 10619,
@@ -571,18 +701,31 @@
           "bgmList": [
             "Battle_Cp6_Ally_2",
             "Battle_Cp6_Enemy_2"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90123,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 42
             },
             {
               "unitID": 90124,
-              "unitCount": 3,
+              "unitCount": 1,
+              "unitLevel": 42
+            },
+            {
+              "unitID": 90123,
+              "unitCount": 1,
+              "unitLevel": 42
+            },
+            {
+              "unitID": 90124,
+              "unitCount": 1,
+              "unitLevel": 42
+            },
+            {
+              "unitID": 90124,
+              "unitCount": 1,
               "unitLevel": 42
             },
             {
@@ -613,7 +756,7 @@
           "S619A"
         ]
       },
-      "stageScriptList": ["a1c6p1_Buff_EnemyRun_Normal_Filter"]
+      "stageScriptList": ["a1c6p1_Buff_EnemyRun_Normal_Filter", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 10620,
@@ -644,18 +787,36 @@
           "bgmList": [
             "Battle_Cp6_Ally_1",
             "Battle_Cp6_Enemy_1"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90118,
-              "unitCount": 3,
+              "unitCount": 1,
               "unitLevel": 41
             },
             {
               "unitID": 90119,
-              "unitCount": 3,
+              "unitCount": 1,
+              "unitLevel": 41
+            },
+            {
+              "unitID": 90118,
+              "unitCount": 1,
+              "unitLevel": 41
+            },
+            {
+              "unitID": 90119,
+              "unitCount": 1,
+              "unitLevel": 41
+            },
+            {
+              "unitID": 90118,
+              "unitCount": 1,
+              "unitLevel": 41
+            },
+            {
+              "unitID": 90119,
+              "unitCount": 1,
               "unitLevel": 41
             }
           ]
@@ -678,7 +839,7 @@
           "S620B"
         ]
       },
-      "stageScriptList": ["a1c6p1_Buff_Normal_Filter"]
+      "stageScriptList": ["a1c6p1_Buff_Normal_Filter", "Refill", "SubUnitDefaultSlotAdder"]
     },
     {
       "id": 10621,
@@ -714,29 +875,38 @@
           "bgmList": [
             "Battle_Cp6_Ally_2",
             "Battle_Cp6_Enemy_2"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90123,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 43
+            },
+            {
+              "unitID": 90123,
+              "unitCount": 1,
               "unitLevel": 43
             },
             {
               "unitID": 90124,
-              "unitCount": 3,
+              "unitCount": 1,
+              "unitLevel": 43
+            },
+            {
+              "unitID": 90124,
+              "unitCount": 1,
+              "unitLevel": 43
+            },
+            {
+              "unitID": 90124,
+              "unitCount": 1,
               "unitLevel": 43
             },
             {
               "unitID": 90122,
               "unitCount": 1,
               "unitLevel": 43
-            }
-          ]
-        },
-        {
-          "unitList": [
+            },
             {
               "unitID": 90120,
               "unitCount": 1,
@@ -790,7 +960,7 @@
           "S621A"
         ]
       },
-      "stageScriptList": ["a1c6p1_Buff_EnemyRun_Normal_Filter"]
+      "stageScriptList": ["a1c6p1_Buff_EnemyRun_Normal_Filter", "Refill", "SubUnitDefaultSlotAdder"]
     }
   ]
 }

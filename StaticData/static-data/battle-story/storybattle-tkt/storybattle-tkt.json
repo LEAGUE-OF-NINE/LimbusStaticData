@@ -176,18 +176,31 @@
           ],
           "bgmList": [
             "Battle_Cp6_5_TKT_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90140,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 42
             },
             {
               "unitID": 90141,
-              "unitCount": 3,
+              "unitCount": 1,
+              "unitLevel": 42
+            },
+            {
+              "unitID": 90140,
+              "unitCount": 1,
+              "unitLevel": 42
+            },
+            {
+              "unitID": 90141,
+              "unitCount": 1,
+              "unitLevel": 42
+            },
+            {
+              "unitID": 90141,
+              "unitCount": 1,
               "unitLevel": 42
             }
           ]
@@ -205,7 +218,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["91017"],
+      "stageScriptList": ["91017", "Refill", "SubUnitDefaultSlotAdder"],
       "abstainSupporterCharacterIds": [ 1,2,3,5,7,8,10,11,12 ]
     },
     {
@@ -235,18 +248,31 @@
           ],
           "bgmList": [
             "Battle_Cp6_5_TKT_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90140,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 43
             },
             {
               "unitID": 90141,
-              "unitCount": 3,
+              "unitCount": 1,
+              "unitLevel": 43
+            },
+            {
+              "unitID": 90140,
+              "unitCount": 1,
+              "unitLevel": 43
+            },
+            {
+              "unitID": 90141,
+              "unitCount": 1,
+              "unitLevel": 43
+            },
+            {
+              "unitID": 90141,
+              "unitCount": 1,
               "unitLevel": 43
             }
           ]
@@ -269,7 +295,7 @@
           "E609B"
         ]
       },
-      "stageScriptList": ["91017"],
+      "stageScriptList": ["91017", "Refill", "SubUnitDefaultSlotAdder"],
       "abstainSupporterCharacterIds": [ 1,2,3,5,7,8,10,11,12 ]
     },
     {
@@ -310,11 +336,16 @@
             },
             {
               "unitID": 8344,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 44
             },
             {
               "unitID": 8345,
+              "unitCount": 1,
+              "unitLevel": 44
+            },
+            {
+              "unitID": 8344,
               "unitCount": 1,
               "unitLevel": 44
             }

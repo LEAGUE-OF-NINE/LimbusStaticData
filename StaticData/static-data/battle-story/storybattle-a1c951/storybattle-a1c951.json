@@ -35,7 +35,12 @@
           "unitList": [
             {
               "unitID": 90101,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90101,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
@@ -49,7 +54,12 @@
           "unitList": [
             {
               "unitID": 90101,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90101,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
@@ -65,7 +75,7 @@
           ]
         },
         {
-          "unitList": [
+          "unitList":[
             {
               "unitID": 90101,
               "unitCount": 1,
@@ -109,6 +119,7 @@
           "E503A"
         ]
       },
+      "stageScriptList": [  ],
       "abstainSupporterCharacterIds": [1, 2, 4, 5, 6, 8, 9, 10, 11, 12]
     },
     {
@@ -139,18 +150,31 @@
           ],
           "bgmList": [
             "Battle_Cp5_5_Xmas_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90101,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
               "unitID": 90102,
-              "unitCount": 3,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90101,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90102,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90102,
+              "unitCount": 1,
               "unitLevel": 40
             }
           ]
@@ -167,6 +191,7 @@
           "localizeId": 1
         }
       ],
+      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder" ],
       "rewardList": [],
       "story": {
         "enter": [
@@ -203,18 +228,31 @@
           ],
           "bgmList": [
             "Battle_Cp5_5_Xmas_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90102,
-              "unitCount": 3,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
               "unitID": 90103,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90102,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90103,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90102,
+              "unitCount": 1,
               "unitLevel": 40
             }
           ]
@@ -240,6 +278,7 @@
           "E505A"
         ]
       },
+      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder" ],
       "abstainSupporterCharacterIds": [ 3, 7 ]
     },
     {
@@ -269,18 +308,31 @@
           ],
           "bgmList": [
             "Battle_Cp5_5_Xmas_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90102,
-              "unitCount": 3,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
               "unitID": 90103,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90103,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90102,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90102,
+              "unitCount": 1,
               "unitLevel": 40
             }
           ]
@@ -298,6 +350,7 @@
         }
       ],
       "rewardList": [],
+      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder" ],
       "abstainSupporterCharacterIds": [ 3, 7 ]
     },
     {
@@ -327,13 +380,16 @@
           ],
           "bgmList": [
             "Battle_Cp5_5_Xmas_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90101,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90101,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
@@ -366,6 +422,7 @@
         }
       ],
       "rewardList": [],
+      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder" ],
       "abstainSupporterCharacterIds": [ 3, 7 ]
     },
     {
@@ -400,18 +457,26 @@
           ],
           "bgmList": [
             "Battle_Cp5_5_Xmas_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90101,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
               "unitID": 90102,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90101,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90102,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
@@ -442,6 +507,7 @@
           "E506A"
         ]
       },
+      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder" ],
       "abstainSupporterCharacterIds": [ 3, 7 ]
     },
     {
@@ -481,18 +547,26 @@
           ],
           "bgmList": [
             "Battle_Cp5_5_Xmas_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90101,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
               "unitID": 90102,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90101,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90102,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
@@ -515,6 +589,7 @@
         }
       ],
       "rewardList": [],
+      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder" ],
       "abstainSupporterCharacterIds": [ 3, 7 ]
     },
     {
@@ -554,13 +629,16 @@
           ],
           "bgmList": [
             "Battle_Cp5_5_Xmas_Enemy"
-          ]
-        },
-        {
-          "unitList": [
+          ],
+          "subUnitList": [
             {
               "unitID": 90101,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90101,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
@@ -570,7 +648,12 @@
             },
             {
               "unitID": 90104,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 90104,
+              "unitCount": 1,
               "unitLevel": 40
             }
           ]
@@ -595,7 +678,8 @@
         "exit": [
           "E507A"
         ]
-      }
+      },
+      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder" ]
     },
     {
       "id": 910511,
