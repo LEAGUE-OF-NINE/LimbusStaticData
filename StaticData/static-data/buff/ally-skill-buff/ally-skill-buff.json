@@ -1015,6 +1015,89 @@
           "ability": "LineCuttingEffect"
         }
       ]
+    },
+    {
+      "id": "RoseWedge",
+      "buffClass": "CountableBuff",
+      "buffType": "Negative",
+      "maxStack": 10,
+      "maxTurn": 4,
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "RoseWedgeFirstAbility",
+          "buffData": {
+            "buffKeyword": "Laceration",
+            "target": "Self",
+            "stack": 2,
+            "turn": 0,
+            "activeRound": 0,
+            "limit": 5
+          }
+        },
+        {
+          "ability": "RoseWedgeFirstAbility",
+          "buffData": {
+            "buffKeyword": "Laceration",
+            "target": "Target",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0,
+            "limit": 5
+          }
+        },
+        {
+          "ability": "RoseWedgeSecondAbility",
+          "buffData": {
+            "buffKeyword": "Laceration",
+            "target": "Self",
+            "stack": 0,
+            "turn": 1,
+            "activeRound": 0,
+            "limit": 5
+          }
+        },
+        {
+          "ability": "RoseWedgeThirdAbility",
+          "value": 10,
+          "buffData": {
+            "buffKeyword": "RoseWedge",
+            "target": "Self",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "RoseWedgeFourthAbility_1000_SCARLET_200_SCARLET"
+        },
+        {
+          "ability": "LoseTurnOnRoundEnd",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "ThirstyRose",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": true,
+      "maxStack": 5,
+      "list": [
+        {
+          "ability": "ThirstyRose",
+          "buffData": {
+            "buffKeyword": "Laceration",
+            "stack": 10,
+            "value": 0.01,
+            "limit": 30
+          }
+        },
+        {
+          "ability": "LoseStackOnRoundEnd",
+          "value": 1
+        }
+      ]
     }
   ]
 }

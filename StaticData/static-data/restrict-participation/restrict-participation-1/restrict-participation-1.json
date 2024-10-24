@@ -10,6 +10,16 @@
         {
           "id": 10501,
           "restrictFriendSupportIds": [ 8 ]
+        },
+        {
+          "id": 10701,
+          "instructions": [
+            {
+              "id": "EXCLUDE_DEFAULT_PERSONALITY_WHEN_HAS_EGOGIFT",
+              "instruction": 1,
+              "dataList" : [2047, 3]
+            }
+          ]
         }
       ]
     }

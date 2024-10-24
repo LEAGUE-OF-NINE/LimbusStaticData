@@ -8,8 +8,7 @@
     },
     {
       "id": 1,
-      "cg": "S708:FadeIn",
-      "effect": "CameraMoveZoom:mode=on:horizontal=0.7:duration=0:vertical=0.2:zoom=2.5:delay=0"
+      "effect": "Spine:name=Cp7_2_1_StorySpine1:on:duration=0.5,CameraMoveZoom:mode=on:horizontal=0.7:duration=0:vertical=0.2:zoom=2.5:delay=0"
     },
     {
       "id": 2,
@@ -26,8 +25,7 @@
     },
     {
       "id": 5,
-      "cg": "S708:FadeOut",
-      "effect": "CameraMoveZoom:mode=on:vertical=0.4:zoom=2:delay=0",
+      "effect": "Spine:name=Cp7_2_1_StorySpine1:off:duration=0.5, CameraMoveZoom:mode=on:vertical=0.4:zoom=2:delay=0",
       "voice": "D_Click"
     },
     {

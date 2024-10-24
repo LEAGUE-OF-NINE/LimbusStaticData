@@ -259,7 +259,8 @@
       "appearance": "90175_Dulcinea_Vamp_AAppearance",
       "unitKeywordList": [
         "BLOODFIEND",
-        "SMALL"
+        "SMALL",
+                "DEPENDENT"
       ],
       "associationList": [],
       "unitScriptID": "BloodWraithTierNormal",
@@ -345,7 +346,8 @@
       "appearance": "90176_Dulcinea_Vamp_BAppearance",
       "unitKeywordList": [
         "BLOODFIEND",
-        "SMALL"
+        "SMALL",
+                "DEPENDENT"
       ],
       "associationList": [],
       "unitScriptID": "BloodWraithTierNormal",

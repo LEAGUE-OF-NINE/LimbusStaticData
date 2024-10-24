@@ -90,5 +90,6 @@
   "isEnableShopUseUnlockcode": true,
   "warningReturnMissionIds": [],
   "isEnableSteamWalletUpdate": true,
-  "tempSolveEgoGacksungOnPassiveTab": true
+  "tempSolveEgoGacksungOnPassiveTab": true,
+  "valueFor841104": 0.025
 }

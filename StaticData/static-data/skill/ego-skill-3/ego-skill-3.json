@@ -1415,6 +1415,718 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2030711,
+      "skillType": "EGO_AWAKEN",
+      "skillTier": 3,
+      "requireIDList": [],
+      "skillTagList": [
+        "BloodDinner"
+      ],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "SCARLET",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 5,
+          "mpUsage": 15,
+          "skillLevelCorrection": 3,
+          "defaultValue": 3,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "SKILL",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "SeventhDonquixoteEgoImmortalSkillAbility"
+            },
+            {
+              "scriptName": "ParryingPowerResultAdderSelfViaBuffDevide",
+              "buffData": {
+                "buffKeyword": "BloodDinner_Accumulation",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 100,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1,
+                "limit": 2
+              }
+            },
+            {
+              "scriptName": "SeventhDonquixoteEgoGiveBuffOSAIfCommonUsedBDUnder50",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Target",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "AfterEndAttackTakeMpDmgOnRoundEnd10For3Round"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SeventhDonquixoteEgoDmgUpCoinAbility0And1And10And1000"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SeventhDonquixoteEgoDmgUpCoinAbility100And1And10And1000"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SeventhDonquixoteEgoDmgUpCoinAbility200And1And10And2000"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 3,
+              "actionIndex": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SeventhDonquixoteEgoDmgUpCoinAbility300And1And10And3000"
+                },
+                {
+                  "scriptName": "SeventhDonquixoteEgoGiveBuffOSAAfterWinDuelByMaxPR",
+                  "buffData": {
+                    "buffKeyword": "ThirstyRose",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": -1,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "limit": 3
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "abilityScriptList": [
+            {
+              "scriptName": "SeventhDonquixoteEgoImmortalSkillAbility"
+            },
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 10,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "ParryingPowerResultAdderSelfViaBuffDevide",
+              "buffData": {
+                "buffKeyword": "BloodDinner_Accumulation",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 100,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1,
+                "limit": 3
+              }
+            },
+            {
+              "scriptName": "SeventhDonquixoteEgoGiveBuffOSAIfCommonUsedBDUnder75",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Target",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "AfterEndAttackTakeMpDmgOnRoundEnd10For3Round"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SeventhDonquixoteEgoDmgUpCoinAbility0And1And10And1000"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SeventhDonquixoteEgoDmgUpCoinAbility100And1And10And1500"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SeventhDonquixoteEgoDmgUpCoinAbility200And1And10And2500"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 3,
+              "actionIndex": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SeventhDonquixoteEgoDmgUpCoinAbility300And1And10And4000"
+                },
+                {
+                  "scriptName": "SeventhDonquixoteEgoGiveBuffOSAAfterWinDuelByMaxPR",
+                  "buffData": {
+                    "buffKeyword": "ThirstyRose",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": -1,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "limit": 3
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "targetNum": 7,
+          "abilityScriptList": [
+            {
+              "scriptName": "SeventhDonquixoteEgoImmortalSkillAbility"
+            },
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheckDevideByStackWithLimit2",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 10,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "ParryingPowerResultAdderSelfViaBuffDevide",
+              "buffData": {
+                "buffKeyword": "BloodDinner_Accumulation",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 100,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1,
+                "limit": 5
+              }
+            },
+            {
+              "scriptName": "SeventhDonquixoteEgoGiveBuffOSAIfCommonUsedBDUnder100",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Target",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "AfterEndAttackTakeMpDmgOnRoundEnd10For3Round"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SeventhDonquixoteEgoDmgUpCoinAbility0And1And10And1000"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SeventhDonquixoteEgoDmgUpCoinAbility100And1And10And2000"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SeventhDonquixoteEgoDmgUpCoinAbility200And1And10And3000"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 3,
+              "actionIndex": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SeventhDonquixoteEgoDmgUpCoinAbility300And1And10And5000"
+                },
+                {
+                  "scriptName": "SeventhDonquixoteEgoGiveBuffOSAAfterWinDuelByMaxPR",
+                  "buffData": {
+                    "buffKeyword": "ThirstyRose",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": -1,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "limit": 4
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030721,
+      "skillType": "EGO_EROSION",
+      "skillTier": 3,
+      "requireIDList": [],
+      "skillTagList": [
+        "BloodDinner"
+      ],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "SCARLET",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillTargetType": "RANDOM",
+          "targetNum": 5,
+          "mpUsage": 40,
+          "skillLevelCorrection": 5,
+          "defaultValue": 30,
+          "canTeamKill": true,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "SKILL",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "SeventhDonquixoteEgoImmortalSkillAbility"
+            },
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 10,
+                "turn": 0,
+                "activeRound": 0,
+                "value": -1
+              }
+            },
+            {
+              "scriptName": "SeventhDonquixoteEgoGiveBuffOSAIfCommonUsedBDUnder150",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Target",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffBeforeAttack",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 20,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "ForceToActivateSinBuffBeforeAttack",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 2,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 10,
+              "actionIndex": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackSetStackDevideByCommonUsedBloodDinner50",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "limit": 10
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfBloodDinnerNotMoreThan100",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 10,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "SUB",
+              "scale": 10,
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SeventhDonquixoteEgoDmgUpCoinAbility0And100And500And2500"
+                },
+                {
+                  "scriptName": "SeventhDonquixoteEgoGiveBuffOSAAfterWinDuelByMaxPR",
+                  "buffData": {
+                    "buffKeyword": "ThirstyRose",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": -1,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "limit": 3
+                  }
+                },
+                {
+                  "scriptName": "SeventhDonquixoteEgoHealCoinAbility500And10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "abilityScriptList": [
+            {
+              "scriptName": "SeventhDonquixoteEgoImmortalSkillAbility"
+            },
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 10,
+                "turn": 0,
+                "activeRound": 0,
+                "value": -1
+              }
+            },
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "BloodDinner_Accumulation",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 200,
+                "turn": 0,
+                "activeRound": 0,
+                "value": -1
+              }
+            },
+            {
+              "scriptName": "SeventhDonquixoteEgoGiveBuffOSAIfCommonUsedBDUnder150",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Target",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffBeforeAttack",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 20,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "ForceToActivateSinBuffBeforeAttack",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 2,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 10,
+              "actionIndex": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackSetStackDevideByCommonUsedBloodDinner50",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "limit": 10
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfBloodDinnerNotMoreThan100",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 10,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "SUB",
+              "scale": 10,
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SeventhDonquixoteEgoDmgUpCoinAbility0And100And1000And5000"
+                },
+                {
+                  "scriptName": "SeventhDonquixoteEgoGiveBuffOSAAfterWinDuelByMaxPR",
+                  "buffData": {
+                    "buffKeyword": "ThirstyRose",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": -1,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "limit": 4
+                  }
+                },
+                {
+                  "scriptName": "SeventhDonquixoteEgoHealCoinAbility500And10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "targetNum": 7,
+          "abilityScriptList": [
+            {
+              "scriptName": "SeventhDonquixoteEgoImmortalSkillAbility"
+            },
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 10,
+                "turn": 0,
+                "activeRound": 0,
+                "value": -1
+              }
+            },
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "BloodDinner_Accumulation",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 200,
+                "turn": 0,
+                "activeRound": 0,
+                "value": -1
+              }
+            },
+            {
+              "scriptName": "SeventhDonquixoteEgoGiveBuffOSAIfCommonUsedBDUnder150",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Target",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffBeforeAttack",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 20,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "ForceToActivateSinBuffBeforeAttack",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 2,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 10,
+              "actionIndex": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackSetStackDevideByCommonUsedBloodDinner50",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "limit": 10
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfBloodDinnerNotMoreThan100",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 10,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "SUB",
+              "scale": 10,
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SeventhDonquixoteEgoDmgUpCoinAbility0And100And2000And10000"
+                },
+                {
+                  "scriptName": "SeventhDonquixoteEgoGiveBuffOSAAfterWinDuelByMaxPR",
+                  "buffData": {
+                    "buffKeyword": "ThirstyRose",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": -1,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "limit": 5
+                  }
+                },
+                {
+                  "scriptName": "SeventhDonquixoteEgoHealCoinAbility500And10"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

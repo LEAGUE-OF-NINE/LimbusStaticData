@@ -33,7 +33,11 @@
         "abnormality-action-choice-event_Refraction4",
         "abnormality-personality-choice-event-Refraction4",
         "walpu-action-choice-event",
-        "walpu-personality-choice-event"
+        "walpu-personality-choice-event",
+        "battle-coin-choice-event-a1c7p3",
+        "abnormality-choice-event-a1c7p3",
+        "story-dungeon-action-choice-event-a1c7p3",
+        "story-dungeon-personality-choice-event-a1c7p3"
       ]
     },
     {
@@ -70,7 +74,8 @@
         "abnormality-refraction4-part",
         "abnormality-part-wp4",
         "abnormality-part-a1c7p1",
-        "abnormality-part-a1c7p2"
+        "abnormality-part-a1c7p2",
+        "abnormality-part-a1c7p3"
       ]
     },
     {
@@ -100,7 +105,8 @@
         "abnormality-refraction4-unit",
         "abnormality-unit-wp4",
         "abnormality-unit-a1c7p1",
-        "abnormality-unit-a1c7p2"
+        "abnormality-unit-a1c7p2",
+        "abnormality-unit-a1c7p3"
       ]
     },
     {
@@ -149,7 +155,8 @@
         "buff-player-refraction4",
         "buff-enemy-wp4",
         "buff-enemy-a1c7p1",
-        "buff-enemy-a1c7p2"
+        "buff-enemy-a1c7p2",
+        "buff-enemy-a1c7p3"
       ]
     },
     {
@@ -163,7 +170,8 @@
         "panic-buff-tkt",
         "panic-buff-mowe",
         "panic-buff-a1c7p1",
-        "panic-buff-a1c7p2"
+        "panic-buff-a1c7p2",
+        "panic-buff-a1c7p3"
       ]
     },
     {
@@ -176,7 +184,7 @@
     {
       "dataClass": "part",
       "fileList": [
-        "part-a1c7p2"
+        "part-a1c7p3"
       ]
     },
     {
@@ -207,8 +215,7 @@
         "ego-11",
         "ego-12",
         "ego-a1c5p2",
-        "ego-a1c5p3",
-        "ego-a1c7p2"
+        "ego-a1c5p3"
       ]
     },
     {
@@ -218,7 +225,8 @@
         "hidden-ego-gift-storydungeon",
         "ego-gift-a1c5p1",
         "ego-gift-a1c5p2",
-        "ego-gift-a1c5p3"
+        "ego-gift-a1c5p3",
+        "ego-gift-a1c7p3"
       ]
     },
     {
@@ -254,7 +262,8 @@
         "enemy-tkt",
         "enemy-mowe",
         "enemy-a1c7p1",
-        "enemy-a1c7p2"
+        "enemy-a1c7p2",
+        "enemy-a1c7p3"
       ]
     },
     {
@@ -267,6 +276,7 @@
         "gacha-5",
         "gacha-6",
         "gacha-7",
+        "gacha-8",
         "gacha-188",
         "gacha-189",
         "gacha-190",
@@ -332,7 +342,8 @@
         "passive-enemy-refraction4",
         "passive-enemy-wp4",
         "passive-enemy-a1c7p1",
-        "passive-enemy-a1c7p2"
+        "passive-enemy-a1c7p2",
+        "passive-enemy-a1c7p3"
       ]
     },
     {
@@ -436,6 +447,7 @@
         "skill-abnormality-wp4",
         "skill-abnormality-a1c7p1",
         "skill-abnormality-a1c7p2",
+        "skill-abnormality-a1c7p3",
         "skill-enemy-a1c7p1",
         "skill-enemy-a1c7p2"
       ]
@@ -464,7 +476,8 @@
         "storybattle-mowe",
         "storybattle-wp4",
         "storybattle-a1c7p1",
-        "storybattle-a1c7p2"
+        "storybattle-a1c7p2",
+        "storybattle-a1c7p3"
       ]
     },
     {
@@ -479,7 +492,8 @@
         "dungeonbattle-a1c5p2",
         "dungeonbattle-a1c5p3",
         "dungeonbattle-ycgd",
-        "dungeonbattle-tkt"
+        "dungeonbattle-tkt",
+        "dungeonbattle-a1c7p3"
       ]
     },
     {
@@ -494,7 +508,8 @@
         "abbattle-a1c5p2",
         "abbattle-a1c5p3",
         "abbattle-ycgd",
-        "abbattle-tkt"
+        "abbattle-tkt",
+        "abbattle-a1c7p3"
       ]
     },
     {
@@ -538,7 +553,8 @@
         "stagenodereward91-10",
         "stagenodereward91-11",
         "stagenodereward-a1c7p1",
-        "stagenodereward-a1c7p2"
+        "stagenodereward-a1c7p2",
+        "stagenodereward-a1c7p3"
       ]
     },
     {
@@ -548,7 +564,8 @@
         "story-a1c6p1",
         "story-a1c6p3",
         "story-a1c7p1",
-        "story-a1c7p2"
+        "story-a1c7p2",
+        "story-a1c7p3"
       ]
     },
     {
@@ -557,7 +574,8 @@
         "dungeon",
         "dungeon-a1c5p3",
         "dungeon-ycgd",
-        "dungeon-tkt"
+        "dungeon-tkt",
+        "dungeon-a1c7p3"
       ]
     },
     {
@@ -575,7 +593,7 @@
         "vending-machine-3",
         "vending-machine-4-a1c6",
         "vending-machine-91",
-        "vending-machine-5-a1c7p2"
+        "vending-machine-5-a1c7p3"
       ]
     },
     {
@@ -631,7 +649,8 @@
       "dataClass": "dungeonMap",
       "fileList": [
         "dungeonMap",
-        "dungeonMap-a1c5p3"
+        "dungeonMap-a1c5p3",
+        "dungeonMap-a1c7p3"
       ]
     },
     {
@@ -668,7 +687,7 @@
         "battlepass-2",
         "battlepass-3-a1c5",
         "battlepass-4-a1c6p3",
-        "battlepass-5-a1c7p2"
+        "battlepass-5-a1c7p3"
       ]
     },
     {
@@ -681,7 +700,7 @@
         "storytheater-main-104",
         "storytheater-main-a1c5p3",
         "storytheater-main-a1c6p3",
-        "storytheater-main-a1c7p2"
+        "storytheater-main-a1c7p3"
       ]
     },
     {
@@ -753,7 +772,7 @@
         "announcer-a1c6p1",
         "announcer-wp3",
         "announcer-wp4",
-        "announcer-a1c7p1"
+        "announcer-a1c7p3"
       ]
     },
     {
@@ -808,41 +827,43 @@
       "dataClass": "userbannerconfiguration",
       "fileList": [
         "userbannerconfiguration",
-        "userbannerconfiguration-a1c7p1"
+        "userbannerconfiguration-a1c7p1",
+        "userbannerconfiguration-a1c7p3"
       ]
     },
     {
       "dataClass": "userbanner",
       "fileList": [
         "userbanner",
-        "userbanner-a1c7p1"
+        "userbanner-a1c7p3"
       ]
     },
     {
       "dataClass": "userticketconfiguration",
       "fileList": [
-        "userticketconfiguration"
+        "userticketconfiguration",
+        "userticketconfiguration-a1c7p3"
       ]
     },
     {
       "dataClass": "userticket-l",
       "fileList": [
         "userticket-l",
-        "userticket-l-a1c7p1"
+        "userticket-l-a1c7p3"
       ]
     },
     {
       "dataClass": "userticket-r",
       "fileList": [
         "userticket-r",
-        "userticket-r-a1c7p1"
+        "userticket-r-a1c7p3"
       ]
     },
     {
       "dataClass": "userticket-egobg",
       "fileList": [
         "userticket-ego-bg",
-        "userticket-ego-bg-a1c7p1"
+        "userticket-ego-bg-a1c7p3"
       ]
     },
     {
@@ -927,7 +948,7 @@
         "stage-progress-reward-a1c6p3",
         "stage-progress-reward-tkt",
         "stage-progress-reward-mowe",
-        "stage-progress-reward-a1c7p1"
+        "stage-progress-reward-a1c7p3"
       ]
     },
     {
@@ -950,7 +971,8 @@
         "credits_103",
         "credits_104",
         "credits_105",
-        "credits_106"
+        "credits_106",
+        "credits_107"
       ]
     },
     {
@@ -997,7 +1019,7 @@
         "railway-dungeon-01",
         "railway-dungeon-02",
         "railway-dungeon-03",
-        "railway-dungeon-04"
+        "railway-dungeon-04-a1c7p3"
       ]
     },
     {
@@ -1091,7 +1113,7 @@
         "subchapter-detail",
         "subchapter-detail-a1c5p3",
         "subchapter-detail-a1c6p3",
-        "subchapter-detail-a1c7p2"
+        "subchapter-detail-a1c7p3"
       ]
     },
     {
@@ -1119,14 +1141,15 @@
         "main-stage-map-setting-a1c5p1",
         "main-stage-map-setting-a1c6p1",
         "main-stage-map-setting-a1c6p3",
-        "main-stage-map-setting-a1c7p2"
+        "main-stage-map-setting-a1c7p3"
       ]
     },
     {
       "dataClass": "story-dungeon-map-illust",
       "fileList": [
         "story-dungeon-map-illust",
-        "story-dungeon-map-illust-a1c5p3"
+        "story-dungeon-map-illust-a1c5p3",
+        "story-dungeon-map-illust-a1c7p3"
       ]
     },
     {
@@ -1146,7 +1169,8 @@
     {
       "dataClass": "restrict-participation-dungeon",
       "fileList": [
-        "restrict-participation-dungeon-1"
+        "restrict-participation-dungeon-1",
+        "restrict-participation-dungeon-a1c7p3"
       ]
     },
     {
@@ -1228,7 +1252,8 @@
       "dataClass": "unlockcode",
       "fileList": [
         "unlockcode-subchapter",
-        "unlockcode-event-user"
+        "unlockcode-event-user",
+        "unlockcode-a1c7p3"
       ]
     },
     {
@@ -1265,7 +1290,9 @@
     {
       "dataClass": "dante-ability",
       "fileList": [
-        "dante-ability-a1c6p3"
+        "dante-ability-a1c6p3",
+        "dante-ability-a1c7p3"
+
       ]
     },
     {
