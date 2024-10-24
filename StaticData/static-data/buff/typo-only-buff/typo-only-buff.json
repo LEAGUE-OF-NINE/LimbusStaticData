@@ -163,6 +163,14 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": []
+    },
+    {
+      "id": "BloodDinner_Common_Accumulation",
+      "iconId": "BloodDinner_Accumulation",
+      "buffClass": "TypoOnlyBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": []
     }
   ]
 }

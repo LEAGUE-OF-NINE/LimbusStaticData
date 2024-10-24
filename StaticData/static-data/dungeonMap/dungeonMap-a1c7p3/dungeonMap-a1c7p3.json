@@ -1,0 +1,336 @@
+{
+  "list": [
+    {
+      "id": 10701,
+      "floors": [
+        {
+          "count": 0,
+          "sectors": [
+            {
+              "sectorNumber": 0,
+              "nodes": [
+                {
+                  "debugNodeId": "DN-10701",
+                  "debugEncounterId": "0",
+                  "id": "10701",
+                  "encounter": "start",
+                  "encounterId": 0,
+                  "isHidden": "False",
+                  "story": { "enter": [ "S737B" ] },
+                  "adjacentNode": [ { "nodeId": "10702" } ]
+                }
+              ]
+            },
+            {
+              "sectorNumber": 1,
+              "nodes": [
+                {
+                  "debugNodeId": "DN-10702",
+                  "debugEncounterId": "0",
+                  "id": "10702",
+                  "encounter": "story",
+                  "encounterId": 0,
+                  "isHidden": "False",
+                  "story": { "enter": [ "7D101B" ] },
+                  "adjacentNode": [
+                    { "nodeId": "10703" },
+                    { "nodeId": "10701" }
+                  ]
+                },
+                {
+                  "debugNodeId": "DN-10703",
+                  "debugEncounterId": "DB10701",
+                  "id": "10703",
+                  "encounter": "ab_battle",
+                  "encounterId": 10701,
+                  "isHidden": "False",
+                  "adjacentNode": [
+                    { "nodeId": "10702" },
+                    { "nodeId": "10704" }
+                  ]
+                },
+                {
+                  "debugNodeId": "DN-10704",
+                  "debugEncounterId": "0",
+                  "id": "10704",
+                  "encounter": "story",
+                  "encounterId": 0,
+                  "isHidden": "False",
+                  "story": { "enter": [ "7D103B" ] },
+                  "adjacentNode": [
+                    { "nodeId": "10705" },
+                    { "nodeId": "10703" }
+                  ]
+                },
+                {
+                  "debugNodeId": "DN-10705",
+                  "debugEncounterId": "DB10701",
+                  "id": "10705",
+                  "encounter": "event",
+                  "encounterId": 10701,
+                  "isHidden": "False",
+                  "adjacentNode": [
+                    { "nodeId": "10706" },
+                    { "nodeId": "10704" }
+                  ]
+                },
+                {
+                  "debugNodeId": "DN-10706",
+                  "debugEncounterId": "DB10702",
+                  "id": "10706",
+                  "encounter": "event",
+                  "encounterId": 10702,
+                  "isHidden": "False",
+                  "adjacentNode": [
+                    { "nodeId": "10707" },
+                    { "nodeId": "10705" }
+                  ]
+                },
+                {
+                  "debugNodeId": "DN-10707",
+                  "debugEncounterId": "DB10702",
+                  "id": "10707",
+                  "encounter": "boss",
+                  "encounterId": 10702,
+                  "isHidden": "False",
+                  "adjacentNode": [
+                    { "nodeId": "10708" },
+                    { "nodeId": "10706" }
+                  ]
+                },
+                {
+                  "debugNodeId": "DN-10708",
+                  "debugEncounterId": "0",
+                  "id": "10708",
+                  "encounter": "save",
+                  "encounterId": 0,
+                  "isHidden": "False",
+                  "adjacentNode": [
+                    { "nodeId": "10709" },
+                    { "nodeId": "10707" }
+                  ]
+                },
+                {
+                  "debugNodeId": "DN-10709",
+                  "debugEncounterId": "0",
+                  "id": "10709",
+                  "encounter": "story",
+                  "encounterId": 0,
+                  "isHidden": "False",
+                  "story": { "enter": [ "7D104B" ] },
+                  "adjacentNode": [
+                    { "nodeId": "10710" },
+                    { "nodeId": "10708" }
+                  ]
+                },
+                {
+                  "debugNodeId": "DN-10710",
+                  "debugEncounterId": "DB10703",
+                  "id": "10710",
+                  "encounter": "event",
+                  "encounterId": 10703,
+                  "isHidden": "False",
+                  "adjacentNode": [
+                    { "nodeId": "10711" },
+                    { "nodeId": "10709" }
+                  ]
+                },
+                {
+                  "debugNodeId": "DN-10711",
+                  "debugEncounterId": "DB10704",
+                  "id": "10711",
+                  "encounter": "event",
+                  "encounterId": 10704,
+                  "isHidden": "False",
+                  "adjacentNode": [
+                    { "nodeId": "10712" },
+                    { "nodeId": "10710" }
+                  ]
+                },
+                {
+                  "debugNodeId": "DN-10712",
+                  "debugEncounterId": "DB10703",
+                  "id": "10712",
+                  "encounter": "boss",
+                  "encounterId": 10703,
+                  "isHidden": "False",
+                  "adjacentNode": [
+                    { "nodeId": "10713" },
+                    { "nodeId": "10711" }
+                  ]
+                },
+                {
+                  "debugNodeId": "DN-10713",
+                  "debugEncounterId": "0",
+                  "id": "10713",
+                  "encounter": "save",
+                  "encounterId": 0,
+                  "isHidden": "False",
+                  "adjacentNode": [
+                    { "nodeId": "10714" },
+                    { "nodeId": "10712" }
+                  ]
+                },
+                {
+                  "debugNodeId": "DN-10714",
+                  "debugEncounterId": "DB10704",
+                  "id": "10714",
+                  "encounter": "battle",
+                  "encounterId": 10704,
+                  "isHidden": "False",
+                  "adjacentNode": [
+                    { "nodeId": "10715" },
+                    { "nodeId": "10713" }
+                  ]
+                },
+                {
+                  "debugNodeId": "DN-10715",
+                  "debugEncounterId": "DB10705",
+                  "id": "10715",
+                  "encounter": "battle",
+                  "encounterId": 10705,
+                  "isHidden": "False",
+                  "adjacentNode": [
+                    { "nodeId": "10716" },
+                    { "nodeId": "10714" }
+                  ]
+                },
+                {
+                  "debugNodeId": "DN-10716",
+                  "debugEncounterId": "DB10706",
+                  "id": "10716",
+                  "encounter": "boss",
+                  "encounterId": 10706,
+                  "isHidden": "False",
+                  "adjacentNode": [
+                    { "nodeId": "10717" },
+                    { "nodeId": "10715" }
+                  ]
+                },
+                {
+                  "debugNodeId": "DN-10717",
+                  "debugEncounterId": "0",
+                  "id": "10717",
+                  "encounter": "save",
+                  "encounterId": 0,
+                  "isHidden": "False",
+                  "adjacentNode": [
+                    { "nodeId": "10718" },
+                    { "nodeId": "10716" }
+                  ]
+                },
+                {
+                  "debugNodeId": "DN-10718",
+                  "debugEncounterId": "0",
+                  "id": "10718",
+                  "encounter": "story",
+                  "encounterId": 0,
+                  "isHidden": "False",
+                  "story": { "enter": [ "7D108B" ] },
+                  "adjacentNode": [
+                    { "nodeId": "10719" },
+                    { "nodeId": "10717" }
+                  ]
+                },
+                {
+                  "debugNodeId": "DN-10719",
+                  "debugEncounterId": "DB10707",
+                  "id": "10719",
+                  "encounter": "battle",
+                  "encounterId": 10707,
+                  "isHidden": "False",
+                  "adjacentNode": [
+                    { "nodeId": "10720" },
+                    { "nodeId": "10718" }
+                  ]
+                },
+                {
+                  "debugNodeId": "DN-10720",
+                  "debugEncounterId": "0",
+                  "id": "10720",
+                  "encounter": "story",
+                  "encounterId": 0,
+                  "isHidden": "False",
+                  "story": { "enter": [ "7D109B" ] },
+                  "adjacentNode": [
+                    { "nodeId": "10721" },
+                    { "nodeId": "10719" }
+                  ]
+                },
+                {
+                  "debugNodeId": "DN-10721",
+                  "debugEncounterId": "0",
+                  "id": "10721",
+                  "encounter": "save",
+                  "encounterId": 0,
+                  "isHidden": "False",
+                  "adjacentNode": [
+                    { "nodeId": "10722" },
+                    { "nodeId": "10720" }
+                  ]
+                },
+                {
+                  "debugNodeId": "DN-10722",
+                  "debugEncounterId": "DB10708",
+                  "id": "10722",
+                  "encounter": "boss",
+                  "encounterId": 10708,
+                  "isHidden": "False",
+                  "adjacentNode": [
+                    { "nodeId": "10723" },
+                    { "nodeId": "10721" }
+                  ]
+                },
+                {
+                  "debugNodeId": "DN-10723",
+                  "debugEncounterId": "0",
+                  "id": "10723",
+                  "encounter": "save",
+                  "encounterId": 0,
+                  "isHidden": "False",
+                  "adjacentNode": [
+                    { "nodeId": "10724" },
+                    { "nodeId": "10722" }
+                  ]
+                },
+                {
+                  "debugNodeId": "DN-10724",
+                  "debugEncounterId": "DB10709",
+                  "id": "10724",
+                  "encounter": "boss",
+                  "encounterId": 10709,
+                  "isHidden": "False",
+                  "adjacentNode": [
+                    { "nodeId": "10725" },
+                    { "nodeId": "10723" }
+                  ]
+                },
+                {
+                  "debugNodeId": "DN-10725",
+                  "debugEncounterId": "0",
+                  "id": "10725",
+                  "encounter": "save",
+                  "encounterId": 0,
+                  "isHidden": "True",
+                  "adjacentNode": [
+                    { "nodeId": "10726" },
+                    { "nodeId": "10724" }
+                  ]
+                },
+                {
+                  "debugNodeId": "DN-10726",
+                  "debugEncounterId": "DB10710",
+                  "id": "10726",
+                  "encounter": "boss",
+                  "encounterId": 10710,
+                  "isHidden": "True",
+                  "forceAliveCharacterIds": [ 3 ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

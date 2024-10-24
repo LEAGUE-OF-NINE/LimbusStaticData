@@ -6089,7 +6089,7 @@
               }
             },
             {
-              "scriptName": "CoinScaleAdderOnStartTurnViaBuffCheckDevideByStackWithLimit2",
+              "scriptName": "CoinScaleAdderOnStartTurnViaBuffCheck",
               "buffData": {
                 "buffKeyword": "Laceration",
                 "target": "",

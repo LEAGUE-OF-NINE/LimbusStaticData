@@ -253,7 +253,8 @@
             "appearance": "90175_Dulcinea_Vamp_AAppearance",
             "unitKeywordList": [
                 "BLOODFIEND",
-                "SMALL"
+                "SMALL",
+                "DEPENDENT"
             ],
             "associationList": [],
             "unitScriptID": "BloodWraithTierNormal",
@@ -411,7 +412,8 @@
             "appearance": "90176_Dulcinea_Vamp_BAppearance",
             "unitKeywordList": [
                 "BLOODFIEND",
-                "SMALL"
+                "SMALL",
+                "DEPENDENT"
             ],
             "associationList": [],
             "unitScriptID": "BloodWraithTierNormal",
@@ -1061,7 +1063,8 @@
             "appearance": "90171_Priest_Vamp_AAppearance",
             "unitKeywordList": [
                 "BLOODFIEND",
-                "SMALL"
+                "SMALL",
+                "DEPENDENT"
             ],
             "associationList": [],
             "unitScriptID": "BloodWraithTierNormal",
@@ -1218,7 +1221,8 @@
             "appearance": "90172_Priest_Vamp_BAppearance",
             "unitKeywordList": [
                 "BLOODFIEND",
-                "SMALL"
+                "SMALL",
+                "DEPENDENT"
             ],
             "associationList": [],
             "unitScriptID": "BloodWraithTierNormal",
@@ -2207,7 +2211,8 @@
             "appearance": "90175_Dulcinea_Vamp_AAppearance",
             "unitKeywordList": [
                 "BLOODFIEND",
-                "SMALL"
+                "SMALL",
+                "DEPENDENT"
             ],
             "associationList": [],
             "unitScriptID": "BloodWraithTierNormal",
@@ -2367,7 +2372,8 @@
             "appearance": "90176_Dulcinea_Vamp_BAppearance",
             "unitKeywordList": [
                 "BLOODFIEND",
-                "SMALL"
+                "SMALL",
+                "DEPENDENT"
             ],
             "associationList": [],
             "unitScriptID": "BloodWraithTierNormal",
@@ -2777,7 +2783,8 @@
             "appearance": "90171_Priest_Vamp_AAppearance",
             "unitKeywordList": [
                 "BLOODFIEND",
-                "SMALL"
+                "SMALL",
+                "DEPENDENT"
             ],
             "associationList": [],
             "unitScriptID": "BloodWraithTierNormal",
@@ -2936,7 +2943,8 @@
             "appearance": "90172_Priest_Vamp_BAppearance",
             "unitKeywordList": [
                 "BLOODFIEND",
-                "SMALL"
+                "SMALL",
+                "DEPENDENT"
             ],
             "associationList": [],
             "unitScriptID": "BloodWraithTierNormal",

@@ -1,0 +1,17 @@
+{
+  "list": [
+    {
+      "id": 10701,
+      "dungeonType": "STORY_DUNGEON",
+      "staminaModule": 6,
+      "recommendedLevel": 50,
+      "entranceStory": "S737B",
+      "illustname": "chapter7_StoryDungeon",
+      "questlist": [
+        {
+          "localizeId": 2
+        }
+      ]
+    }
+  ]
+}
