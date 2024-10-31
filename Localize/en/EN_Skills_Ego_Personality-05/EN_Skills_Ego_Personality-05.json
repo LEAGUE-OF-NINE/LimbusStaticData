@@ -269,7 +269,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Activate [Laceration] on the target once (target loses 1 Count)"
+                  "desc": "[WinDuelAttack] Activate [Laceration] on the target once (target loses 1 [Laceration] Count)"
                 }
               ]
             }
@@ -493,7 +493,7 @@
                   "desc": "[OnSucceedAttack] Inflict 3 [Laceration] on self and the target<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Activate [Laceration] on self and the target once (both lose 1 Count)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Activate [Laceration] on self and the target once (both lose 1 [Laceration] Count)</style>"
                 }
               ]
             },
@@ -503,7 +503,7 @@
                   "desc": "[OnSucceedAttack] Inflict 3 [Laceration] on self and the target<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Activate [Laceration] on self and the target once (both lose 1 Count)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Activate [Laceration] on self and the target once (both lose 1 [Laceration] Count)</style>"
                 }
               ]
             },

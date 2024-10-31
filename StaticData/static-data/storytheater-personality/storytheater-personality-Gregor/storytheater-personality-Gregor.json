@@ -150,6 +150,21 @@
             ],
             "profileId": "wuthering_gregor_profile",
             "analysisId": "wuthering_gregor_analysis"
+          },
+          {
+            "personalityId": 11210,
+            "releaseDay": 20241031,
+            "cv_Id": "",
+            "personalityStoryList": [
+              {
+                "storyId": "P11210",
+                "lockCondition": [
+                  {"condition": "gacksung"}
+                ],
+                "order": 2,
+                "reward":{"type":"ITEM","id":2,"num":40}
+              }
+            ]
           }
         ]
     }

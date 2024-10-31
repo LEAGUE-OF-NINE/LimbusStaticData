@@ -1028,7 +1028,7 @@
   },
   {
       "id": 875302,
-      "nameID": 999999,
+      "nameID": 804602,
       "sdPortrait": 804602,
       "viewid": 804602,
       "slotWeightConditionList": [
@@ -1292,7 +1292,7 @@
   },
   {
       "id": 875502,
-      "nameID": 999999,
+      "nameID": 804802,
       "sdPortrait": 804802,
       "viewid": 804802,
       "slotWeightConditionList": [
@@ -1550,7 +1550,7 @@
   },
   {
       "id": 875702,
-      "nameID": 999999,
+      "nameID": 805902,
       "sdPortrait": 805902,
       "viewid": 805902,
       "slotWeightConditionList": [
@@ -1637,7 +1637,7 @@
   },
   {
       "id": 875703,
-      "nameID": 999999,
+      "nameID": 805903,
       "sdPortrait": 805903,
       "viewid": 805903,
       "slotWeightConditionList": [
@@ -1900,7 +1900,7 @@
   },
   {
       "id": 875902,
-      "nameID": 999999,
+      "nameID": 804102,
       "sdPortrait": 804102,
       "viewid": 804102,
       "slotWeightConditionList": [
@@ -2242,7 +2242,7 @@
   },
   {
       "id": 876202,
-      "nameID": 999999,
+      "nameID": 851002,
       "sdPortrait": 851002,
       "viewid": 851002,
       "slotWeightConditionList": [
@@ -2332,7 +2332,7 @@
   },
   {
       "id": 876203,
-      "nameID": 999999,
+      "nameID": 851003,
       "sdPortrait": 851003,
       "viewid": 851003,
       "slotWeightConditionList": [

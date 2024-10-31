@@ -49,7 +49,8 @@
           ],
           "nextMainchapterid": 1,
           "nextSubchapterid": 101,
-          "lastnodeid": 10004
+          "lastnodeid": 10004,
+          "voiceBank": "Ch0"
         },
         {
           "id": 101,
@@ -156,7 +157,8 @@
           ],
           "nextMainchapterid": 1,
           "nextSubchapterid": 102,
-          "lastnodeid": 10111
+          "lastnodeid": 10111,
+          "voiceBank": "Ch1"
         },
         {
           "id": 102,
@@ -325,7 +327,8 @@
           ],
           "nextMainchapterid": 1,
           "nextSubchapterid": 103,
-          "lastnodeid": 10219
+          "lastnodeid": 10219,
+          "voiceBank": "Ch2"
         },
         {
           "id": 103,
@@ -518,7 +521,8 @@
           ],
           "nextMainchapterid": 91,
           "nextSubchapterid": 9103,
-          "lastnodeid": 10322
+          "lastnodeid": 10322,
+          "voiceBank": "Ch3"
         },
         {
           "id": 104,
@@ -967,7 +971,8 @@
           ],
           "nextMainchapterid": 91,
           "nextSubchapterid": 9104,
-          "lastnodeid": 10454
+          "lastnodeid": 10454,
+          "voiceBank": "Ch4"
         },
         {
           "id": 105,
@@ -1273,7 +1278,8 @@
           ],
           "nextMainchapterid": 91,
           "nextSubchapterid": 9105,
-          "lastnodeid": 10539
+          "lastnodeid": 10539,
+          "voiceBank": "Ch5"
         },
         {
           "id": 106,
@@ -1674,7 +1680,8 @@
           ],
           "nextMainchapterid": 91,
           "nextSubchapterid": 9109,
-          "lastnodeid": 10648
+          "lastnodeid": 10648,
+          "voiceBank": "Ch6"
         },
         {
           "id": 107,
@@ -1979,7 +1986,8 @@
           ],
           "nextMainchapterid": -1,
           "nextSubchapterid": -1,
-          "lastnodeid": 10748
+          "lastnodeid": 10736,
+          "voiceBank": "Ch7"
         }
       ],
       "subchapterUIList": [
@@ -2267,7 +2275,8 @@
           ],
           "nextMainchapterid": 1,
           "nextSubchapterid": 104,
-          "lastnodeid": 910309
+          "lastnodeid": 910309,
+          "voiceBank": "Event3"
         },
         {
           "id": 9104,
@@ -2373,7 +2382,8 @@
           ],
           "nextMainchapterid": 1,
           "nextSubchapterid": 105,
-          "lastnodeid": 910411
+          "lastnodeid": 910411,
+          "voiceBank": "Event4"
         },
         {
           "id": 9105,
