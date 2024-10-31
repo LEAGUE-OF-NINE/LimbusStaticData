@@ -192,10 +192,6 @@
             }
           },
           {
-            "ability": "TakeHpHealMultiplierByStack",
-            "value": 0.3
-          },
-          {
             "ability": "WeightOfResponsiblity",
             "value": 1
           }
@@ -232,10 +228,6 @@
               "turn": 0,
               "activeRound": 0
             }
-          },
-          {
-            "ability": "TakeHpHealMultiplierByStack",
-            "value": 0.5
           },
           {
             "ability": "WeightOfResponsiblity",

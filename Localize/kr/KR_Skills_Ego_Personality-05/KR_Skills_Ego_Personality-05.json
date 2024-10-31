@@ -269,7 +269,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] 대상의 [Laceration] 1회 발동 (횟수 1 감소)"
+                  "desc": "[WinDuelAttack] 대상의 [Laceration] 1회 발동 ([Laceration] 횟수 1 감소)"
                 }
               ]
             }
@@ -493,7 +493,7 @@
                   "desc": "[OnSucceedAttack] 자신과 대상에게 [Laceration] 3 부여<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 자신과 대상의 [Laceration] 1회 발동 (횟수 1 감소)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 자신과 대상의 [Laceration] 1회 발동 ([Laceration] 횟수 1 감소)</style>"
                 }
               ]
             },
@@ -503,7 +503,7 @@
                   "desc": "[OnSucceedAttack] 자신과 대상에게 [Laceration] 3 부여<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 자신과 대상의 [Laceration] 1회 발동 (횟수 1 감소)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 자신과 대상의 [Laceration] 1회 발동 ([Laceration] 횟수 1 감소)</style>"
                 }
               ]
             },

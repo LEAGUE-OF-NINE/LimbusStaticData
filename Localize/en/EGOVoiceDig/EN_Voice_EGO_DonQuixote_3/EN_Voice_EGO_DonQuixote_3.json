@@ -63,12 +63,12 @@
     {
       "id": "battle_awaken_20307_1",
       "desc": "E.G.O Activation",
-      "dlg": "Steeped in the blood of all... yes...! Blossom in euphoria, blossom! Oh, blossom!"
+      "dlg": "Steeped in the blood of all... yes...!\nBlossom in euphoria, blossom! Oh, blossom!"
     },
     {
       "id": "battle_erosion_20307_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "You do not know of our thirst! I'll take your blood if I must... and... and blossom... its crimson ever more profound!"
+      "dlg": "You do not know of our thirst! I'll take your blood if I must...\nand... and blossom... its crimson ever more profound!"
     }
   ]
 }
