@@ -285,7 +285,7 @@
       "id": 8372,
       "appearance": "8372_Barber_NicoleAppearance",
       "associationList": [
-
+        "LA_MANCHA_LAND" 
       ],
       "unitKeywordList": [ "SMALL", "BLOODFIEND", "THIRD_DEPENDENT" ],
       "classType": "ZAYIN",

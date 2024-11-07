@@ -3,7 +3,7 @@
     {
       "id": 8381,
       "appearance": "8381_Dulcinea_BossAppearance",
-      "associationList": [],
+      "associationList": [ "LA_MANCHA_LAND" ],
       "unitKeywordList": [
         "SMALL", "BLOODFIEND", "SECOND_DEPENDENT"
       ],
@@ -157,7 +157,7 @@
         "BLOODBAG",
         "SMALL"
       ],
-      "associationList": [],
+      "associationList": [ "LA_MANCHA_LAND" ],
       "level": 1,
       "slotWeightConditionList": [
         "Default1"
@@ -209,7 +209,7 @@
         "BLOODBAG",
         "SMALL"
       ],
-      "associationList": [],
+      "associationList": [ "LA_MANCHA_LAND" ],
       "level": 1,
       "slotWeightConditionList": [
         "Default1"
@@ -262,7 +262,7 @@
         "SMALL",
                 "DEPENDENT"
       ],
-      "associationList": [],
+      "associationList": [ "LA_MANCHA_LAND" ],
       "unitScriptID": "BloodWraithTierNormal",
       "level": 1,
       "slotWeightConditionList": [
@@ -349,7 +349,7 @@
         "SMALL",
                 "DEPENDENT"
       ],
-      "associationList": [],
+      "associationList": [ "LA_MANCHA_LAND" ],
       "unitScriptID": "BloodWraithTierNormal",
       "level": 1,
       "slotWeightConditionList": [
@@ -435,7 +435,7 @@
         "BLOODBAG",
         "SMALL"
       ],
-      "associationList": [],
+      "associationList": [ "LA_MANCHA_LAND" ],
       "level": 1,
       "slotWeightConditionList": [
         "Default1"
@@ -508,7 +508,7 @@
         "BLOODBAG",
         "SMALL"
       ],
-      "associationList": [],
+      "associationList": [ "LA_MANCHA_LAND" ],
       "level": 1,
       "slotWeightConditionList": [
         "Default1"

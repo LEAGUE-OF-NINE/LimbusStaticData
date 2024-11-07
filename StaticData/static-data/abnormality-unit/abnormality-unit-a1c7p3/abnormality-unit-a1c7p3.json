@@ -1228,7 +1228,7 @@
     {
       "id": 8378,
       "appearance": "8378_Priest_BossAppearance",
-      "associationList": [],
+      "associationList": [ "LA_MANCHA_LAND" ],
       "unitKeywordList": [ "SMALL", "BLOODFIEND", "THIRD_DEPENDENT" ],
       "classType": "ZAYIN",
       "attributeType": "SHAMROCK",
@@ -1582,7 +1582,7 @@
       "sdPortrait": 8372,
       "storyID": 8372,
       "appearance": "8372_Barber_NicoleAppearance",
-      "associationList": [],
+      "associationList": [ "LA_MANCHA_LAND" ],
       "unitKeywordList": [ "SMALL", "BLOODFIEND", "THIRD_DEPENDENT" ],
       "classType": "ZAYIN",
       "attributeType": "SCARLET",
@@ -1789,7 +1789,7 @@
       "storyID": 8381,
       "nameID": 8381,
       "appearance": "8381_Dulcinea_BossAppearance",
-      "associationList": [],
+      "associationList": [ "LA_MANCHA_LAND" ],
       "unitKeywordList": [ "SMALL", "BLOODFIEND", "SECOND_DEPENDENT" ],
       "classType": "ZAYIN",
       "attributeType": "SCARLET",
@@ -2780,6 +2780,7 @@
       "id": 8380,
       "appearance": "8380_SanchoAppearance",
       "associationList": [
+        "LA_MANCHA_LAND" 
       ],
       "unitKeywordList": [ "SMALL", "BLOODFIEND", "SECOND_DEPENDENT" ],
       "unitScriptID": "8380",
@@ -4111,7 +4112,7 @@
     {
       "id": 8390,
       "appearance": "8390_RealDon_1pAppearance",
-      "associationList": [],
+      "associationList": [ "LA_MANCHA_LAND" ],
       "unitKeywordList": [ "REGULAR", "BLOODFIEND", "FIRST_DEPENDENT" ],
       "classType": "ZAYIN",
       "attributeType": "SHAMROCK",
@@ -4204,7 +4205,7 @@
         "BLOODBAG",
         "SMALL"
       ],
-      "associationList": [],
+      "associationList": [ "LA_MANCHA_LAND" ],
       "level": 1,
       "slotWeightConditionList": [
         "Default1"
@@ -4266,7 +4267,7 @@
         "DEPENDENT",
         "SMALL"
       ],
-      "associationList": [],
+      "associationList": [ "LA_MANCHA_LAND" ],
       "unitScriptID": "BloodWraithTierNormal",
       "level": 1,
       "slotWeightConditionList": [
@@ -4360,7 +4361,7 @@
         "BLOODBAG",
         "SMALL"
       ],
-      "associationList": [],
+      "associationList": [ "LA_MANCHA_LAND" ],
       "level": 1,
       "slotWeightConditionList": [
         "Default1"
@@ -4422,7 +4423,7 @@
         "DEPENDENT"
       ],
       "unitScriptID": "BloodWraithTierNormal",
-      "associationList": [],
+      "associationList": [ "LA_MANCHA_LAND" ],
       "level": 1,
       "slotWeightConditionList": [
         "Default1"
@@ -4514,7 +4515,7 @@
         "BLOODBAG",
         "SMALL"
       ],
-      "associationList": [],
+      "associationList": [ "LA_MANCHA_LAND" ],
       "level": 1,
       "slotWeightConditionList": [
         "Default1"
@@ -4576,7 +4577,7 @@
         "SMALL",
                 "DEPENDENT"
       ],
-      "associationList": [],
+      "associationList": [ "LA_MANCHA_LAND" ],
       "level": 1,
       "slotWeightConditionList": [
         "Default1"
@@ -4665,7 +4666,7 @@
     {
       "id": 8410,
       "appearance": "8410_RealDon_2pAppearance",
-      "associationList": [],
+      "associationList": [ "LA_MANCHA_LAND" ],
       "unitKeywordList": [ "REGULAR" , "BLOODFIEND","FIRST_DEPENDENT"],
       "classType": "ZAYIN",
       "attributeType": "SCARLET",
