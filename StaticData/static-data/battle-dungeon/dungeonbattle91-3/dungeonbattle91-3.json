@@ -935,12 +935,27 @@
           "subUnitList": [
             {
               "unitID": 90043,
-              "unitCount": 3,
+              "unitCount": 1,
               "unitLevel": 25
             },
             {
               "unitID": 90045,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90043,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90045,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 90043,
+              "unitCount": 1,
               "unitLevel": 25
             }
           ]

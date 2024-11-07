@@ -915,6 +915,7 @@
       "id": 11210,
       "appearance": "11210_Gregor_PriestAppearance",
       "associationList": [
+        "LA_MANCHA_LAND"
       ],
       "unitKeywordList": [ "SMALL", "BLOODFIEND", "THIRD_DEPENDENT" ],
       "unitScriptID": "BloodWraithTier3",

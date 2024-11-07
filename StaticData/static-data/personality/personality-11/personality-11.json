@@ -1021,6 +1021,7 @@
       "id": 11111,
       "appearance": "11111_Outis_BarberAppearance",
       "associationList": [
+        "LA_MANCHA_LAND"
       ],
       "unitKeywordList": [ "SMALL", "BLOODFIEND", "THIRD_DEPENDENT" ],
       "unitScriptID": "11111",

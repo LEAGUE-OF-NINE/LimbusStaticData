@@ -7,7 +7,7 @@
                 "BLOODBAG",
                 "SMALL"
             ],
-            "associationList": [],
+            "associationList": [ "LA_MANCHA_LAND" ],
             "level": 1,
             "slotWeightConditionList": [
                 "Default1"
@@ -131,7 +131,7 @@
                 "BLOODBAG",
                 "SMALL"
             ],
-            "associationList": [],
+            "associationList": [ "LA_MANCHA_LAND" ],
             "level": 1,
             "slotWeightConditionList": [
                 "Default1"
@@ -256,7 +256,7 @@
                 "SMALL",
                 "DEPENDENT"
             ],
-            "associationList": [],
+            "associationList": [ "LA_MANCHA_LAND" ],
             "unitScriptID": "BloodWraithTierNormal",
             "level": 1,
             "slotWeightConditionList": [
@@ -415,7 +415,7 @@
                 "SMALL",
                 "DEPENDENT"
             ],
-            "associationList": [],
+            "associationList": [ "LA_MANCHA_LAND" ],
             "unitScriptID": "BloodWraithTierNormal",
             "level": 1,
             "slotWeightConditionList": [
@@ -819,7 +819,7 @@
                 "BLOODBAG",
                 "SMALL"
             ],
-            "associationList": [],
+            "associationList": [ "LA_MANCHA_LAND" ],
             "level": 1,
             "slotWeightConditionList": [
                 "Default1"
@@ -942,7 +942,7 @@
                 "BLOODBAG",
                 "SMALL"
             ],
-            "associationList": [],
+            "associationList": [ "LA_MANCHA_LAND" ],
             "level": 1,
             "slotWeightConditionList": [
                 "Default1"
@@ -1066,7 +1066,7 @@
                 "SMALL",
                 "DEPENDENT"
             ],
-            "associationList": [],
+            "associationList": [ "LA_MANCHA_LAND" ],
             "unitScriptID": "BloodWraithTierNormal",
             "level": 1,
             "slotWeightConditionList": [
@@ -1224,7 +1224,7 @@
                 "SMALL",
                 "DEPENDENT"
             ],
-            "associationList": [],
+            "associationList": [ "LA_MANCHA_LAND" ],
             "unitScriptID": "BloodWraithTierNormal",
             "level": 1,
             "slotWeightConditionList": [
@@ -1383,7 +1383,7 @@
                 "BLOODBAG",
                 "SMALL"
             ],
-            "associationList": [],
+            "associationList": [ "LA_MANCHA_LAND" ],
             "level": 1,
             "slotWeightConditionList": [
                 "Default1"
@@ -1510,7 +1510,7 @@
                 "BLOODBAG",
                 "SMALL"
             ],
-            "associationList": [],
+            "associationList": [ "LA_MANCHA_LAND" ],
             "level": 1,
             "slotWeightConditionList": [
                 "Default1"
@@ -1638,7 +1638,7 @@
                 "DEPENDENT",
                 "SMALL"
             ],
-            "associationList": [],
+            "associationList": [ "LA_MANCHA_LAND" ],
             "unitScriptID": "BloodWraithTierNormal",
             "level": 1,
             "slotWeightConditionList": [
@@ -1800,7 +1800,7 @@
                 "DEPENDENT",
                 "SMALL"
             ],
-            "associationList": [],
+            "associationList": [ "LA_MANCHA_LAND" ],
             "unitScriptID": "BloodWraithTierNormal",
             "level": 1,
             "slotWeightConditionList": [
@@ -1961,7 +1961,7 @@
                 "BLOODBAG",
                 "SMALL"
             ],
-            "associationList": [],
+            "associationList": [ "LA_MANCHA_LAND" ],
             "level": 1,
             "slotWeightConditionList": [
                 "Default1"
@@ -2087,7 +2087,7 @@
                 "BLOODBAG",
                 "SMALL"
             ],
-            "associationList": [],
+            "associationList": [ "LA_MANCHA_LAND" ],
             "level": 1,
             "slotWeightConditionList": [
                 "Default1"
@@ -2214,7 +2214,7 @@
                 "SMALL",
                 "DEPENDENT"
             ],
-            "associationList": [],
+            "associationList": [ "LA_MANCHA_LAND" ],
             "unitScriptID": "BloodWraithTierNormal",
             "level": 1,
             "slotWeightConditionList": [
@@ -2375,7 +2375,7 @@
                 "SMALL",
                 "DEPENDENT"
             ],
-            "associationList": [],
+            "associationList": [ "LA_MANCHA_LAND" ],
             "unitScriptID": "BloodWraithTierNormal",
             "level": 1,
             "slotWeightConditionList": [
@@ -2535,7 +2535,7 @@
                 "BLOODBAG",
                 "SMALL"
             ],
-            "associationList": [],
+            "associationList": [ "LA_MANCHA_LAND" ],
             "level": 1,
             "slotWeightConditionList": [
                 "Default1"
@@ -2660,7 +2660,7 @@
                 "BLOODBAG",
                 "SMALL"
             ],
-            "associationList": [],
+            "associationList": [ "LA_MANCHA_LAND" ],
             "level": 1,
             "slotWeightConditionList": [
                 "Default1"
@@ -2786,7 +2786,7 @@
                 "SMALL",
                 "DEPENDENT"
             ],
-            "associationList": [],
+            "associationList": [ "LA_MANCHA_LAND" ],
             "unitScriptID": "BloodWraithTierNormal",
             "level": 1,
             "slotWeightConditionList": [
@@ -2946,7 +2946,7 @@
                 "SMALL",
                 "DEPENDENT"
             ],
-            "associationList": [],
+            "associationList": [ "LA_MANCHA_LAND" ],
             "unitScriptID": "BloodWraithTierNormal",
             "level": 1,
             "slotWeightConditionList": [
