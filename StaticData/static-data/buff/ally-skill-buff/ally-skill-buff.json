@@ -1221,6 +1221,131 @@
           "value": 0.05
         }
       ]
+    },
+    {
+      "id": "BloomingThornsRodionFirst",
+      "iconId": "BloomingThorns",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": false,
+      "maxStack": 10,
+      "list": [
+        {
+          "ability": "BloomingThornsRodionBase"
+        },
+        {
+          "ability": "BloomingThornsRodionGiveBuff",
+          "buffData": {
+            "buffKeyword": "Laceration",
+            "target": "Target",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "BloomingThornsRodionDefenseUp_2_1",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "id": "BloomingThornsRodionSecond",
+      "iconId": "BloomingThorns_2nd",
+      "subIdList": [ "BloomingThornsRodionFirst" ],
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": false,
+      "maxStack": 20,
+      "list": [
+        {
+          "ability": "BloomingThornsRodionBase"
+        },
+        {
+          "ability": "BloomingThornsRodionGiveBuff",
+          "buffData": {
+            "buffKeyword": "Laceration",
+            "target": "Target",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "BloomingThornsRodionDefenseUp_2_1",
+          "value": 5
+        },
+        {
+          "ability": "GiveBuffStackAdderIfDefaultSkill",
+          "buffData": {
+            "buffKeyword": "Laceration",
+            "stack": 1
+          }
+        },
+        {
+          "ability": "GiveBuffStackAdderIfDefaultSkill",
+          "buffData": {
+            "buffKeyword": "Burst",
+            "stack": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "BloomingThornsRodionThird",
+      "iconId": "BloomingThorns_3rd",
+      "subIdList": [ "BloomingThornsRodionFirst" ],
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": false,
+      "maxStack": 30,
+      "list": [
+        {
+          "ability": "BloomingThornsRodionBase"
+        },
+        {
+          "ability": "BloomingThornsRodionGiveBuff",
+          "buffData": {
+            "buffKeyword": "Laceration",
+            "target": "Target",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "BloomingThornsRodionDefenseUp_2_1",
+          "value": 5
+        },
+        {
+          "ability": "GiveBuffStackAdderIfDefaultSkill",
+          "buffData": {
+            "buffKeyword": "Laceration",
+            "stack": 2
+          }
+        },
+        {
+          "ability": "GiveBuffStackAdderIfDefaultSkill",
+          "buffData": {
+            "buffKeyword": "Burst",
+            "stack": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "FestivalFeverRodion",
+      "iconId": "FestivalFever",
+      "buffClass": "VolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": false,
+      "maxStack": 10,
+      "list": [
+        {
+          "ability": "FestivalFeverRodion_15_30",
+          "value": 0.001
+        }
+      ]
     }
   ]
 }

@@ -169,7 +169,7 @@
               "lockCondition": [
                 {"condition": "gacksung"}
               ],
-              "order": 1,
+              "order": 2,
               "reward":{"type":"ITEM","id":2,"num":40}
             }
           ]

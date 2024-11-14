@@ -1023,6 +1023,112 @@
           "number": 1
         }
       ]
+    },
+    {
+      "id": 10911,
+      "appearance": "10911_Rodion_DulcineaAppearance",
+      "associationList": [
+        "LA_MANCHA_LAND"
+      ],
+      "unitKeywordList": [ "SMALL", "BLOODFIEND", "SECOND_DEPENDENT" ],
+      "unitScriptID": "BloodWraithTier2",
+      "characterId": 9,
+      "panicType": 9999,
+      "season": 5,
+      "defenseSkillIDList": [
+        1091104
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 79,
+        "incrementByLevel": 2.73
+      },
+      "defCorrection": 3,
+      "minSpeedList": [
+        2,
+        3,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        5,
+        6,
+        7,
+        7
+      ],
+      "uniqueAttribute": "INDIGO",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          70,
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1091101,
+          "number": 3
+        },
+        {
+          "skillId": 1091102,
+          "number": 2
+        },
+        {
+          "skillId": 1091103,
+          "number": 1
+        },
+        {
+          "skillId": 1091105,
+          "number": 0
+        }
+      ]
     }
   ]
 }
