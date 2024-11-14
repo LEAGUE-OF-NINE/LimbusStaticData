@@ -4010,6 +4010,19 @@
       "nameTagColor": "#1c1616",
       "nameFontColor": "#cc2424",
       "portraitSpritePath": "StoryLog_Donquixote_real"
+    },
+    {
+      "name": "옛산초2",
+      "krname": "산초",
+      "jpname": "サンチョ",
+      "enname": "Sancho",
+      "nickName": "???",
+      "jpNickName": "???",
+      "enNickName": "???",
+      "fileName": "Sancho_Past2",
+      "nameTagColor": "#1c1616",
+      "nameFontColor": "#cc2424",
+      "portraitSpritePath": "StoryLog_Sancho_Past"
     }
   ]
 }

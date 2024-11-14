@@ -246,7 +246,8 @@
     {
       "mirrorWorldId": 29,
       "needsPersonalityIdList": [
-        10810
+        10810,
+        11010
       ]
     },
     {
@@ -258,18 +259,13 @@
     {
       "mirrorWorldId": 31,
       "needsPersonalityIdList": [
-        11010
+        11111,
+        11210,
+        10911
       ]
     },
     {
       "mirrorWorldId": 32,
-      "needsPersonalityIdList": [
-        11111,
-        11210
-      ]
-    },
-    {
-      "mirrorWorldId": 33,
       "needsPersonalityIdList": [
         10610
       ]

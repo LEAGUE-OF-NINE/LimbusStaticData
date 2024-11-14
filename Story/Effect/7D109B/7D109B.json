@@ -39,7 +39,7 @@
     },
     {
       "id": 7,
-      "characterlist": "옛산초:5",
+      "characterlist": "옛산초2:5",
       "feeling": "sink",
       "soundeffect": "SFX_Cloth_Rubbed_Move",
       "voice": "S703V-676"
@@ -62,7 +62,7 @@
     },
     {
       "id": 11,
-      "characterlist": "옛산초:5",
+      "characterlist": "옛산초2:5",
       "soundeffect": "SFX_Cotton_Crumble_SoftNew",
       "voice": "S703V-680"
     },
@@ -78,7 +78,7 @@
     },
     {
       "id": 14,
-      "characterlist": "옛산초:5",
+      "characterlist": "옛산초2:5",
       "feeling": "sink",
       "voice": "S703V-683"
     },
@@ -97,7 +97,7 @@
     },
     {
       "id": 17,
-      "characterlist": "옛산초:5",
+      "characterlist": "옛산초2:5",
       "feeling": "idle",
       "soundeffect": "SFX_Cloth_Rubbed_Move",
       "voice": "S703V-686"
@@ -120,7 +120,7 @@
     },
     {
       "id": 21,
-      "characterlist": "옛산초:5",
+      "characterlist": "옛산초2:5",
       "feeling": "smile",
       "voice": "S703V-690"
     },

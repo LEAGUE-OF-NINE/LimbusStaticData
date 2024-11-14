@@ -1547,6 +1547,852 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2010711,
+      "skillType": "EGO_AWAKEN",
+      "skillTier": 3,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "INDIGO",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillTargetType": "RANDOM",
+          "targetNum": 7,
+          "mpUsage": 25,
+          "skillLevelCorrection": 5,
+          "defaultValue": 18,
+          "canTeamKill": true,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "SKILL",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "2010711Target"
+            },
+            {
+              "scriptName": "EDerSchutzeGiveBuffSelfByResonanceSync",
+              "buffData": {
+                "buffKeyword": "BoseProjektil",
+                "stack": 1,
+                "value": 1,
+                "limit": 7
+              }
+            },
+            {
+              "scriptName": "EDerSchutzeGiveBuffByBoseProjektil",
+              "buffData": {
+                "buffKeyword": "Breath",
+                "stack": 1,
+                "value": 1,
+                "limit": 7
+              }
+            },
+            {
+              "scriptName": "EDerSchutzeClaerAllBoseProjektilOnEndSkill"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6,
+              "abilityScriptList": [
+                {
+                  "scriptName": "CanDealOnlyMainTarget"
+                },
+                {
+                  "scriptName": "CheckMainTargetAllyDeadBase20107"
+                },
+                {
+                  "scriptName": "DmgUpByBuffStackWithLimitIfAlly56",
+                  "buffData": {
+                    "buffKeyword": "BoseProjektil",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.08
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnKillTarget20107",
+                  "buffData": {
+                    "buffKeyword": "Breath",
+                    "target": "Custom",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "limit": 2
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnFailToKillTarget20107",
+                  "buffData": {
+                    "buffKeyword": "Breath",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 6,
+              "abilityScriptList": [
+                {
+                  "scriptName": "CanDealOnlySubTarget"
+                },
+                {
+                  "scriptName": "CheckMainTargetAllyDeadPrevCoin20107"
+                },
+                {
+                  "scriptName": "CriticalDmgUpByRatioViaBuffCheckDevideByStack",
+                  "buffData": {
+                    "buffKeyword": "BoseProjektil",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.02,
+                    "limit": 14
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSuccessCriticalAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "abilityScriptList": [
+            {
+              "scriptName": "2010711Target"
+            },
+            {
+              "scriptName": "EDerSchutzeGiveBuffSelfByResonanceSync",
+              "buffData": {
+                "buffKeyword": "BoseProjektil",
+                "stack": 1,
+                "value": 1,
+                "limit": 7
+              }
+            },
+            {
+              "scriptName": "EDerSchutzeGiveBuffByBoseProjektil",
+              "buffData": {
+                "buffKeyword": "Breath",
+                "stack": 1,
+                "value": 1,
+                "limit": 7
+              }
+            },
+            {
+              "scriptName": "EDerSchutzeClaerAllBoseProjektilOnEndSkill"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6,
+              "abilityScriptList": [
+                {
+                  "scriptName": "CanDealOnlyMainTarget"
+                },
+                {
+                  "scriptName": "CheckMainTargetAllyDeadBase20107"
+                },
+                {
+                  "scriptName": "DmgUpByBuffStackWithLimitIfAlly70",
+                  "buffData": {
+                    "buffKeyword": "BoseProjektil",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.1
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnKillTarget20107",
+                  "buffData": {
+                    "buffKeyword": "Breath",
+                    "target": "Custom",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "limit": 2
+                  }
+                },
+                {
+                  "scriptName": "SuccessKillSinStockBySkillIdx20107_0"
+                },
+                {
+                  "scriptName": "GiveBuffOnFailToKillTarget20107",
+                  "buffData": {
+                    "buffKeyword": "Breath",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 6,
+              "abilityScriptList": [
+                {
+                  "scriptName": "CanDealOnlySubTarget"
+                },
+                {
+                  "scriptName": "CheckMainTargetAllyDeadPrevCoin20107"
+                },
+                {
+                  "scriptName": "CriticalDmgUpByRatioViaBuffCheckDevideByStack",
+                  "buffData": {
+                    "buffKeyword": "BoseProjektil",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.05,
+                    "limit": 35
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSuccessCriticalAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "2010711Target"
+            },
+            {
+              "scriptName": "EDerSchutzeGiveBuffSelfByResonancePerfMultiplyInsteadAdd",
+              "buffData": {
+                "buffKeyword": "BoseProjektil",
+                "stack": 1,
+                "value": 2,
+                "limit": 7
+              }
+            },
+            {
+              "scriptName": "EDerSchutzeGiveBuffByBoseProjektil",
+              "buffData": {
+                "buffKeyword": "Breath",
+                "stack": 1,
+                "value": 1,
+                "limit": 7
+              }
+            },
+            {
+              "scriptName": "EDerSchutzeClaerAllBoseProjektilOnEndSkill"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6,
+              "abilityScriptList": [
+                {
+                  "scriptName": "CanDealOnlyMainTarget"
+                },
+                {
+                  "scriptName": "CheckMainTargetAllyDeadBase20107"
+                },
+                {
+                  "scriptName": "DmgUpByBuffStackWithLimitIfAlly105",
+                  "buffData": {
+                    "buffKeyword": "BoseProjektil",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.15
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnKillTarget20107",
+                  "buffData": {
+                    "buffKeyword": "Breath",
+                    "target": "Custom",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "limit": 2
+                  }
+                },
+                {
+                  "scriptName": "SuccessKillSinStockBySkillIdx20107_0"
+                },
+                {
+                  "scriptName": "SuccessKillSinStockBySkillIdx20107_1"
+                },
+                {
+                  "scriptName": "GiveBuffOnFailToKillTarget20107",
+                  "buffData": {
+                    "buffKeyword": "Breath",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 6,
+              "abilityScriptList": [
+                {
+                  "scriptName": "CanDealOnlySubTarget"
+                },
+                {
+                  "scriptName": "CheckMainTargetAllyDeadPrevCoin20107"
+                },
+                {
+                  "scriptName": "CriticalDmgUpByRatioViaBuffCheckDevideByStack",
+                  "buffData": {
+                    "buffKeyword": "BoseProjektil",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.09,
+                    "limit": 63
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSuccessCriticalAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010721,
+      "skillType": "EGO_EROSION",
+      "skillTier": 3,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "INDIGO",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillTargetType": "RANDOM",
+          "targetNum": 7,
+          "range" :  999,
+          "mpUsage": 30,
+          "skillLevelCorrection": 5,
+          "defaultValue": 30,
+          "canTeamKill": true,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "SKILL",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "2010721Target"
+            },
+            {
+              "scriptName": "EDerSchutzeGiveBuffSelfByResonanceSync",
+              "buffData": {
+                "buffKeyword": "BoseProjektil",
+                "stack": 1,
+                "value": 1,
+                "limit": 7
+              }
+            },
+            {
+              "scriptName": "EDerSchutzeDmgMultiplierByBuffStack",
+              "buffData": {
+                "buffKeyword": "BoseProjektil",
+                "value": 2,
+                "limit": 14
+              }
+            },
+            {
+              "scriptName": "EDerSchutzeGiveBuffByBoseProjektil",
+              "buffData": {
+                "buffKeyword": "Breath",
+                "stack": 1,
+                "value": 1,
+                "limit": 7
+              }
+            },
+            {
+              "scriptName": "EDerSchutzeClaerAllBoseProjektilOnEndSkill"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 8,
+              "abilityScriptList": [
+                {
+                  "scriptName": "CanDealOnlyMainTarget"
+                },
+                {
+                  "scriptName": "CheckMainTargetAllyDeadBase20107"
+                },
+                {
+                  "scriptName": "DmgUpByBuffStackWithLimitIfAlly70",
+                  "buffData": {
+                    "buffKeyword": "BoseProjektil",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.1
+                  }
+                },
+                {
+                  "scriptName": "DmgUpByBuffStackWithLimitIfAlly50",
+                  "buffData": {
+                    "buffKeyword": "Breath",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.02
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnKillTarget20107",
+                  "buffData": {
+                    "buffKeyword": "Breath",
+                    "target": "Custom",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "limit": 3
+                  }
+                },
+                {
+                  "scriptName": "NextCoinDmgUpByBuffStackOnKill2010721",
+                  "buffData": {
+                    "buffKeyword": "BoseProjektil",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.02,
+                    "limit": 14
+                  }
+                },
+                {
+                  "scriptName": "SuccessKillSinStockBySkillIdx20107_0"
+                },
+                {
+                  "scriptName": "SuccessKillSinStockBySkillIdx20107_1"
+                },
+                {
+                  "scriptName": "GiveBuffOnFailToKillTarget20107",
+                  "buffData": {
+                    "buffKeyword": "Breath",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "SUB",
+              "scale": 8,
+              "abilityScriptList": [
+                {
+                  "scriptName": "CanDealOnlySubTarget"
+                },
+                {
+                  "scriptName": "CheckMainTargetAllyDeadPrevCoin20107"
+                },
+                {
+                  "scriptName": "CriticalDmgUpByRatioViaBuffCheckDevideByStack",
+                  "buffData": {
+                    "buffKeyword": "BoseProjektil",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.02,
+                    "limit": 14
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSuccessCriticalAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "abilityScriptList": [
+            {
+              "scriptName": "2010721Target"
+            },
+            {
+              "scriptName": "EDerSchutzeGiveBuffSelfByResonanceSync",
+              "buffData": {
+                "buffKeyword": "BoseProjektil",
+                "stack": 1,
+                "value": 1,
+                "limit": 7
+              }
+            },
+            {
+              "scriptName": "EDerSchutzeDmgMultiplierByBuffStack",
+              "buffData": {
+                "buffKeyword": "BoseProjektil",
+                "value": 3,
+                "limit": 21
+              }
+            },
+            {
+              "scriptName": "EDerSchutzeGiveBuffByBoseProjektil",
+              "buffData": {
+                "buffKeyword": "Breath",
+                "stack": 1,
+                "value": 1,
+                "limit": 7
+              }
+            },
+            {
+              "scriptName": "EDerSchutzeClaerAllBoseProjektilOnEndSkill"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 8,
+              "abilityScriptList": [
+                {
+                  "scriptName": "CanDealOnlyMainTarget"
+                },
+                {
+                  "scriptName": "CheckMainTargetAllyDeadBase20107"
+                },
+                {
+                  "scriptName": "DmgUpByBuffStackWithLimitIfAlly84",
+                  "buffData": {
+                    "buffKeyword": "BoseProjektil",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.12
+                  }
+                },
+                {
+                  "scriptName": "DmgUpByBuffStackWithLimitIfAlly50",
+                  "buffData": {
+                    "buffKeyword": "Breath",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.02
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnKillTarget20107",
+                  "buffData": {
+                    "buffKeyword": "Breath",
+                    "target": "Custom",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "limit": 3
+                  }
+                },
+                {
+                  "scriptName": "NextCoinDmgUpByBuffStackOnKill2010721",
+                  "buffData": {
+                    "buffKeyword": "BoseProjektil",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.05,
+                    "limit": 35
+                  }
+                },
+                {
+                  "scriptName": "SuccessKillSinStockBySkillIdx20107_0"
+                },
+                {
+                  "scriptName": "SuccessKillSinStockBySkillIdx20107_1"
+                },
+                {
+                  "scriptName": "SuccessKillSinStockBySkillIdx20107_2"
+                },
+                {
+                  "scriptName": "GiveBuffOnFailToKillTarget20107",
+                  "buffData": {
+                    "buffKeyword": "Breath",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "SUB",
+              "scale": 8,
+              "abilityScriptList": [
+                {
+                  "scriptName": "CanDealOnlySubTarget"
+                },
+                {
+                  "scriptName": "CheckMainTargetAllyDeadPrevCoin20107"
+                },
+                {
+                  "scriptName": "CriticalDmgUpByRatioViaBuffCheckDevideByStack",
+                  "buffData": {
+                    "buffKeyword": "BoseProjektil",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.03,
+                    "limit": 21
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSuccessCriticalAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 4,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "2010721Target"
+            },
+            {
+              "scriptName": "EDerSchutzeGiveBuffSelfByResonancePerfMultiplyInsteadAdd",
+              "buffData": {
+                "buffKeyword": "BoseProjektil",
+                "stack": 1,
+                "value": 2,
+                "limit": 7
+              }
+            },
+            {
+              "scriptName": "EDerSchutzeDmgMultiplierByBuffStack",
+              "buffData": {
+                "buffKeyword": "BoseProjektil",
+                "value": 4,
+                "limit": 28
+              }
+            },
+            {
+              "scriptName": "EDerSchutzeGiveBuffByBoseProjektil",
+              "buffData": {
+                "buffKeyword": "Breath",
+                "stack": 1,
+                "value": 1,
+                "limit": 7
+              }
+            },
+            {
+              "scriptName": "EDerSchutzeClaerAllBoseProjektilOnEndSkill"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 8,
+              "abilityScriptList": [
+                {
+                  "scriptName": "CanDealOnlyMainTarget"
+                },
+                {
+                  "scriptName": "CheckMainTargetAllyDeadBase20107"
+                },
+                {
+                  "scriptName": "DmgUpByBuffStackWithLimitIfAlly105",
+                  "buffData": {
+                    "buffKeyword": "BoseProjektil",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.15
+                  }
+                },
+                {
+                  "scriptName": "DmgUpByBuffStackWithLimitIfAlly50",
+                  "buffData": {
+                    "buffKeyword": "Breath",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.02
+                  }
+                },
+                {
+                  "scriptName": "CriticalDmgUpByRatio30"
+                },
+                {
+                  "scriptName": "GiveBuffOnKillTarget20107",
+                  "buffData": {
+                    "buffKeyword": "Breath",
+                    "target": "Custom",
+                    "buffOwner": "",
+                    "stack": 4,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "limit": 3
+                  }
+                },
+                {
+                  "scriptName": "NextCoinDmgUpByBuffStackOnKill2010721",
+                  "buffData": {
+                    "buffKeyword": "BoseProjektil",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.07,
+                    "limit": 49
+                  }
+                },
+                {
+                  "scriptName": "SuccessKillSinStockBySkillIdx20107_0"
+                },
+                {
+                  "scriptName": "SuccessKillSinStockBySkillIdx20107_1"
+                },
+                {
+                  "scriptName": "SuccessKillSinStockBySkillIdx20107_2"
+                },
+                {
+                  "scriptName": "GiveBuffOnFailToKillTarget20107",
+                  "buffData": {
+                    "buffKeyword": "Breath",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "SUB",
+              "scale": 8,
+              "abilityScriptList": [
+                {
+                  "scriptName": "CanDealOnlySubTarget"
+                },
+                {
+                  "scriptName": "CheckMainTargetAllyDeadPrevCoin20107"
+                },
+                {
+                  "scriptName": "CriticalDmgUpByRatioViaBuffCheckDevideByStack",
+                  "buffData": {
+                    "buffKeyword": "BoseProjektil",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.04,
+                    "limit": 28
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSuccessCriticalAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 5,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
