@@ -5503,6 +5503,921 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1101101,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "SCARLET",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 2,
+          "defaultValue": 3,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "11011ReplaceBuff_DefenseDown2",
+              "buffData": {
+                "buffKeyword": "Burst",
+                "target": "Target",
+                "buffOwner": "Target",
+                "stack": 15,
+                "turn": 3,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackSetStackAsValueIfNotHasStack_DevyatDimensionalSackSinclair15",
+                  "buffData": {
+                    "buffKeyword": "DevyatDimensionalSackSinclair",
+                    "target": "Self",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "value": 2
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 2,
+          "abilityScriptList": [
+            {
+              "scriptName": "EleventhSinclairCoinAdderSkillAbility10And6And1And1"
+            },
+            {
+              "scriptName": "11011ReplaceBuff_DefenseDown2",
+              "buffData": {
+                "buffKeyword": "Burst",
+                "target": "Target",
+                "buffOwner": "Target",
+                "stack": 15,
+                "turn": 3,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackSetStackAsValueIfNotHasStack_DevyatDimensionalSackSinclair15",
+                  "buffData": {
+                    "buffKeyword": "DevyatDimensionalSackSinclair",
+                    "target": "Self",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "value": 2
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfHasStack_DevyatDimensionalSackSinclair15",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "Self",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackSetStackAsValueIfNotHasStack_DevyatDimensionalSackSinclair15",
+                  "buffData": {
+                    "buffKeyword": "DevyatDimensionalSackSinclair",
+                    "target": "Self",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "value": 2
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfHasStack_DevyatDimensionalSackSinclair15",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "Self",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "EleventhSinclairCoinAdderSkillAbility10And6And1And2"
+            },
+            {
+              "scriptName": "11011ReplaceBuff_DefenseDown2",
+              "buffData": {
+                "buffKeyword": "Burst",
+                "target": "Target",
+                "buffOwner": "Target",
+                "stack": 15,
+                "turn": 3,
+                "activeRound": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101102,
+      "skillType": "SKILL",
+      "skillTier": 2,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "SHAMROCK",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 3,
+          "defaultValue": 3,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "11011ReplaceBuff_DefenseDown2",
+              "buffData": {
+                "buffKeyword": "Burst",
+                "target": "Target",
+                "buffOwner": "Target",
+                "stack": 15,
+                "turn": 3,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex" :  1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackSetStackAsValueIfNotHasStack_DevyatDimensionalSackSinclair15",
+                  "buffData": {
+                    "buffKeyword": "DevyatDimensionalSackSinclair",
+                    "target": "Self",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "value": 3
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 2,
+          "abilityScriptList": [
+            {
+              "scriptName": "EleventhSinclairCoinAdderSkillAbility10And6And1And1"
+            },
+            {
+              "scriptName": "11011ReplaceBuff_DefenseDown2",
+              "buffData": {
+                "buffKeyword": "Burst",
+                "target": "Target",
+                "buffOwner": "Target",
+                "stack": 15,
+                "turn": 3,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnUseIfStackLess_DevyatDimensionalSackSinclair21(limit:1)",
+              "buffData": {
+                "buffKeyword": "Agility",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackSetStackAsValueIfNotHasStack_DevyatDimensionalSackSinclair15",
+                  "buffData": {
+                    "buffKeyword": "DevyatDimensionalSackSinclair",
+                    "target": "Self",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "value": 3
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfHasStack_DevyatDimensionalSackSinclair15",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "Self",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfHasStack_DevyatDimensionalSackSinclair15",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "Self",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 4
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "EleventhSinclairCoinAdderSkillAbility10And6And1And2"
+            },
+            {
+              "scriptName": "11011ReplaceBuff_DefenseDown2",
+              "buffData": {
+                "buffKeyword": "Burst",
+                "target": "Target",
+                "buffOwner": "Target",
+                "stack": 15,
+                "turn": 3,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnUseIfStackLess_DevyatDimensionalSackSinclair31(limit:1)",
+              "buffData": {
+                "buffKeyword": "Agility",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackSetStackAsValueIfNotHasStack_DevyatDimensionalSackSinclair15",
+                  "buffData": {
+                    "buffKeyword": "DevyatDimensionalSackSinclair",
+                    "target": "Self",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "value": 3
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfHasStack_DevyatDimensionalSackSinclair15",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "Self",
+                    "stack": 0,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfHasStack_DevyatDimensionalSackSinclair15",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "Self",
+                    "stack": 0,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101103,
+      "skillType": "SKILL",
+      "skillTier": 3,
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ],
+      "skillData": [
+        {
+          "gaksungLevel": 3,
+          "attributeType": "CRIMSON",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 5,
+          "defaultValue": 5,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S3",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "EleventhSinclairCoinAdderSkillAbility10And6And1And1"
+            },
+            {
+              "scriptName": "11011NoGiveBuffLastCoinScaleAdder",
+              "buffData": {
+                "buffKeyword": "Burst",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 15,
+                "turn": 3,
+                "activeRound": 0,
+                "value": 2
+              }
+            },
+            {
+              "scriptName": "1101103LastCoinDmgUp_Burst15",
+              "buffData": {
+                "buffKeyword": "DevyatDimensionalSackSinclair",
+                "target": "",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 0.03,
+                "limit": 90
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackDevideByStackWithLimit2_DevyatDimensionalSackSinclair10",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "buffOwner": "Self",
+                    "target": "Target",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackDevideByStackWithLimit2_DevyatDimensionalSackSinclair10",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "buffOwner": "Self",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 3,
+              "cutsceneStart": true,
+              "abilityScriptList": [
+                {
+                  "scriptName": "1101103GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Agility",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "EleventhSinclairCoinAdderSkillAbility10And6And1And2"
+            },
+            {
+              "scriptName": "11011NoGiveBuffLastCoinScaleAdder",
+              "buffData": {
+                "buffKeyword": "Burst",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 15,
+                "turn": 3,
+                "activeRound": 0,
+                "value": 4
+              }
+            },
+            {
+              "scriptName": "1101103LastCoinDmgUp_Burst15",
+              "buffData": {
+                "buffKeyword": "DevyatDimensionalSackSinclair",
+                "target": "",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 0.04,
+                "limit": 120
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackDevideByStackWithLimit3_DevyatDimensionalSackSinclair10",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "buffOwner": "Self",
+                    "target": "Target",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackDevideByStackWithLimit4_DevyatDimensionalSackSinclair8",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "buffOwner": "Self",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 3,
+              "cutsceneStart": true,
+              "abilityScriptList": [
+                {
+                  "scriptName": "1101103GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Agility",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101104,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "SHAMROCK",
+          "atkType": "HIT",
+          "defType": "COUNTER",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 3,
+          "defaultValue": 9,
+          "canTeamKill": false,
+          "canDuel": false,
+          "canChangeTarget": true,
+          "skillMotion": "S4",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "1101104(limit:1)",
+              "buffData": {
+                "buffKeyword": "DevyatDimensionalSackSinclair",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 15,
+                "turn": 0
+              }
+            },
+            {
+              "scriptName": "AddShieldOnBattleStartSelfByHpRatioViaBuffStack(limit:1)",
+              "buffData": {
+                "buffKeyword": "DevyatDimensionalSackSinclair",
+                "buffOwner": "Self",
+                "value": 0.005,
+                "limit": 15
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 7
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "1101104(limit:1)",
+              "buffData": {
+                "buffKeyword": "DevyatDimensionalSackSinclair",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 15,
+                "turn": 0
+              }
+            },
+            {
+              "scriptName": "AddShieldOnBattleStartSelfByHpRatioViaBuffStack(limit:1)",
+              "buffData": {
+                "buffKeyword": "DevyatDimensionalSackSinclair",
+                "buffOwner": "Self",
+                "value": 0.01,
+                "limit": 25
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101105,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "SHAMROCK",
+          "atkType": "HIT",
+          "defType": "COUNTER",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 3,
+          "defaultValue": 9,
+          "canTeamKill": false,
+          "canDuel": false,
+          "canChangeTarget": true,
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "AddShieldOnBattleStartSelfByHpRatioViaBuffStack(limit:1)",
+              "buffData": {
+                "buffKeyword": "DevyatDimensionalSackSinclair",
+                "buffOwner": "Self",
+                "value": 0.005,
+                "limit": 15
+              }
+            },
+            {
+              "scriptName": "ReserveRetreatOnBattleStart"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 7
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "AddShieldOnBattleStartSelfByHpRatioViaBuffStack(limit:1)",
+              "buffData": {
+                "buffKeyword": "DevyatDimensionalSackSinclair",
+                "buffOwner": "Self",
+                "value": 0.01,
+                "limit": 25
+              }
+            },
+            {
+              "scriptName": "ReserveRetreatOnBattleStart"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

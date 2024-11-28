@@ -3072,6 +3072,33 @@
       ]
     },
     {
+      "id": 1101101,
+      "attributeStockCondition": [
+        {
+          "type": "SHAMROCK",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1101102
+    },
+    {
+      "id": 1101121,
+      "attributeStockCondition": [
+        {
+          "type": "SHAMROCK",
+          "value": 6
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
       "id": 1051102
     },
     {

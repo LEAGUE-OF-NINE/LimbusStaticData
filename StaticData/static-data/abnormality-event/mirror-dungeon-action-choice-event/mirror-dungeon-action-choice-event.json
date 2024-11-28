@@ -2,8 +2,8 @@
   "list": [
     {
       "id": 900011,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -31,8 +31,8 @@
     },
     {
       "id": 900012,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -60,8 +60,8 @@
     },
     {
       "id": 900013,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -89,8 +89,8 @@
     },
     {
       "id": 900021,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -117,8 +117,8 @@
     },
     {
       "id": 900031,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -145,8 +145,8 @@
     },
     {
       "id": 901001,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -176,7 +176,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 991002,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   },
@@ -188,7 +188,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9001,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -239,7 +239,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9001,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   },
@@ -252,7 +252,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9104,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -265,8 +265,8 @@
     },
     {
       "id": 901002,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -324,7 +324,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9002,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   },
@@ -337,7 +337,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9108,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -350,8 +350,8 @@
     },
     {
       "id": 901003,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -381,8 +381,8 @@
     },
     {
       "id": 901004,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -402,7 +402,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9004,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -444,8 +444,8 @@
     },
     {
       "id": 901005,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -469,14 +469,25 @@
                 "nextEventID": 90100502
               }
             ]
+          },
+          {
+            "index": 2,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": 90100503
+              }
+            ]
           }
         ]
       }
     },
     {
       "id": 901006,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -506,8 +517,8 @@
     },
     {
       "id": 901007,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -527,7 +538,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9007,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   },
@@ -569,7 +580,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 991003,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -582,8 +593,8 @@
     },
     {
       "id": 901008,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -625,14 +636,57 @@
                 ]
               }
             ]
+          },
+          {
+            "index": 2,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "StartBattle_Abnormality",
+                      "nextBattleID": 2060043
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogiftOnWinBattle",
+                      "nextBattleID": -1,
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9008,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogiftOnWinBattle",
+                      "nextBattleID": -1,
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9192,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
     },
     {
       "id": 901009,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -652,7 +706,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9009,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   },
@@ -665,7 +719,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 991004,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -698,7 +752,7 @@
                       "itemReward": {
                         "type": "MIRRORDUNGEON_COST",
                         "num": 60,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -730,7 +784,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9009,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   },
@@ -743,7 +797,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9101,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -756,8 +810,8 @@
     },
     {
       "id": 901010,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -828,7 +882,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9010,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   },
@@ -841,7 +895,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9124,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -854,8 +908,8 @@
     },
     {
       "id": 901011,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -913,7 +967,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9011,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   },
@@ -926,7 +980,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9119,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -939,8 +993,8 @@
     },
     {
       "id": 901013,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -960,7 +1014,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9013,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -1003,7 +1057,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9013,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   },
@@ -1016,7 +1070,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9129,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -1029,8 +1083,8 @@
     },
     {
       "id": 90101302,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -1050,7 +1104,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9129,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -1074,7 +1128,7 @@
                       "itemReward": {
                         "type": "MIRRORDUNGEON_COST",
                         "num": 30,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -1087,8 +1141,8 @@
     },
     {
       "id": 901014,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -1117,7 +1171,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9014,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -1151,7 +1205,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9014,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -1183,7 +1237,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9014,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   },
@@ -1196,7 +1250,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9103,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -1209,8 +1263,8 @@
     },
     {
       "id": 901016,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -1241,7 +1295,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9016,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -1273,7 +1327,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9016,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   },
@@ -1286,7 +1340,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9113,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -1299,8 +1353,8 @@
     },
     {
       "id": 90101601,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -1364,8 +1418,8 @@
     },
     {
       "id": 901017,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -1403,8 +1457,8 @@
     },
     {
       "id": 901018,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -1464,7 +1518,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9018,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   },
@@ -1477,7 +1531,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9109,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -1490,8 +1544,8 @@
     },
     {
       "id": 901019,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -1523,7 +1577,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 991006,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -1555,7 +1609,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9019,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   },
@@ -1568,7 +1622,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9111,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -1581,8 +1635,8 @@
     },
     {
       "id": 901020,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -1620,7 +1674,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9020,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   },
@@ -1633,7 +1687,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9107,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -1665,8 +1719,8 @@
     },
     {
       "id": 901021,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -1704,7 +1758,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9021,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   },
@@ -1717,7 +1771,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9134,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -1741,8 +1795,8 @@
     },
     {
       "id": 901022,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -1769,7 +1823,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9022,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -1793,8 +1847,8 @@
     },
     {
       "id": 901023,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -1834,7 +1888,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9023,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -1847,8 +1901,8 @@
     },
     {
       "id": 90102301,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -1868,7 +1922,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9023,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   },
@@ -1914,7 +1968,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9023,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -1927,8 +1981,8 @@
     },
     {
       "id": 901024,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -1990,7 +2044,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9024,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -2022,7 +2076,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9024,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   },
@@ -2035,7 +2089,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9112,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -2048,8 +2102,8 @@
     },
     {
       "id": 901025,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -2069,7 +2123,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9025,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -2113,8 +2167,8 @@
     },
     {
       "id": 901026,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -2134,7 +2188,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9026,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -2178,8 +2232,8 @@
     },
     {
       "id": 901027,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -2208,7 +2262,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9027,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -2241,7 +2295,7 @@
                       "itemReward": {
                         "type": "MIRRORDUNGEON_COST",
                         "num": 40,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -2273,8 +2327,8 @@
     },
     {
       "id": 901028,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -2312,7 +2366,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9028,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -2359,8 +2413,8 @@
     },
     {
       "id": 901031,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -2417,7 +2471,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9031,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   },
@@ -2430,7 +2484,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9115,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -2443,8 +2497,8 @@
     },
     {
       "id": 901032,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -2464,7 +2518,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9032,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -2499,8 +2553,8 @@
     },
     {
       "id": 901033,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -2520,7 +2574,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9033,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -2563,7 +2617,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9033,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   },
@@ -2576,7 +2630,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9133,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -2589,8 +2643,8 @@
     },
     {
       "id": 901034,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -2610,7 +2664,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9034,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -2664,7 +2718,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9034,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   },
@@ -2677,7 +2731,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9132,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -2690,8 +2744,8 @@
     },
     {
       "id": 90103401,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -2729,8 +2783,8 @@
     },
     {
       "id": 90103402,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -2751,7 +2805,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 991007,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -2775,7 +2829,7 @@
                       "itemReward": {
                         "type": "MIRRORDUNGEON_COST",
                         "num": 40,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -2807,8 +2861,8 @@
     },
     {
       "id": 901035,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -2859,7 +2913,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9035,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -2891,8 +2945,8 @@
     },
     {
       "id": 901012,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -2941,7 +2995,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9012,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -2983,8 +3037,8 @@
     },
     {
       "id": 901015,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -3015,11 +3069,22 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9015,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": 90101503
               }
             ]
           }
@@ -3028,8 +3093,8 @@
     },
     {
       "id": 901030,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -3070,8 +3135,8 @@
     },
     {
       "id": 901036,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -3118,8 +3183,40 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9036,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "nextBattleID": -1,
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9159,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffectTarget": "EveryAlly",
+                      "resultEffect": "LoseHpOnly_24",
+                      "nextBattleID": -1
                     }
                   }
                 ]
@@ -3131,8 +3228,8 @@
     },
     {
       "id": 901037,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -3162,8 +3259,8 @@
     },
     {
       "id": 901038,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -3202,7 +3299,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9038,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -3215,8 +3312,8 @@
     },
     {
       "id": 901039,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -3255,8 +3352,8 @@
     },
     {
       "id": 90103901,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -3276,7 +3373,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9039,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -3300,7 +3397,7 @@
                       "itemReward": {
                         "type": "MIRRORDUNGEON_COST",
                         "num": 50,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   },
@@ -3320,8 +3417,8 @@
     },
     {
       "id": 901040,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -3351,8 +3448,8 @@
     },
     {
       "id": 901041,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -3391,8 +3488,8 @@
     },
     {
       "id": 901042,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -3422,8 +3519,8 @@
     },
     {
       "id": 901043,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -3461,8 +3558,8 @@
     },
     {
       "id": 901047,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -3487,11 +3584,46 @@
                 "eventResultDataList": [
                   {
                     "resultForm": {
-                      "resultEffect": "Nothing",
-                      "nextBattleID": -1
+                      "resultEffect": "StartBattle_Abnormality",
+                      "nextBattleID": 2060041
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogiftOnWinBattle",
+                      "nextBattleID": -1,
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9047,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogiftOnWinBattle",
+                      "nextBattleID": -1,
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9169,
+                        "num": 1,
+                        "prob": 1
+                      }
                     }
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": 90104703
               }
             ]
           }
@@ -3500,8 +3632,8 @@
     },
     {
       "id": 901049,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -3542,8 +3674,8 @@
     },
     {
       "id": 901051,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -3573,8 +3705,8 @@
     },
     {
       "id": 901056,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -3601,7 +3733,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9056,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   },
@@ -3614,7 +3746,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9128,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -3638,8 +3770,8 @@
     },
     {
       "id": 901057,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -3677,8 +3809,8 @@
     },
     {
       "id": 90105701,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -3718,7 +3850,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9057,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -3731,8 +3863,8 @@
     },
     {
       "id": 901059,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -3763,7 +3895,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9059,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -3795,7 +3927,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9122,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -3808,8 +3940,8 @@
     },
     {
       "id": 90105901,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -3836,7 +3968,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9059,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   },
@@ -3849,7 +3981,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9122,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -3882,8 +4014,8 @@
     },
     {
       "id": 901062,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -3903,7 +4035,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9062,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -3927,11 +4059,22 @@
                       "itemReward": {
                         "type": "MIRRORDUNGEON_COST",
                         "num": 50,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": 90106201
               }
             ]
           }
@@ -3940,8 +4083,8 @@
     },
     {
       "id": 901063,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -3961,7 +4104,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9063,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -3985,8 +4128,8 @@
     },
     {
       "id": 901067,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -4006,7 +4149,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9067,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -4039,8 +4182,8 @@
     },
     {
       "id": 901076,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -4079,8 +4222,8 @@
     },
     {
       "id": 901077,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -4118,8 +4261,8 @@
     },
     {
       "id": 901078,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -4157,8 +4300,8 @@
     },
     {
       "id": 901079,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -4188,8 +4331,8 @@
     },
     {
       "id": 901080,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -4209,7 +4352,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9080,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -4241,8 +4384,8 @@
     },
     {
       "id": 901054,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -4272,8 +4415,8 @@
     },
     {
       "id": 901058,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -4303,8 +4446,8 @@
     },
     {
       "id": 901061,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -4334,8 +4477,8 @@
     },
     {
       "id": 901066,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -4382,8 +4525,8 @@
     },
     {
       "id": 901068,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -4413,8 +4556,8 @@
     },
     {
       "id": 901069,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -4444,8 +4587,8 @@
     },
     {
       "id": 901073,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -4494,7 +4637,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9073,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   },
@@ -4507,7 +4650,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9093,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -4520,8 +4663,8 @@
     },
     {
       "id": 901074,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -4545,14 +4688,25 @@
                 "nextEventID": 90107402
               }
             ]
+          },
+          {
+            "index": 2,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": 90107403
+              }
+            ]
           }
         ]
       }
     },
     {
       "id": 901084,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -4582,8 +4736,8 @@
     },
     {
       "id": 901085,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -4613,8 +4767,8 @@
     },
     {
       "id": 901091,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -4644,8 +4798,8 @@
     },
     {
       "id": 901095,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -4705,8 +4859,8 @@
     },
     {
       "id": 90109505,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -4725,7 +4879,7 @@
                       "itemReward": {
                         "type": "MIRRORDUNGEON_COST",
                         "num": 50,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -4757,8 +4911,8 @@
     },
     {
       "id": 90109506,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -4785,7 +4939,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9095,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -4817,8 +4971,8 @@
     },
     {
       "id": 90109507,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -4865,8 +5019,8 @@
     },
     {
       "id": 901099,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -4896,8 +5050,8 @@
     },
     {
       "id": 90109903,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -4944,8 +5098,8 @@
     },
     {
       "id": 90109904,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -4965,7 +5119,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9099,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   },
@@ -5005,8 +5159,8 @@
     },
     {
       "id": 902003,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -5036,8 +5190,8 @@
     },
     {
       "id": 902005,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -5067,8 +5221,8 @@
     },
     {
       "id": 902006,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -5098,8 +5252,8 @@
     },
     {
       "id": 971001,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -5119,7 +5273,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9701,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   },
@@ -5131,7 +5285,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9702,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -5156,7 +5310,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9701,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -5181,7 +5335,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9702,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -5194,8 +5348,8 @@
     },
     {
       "id": 971003,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -5226,7 +5380,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9703,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -5251,7 +5405,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9705,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -5264,7 +5418,8 @@
                 "eventResultDataList": [
                   {
                     "resultForm": {
-                      "resultEffect": "Nothing"
+                      "resultEffect": "Nothing",
+                      "nextBattleID": -1
                     }
                   }
                 ]
@@ -5276,8 +5431,8 @@
     },
     {
       "id": 971012,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -5316,8 +5471,8 @@
     },
     {
       "id": 97101202,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -5355,8 +5510,8 @@
     },
     {
       "id": 971013,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -5394,8 +5549,8 @@
     },
     {
       "id": 971014,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -5445,8 +5600,8 @@
     },
     {
       "id": 971016,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -5484,8 +5639,8 @@
     },
     {
       "id": 971017,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -5515,8 +5670,8 @@
     },
     {
       "id": 971021,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -5546,8 +5701,8 @@
     },
     {
       "id": 971022,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -5585,8 +5740,8 @@
     },
     {
       "id": 971023,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -5635,8 +5790,8 @@
     },
     {
       "id": 971024,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -5674,8 +5829,8 @@
     },
     {
       "id": 971025,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -5713,8 +5868,8 @@
     },
     {
       "id": 971027,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -5753,8 +5908,8 @@
     },
     {
       "id": 97102701,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -5793,8 +5948,8 @@
     },
     {
       "id": 971028,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -5843,8 +5998,8 @@
     },
     {
       "id": 97102801,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -5864,7 +6019,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9733,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -5896,8 +6051,8 @@
     },
     {
       "id": 97102802,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -5917,7 +6072,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9733,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -5949,8 +6104,8 @@
     },
     {
       "id": 971029,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -6007,7 +6162,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9734,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   },
@@ -6020,7 +6175,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9735,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -6033,8 +6188,8 @@
     },
     {
       "id": 97102902,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -6054,7 +6209,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9734,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -6079,7 +6234,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9735,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -6092,8 +6247,8 @@
     },
     {
       "id": 971030,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -6124,7 +6279,7 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9737,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
                     }
                   }
@@ -6137,8 +6292,8 @@
     },
     {
       "id": 971031,
-      "eventType": "EVENT",
       "canSkip": false,
+      "eventType": "EVENT",
       "actionEvent": {
         "eachOptionList": [
           {
@@ -6169,8 +6324,529 @@
                         "type": "EGO_GIFT",
                         "rewardId": 9739,
                         "num": 1,
-                        "prob": 1.0
+                        "prob": 1
                       }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 971032,
+      "canSkip": false,
+      "eventType": "EVENT",
+      "actionEvent": {
+        "eachOptionList": [
+          {
+            "index": 0,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "nextBattleID": -1,
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9744,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "nextBattleID": -1,
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9745,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": 97103201
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 971033,
+      "canSkip": false,
+      "eventType": "EVENT",
+      "actionEvent": {
+        "eachOptionList": [
+          {
+            "index": 0,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "nextBattleID": -1,
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9747,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "nextBattleID": -1,
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9746,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": 97103301
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 971034,
+      "canSkip": false,
+      "eventType": "EVENT",
+      "actionEvent": {
+        "eachOptionList": [
+          {
+            "index": 0,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": 97103401
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": 97103402
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 971035,
+      "canSkip": false,
+      "eventType": "EVENT",
+      "actionEvent": {
+        "eachOptionList": [
+          {
+            "index": 0,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffectTarget": "EveryAlly",
+                      "resultEffect": "RecoverHpMpSameAmount_10",
+                      "nextBattleID": -1
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffect": "MirrorDungeonAcquireCost",
+                      "nextBattleID": -1,
+                      "itemReward": {
+                        "type": "MIRRORDUNGEON_COST",
+                        "num": 80,
+                        "prob": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "nextBattleID": -1,
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9750,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 901100,
+      "canSkip": false,
+      "eventType": "EVENT",
+      "actionEvent": {
+        "eachOptionList": [
+          {
+            "index": 0,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": 90110001
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "Nothing",
+                      "nextBattleID": -1
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 901101,
+      "canSkip": false,
+      "eventType": "EVENT",
+      "actionEvent": {
+        "eachOptionList": [
+          {
+            "index": 0,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": 90110101
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "StartBattle_Abnormality",
+                      "nextBattleID": 2060045
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogiftOnWinBattle",
+                      "resultDescId": "Choice_EGO901101",
+                      "nextBattleID": -1,
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9181,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogiftOnWinBattle",
+                      "resultDescId": "Choice_LoseBattle",
+                      "nextBattleID": -1
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 901102,
+      "canSkip": false,
+      "eventType": "EVENT",
+      "actionEvent": {
+        "eachOptionList": [
+          {
+            "index": 0,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "nextBattleID": -1,
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9182,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffectTarget": "EveryAlly",
+                      "resultEffect": "RecoverHpMpSameAmount_10",
+                      "nextBattleID": -1
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 901103,
+      "canSkip": false,
+      "eventType": "EVENT",
+      "actionEvent": {
+        "eachOptionList": [
+          {
+            "index": 0,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffectTarget": "EveryAlly",
+                      "resultEffect": "RecoverHpMpSameAmount_10",
+                      "nextBattleID": -1
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": 90110301
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "nextBattleID": -1,
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9156,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 901104,
+      "canSkip": false,
+      "eventType": "EVENT",
+      "actionEvent": {
+        "eachOptionList": [
+          {
+            "index": 0,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffectTarget": "EveryAlly",
+                      "resultEffect": "RecoverHpMpSameAmount_10",
+                      "nextBattleID": -1
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "StartBattle_Abnormality",
+                      "nextBattleID": 2060047
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogiftOnWinBattle",
+                      "resultDescId": "Choice_EGO971029",
+                      "nextBattleID": -1,
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9160,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogiftOnWinBattle",
+                      "resultDescId": "Choice_LoseBattle",
+                      "nextBattleID": -1
                     }
                   }
                 ]

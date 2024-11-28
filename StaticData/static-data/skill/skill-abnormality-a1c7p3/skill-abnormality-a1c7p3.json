@@ -2507,6 +2507,7 @@
     },
     {
       "id": 837901,
+      "textID": 837901,
       "skillTier": 1,
       "skillData": [
         {
@@ -2568,9 +2569,11 @@
     },
     {
       "id": 837902,
+      "textID": 837902,
       "skillTier": 2,
       "skillData": [
         {
+          "iconID": 837902,
           "skillTargetType": "RANDOM",
           "canTeamKill": false,
           "canDuel": true,
@@ -2644,9 +2647,11 @@
     },
     {
       "id": 837903,
+      "textID": 837903,
       "skillTier": 2,
       "skillData": [
         {
+          "iconID": 837903,
           "skillTargetType": "RANDOM",
           "canTeamKill": false,
           "canDuel": true,
@@ -2726,9 +2731,11 @@
     },
     {
       "id": 837904,
+      "textID": 837904,
       "skillTier": 1,
       "skillData": [
         {
+          "iconID": 837904,
           "skillTargetType": "RANDOM",
           "canTeamKill": false,
           "canDuel": true,
@@ -2737,6 +2744,7 @@
           "atkType": "HIT",
           "defType": "COUNTER",
           "skillMotion": "S4",
+          "actionScript": "837904",
           "viewType": "BATTLE",
           "targetNum": 1,
           "defaultValue": 6,
@@ -2797,9 +2805,11 @@
     },
     {
       "id": 837905,
+      "textID": 837905,
       "skillTier": 2,
       "skillData": [
         {
+          "iconID": 837905,
           "skillTargetType": "RANDOM",
           "canTeamKill": false,
           "canDuel": true,
@@ -2808,6 +2818,7 @@
           "atkType": "HIT",
           "defType": "ATTACK",
           "skillMotion": "S5",
+          "actionScript": "837905",
           "viewType": "BATTLE",
           "targetNum": 1,
           "defaultValue": 8,
@@ -2858,9 +2869,11 @@
     },
     {
       "id": 837906,
+      "textID": 837906,
       "skillTier": 2,
       "skillData": [
         {
+          "iconID": 837906,
           "skillTargetType": "RANDOM",
           "canTeamKill": false,
           "canDuel": true,
@@ -2869,6 +2882,7 @@
           "atkType": "PENETRATE",
           "defType": "ATTACK",
           "skillMotion": "S6",
+          "actionScript": "837906",
           "viewType": "BATTLE",
           "targetNum": 1,
           "defaultValue": 1,
@@ -2925,9 +2939,11 @@
     },
     {
       "id": 837907,
+      "textID": 837907,
       "skillTier": 3,
       "skillData": [
         {
+          "iconID": 837907,
           "skillTargetType": "RANDOM",
           "canTeamKill": false,
           "canDuel": true,
@@ -2936,6 +2952,7 @@
           "atkType": "PENETRATE",
           "defType": "ATTACK",
           "skillMotion": "S7",
+          "actionScript": "837907",
           "viewType": "ENCOUNTER",
           "targetNum": 6,
           "arearange": 1,

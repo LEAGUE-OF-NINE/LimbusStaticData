@@ -1004,6 +1004,119 @@
           "number": 1
         }
       ]
+    },
+    {
+      "id": 11011,
+      "appearance": "11011_Sinclair_DevyatAppearance",
+      "unitKeywordList": [ "FIXER", "SMALL" ],
+      "associationList": [ "DEVYAT" ],
+      "unitScriptID": 11011,
+      "characterId": 10,
+      "panicType": 9999,
+      "season": 0,
+      "defenseSkillIDList": [
+        1101104,
+        1101105
+      ],
+      "initBuffList": [
+        {
+          "level": 1,
+          "list": [
+            {
+              "buff": "DevyatDimensionalSackSinclair",
+              "stack": 0
+            }
+          ]
+        }
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 73,
+        "incrementByLevel": 2.39
+      },
+      "defCorrection": -2,
+      "minSpeedList": [
+        2,
+        3,
+        3,
+        3
+      ],
+      "maxSpeedList": [
+        5,
+        6,
+        7,
+        7
+      ],
+      "uniqueAttribute": "SHAMROCK",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          70,
+          40,
+          20
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1101101,
+          "number": 3
+        },
+        {
+          "skillId": 1101102,
+          "number": 2
+        },
+        {
+          "skillId": 1101103,
+          "number": 1
+        }
+      ]
     }
   ]
 }

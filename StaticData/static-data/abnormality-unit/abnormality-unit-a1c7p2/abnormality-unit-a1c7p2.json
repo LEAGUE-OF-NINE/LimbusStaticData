@@ -5,7 +5,7 @@
       "appearance": "8381_Dulcinea_BossAppearance",
       "associationList": [ "LA_MANCHA_LAND" ],
       "unitKeywordList": [
-        "SMALL", "BLOODFIEND", "SECOND_DEPENDENT"
+        "SMALL", "BLOODFIEND", "SECOND_DEPENDENT", "DULCINEA"
       ],
       "classType": "ZAYIN",
       "attributeType": "SCARLET",

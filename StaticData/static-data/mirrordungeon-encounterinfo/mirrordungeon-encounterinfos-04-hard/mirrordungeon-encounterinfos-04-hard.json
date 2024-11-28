@@ -226,7 +226,7 @@
                   "type": "GetEgogiftWithEnemyBuf",
                   "probability": 1,
                   "showNumber": 3,
-                  "selectNumber": 1
+                  "selectNumber": 2
                 }
               ]
             },
@@ -243,7 +243,7 @@
                   "type": "GetEgogiftWithEnemyBuf",
                   "probability": 1,
                   "showNumber": 3,
-                  "selectNumber": 1
+                  "selectNumber": 2
                 }
               ]
             },
@@ -260,7 +260,7 @@
                   "type": "GetEgogiftWithEnemyBuf",
                   "probability": 1,
                   "showNumber": 3,
-                  "selectNumber": 1
+                  "selectNumber": 2
                 }
               ]
             },
@@ -277,7 +277,7 @@
                   "type": "GetEgogiftWithEnemyBuf",
                   "probability": 1,
                   "showNumber": 3,
-                  "selectNumber": 1
+                  "selectNumber": 2
                 }
               ]
             }

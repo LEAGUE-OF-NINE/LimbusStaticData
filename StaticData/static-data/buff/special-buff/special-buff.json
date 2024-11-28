@@ -127,6 +127,20 @@
           "ability": "TcorpSpecialInvestigator"
         }
       ]
+    },
+    {
+      "id": "Zazen",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 108,
+      "canBeDespelled": false,
+      "destroyableOnZero": false,
+      "list": [
+        {
+          "ability": "AtkDamageMultiplierByStack",
+          "value": 0.01
+        }
+      ]
     }
   ]
 }

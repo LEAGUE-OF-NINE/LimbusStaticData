@@ -1116,37 +1116,7 @@
         }
       ]
     },
-    {
-      "id": 901040,
-      "dungeonId": 910701,
-      "typeIndex": 0,
-      "encounter": "EVENT",
-      "localizeId": 910701,
-      "category": "NORMAL",
-      "dungeonEventList": [ 901040, 90104001, 90104002 ],
-      "sectionInfos": [
-        {
-          "floor": 0,
-          "section": "ALL"
-        },
-        {
-          "floor": 1,
-          "section": "ALL"
-        },
-        {
-          "floor": 2,
-          "section": "ALL"
-        },
-        {
-          "floor": 3,
-          "section": "ALL"
-        },
-        {
-          "floor": 4,
-          "section": "ALL"
-        }
-      ]
-    },
+    
     {
       "id": 901041,
       "dungeonId": 910701,
@@ -1891,37 +1861,7 @@
         }
       ]
     },
-    {
-      "id": 901080,
-      "dungeonId": 910701,
-      "typeIndex": 0,
-      "encounter": "EVENT",
-      "localizeId": 910701,
-      "category": "NORMAL",
-      "dungeonEventList": [ 901080 ],
-      "sectionInfos": [
-        {
-          "floor": 0,
-          "section": "ALL"
-        },
-        {
-          "floor": 1,
-          "section": "ALL"
-        },
-        {
-          "floor": 2,
-          "section": "ALL"
-        },
-        {
-          "floor": 3,
-          "section": "ALL"
-        },
-        {
-          "floor": 4,
-          "section": "ALL"
-        }
-      ]
-    },
+    
     {
       "id": 901084,
       "dungeonId": 910701,

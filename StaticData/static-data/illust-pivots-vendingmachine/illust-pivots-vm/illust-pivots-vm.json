@@ -1345,6 +1345,20 @@
             "rotateZ": 0.0
         },
         {
+            "id": "11011_gacksung",
+            "offsetX": 99.0,
+            "offsetY": -20.0,
+            "scaleFactor": 1.2000000476837159,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11011_normal",
+            "offsetX": 43.0,
+            "offsetY": -32.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
             "id": "11101_normal",
             "offsetX": 18.0,
             "offsetY": -18.0,

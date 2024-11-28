@@ -24,8 +24,7 @@
         }
       ],
       "tag": [
-        "TIER_2",
-        "EXTRA"
+        "TIER_2"
       ],
       "keyword": "Vibration",
       "lockType": false,
@@ -62,7 +61,8 @@
       "id": 9088,
       "attributeType": "INDIGO",
       "subEgoGiftAbilityIDList": [
-        90881
+        90881,
+        90882
       ],
       "tag": [
         "TIER_4"
@@ -105,7 +105,9 @@
       "id": 9090,
       "attributeType": "AMBER",
       "subEgoGiftAbilityIDList": [
-        90901
+        90901,
+        90902,
+        90903
       ],
       "tag": [
         "TIER_4"
@@ -135,8 +137,7 @@
         }
       ],
       "tag": [
-        "TIER_3",
-        "EXTRA_TIER3"
+        "TIER_3"
       ],
       "keyword": "Vibration",
       "lockType": false,
@@ -147,7 +148,8 @@
       "attributeType": "SCARLET",
       "subEgoGiftAbilityIDList": [
         90921,
-        90922
+        90922,
+        90923
       ],
       "tag": [
         "TIER_4"
@@ -187,7 +189,8 @@
       "id": 9094,
       "attributeType": "CRIMSON",
       "subEgoGiftAbilityIDList": [
-        90941
+        90941,
+        90942
       ],
       "tag": [
         "TIER_4"
@@ -227,7 +230,8 @@
       "id": 9096,
       "attributeType": "SHAMROCK",
       "subEgoGiftAbilityIDList": [
-        90961
+        90961,
+        90962
       ],
       "tag": [
         "TIER_4"
@@ -270,7 +274,7 @@
       "id": 9098,
       "attributeType": "AZURE",
       "subEgoGiftAbilityIDList": [
-        90981
+        90981, 90982
       ],
       "tag": [
         "TIER_4"
@@ -300,8 +304,7 @@
         }
       ],
       "tag": [
-        "TIER_3",
-        "EXTRA_TIER3"
+        "TIER_3"
       ],
       "keyword": "Charge",
       "lockType": false,
@@ -310,9 +313,12 @@
     {
       "id": 9100,
       "attributeType": "SCARLET",
-      "subEgoGiftAbilityIDList": [
-        91001,
-        91002
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9100,
+          "abilityIDList": [ 9100, 91001, 91002, 91003 ]
+        }
       ],
       "tag": [
         "TIER_4"

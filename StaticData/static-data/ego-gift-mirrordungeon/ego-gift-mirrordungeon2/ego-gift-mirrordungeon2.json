@@ -37,8 +37,7 @@
         90421
       ],
       "tag": [
-        "TIER_3",
-        "EXTRA_TIER3"
+        "TIER_3"
       ],
       "keyword": "Laceration",
       "lockType": false,
@@ -345,8 +344,7 @@
         90531
       ],
       "tag": [
-        "TIER_3",
-        "EXTRA_TIER3"
+        "TIER_3"
       ],
       "keyword": "Combustion",
       "lockType": false,
@@ -416,8 +414,7 @@
         90561
       ],
       "tag": [
-        "TIER_3",
-        "EXTRA_TIER3"
+        "TIER_3"
       ],
       "keyword": "Breath",
       "lockType": false,
@@ -452,8 +449,7 @@
         90591
       ],
       "tag": [
-        "TIER_3",
-        "EXTRA_TIER3"
+        "TIER_3"
       ],
       "keyword": "Sinking",
       "lockType": false,
@@ -937,8 +933,7 @@
       "id": 9084,
       "attributeType": "SHAMROCK",
       "tag": [
-        "TIER_4",
-        "EXTRA"
+        "TIER_4"
       ],
       "lockType": false,
       "price": 397
@@ -947,8 +942,7 @@
       "id": 9085,
       "attributeType": "AZURE",
       "tag": [
-        "TIER_4",
-        "EXTRA"
+        "TIER_4"
       ],
       "lockType": false,
       "price": 395
