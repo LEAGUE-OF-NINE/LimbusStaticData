@@ -3,7 +3,7 @@
     {
       "dungeonId": 5,
       "buffPoint": {
-        "basePoint": 0,
+        "basePoint": 30,
         "personalityBonusPoint": {
           "minRankBonus": [
           ],
@@ -147,7 +147,6 @@
             "isNotLinkedToParentBuff": true
           }
         },
-        
         {
           "id": 104,
           "required": [
@@ -271,14 +270,14 @@
             }
           ],
           "cost": 0,
-          "localizeId": "mirror_dungeon_5_buffs_title_13",
-          "summaryDescId": "mirror_dungeon_5_buffs_desc_13",
+          "localizeId": "mirror_dungeon_5_buffs_title_18",
+          "summaryDescId": "mirror_dungeon_5_buffs_desc_18",
           "effects": [
             {
-              "type": "ACQUIRE_2_TIER_SHOP_EGO_GIFT_ON_ENTER_2ND_FLOOR",
-              "value": 1,
+              "type": "ADDITIONAL_START_COST",
+              "value": 100,
               "isTypoExist": false,
-              "typoName": "mirror_dungeon_5_buffs_desc_13"
+              "typoName": "mirror_dungeon_5_buffs_desc_18"
             }
           ],
           "nodeType": "Special"
@@ -319,14 +318,14 @@
             }
           ],
           "cost": 0,
-          "localizeId": "mirror_dungeon_5_buffs_title_15",
-          "summaryDescId": "mirror_dungeon_5_buffs_desc_15",
+          "localizeId": "mirror_dungeon_5_buffs_title_18",
+          "summaryDescId": "mirror_dungeon_5_buffs_desc_18",
           "effects": [
             {
-              "type": "ACQUIRE_3_TIER_SHOP_EGO_GIFT_ON_ENTER_3RD_FLOOR",
-              "value": 1,
+              "type": "ADDITIONAL_START_COST",
+              "value": 150,
               "isTypoExist": false,
-              "typoName": "mirror_dungeon_5_buffs_title_15"
+              "typoName": "mirror_dungeon_5_buffs_desc_18"
             }
           ],
           "nodeType": "Special"

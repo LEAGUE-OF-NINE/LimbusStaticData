@@ -16306,7 +16306,8 @@
           ],
           "subUnitList": [],
           "bgmList": [
-            "Battle_Cp5_MiddleBossBattle"
+            "Battle_Cp5_Ally_3",
+            "Battle_Cp5_Enemy_1"
           ]
         }
       ],
@@ -16374,7 +16375,8 @@
           ],
           "subUnitList": [],
           "bgmList": [
-            "Battle_Cp5_MiddleBossBattle"
+            "Battle_Cp5_Ally_3",
+            "Battle_Cp5_Enemy_1"
           ]
         }
       ],
@@ -16442,7 +16444,8 @@
           ],
           "subUnitList": [],
           "bgmList": [
-            "Battle_Cp5_MiddleBossBattle"
+            "Battle_Cp5_Ally_3",
+            "Battle_Cp5_Enemy_1"
           ]
         }
       ],
@@ -16972,7 +16975,8 @@
           ],
           "subUnitList": [],
           "bgmList": [
-            "Battle_Cp5_MiddleBossBattle"
+            "Battle_Cp5_Ally_3",
+            "Battle_Cp5_Enemy_1"
           ]
         }
       ],
@@ -17040,7 +17044,8 @@
           ],
           "subUnitList": [],
           "bgmList": [
-            "Battle_Cp5_MiddleBossBattle"
+            "Battle_Cp5_Ally_3",
+            "Battle_Cp5_Enemy_1"
           ]
         }
       ],
@@ -17108,7 +17113,8 @@
           ],
           "subUnitList": [],
           "bgmList": [
-            "Battle_Cp5_MiddleBossBattle"
+            "Battle_Cp5_Ally_3",
+            "Battle_Cp5_Enemy_1"
           ]
         }
       ],
@@ -17462,7 +17468,7 @@
       "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
-        "LimbusBoat_518",
+        "LimbusBoat_Default",
         "Refill",
         "SubUnitDefaultSlotAdder"
       ]
@@ -17554,7 +17560,7 @@
       "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
-        "LimbusBoat_518",
+        "LimbusBoat_Default",
         "Refill",
         "SubUnitDefaultSlotAdder"
       ]
@@ -17646,7 +17652,7 @@
       "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
-        "LimbusBoat_518",
+        "LimbusBoat_Default",
         "Refill",
         "SubUnitDefaultSlotAdder"
       ]
@@ -17738,7 +17744,7 @@
       "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
-        "LimbusBoat_518",
+        "LimbusBoat_Default",
         "Refill",
         "SubUnitDefaultSlotAdder"
       ]
@@ -17830,7 +17836,7 @@
       "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
-        "LimbusBoat_518",
+        "LimbusBoat_Default",
         "Refill",
         "SubUnitDefaultSlotAdder"
       ]
@@ -19347,7 +19353,7 @@
       "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
-        "LimbusBoat_518",
+        "LimbusBoat_Default",
         "Refill",
         "SubUnitDefaultSlotAdder"
       ]
@@ -19449,7 +19455,7 @@
       "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
-        "LimbusBoat_518",
+        "LimbusBoat_Default",
         "Refill",
         "SubUnitDefaultSlotAdder"
       ]
@@ -19551,7 +19557,7 @@
       "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
-        "LimbusBoat_518",
+        "LimbusBoat_Default",
         "Refill",
         "SubUnitDefaultSlotAdder"
       ]
@@ -33159,32 +33165,32 @@
           ],
           "subUnitList": [
             {
-              "unitID": 70111,
+              "unitID": 70103,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 70111,
+              "unitID": 70103,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 70111,
+              "unitID": 70103,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 70113,
+              "unitID": 70103,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 70113,
+              "unitID": 70103,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 71013,
+              "unitID": 70103,
               "unitCount": 1,
               "unitLevel": 50
             }
@@ -98970,7 +98976,7 @@
               "unitLevel": 50
             },
             {
-              "unitID": 71011,
+              "unitID": 70083,
               "unitCount": 1,
               "unitLevel": 50
             },
@@ -99027,6 +99033,7 @@
       "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
+        "LimbusBoat_Default",
         "Refill",
         "SubUnitDefaultSlotAdder"
       ]
@@ -99931,6 +99938,7 @@
       "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
+        "LimbusBoat_Default",
         "Refill",
         "SubUnitDefaultSlotAdder"
       ]
@@ -110133,6 +110141,7 @@
       "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
+        "LimbusBoat_Default",
         "Refill",
         "SubUnitDefaultSlotAdder"
       ]
@@ -110942,6 +110951,7 @@
       "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
+        "LimbusBoat_Default",
         "Refill",
         "SubUnitDefaultSlotAdder"
       ]
@@ -110971,17 +110981,12 @@
               "unitLevel": 50
             },
             {
-              "unitID": 71011,
+              "unitID": 70083,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 71011,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 71011,
+              "unitID": 70083,
               "unitCount": 1,
               "unitLevel": 50
             },
@@ -111043,6 +111048,7 @@
       "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
+        "LimbusBoat_Default",
         "Refill",
         "SubUnitDefaultSlotAdder"
       ]
@@ -111144,6 +111150,7 @@
       "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
+        "LimbusBoat_Default",
         "Refill",
         "SubUnitDefaultSlotAdder"
       ]
@@ -111891,11 +111898,6 @@
               "unitLevel": 50
             },
             {
-              "unitID": 70083,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
               "unitID": 71011,
               "unitCount": 1,
               "unitLevel": 50
@@ -111953,6 +111955,7 @@
       "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
+        "LimbusBoat_Default",
         "Refill",
         "SubUnitDefaultSlotAdder"
       ]
@@ -112054,6 +112057,7 @@
       "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
+        "LimbusBoat_Default",
         "Refill",
         "SubUnitDefaultSlotAdder"
       ]
@@ -112155,6 +112159,7 @@
       "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
+        "LimbusBoat_Default",
         "Refill",
         "SubUnitDefaultSlotAdder"
       ]
@@ -112651,6 +112656,7 @@
       "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
+        "LimbusBoat_Default",
         "Refill",
         "SubUnitDefaultSlotAdder"
       ]
@@ -113393,7 +113399,7 @@
               "unitLevel": 50
             },
             {
-              "unitID": 71011,
+              "unitID": 70083,
               "unitCount": 1,
               "unitLevel": 50
             },
@@ -113460,6 +113466,7 @@
       "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
+        "LimbusBoat_Default",
         "Refill",
         "SubUnitDefaultSlotAdder"
       ]
@@ -113489,17 +113496,12 @@
               "unitLevel": 50
             },
             {
-              "unitID": 71011,
+              "unitID": 70083,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 71011,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 71011,
+              "unitID": 70083,
               "unitCount": 1,
               "unitLevel": 50
             },
@@ -113561,6 +113563,7 @@
       "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
+        "LimbusBoat_Default",
         "Refill",
         "SubUnitDefaultSlotAdder"
       ]
@@ -113662,6 +113665,7 @@
       "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
+        "LimbusBoat_Default",
         "Refill",
         "SubUnitDefaultSlotAdder"
       ]
@@ -114471,6 +114475,7 @@
       "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
+        "LimbusBoat_Default",
         "Refill",
         "SubUnitDefaultSlotAdder"
       ]
@@ -114489,11 +114494,6 @@
             "mapName": "Cp5_LimbusBoat_Storm"
           },
           "unitList": [
-            {
-              "unitID": 70083,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
             {
               "unitID": 70083,
               "unitCount": 1,
@@ -114572,6 +114572,7 @@
       "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
+        "LimbusBoat_Default",
         "Refill",
         "SubUnitDefaultSlotAdder"
       ]
@@ -114673,6 +114674,7 @@
       "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
+        "LimbusBoat_Default",
         "Refill",
         "SubUnitDefaultSlotAdder"
       ]
@@ -137570,7 +137572,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "SinclairForest_2"
+            "mapName": "KCorpCheckPoint"
           },
           "unitList": [
             {
@@ -137627,8 +137629,8 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp3_Ally_1",
-            "Battle_Cp3_Enemy_1"
+            "Battle_Cp1_Ally_3",
+            "Battle_Cp1_Enemy_3"
           ]
         }
       ],
@@ -137661,7 +137663,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "SinclairVillage"
+            "mapName": "KCorpCheckPoint"
           },
           "unitList": [
             {
@@ -137718,8 +137720,8 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp3_Ally_1",
-            "Battle_Cp3_Enemy_1"
+            "Battle_Cp1_Ally_3",
+            "Battle_Cp1_Enemy_3"
           ]
         }
       ],
@@ -138116,7 +138118,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "SinclairForest_2"
+            "mapName": "KCorpCheckPoint"
           },
           "unitList": [
             {
@@ -138173,8 +138175,8 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp3_Ally_1",
-            "Battle_Cp3_Enemy_1"
+            "Battle_Cp1_Ally_3",
+            "Battle_Cp1_Enemy_3"
           ]
         }
       ],
@@ -138207,7 +138209,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "SinclairVillage"
+            "mapName": "KCorpCheckPoint"
           },
           "unitList": [
             {
@@ -138264,8 +138266,8 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp3_Ally_1",
-            "Battle_Cp3_Enemy_1"
+            "Battle_Cp1_Ally_3",
+            "Battle_Cp1_Enemy_3"
           ]
         }
       ],
@@ -138662,7 +138664,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "SinclairForest_2"
+            "mapName": "KCorpCheckPoint"
           },
           "unitList": [
             {
@@ -138719,8 +138721,8 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp3_Ally_1",
-            "Battle_Cp3_Enemy_1"
+            "Battle_Cp1_Ally_3",
+            "Battle_Cp1_Enemy_3"
           ]
         }
       ],
@@ -138753,7 +138755,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "SinclairVillage"
+            "mapName": "KCorpCheckPoint"
           },
           "unitList": [
             {
@@ -138810,8 +138812,8 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp3_Ally_1",
-            "Battle_Cp3_Enemy_1"
+            "Battle_Cp1_Ally_3",
+            "Battle_Cp1_Enemy_3"
           ]
         }
       ],

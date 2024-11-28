@@ -254,8 +254,7 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp5_Ally_2",
-            "Battle_Cp5_Enemy_3"
+            "Battle_Cur_dolorem_sentis"
           ],
           "enemyPositionID": 13
         }
@@ -326,8 +325,7 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp5_Ally_2",
-            "Battle_Cp5_Enemy_4"
+            "Battle_Cur_dolorem_sentis"
           ],
           "enemyPositionID": 13
         }
@@ -4761,11 +4759,6 @@
               "unitID": 8027,
               "unitCount": 1,
               "unitLevel": 50
-            },
-            {
-              "unitID": 8027,
-              "unitCount": 1,
-              "unitLevel": 50
             }
           ],
           "subUnitList": [],
@@ -4803,11 +4796,6 @@
             "mapName": "Cp3_B1_LCorpE"
           },
           "unitList": [
-            {
-              "unitID": 8024,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
             {
               "unitID": 8024,
               "unitCount": 1,
@@ -4863,11 +4851,6 @@
               "unitID": 8027,
               "unitCount": 1,
               "unitLevel": 50
-            },
-            {
-              "unitID": 8027,
-              "unitCount": 1,
-              "unitLevel": 50
             }
           ],
           "subUnitList": [],
@@ -4907,11 +4890,6 @@
           "unitList": [
             {
               "unitID": 8027,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8024,
               "unitCount": 1,
               "unitLevel": 50
             },
@@ -5011,11 +4989,6 @@
               "unitID": 8027,
               "unitCount": 1,
               "unitLevel": 50
-            },
-            {
-              "unitID": 8027,
-              "unitCount": 1,
-              "unitLevel": 50
             }
           ],
           "subUnitList": [],
@@ -5108,11 +5081,6 @@
               "unitID": 8027,
               "unitCount": 1,
               "unitLevel": 50
-            },
-            {
-              "unitID": 8027,
-              "unitCount": 1,
-              "unitLevel": 50
             }
           ],
           "bgmList": [
@@ -5152,11 +5120,6 @@
             "mapName": "Cp3_B1_LCorpE"
           },
           "unitList": [
-            {
-              "unitID": 8024,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
             {
               "unitID": 8024,
               "unitCount": 1,
@@ -5214,11 +5177,6 @@
               "unitID": 8027,
               "unitCount": 1,
               "unitLevel": 50
-            },
-            {
-              "unitID": 8027,
-              "unitCount": 1,
-              "unitLevel": 50
             }
           ],
           "bgmList": [
@@ -5260,11 +5218,6 @@
           "unitList": [
             {
               "unitID": 8027,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8024,
               "unitCount": 1,
               "unitLevel": 50
             },
@@ -14326,7 +14279,7 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp4_Ally_",
+            "Battle_Cp4_Ally_6",
             "Battle_Cp4_Enemy_6"
           ],
           "enemyPositionID": 31
@@ -16114,8 +16067,7 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp5_Ally_2",
-            "Battle_Cp5_Enemy_3"
+            "Battle_Cur_dolorem_sentis"
           ],
           "enemyPositionID": 13
         }
@@ -17426,6 +17378,11 @@
         "min": 6,
         "max": 6
       },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 20
+      },
       "waveList": [
         {
           "battleMapInfo": {
@@ -17484,7 +17441,8 @@
               "unitCount": 1,
               "unitLevel": 50
             }
-          ]
+          ],
+          "enemyPositionID": 13
         }
       ],
       "staminaCost": 0,
@@ -17827,29 +17785,9 @@
               "unitID": 8024,
               "unitCount": 1,
               "unitLevel": 50
-            },
-            {
-              "unitID": 8024,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8024,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8024,
-              "unitCount": 1,
-              "unitLevel": 50
             }
           ],
           "subUnitList": [
-            {
-              "unitID": 8024,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
             {
               "unitID": 8024,
               "unitCount": 1,
@@ -17905,21 +17843,11 @@
           "unitList": [
             {
               "unitID": 8025,
-              "unitCount": 5,
+              "unitCount": 2,
               "unitLevel": 50
             }
           ],
           "subUnitList": [
-            {
-              "unitID": 8025,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8025,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
             {
               "unitID": 8025,
               "unitCount": 1,
@@ -17977,21 +17905,6 @@
               "unitID": 8027,
               "unitCount": 1,
               "unitLevel": 50
-            },
-            {
-              "unitID": 8024,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8024,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8024,
-              "unitCount": 1,
-              "unitLevel": 50
             }
           ],
           "subUnitList": [
@@ -18002,16 +17915,6 @@
             },
             {
               "unitID": 8027,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8024,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8024,
               "unitCount": 1,
               "unitLevel": 50
             }
@@ -28547,8 +28450,7 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp5_Ally_2",
-            "Battle_Cp5_Enemy_3"
+            "Battle_Cur_dolorem_sentis"
           ],
           "enemyPositionID": 13
         }
@@ -31346,8 +31248,7 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp5_Ally_2",
-            "Battle_Cp5_Enemy_3"
+            "Battle_Cur_dolorem_sentis"
           ],
           "enemyPositionID": 13
         }
@@ -31613,16 +31514,6 @@
               "unitLevel": 50
             },
             {
-              "unitID": 8024,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8068,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
               "unitID": 8068,
               "unitCount": 1,
               "unitLevel": 50
@@ -31634,11 +31525,6 @@
             }
           ],
           "subUnitList": [
-            {
-              "unitID": 8024,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
             {
               "unitID": 8024,
               "unitCount": 1,
@@ -31698,11 +31584,6 @@
               "unitLevel": 50
             },
             {
-              "unitID": 8027,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
               "unitID": 8068,
               "unitCount": 1,
               "unitLevel": 50
@@ -31714,11 +31595,6 @@
             }
           ],
           "subUnitList": [
-            {
-              "unitID": 8027,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
             {
               "unitID": 8027,
               "unitCount": 1,
@@ -32539,19 +32415,9 @@
               "unitID": 8024,
               "unitCount": 1,
               "unitLevel": 50
-            },
-            {
-              "unitID": 8024,
-              "unitCount": 1,
-              "unitLevel": 50
             }
           ],
           "subUnitList": [
-            {
-              "unitID": 8024,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
             {
               "unitID": 8024,
               "unitCount": 1,
@@ -32606,11 +32472,6 @@
               "unitLevel": 50
             },
             {
-              "unitID": 8025,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
               "unitID": 8027,
               "unitCount": 1,
               "unitLevel": 50
@@ -32624,11 +32485,6 @@
             },
             {
               "unitID": 8025,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8027,
               "unitCount": 1,
               "unitLevel": 50
             }
@@ -32765,8 +32621,7 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp5_Ally_2",
-            "Battle_Cp5_Enemy_3"
+            "Battle_Cur_dolorem_sentis"
           ],
           "enemyPositionID": 13
         }
@@ -33033,8 +32888,7 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp5_Ally_2",
-            "Battle_Cp5_Enemy_3"
+            "Battle_Cur_dolorem_sentis"
           ],
           "enemyPositionID": 13
         }
@@ -34819,11 +34673,6 @@
               "unitLevel": 50
             },
             {
-              "unitID": 8027,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
               "unitID": 8160,
               "unitCount": 1,
               "unitLevel": 50
@@ -34835,11 +34684,6 @@
             }
           ],
           "subUnitList": [
-            {
-              "unitID": 8027,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
             {
               "unitID": 8027,
               "unitCount": 1,
@@ -35466,11 +35310,6 @@
               "unitID": 8064,
               "unitCount": 1,
               "unitLevel": 50
-            },
-            {
-              "unitID": 8064,
-              "unitCount": 1,
-              "unitLevel": 50
             }
           ],
           "subUnitList": [
@@ -35538,11 +35377,6 @@
               "unitLevel": 50
             },
             {
-              "unitID": 8027,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
               "unitID": 8064,
               "unitCount": 1,
               "unitLevel": 50
@@ -35560,12 +35394,12 @@
               "unitLevel": 50
             },
             {
-              "unitID": 8027,
+              "unitID": 8064,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8064,
+              "unitID": 8027,
               "unitCount": 1,
               "unitLevel": 50
             }
@@ -37806,6 +37640,11 @@
         "min": 6,
         "max": 6
       },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 20
+      },
       "waveList": [
         {
           "battleMapInfo": {
@@ -37864,7 +37703,8 @@
               "unitCount": 1,
               "unitLevel": 50
             }
-          ]
+          ],
+          "enemyPositionID": 13
         }
       ],
       "staminaCost": 0,
@@ -38706,6 +38546,7 @@
           "prob": 1
         }
       ],
+      "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "AbnormalityEvent"
       ],
@@ -38773,6 +38614,7 @@
           "prob": 1
         }
       ],
+      "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "AbnormalityEvent"
       ],
@@ -38847,6 +38689,7 @@
           "prob": 1
         }
       ],
+      "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "8139"
       ],
@@ -39378,6 +39221,7 @@
           "prob": 1
         }
       ],
+      "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "AbnormalityEvent"
       ],
@@ -39439,6 +39283,7 @@
           "prob": 1
         }
       ],
+      "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "AbnormalityEvent"
       ],
@@ -39954,6 +39799,11 @@
         "min": 6,
         "max": 6
       },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 10
+      },
       "waveList": [
         {
           "battleMapInfo": {
@@ -40059,6 +39909,7 @@
           "prob": 1
         }
       ],
+      "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "AbnormalityEvent"
       ],
@@ -40141,6 +39992,7 @@
           "prob": 1
         }
       ],
+      "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "8119"
       ],
@@ -40202,6 +40054,7 @@
           "prob": 1
         }
       ],
+      "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "AbnormalityEvent"
       ],
@@ -42782,6 +42635,7 @@
           "prob": 1
         }
       ],
+      "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "8376"
       ],
@@ -42843,6 +42697,7 @@
           "prob": 1
         }
       ],
+      "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "AbnormalityEvent"
       ],
@@ -43395,6 +43250,7 @@
           "prob": 1
         }
       ],
+      "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "8376"
       ],
@@ -43456,6 +43312,7 @@
           "prob": 1
         }
       ],
+      "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "AbnormalityEvent"
       ],
@@ -44160,6 +44017,7 @@
           "prob": 1
         }
       ],
+      "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "AbnormalityEvent"
       ],
@@ -44208,6 +44066,7 @@
         }
       ],
       "rewardList": [],
+      "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "LightningBeast"
       ],
@@ -44255,6 +44114,7 @@
         }
       ],
       "rewardList": [],
+      "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "WaterFish"
       ],
@@ -44321,6 +44181,7 @@
           "prob": 1
         }
       ],
+      "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "AbnormalityEvent"
       ],
@@ -44396,6 +44257,7 @@
           "prob": 1
         }
       ],
+      "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "AbnormalityEvent"
       ],
@@ -45038,11 +44900,17 @@
               "unitID": 8180,
               "unitCount": 1,
               "unitLevel": 50
+            },
+            {
+              "unitID": 8181,
+              "unitCount": 1,
+              "unitLevel": 50
             }
           ],
           "bgmList": [
             "Battle_Flore_sicut_rosa"
-          ]
+          ],
+          "enemyPositionID": 46
         }
       ],
       "staminaCost": 0,
@@ -45121,6 +44989,7 @@
           "prob": 1
         }
       ],
+      "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "AbnormalityEvent"
       ],
@@ -45182,6 +45051,7 @@
           "prob": 1
         }
       ],
+      "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "8549"
       ],
@@ -45249,6 +45119,7 @@
           "prob": 1
         }
       ],
+      "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "AbnormalityEvent"
       ],
@@ -45331,6 +45202,7 @@
           "prob": 1
         }
       ],
+      "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "8119"
       ],
@@ -45427,6 +45299,7 @@
           "prob": 1
         }
       ],
+      "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "8556"
       ],
@@ -46071,6 +45944,7 @@
           "prob": 1
         }
       ],
+      "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "AbnormalityEvent"
       ],
@@ -46139,6 +46013,7 @@
           "prob": 1
         }
       ],
+      "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "8197"
       ],
@@ -46181,8 +46056,7 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp5_Ally_2",
-            "Battle_Cp5_Enemy_3"
+            "Battle_Cur_dolorem_sentis"
           ],
           "enemyPositionID": 13
         }
@@ -46212,6 +46086,7 @@
           "prob": 1
         }
       ],
+      "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "8199"
       ],
@@ -46708,6 +46583,11 @@
       "participantInfo": {
         "min": 6,
         "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 10
       },
       "waveList": [
         {
