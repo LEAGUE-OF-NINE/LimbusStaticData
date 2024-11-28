@@ -1,5 +1,5 @@
 {
-	"currentDungeonId": 4,
+	"currentDungeonId": 5,
 	"egoGiftUpgradeCostTable": {
 		"table": [
 			{
@@ -41,8 +41,76 @@
 	},
 	"selectNewStartEgoGiftCategoryChip": 12,
 	"egoGiftCombineTierTable": {
-		"maximumAvailableTier": 3,
-		"combineTwo": [
+		"maximumAvailableTier": 4,
+		"combineScoreByEgoGiftTier": [
+			{
+				"egoGiftTier": 1,
+				"combineScore": 3
+			},
+			{
+				"egoGiftTier": 2,
+				"combineScore": 6
+			},
+			{
+				"egoGiftTier": 3,
+				"combineScore": 10
+			},
+			{
+				"egoGiftTier": 4,
+				"combineScore": 15
+			},
+			{
+				"egoGiftTier": 5,
+				"combineScore": 30
+			}
+		],
+		"combineTierResultByCombineScore": [
+			{
+				"combineScoreRangeMin": 6,
+				"combineScoreRangeMax": 10,
+				"tierResult": 1
+			},
+			{
+				"combineScoreRangeMin": 11,
+				"combineScoreRangeMax": 16,
+				"tierResult": 2
+			},
+			{
+				"combineScoreRangeMin": 17,
+				"combineScoreRangeMax": 24,
+				"tierResult": 3
+			},
+			{
+				"combineScoreRangeMin": 25,
+				"combineScoreRangeMax": 999,
+				"tierResult": 4
+			}
+		],
+		"enhancedCombineTierResultByCombineScore": [
+			{
+				"combineScoreRangeMin": 6,
+				"combineScoreRangeMax": 9,
+				"tierResult": 1
+			},
+			{
+				"combineScoreRangeMin": 10,
+				"combineScoreRangeMax": 14,
+				"tierResult": 2
+			},
+			{
+				"combineScoreRangeMin": 15,
+				"combineScoreRangeMax": 21,
+				"tierResult": 3
+			},
+			{
+				"combineScoreRangeMin": 22,
+				"combineScoreRangeMax": 999,
+				"tierResult": 4
+			}
+		],
+		"combineTwo"
+		:
+		[
 			{
 				"aTier": 1,
 				"bTier": 1,
@@ -74,7 +142,9 @@
 				"resultTier": 3
 			}
 		],
-		"combineThree": [
+		"combineThree"
+		:
+		[
 			{
 				"aTier": 1,
 				"bTier": 1,
@@ -142,64 +212,228 @@
 			{
 				"aEgoGiftId": 9003,
 				"bEgoGiftId": 9053,
-				"resultEgoGiftId": 9088
+				"cEgoGiftId": 9157,
+				"resultEgoGiftId": 9088,
+				"requiredEgoGiftIds": [9003,9053,9157]
+			},
+			{
+				"aEgoGiftId": 9003,
+				"bEgoGiftId": 9053,
+				"cEgoGiftId": 9157,
+				"resultEgoGiftId": 9088,
+				"requiredEgoGiftIds": [9003,9053,9101,9155]
 			},
 			{
 				"aEgoGiftId": 9042,
 				"bEgoGiftId": 9089,
-				"resultEgoGiftId": 9090
+				"cEgoGiftId": 9161,
+				"resultEgoGiftId": 9090,
+				"requiredEgoGiftIds": [9042,9089,9161]
 			},
 			{
-				"aEgoGiftId": 9031,
-				"bEgoGiftId": 9091,
-				"resultEgoGiftId": 9092
+				"aEgoGiftId": 9042,
+				"bEgoGiftId": 9089,
+				"cEgoGiftId": 9161,
+				"resultEgoGiftId": 9090,
+				"requiredEgoGiftIds": [9042,9089,9106,9159]
+			},
+			{ 
+				"aEgoGiftId": 9112,
+				"bEgoGiftId": 9115,
+				"cEgoGiftId": 9166,
+				"resultEgoGiftId": 9167,
+				"requiredEgoGiftIds": [9112,9115,9166]
 			},
 			{
-				"aEgoGiftId": 9013,
-				"bEgoGiftId": 9033,
-				"resultEgoGiftId": 9094
+				"aEgoGiftId": 9112,
+				"bEgoGiftId": 9115,
+				"cEgoGiftId": 9166,
+				"resultEgoGiftId": 9167,
+				"requiredEgoGiftIds": [9112,9115,9163,9164]
 			},
 			{
-				"aEgoGiftId": 9059,
-				"bEgoGiftId": 9074,
-				"resultEgoGiftId": 9096
+				"aEgoGiftId": 9023,
+				"bEgoGiftId": 9064,
+				"cEgoGiftId": 9170,
+				"resultEgoGiftId": 9171,
+				"requiredEgoGiftIds": [9023,9064,9170]
+			},
+			{
+				"aEgoGiftId": 9023,
+				"bEgoGiftId": 9064,
+				"cEgoGiftId": 9170,
+				"resultEgoGiftId": 9171,
+				"requiredEgoGiftIds": [9023,9064,9118,9168]
+			},
+			{
+				"aEgoGiftId": 9049,
+				"bEgoGiftId": 9125,
+				"cEgoGiftId": 9175,
+				"resultEgoGiftId": 9176,
+				"requiredEgoGiftIds": [9049,9125,9175]
+			},
+			{
+				"aEgoGiftId": 9049,
+				"bEgoGiftId": 9125,
+				"cEgoGiftId": 9175,
+				"resultEgoGiftId": 9176,
+				"requiredEgoGiftIds": [9049,9125,9172,9173]
 			},
 			{
 				"aEgoGiftId": 9056,
 				"bEgoGiftId": 9097,
-				"resultEgoGiftId": 9098
+				"cEgoGiftId": 9179,
+				"resultEgoGiftId": 9098,
+				"requiredEgoGiftIds": [9056,9097,9179]
+			},
+			{
+				"aEgoGiftId": 9056,
+				"bEgoGiftId": 9097,
+				"cEgoGiftId": 9179,
+				"resultEgoGiftId": 9098,
+				"requiredEgoGiftIds": [9056,9063,9097,9177]
+			},
+			{
+				"aEgoGiftId": 9062,
+				"bEgoGiftId": 9072,
+				"cEgoGiftId": 9183,
+				"resultEgoGiftId": 9184,
+				"requiredEgoGiftIds": [9062,9072,9183]
+			},
+			{
+				"aEgoGiftId": 9062,
+				"bEgoGiftId": 9072,
+				"cEgoGiftId": 9183,
+				"resultEgoGiftId": 9184,
+				"requiredEgoGiftIds": [9062,9072,9132,9181]
+			},
+
+			
+			{
+				"aEgoGiftId": 9071,
+				"bEgoGiftId": 9087,
+				"cEgoGiftId": 9156,
+				"resultEgoGiftId": 9158,
+				"requiredEgoGiftIds": [9071,9087,9156]
+
+			},
+			{
+				"aEgoGiftId": 9008,
+				"bEgoGiftId": 9048,
+				"cEgoGiftId": 9160,
+				"resultEgoGiftId": 9162,
+				"requiredEgoGiftIds": [9008,9048,9160]
+			},
+			{
+				"aEgoGiftId": 9031,
+				"bEgoGiftId": 9091,
+				"cEgoGiftId": 9165,
+				"resultEgoGiftId": 9092,
+				"requiredEgoGiftIds": [9031,9091,9165]
+			},
+			{
+				"aEgoGiftId": 9013,
+				"bEgoGiftId": 9033,
+				"cEgoGiftId": 9169,
+				"resultEgoGiftId": 9094,
+				"requiredEgoGiftIds": [9013,9033,9169]
+			},
+			{
+				"aEgoGiftId": 9059,
+				"bEgoGiftId": 9074,
+				"cEgoGiftId": 9174,
+				"resultEgoGiftId": 9096,
+				"requiredEgoGiftIds": [9059,9074,9174]
+			},
+			{
+				"aEgoGiftId": 9073,
+				"bEgoGiftId": 9127,
+				"cEgoGiftId": 9178,
+				"resultEgoGiftId": 9180,
+				"requiredEgoGiftIds": [9073,9127,9178]
 			},
 			{
 				"aEgoGiftId": 9069,
 				"bEgoGiftId": 9099,
-				"resultEgoGiftId": 9100
+				"cEgoGiftId": 9182,
+				"resultEgoGiftId": 9100,
+				"requiredEgoGiftIds": [9069,9099,9182]
 			},
 
+
+			
+			{
+				"aEgoGiftId": 9101,
+				"bEgoGiftId": 9155,
+				"resultEgoGiftId": 9157,
+				"requiredEgoGiftIds": [9101,9155]
+			},
+			{
+				"aEgoGiftId": 9106,
+				"bEgoGiftId": 9159,
+				"resultEgoGiftId": 9161,
+				"requiredEgoGiftIds": [9106,9159]
+			},
+			{
+				"aEgoGiftId": 9163,
+				"bEgoGiftId": 9164,
+				"resultEgoGiftId": 9166,
+				"requiredEgoGiftIds": [9163,9164]
+			},
+			{
+				"aEgoGiftId": 9118,
+				"bEgoGiftId": 9168,
+				"resultEgoGiftId": 9170,
+				"requiredEgoGiftIds": [9118,9168]
+			},
+			{
+				"aEgoGiftId": 9172,
+				"bEgoGiftId": 9173,
+				"resultEgoGiftId": 9175,
+				"requiredEgoGiftIds": [9172,9173]
+			},
+			{
+				"aEgoGiftId": 9063,
+				"bEgoGiftId": 9177,
+				"resultEgoGiftId": 9179,
+				"requiredEgoGiftIds": [9063,9177]
+			},
+			{
+				"aEgoGiftId": 9132,
+				"bEgoGiftId": 9181,
+				"resultEgoGiftId": 9183,
+				"requiredEgoGiftIds": [9132,9181]
+			},
 
 			{
 				"aEgoGiftId": 9408,
 				"bEgoGiftId": 9409,
-				"resultEgoGiftId": 9410
+				"resultEgoGiftId": 9410,
+				"requiredEgoGiftIds": [9408,9409]
 			},
 			{
 				"aEgoGiftId": 9413,
 				"bEgoGiftId": 9415,
-				"resultEgoGiftId": 9416
+				"resultEgoGiftId": 9416,
+				"requiredEgoGiftIds": [9413,9415]
 			},
 			{
 				"aEgoGiftId": 9119,
 				"bEgoGiftId": 9423,
-				"resultEgoGiftId": 9424
+				"resultEgoGiftId": 9424,
+				"requiredEgoGiftIds": [9119,9423]
 			},
 			{
 				"aEgoGiftId": 9066,
 				"bEgoGiftId": 9429,
-				"resultEgoGiftId": 9430
+				"resultEgoGiftId": 9430,
+				"requiredEgoGiftIds": [9066,9429]
 			},
 			{
 				"aEgoGiftId": 9114,
 				"bEgoGiftId": 9433,
-				"resultEgoGiftId": 9434
+				"resultEgoGiftId": 9434,
+				"requiredEgoGiftIds": [9114,9433]
 			},
 
 
@@ -208,24 +442,28 @@
 			{
 				"aEgoGiftId": 2028,
 				"bEgoGiftId": 2029,
-				"resultEgoGiftId": 2032
+				"resultEgoGiftId": 2032,
+				"requiredEgoGiftIds": [2028,2029]
 			},
 			{
 				"aEgoGiftId": 2028,
 				"bEgoGiftId": 2030,
-				"resultEgoGiftId": 2033
+				"resultEgoGiftId": 2033,
+				"requiredEgoGiftIds": [2028,2030]
 			},
 
 
 			{
 				"aEgoGiftId": 9713,
 				"bEgoGiftId": 9714,
-				"resultEgoGiftId": 9717
+				"resultEgoGiftId": 9717,
+				"requiredEgoGiftIds": [9713,9714]
 			},
 			{
 				"aEgoGiftId": 9713,
 				"bEgoGiftId": 9715,
-				"resultEgoGiftId": 9718
+				"resultEgoGiftId": 9718,
+				"requiredEgoGiftIds": [9713,9715]
 			},
 
 
@@ -233,79 +471,100 @@
 			{
 				"aEgoGiftId": 2036,
 				"bEgoGiftId": 2039,
-				"resultEgoGiftId": 2043
+				"resultEgoGiftId": 2043,
+				"requiredEgoGiftIds": [2036,2039]
 			},
 			{
 				"aEgoGiftId": 2036,
 				"bEgoGiftId": 2040,
-				"resultEgoGiftId": 2044
+				"resultEgoGiftId": 2044,
+				"requiredEgoGiftIds": [2036,2040]
 			},
 			{
 				"aEgoGiftId": 2037,
 				"bEgoGiftId": 2039,
-				"resultEgoGiftId": 2045
+				"resultEgoGiftId": 2045,
+				"requiredEgoGiftIds": [2037,2039]
 			},
 			{
 				"aEgoGiftId": 2037,
 				"bEgoGiftId": 2040,
-				"resultEgoGiftId": 2046
+				"resultEgoGiftId": 2046,
+				"requiredEgoGiftIds": [2037,2040]
 			},
 
 
 			{
 				"aEgoGiftId": 9721,
 				"bEgoGiftId": 9724,
-				"resultEgoGiftId": 9728
+				"resultEgoGiftId": 9728,
+				"requiredEgoGiftIds": [9721,9724]
 			},
 			{
 				"aEgoGiftId": 9721,
 				"bEgoGiftId": 9725,
-				"resultEgoGiftId": 9729
+				"resultEgoGiftId": 9729,
+				"requiredEgoGiftIds": [9721,9725]
 			},
 			{
 				"aEgoGiftId": 9722,
 				"bEgoGiftId": 9724,
-				"resultEgoGiftId": 9730
+				"resultEgoGiftId": 9730,
+				"requiredEgoGiftIds": [9722,9724]
 			},
 			{
 				"aEgoGiftId": 9722,
 				"bEgoGiftId": 9725,
-				"resultEgoGiftId": 9731
+				"resultEgoGiftId": 9731,
+				"requiredEgoGiftIds": [9722,9725]
 			},
 
-			
+
 			{
 				"aEgoGiftId": 9736,
 				"bEgoGiftId": 9738,
-				"resultEgoGiftId": 9740
+				"resultEgoGiftId": 9740,
+				"requiredEgoGiftIds": [9736,9738]
 			},
 			{
 				"aEgoGiftId": 9736,
 				"bEgoGiftId": 9739,
-				"resultEgoGiftId": 9741
+				"resultEgoGiftId": 9741,
+				"requiredEgoGiftIds": [9736,9739]
 			},
 			{
 				"aEgoGiftId": 9737,
 				"bEgoGiftId": 9738,
-				"resultEgoGiftId": 9742
+				"resultEgoGiftId": 9742,
+				"requiredEgoGiftIds": [9737,9738]
 			},
 			{
 				"aEgoGiftId": 9737,
 				"bEgoGiftId": 9739,
-				"resultEgoGiftId": 9743
+				"resultEgoGiftId": 9743,
+				"requiredEgoGiftIds": [9737,9739]
+			}
+		],
+		"combineMixed": [
+			{
+				"aEgoGiftIds":[9105,9110,9116,9121,9126,9131,9136],
+				"aEgoGiftRequiredNum": 2,
+				"bEgoGiftIds":[9142,9147,9152],
+				"bEgoGiftRequiredNum": 3,
+				"resultEgoGiftId": 9083
 			}
 		]
 	},
 
 	"maxRestingCountForPersonality": 5,
-	"additionalCostForPersonalityRank": [ 25, 25, 0 ],
-	"additionalCostForNotFormerlyUsedPersonality": 25,
-	"additionalChipForFullRestPersonality": [ 0, 1, 2, 3, 4, 5 ],
-	"additionalChipForNewTheme": 3,
+	"additionalCostForPersonalityRank": [ 0, 0, 0 ],
+	"additionalCostForNotFormerlyUsedPersonality": 0,
+	"additionalChipForFullRestPersonality": [ 0, 0, 0, 0, 0, 0 ],
+	"additionalChipForNewTheme": 0,
 	"shopRefreshCostPerCount": 25,
 	"shopRefreshChipForAnyCount": 10,
 	"acquireChipPerFloor": [ 5, 10, 15, 25, 40 ],
-	"startRestingCount": 0,
+	"startRestingCount": 5,
 	"startEgoGiftPoolCreatedMaxCount": 2,
 	"themePoolRecreateCount": 1,
 	"themePoolNum": 3,
@@ -388,6 +647,103 @@
 						"typeName": "ycgd_boss"
 					}
 				]
+			},
+			{
+				"encounterType": "HARD_AB_BATTLE",
+				"dataArray": [
+					{
+						"idArray": [ 2062841, 2062941, 2063041, 2064843, 2064941, 2066141, 2066241, 2066944 ],
+						"typeName": "8238"
+					},
+					{
+						"idArray": [ 2061441, 2061541, 2062441, 2063743, 2064343, 2065441 ],
+						"typeName": "8240"
+					},
+					{
+						"idArray": [ 2062842, 2064642, 2065242, 2067143 ],
+						"typeName": "8242"
+					},
+					{
+						"idArray": [ 2064043, 2064141, 2064741, 2066242, 2067044 ],
+						"typeName": "8244"
+					},
+					{
+						"idArray": [ 2063141, 2063241, 2065841, 2066945 ],
+						"typeName": "8245"
+					},
+					{
+						"idArray": [ 2061141, 2063441, 2063541, 2063641, 2063842, 2064942, 2065041 ],
+						"typeName": "8249"
+					},
+					{
+						"idArray": [ 2061142, 2061242, 2062843, 2062942, 2063042, 2065541, 2065941, 2066041 ],
+						"typeName": "8250"
+					},
+					{
+						"idArray": [ 2061143, 2061243, 2063442, 2063542, 2063642, 2065542 ],
+						"typeName": "8251"
+					},
+					{
+						"idArray": [ 2063841, 2064142, 2065241, 2067141 ],
+						"typeName": "8253"
+					},
+					{
+						"idArray": [ 2061442, 2061542, 2063142, 2063242, 2063341, 2064943, 2065042 ],
+						"typeName": "8254"
+					},
+					{
+						"idArray": [ 2061145, 2061245, 2063443, 2063543, 2063942, 2065341 ],
+						"typeName": "8256"
+					},
+					{
+						"idArray": [ 2064041, 2064241, 2064542, 2065342, 2065442, 2066941 ],
+						"typeName": "8262"
+					},
+					{
+						"idArray": [ 2063742, 2064643, 2065141, 2065243, 2067045 ],
+						"typeName": "8222"
+					},
+					{
+						"idArray": [ 2061144, 2061244, 2063843, 2064641, 2064743, 2065641, 2066142, 2066243 ],
+						"typeName": "8230"
+					},
+					{
+						"idArray": [ 2064341, 2064441, 2064841, 2065343, 2065443, 2067041 ],
+						"typeName": "8231"
+					},
+					{
+						"idArray": [ 2062943, 2064442, 2065043, 2067142 ],
+						"typeName": "8232"
+					},
+					{
+						"idArray": [ 2063741, 2065741, 2065842, 2067042 ],
+						"typeName": "8233"
+					},
+					{
+						"idArray": [ 2063941, 2064842, 2065942, 2066042, 2067043 ],
+						"typeName": "8234"
+					},
+					{
+						"idArray": [ 2061443, 2061543, 2064342, 2064443, 2064742, 2065642, 2066043 ],
+						"typeName": "8236"
+					},
+					{
+						"idArray": [ 2063143, 2063243, 2063342, 2065643, 2066741, 2066841 ],
+						"typeName": "1075"
+					},
+					{
+						"idArray": [ 2064042, 2064143, 2065142, 2066742, 2066842 ],
+						"typeName": "1077"
+					},
+					{
+						"idArray": [ 2064541, 2066942 ],
+						"typeName": "8032"
+					},
+					{
+						"idArray": [ 2064242, 2065143, 2066943 ],
+						"typeName": "8031"
+					}
+				]
 			}
 		],
 		"hellsChickenDungeonIconIdList": [ 910301, 910302 ]
@@ -396,96 +752,85 @@
 	"originbattlevictorycostvalueList": [
 		{
 			"encounterType": "BATTLE",
-			"cost": 40
+			"cost": 50
 		},
 		{
 			"encounterType": "AB_BATTLE",
-			"cost": 60
+			"cost": 75
 		},
 		{
 			"encounterType": "HARD_BATTLE",
-			"cost": 80
+			"cost": 100
+		},
+		{
+			"encounterType": "HARD_AB_BATTLE",
+			"cost": 100
 		},
 		{
 			"encounterType": "BOSS",
-			"cost": 100
+			"cost": 120
 		}
 	],
 	"battleCostWeightsByFloor": [
 		{
 			"floor": 0,
-			"weights": [ 1, 1, 1, 1 ]
+			"weights": [ 1, 1, 1, 1, 1 ]
 		},
 		{
 			"floor": 1,
-			"weights": [ 1, 1, 1, 1.2 ]
+			"weights": [ 1, 1, 1, 1.2, 1 ]
 		},
 		{
 			"floor": 2,
-			"weights": [ 1, 1, 1, 1.5 ]
+			"weights": [ 1, 1, 1, 1.5, 1 ]
 		},
 		{
 			"floor": 3,
-			"weights": [ 1, 1, 1, 2 ]
+			"weights": [ 1, 1, 1, 2, 1 ]
 		},
 		{
 			"floor": 4,
-			"weights": [ 1, 1, 1, 2 ]
+			"weights": [ 1, 1, 1, 2, 1 ]
 		}
 	],
 	"mirrorDungeonEgoGiftHistoryAPIId": 4,
 	"startEgoGiftPools": [
 		{
 			"keyword": "Combustion",
-			"normalpool": [ 9001, 9009 ],
-			"buffpool": [ 9103 ]
+			"normalpool": [ 9001, 9009, 9103 ],
+			"buffpool": [  ]
 		},
 		{
 			"keyword": "Laceration",
-			"normalpool": [ 9005, 9029 ],
-			"buffpool": [ 9108 ]
+			"normalpool": [ 9005, 9029, 9108 ],
+			"buffpool": [  ]
 
 		},
 		{
 			"keyword": "Vibration",
-			"normalpool": [ 9044, 9086 ],
-			"buffpool": [ 9113 ]
+			"normalpool": [ 9044, 9086, 9113 ],
+			"buffpool": [  ]
 
 		},
 		{
 			"keyword": "Burst",
-			"normalpool": [ 9047, 9093 ],
-			"buffpool": [ 9117 ]
+			"normalpool": [ 9047, 9093, 9117 ],
+			"buffpool": [  ]
 		},
 		{
 			"keyword": "Sinking",
-			"normalpool": [ 9041, 9054 ],
-			"buffpool": [ 9124 ]
+			"normalpool": [ 9041, 9054, 9124 ],
+			"buffpool": [  ]
 		},
 		{
 			"keyword": "Breath",
-			"normalpool": [ 9046, 9051 ],
-			"buffpool": [ 9129 ]
+			"normalpool": [ 9046, 9051, 9129 ],
+			"buffpool": [  ]
 		},
 		{
 			"keyword": "Charge",
-			"normalpool": [ 9043, 9052 ],
-			"buffpool": [ 9134 ]
-		},
-		{
-			"keyword": "Slash",
-			"normalpool": [ 9032 ],
-			"buffpool": [ 9139, 9140 ]
-		},
-		{
-			"keyword": "Penetrate",
-			"normalpool": [ 9030 ],
-			"buffpool": [ 9144, 9145 ]
-		},
-		{
-			"keyword": "Hit",
-			"normalpool": [ 9012 ],
-			"buffpool": [ 9149, 9150 ]
+			"normalpool": [ 9043, 9052, 9134 ],
+			"buffpool": [  ]
 		}
 	],
 	"forcelyInsertKeywordGiftWeightBybossReward": [
@@ -511,152 +856,208 @@
 		}
 	],
 	"battleRewardCaseTierProbs":[
-	  {
-		"conditionStr":"0:0:1",
-		"tierProbs":[ 0.66,    0.34,    0,      0,      0,      0,      0]
-	  },
-	  {
-		"conditionStr":"0:0:6",
-		"tierProbs":[ 0,      0.66,    0.34,    0,      0,      0,      0]
-	  },
+		{
+			"conditionStr":"0:0:1",
+			"tierProbs":[ 0.66,    0.34,    0,      0,      0,      0,      0]
+		},
+		{
+			"conditionStr":"0:0:6",
+			"tierProbs":[ 0,      0.66,    0.34,    0,      0,      0,      0]
+		},
 
 
 
-	  {
-		"conditionStr":"0:1:1",
-		"tierProbs":[ 0.5,   0.33,   0.17,   0,      0,      0,      0]
-	  },
-	  {
-		"conditionStr":"0:1:5",
-		"tierProbs":[ 0.5,   0.33,   0.17,   0,      0,      0,      0]
-	  },
-	  {
-		"conditionStr":"0:1:2",
-		"tierProbs":[ 0,      0.66,    0.34,    0,      0,      0,      0]
-	  },
-	  {
-		"conditionStr":"0:1:6",
-		"tierProbs":[ 0,      0.5,   0.33,   0.17,   0,      0,      0]
-	  },
+		{
+			"conditionStr":"0:1:1",
+			"tierProbs":[ 0.5,   0.33,   0.17,   0,      0,      0,      0]
+		},
+		{
+			"conditionStr":"0:1:5",
+			"tierProbs":[ 0.5,   0.33,   0.17,   0,      0,      0,      0]
+		},
+		{
+			"conditionStr":"0:1:2",
+			"tierProbs":[ 0,      0.66,    0.34,    0,      0,      0,      0]
+		},
+		{
+			"conditionStr":"0:1:14",
+			"tierProbs":[ 0,      0.66,    0.34,    0,      0,      0,      0]
+		},
+		{
+			"conditionStr":"0:1:6",
+			"tierProbs":[ 0,      0.5,   0.33,   0.17,   0,      0,      0]
+		},
 
 
 
-	  {
-		"conditionStr":"0:2:1",
-		"tierProbs":[ 0,      0.66,    0.34,    0,      0,      0,      0]
-	  },
-	  {
-		"conditionStr":"0:2:5",
-		"tierProbs":[ 0,      0.66,    0.34,    0,      0,      0,      0]
-	  },
-	  {
-		"conditionStr":"0:2:2",
-		"tierProbs":[ 0,      0.5,   0.33,   0.17,   0,      0,      0]
-	  },
-	  {
-		"conditionStr":"0:2:6",
-		"tierProbs":[ 0,      0,      0.66,    0.34,    0,      0,      0]
-	  },
+		{
+			"conditionStr":"0:2:1",
+			"tierProbs":[ 0,      0.66,    0.34,    0,      0,      0,      0]
+		},
+		{
+			"conditionStr":"0:2:5",
+			"tierProbs":[ 0,      0.66,    0.34,    0,      0,      0,      0]
+		},
+		{
+			"conditionStr":"0:2:2",
+			"tierProbs":[ 0,      0.5,   0.33,   0.17,   0,      0,      0]
+		},
+		{
+			"conditionStr":"0:2:14",
+			"tierProbs":[ 0,      0.5,   0.33,   0.17,   0,      0,      0]
+		},
+		{
+			"conditionStr":"0:2:6",
+			"tierProbs":[ 0,      0,      0.66,    0.34,    0,      0,      0]
+		},
 
 
 
-	  {
-		"conditionStr":"0:3:1",
-		"tierProbs":[ 0,      0.5,   0.33,   0.17,   0,      0,      0]
-	  },
-	  {
-		"conditionStr":"0:3:5",
-		"tierProbs":[ 0,      0.5,   0.33,   0.17,   0,      0,      0]
-	  },
-	  {
-		"conditionStr":"0:3:2",
-		"tierProbs":[ 0,      0,      0.66,    0.34,    0,      0,      0]
-	  },
+		{
+			"conditionStr":"0:3:1",
+			"tierProbs":[ 0,      0.5,   0.33,   0.17,   0,      0,      0]
+		},
+		{
+			"conditionStr":"0:3:5",
+			"tierProbs":[ 0,      0.5,   0.33,   0.17,   0,      0,      0]
+		},
+		{
+			"conditionStr":"0:3:2",
+			"tierProbs":[ 0,      0,      0.66,    0.34,    0,      0,      0]
+		},
+		{
+			"conditionStr":"0:3:14",
+			"tierProbs":[ 0,      0,      0.66,    0.34,    0,      0,      0]
+		},
+		{
+			"conditionStr":"0:3:6",
+			"tierProbs":[ 0,      0,      0.5,    0.33,    0.17,      0,      0]
+		},
+
+
+		{
+			"conditionStr":"0:4:1",
+			"tierProbs":[ 0,      0.4,   0.3,   0.2,   0.1,      0,      0]
+		},
+		{
+			"conditionStr":"0:4:5",
+			"tierProbs":[ 0,      0.4,   0.3,   0.2,   0.1,      0,      0]
+		},
+		{
+			"conditionStr":"0:4:2",
+			"tierProbs":[ 0,      0,      0.5,    0.33,    0.17,      0,      0]
+		},
+		{
+			"conditionStr":"0:4:14",
+			"tierProbs":[ 0,      0,      0.5,    0.33,    0.17,      0,      0]
+		},
+
+
+		{
+			"conditionStr":"1:0:1",
+			"tierProbs":[ 0.4,   0.3,   0.2,   0.1,   0,      0,      0]
+		},
+		{
+			"conditionStr":"1:0:6",
+			"tierProbs":[ 0,      0.4,   0.3,   0.2,   0.1,   0,      0]
+		},
 
 
 
-	  {
-		"conditionStr":"1:0:1",
-		"tierProbs":[ 0.4,   0.3,   0.2,   0.1,   0,      0,      0]
-	  },
-	  {
-		"conditionStr":"1:0:6",
-		"tierProbs":[ 0,      0.4,   0.3,   0.2,   0.1,   0,      0]
-	  },
+		{
+			"conditionStr":"1:1:1",
+			"tierProbs":[ 0,      0.5,   0.33,   0.17,   0,      0,      0]
+		},
+		{
+			"conditionStr":"1:1:5",
+			"tierProbs":[ 0,      0.5,   0.33,   0.17,   0,      0,      0]
+		},
+		{
+			"conditionStr":"1:1:2",
+			"tierProbs":[ 0,      0.4,   0.3,   0.2,   0.1,   0,      0]
+		},
+		{
+			"conditionStr":"1:1:14",
+			"tierProbs":[ 0,      0.4,   0.3,   0.2,   0.1,   0,      0]
+		},
+		{
+			"conditionStr":"1:1:6",
+			"tierProbs":[ 0,      0,      0.5,   0.33,   0.17,   0,      0]
+		},
 
 
 
-	  {
-		"conditionStr":"1:1:1",
-		"tierProbs":[ 0,      0.5,   0.33,   0.17,   0,      0,      0]
-	  },
-	  {
-		"conditionStr":"1:1:5",
-		"tierProbs":[ 0,      0.5,   0.33,   0.17,   0,      0,      0]
-	  },
-	  {
-		"conditionStr":"1:1:2",
-		"tierProbs":[ 0,      0.4,   0.3,   0.2,   0.1,   0,      0]
-	  },
-	  {
-		"conditionStr":"1:1:6",
-		"tierProbs":[ 0,      0,      0.5,   0.33,   0.17,   0,      0]
-	  },
+		{
+			"conditionStr":"1:2:1",
+			"tierProbs":[ 0,      0.4,   0.3,   0.2,   0.1,   0,      0]
+		},
+		{
+			"conditionStr":"1:2:5",
+			"tierProbs":[ 0,      0.4,   0.3,   0.2,   0.1,   0,      0]
+		},
+		{
+			"conditionStr":"1:2:2",
+			"tierProbs":[ 0,      0,      0.5,   0.33,   0.17,   0,      0]
+		},
+		{
+			"conditionStr":"1:2:14",
+			"tierProbs":[ 0,      0,      0.5,   0.33,   0.17,   0,      0]
+		},
+		{
+			"conditionStr":"1:2:6",
+			"tierProbs":[ 0,      0,      0.4,   0.3,   0.2,   0.1,   0]
+		},
 
 
 
-	  {
-		"conditionStr":"1:2:1",
-		"tierProbs":[ 0,      0.4,   0.3,   0.2,   0.1,   0,      0]
-	  },
-	  {
-		"conditionStr":"1:2:5",
-		"tierProbs":[ 0,      0.4,   0.3,   0.2,   0.1,   0,      0]
-	  },
-	  {
-		"conditionStr":"1:2:2",
-		"tierProbs":[ 0,      0,      0.5,   0.33,   0.17,   0,      0]
-	  },
-	  {
-		"conditionStr":"1:2:6",
-		"tierProbs":[ 0,      0,      0.4,   0.3,   0.2,   0.1,   0]
-	  },
+		{
+			"conditionStr":"1:3:1",
+			"tierProbs":[ 0,      0,      0.5,   0.33,   0.17,   0,      0]
+		},
+		{
+			"conditionStr":"1:3:5",
+			"tierProbs":[ 0,      0,      0.5,   0.33,   0.17,   0,      0]
+		},
+		{
+			"conditionStr":"1:3:2",
+			"tierProbs":[ 0,      0,      0.4,   0.3,   0.2,   0.1,   0]
+		},
+		{
+			"conditionStr":"1:3:14",
+			"tierProbs":[ 0,      0,      0.4,   0.3,   0.2,   0.1,   0]
+		},
+		{
+			"conditionStr":"1:3:6",
+			"tierProbs":[ 0,      0,      0,      0.4,   0.3,   0.2,   0.1]
+		},
 
 
 
-	  {
-		"conditionStr":"1:3:1",
-		"tierProbs":[ 0,      0,      0.5,   0.33,   0.17,   0,      0]
-	  },
-	  {
-		"conditionStr":"1:3:5",
-		"tierProbs":[ 0,      0,      0.5,   0.33,   0.17,   0,      0]
-	  },
-	  {
-		"conditionStr":"1:3:2",
-		"tierProbs":[ 0,      0,      0.4,   0.3,   0.2,   0.1,   0]
-	  },
-	  {
-		"conditionStr":"1:3:6",
-		"tierProbs":[ 0,      0,      0,      0.4,   0.3,   0.2,   0.1]
-	  },
-
-
-
-	  {
-		"conditionStr":"1:4:1",
-		"tierProbs":[ 0,      0,      0.4,   0.3,   0.2,   0.1,   0]
-	  },
-	  {
-		"conditionStr":"1:4:5",
-		"tierProbs":[ 0,      0,      0.4,   0.3,   0.2,   0.1,   0]
-	  },
-	  {
-		"conditionStr":"1:4:2",
-		"tierProbs":[ 0,      0,      0,      0.4,   0.3,   0.2,   0.1]
-	  }
+		{
+			"conditionStr":"1:4:1",
+			"tierProbs":[ 0,      0,      0.4,   0.3,   0.2,   0.1,   0]
+		},
+		{
+			"conditionStr":"1:4:5",
+			"tierProbs":[ 0,      0,      0.4,   0.3,   0.2,   0.1,   0]
+		},
+		{
+			"conditionStr":"1:4:2",
+			"tierProbs":[ 0,      0,      0,      0.4,   0.3,   0.2,   0.1]
+		},
+		{
+			"conditionStr":"1:4:14",
+			"tierProbs":[ 0,      0,      0,      0.4,   0.3,   0.2,   0.1]
+		}
 	],
+	"startBonusScore": {
+		"default": 30,
+		"personalityRank": [0, 3, 3, 0],
+		"scoreByRestPoint": 5,
+		"personalityGacksung": [0, 0, 0, 1, 2]
+	},
 	"shopKeywordRefreshWeightMultiplier":12.5,
 	"specificEgoGiftForUpegsProbs":[1, 0.5, 0.25, 0.125],
-	"appearanceRateUpMultiplier": 3 
+	"appearanceRateUpMultiplier": 3,
+	"pieceEgoGiftIds": [9991,9992,9993,9994,9995]
 }

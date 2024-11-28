@@ -1,8 +1,8 @@
 {
   "mirrorDungeon": {
     "dailyFreeChanceId": 10001,
-    "weeklyBonusChanceId": 10008,
-    "hardDungeonChanceId": 10007,
+    "weeklyBonusChanceId": 10012,
+    "hardDungeonChanceId": 10011,
     "openMainChapterId": 1,
     "openSubChapterId": 102
   },

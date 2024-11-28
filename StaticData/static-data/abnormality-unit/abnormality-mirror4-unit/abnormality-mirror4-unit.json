@@ -2231,7 +2231,7 @@
       "originID": 8560,
       "storyID": 8560,
       "viewid": 8560,
-      "sdPortrait": 8551,
+      "sdPortrait": 8560,
       "appearance": "8551_LostPassengerPortalAppearance",
       "unitKeywordList": [ "REGULAR" ],
       "level": 30,
@@ -2273,7 +2273,7 @@
       "originID": 8561,
       "storyID": 8561,
       "viewid": 8561,
-      "sdPortrait": 8551,
+      "sdPortrait": 8561,
       "appearance": "8551_LostPassengerPortalAppearance",
       "unitKeywordList": [ "REGULAR" ],
       "level": 30,
@@ -2315,7 +2315,7 @@
       "originID": 8562,
       "storyID": 8562,
       "viewid": 8562,
-      "sdPortrait": 8551,
+      "sdPortrait": 8562,
       "appearance": "8551_LostPassengerPortalAppearance",
       "unitKeywordList": [ "REGULAR" ],
       "level": 30,
@@ -2355,7 +2355,7 @@
     {
       "id": 8123,
       "viewid": 8563,
-      "sdPortrait": 8551,
+      "sdPortrait": 8563,
       "originID": 8563,
       "storyID": 8563,
       "appearance": "8551_LostPassengerPortalAppearance",
@@ -3164,8 +3164,8 @@
       "classType": "HE",
       "attributeType": "VIOLET",
       "hp": {
-        "defaultStat": 259,
-        "incrementByLevel": 8.94
+        "defaultStat": 388,
+        "incrementByLevel": 13.38
       },
       "abnormalityPartList": [
         823001,
@@ -3810,8 +3810,8 @@
       "classType": "HE",
       "attributeType": "AZURE",
       "hp": {
-        "defaultStat": 463,
-        "incrementByLevel": 19.16
+        "defaultStat": 347,
+        "incrementByLevel": 13.18
       },
       "abnormalityPartList": [
         823101,
@@ -4604,8 +4604,8 @@
       "classType": "TETH",
       "attributeType": "VIOLET",
       "hp": {
-        "defaultStat": 284,
-        "incrementByLevel": 10.14
+        "defaultStat": 392,
+        "incrementByLevel": 13.52
       },
       "abnormalityPartList": [
         823301,
@@ -4959,8 +4959,8 @@
       "classType": "TETH",
       "attributeType": "SHAMROCK",
       "hp": {
-        "defaultStat": 284,
-        "incrementByLevel": 9.78
+        "defaultStat": 394,
+        "incrementByLevel": 13.59
       },
       "abnormalityPartList": [
         823401,
@@ -5365,8 +5365,8 @@
         8139
       ],
       "hp": {
-        "defaultStat": 247,
-        "incrementByLevel": 9.39
+        "defaultStat": 354,
+        "incrementByLevel": 13.41
       },
       "patternID": "8139",
       "abnormalityPartList": [
@@ -5814,8 +5814,8 @@
       "classType": "HE",
       "attributeType": "VIOLET",
       "hp": {
-        "defaultStat": 280,
-        "incrementByLevel": 9.65
+        "defaultStat": 351,
+        "incrementByLevel": 12.08
       },
       "patternID": "KQE",
       "startActionSlotNum": 1,
@@ -6213,8 +6213,8 @@
         8137
       ],
       "hp": {
-        "defaultStat": 261,
-        "incrementByLevel": 9.9
+        "defaultStat": 339,
+        "incrementByLevel": 12.86
       },
       "patternID": "8137",
       "abnormalityPartList": [
@@ -6684,8 +6684,8 @@
         824202
       ],
       "hp": {
-        "defaultStat": 235,
-        "incrementByLevel": 10.54
+        "defaultStat": 287,
+        "incrementByLevel": 12.87
       },
       "attributeList": [
         {
@@ -7514,8 +7514,8 @@
       "classType": "HE",
       "attributeType": "SHAMROCK",
       "hp": {
-        "defaultStat": 249,
-        "incrementByLevel": 10.31
+        "defaultStat": 346,
+        "incrementByLevel": 14.32
       },
       "abnormalityPartList": [
         824401,
@@ -8054,8 +8054,8 @@
       "classType": "WAW",
       "attributeType": "SCARLET",
       "hp": {
-        "defaultStat": 115,
-        "incrementByLevel": 11.92
+        "defaultStat": 142,
+        "incrementByLevel": 14.68
       },
       "patternID": "Statue",
       "startActionSlotNum": 1,
@@ -8349,8 +8349,8 @@
       "classType": "ZAYIN",
       "attributeType": "CRIMSON",
       "hp": {
-        "defaultStat": 129,
-        "incrementByLevel": 6.22
+        "defaultStat": 195,
+        "incrementByLevel": 9.4
       },
       "patternID": "AutoPick",
       "startActionSlotNum": 1,
@@ -8395,8 +8395,8 @@
       "classType": "ZAYIN",
       "attributeType": "SHAMROCK",
       "hp": {
-        "defaultStat": 95,
-        "incrementByLevel": 4.61
+        "defaultStat": 156,
+        "incrementByLevel": 7.56
       },
       "patternID": "AutoPick",
       "startActionSlotNum": 1,
@@ -8435,8 +8435,8 @@
       "classType": "ZAYIN",
       "attributeType": "CRIMSON",
       "hp": {
-        "defaultStat": 75,
-        "incrementByLevel": 3.61
+        "defaultStat": 122,
+        "incrementByLevel": 5.91
       },
       "patternID": "AutoPick",
       "startActionSlotNum": 1,
@@ -8476,8 +8476,8 @@
       "classType": "TETH",
       "attributeType": "AZURE",
       "hp": {
-        "defaultStat": 196,
-        "incrementByLevel": 10.14
+        "defaultStat": 310,
+        "incrementByLevel": 16.03
       },
       "patternID": "8041",
       "abnormalityPartList": [
@@ -8760,8 +8760,8 @@
         8141
       ],
       "hp": {
-        "defaultStat": 256,
-        "incrementByLevel": 9.7
+        "defaultStat": 327,
+        "incrementByLevel": 12.42
       },
       "patternID": "8141",
       "abnormalityPartList": [
@@ -9093,8 +9093,8 @@
       "classType": "TETH",
       "attributeType": "AMBER",
       "hp": {
-        "defaultStat": 233,
-        "incrementByLevel": 9.65
+        "defaultStat": 388,
+        "incrementByLevel": 16.06
       },
       "patternID": "PickByPattern_Abnormality",
       "abnormalityPartList": [
@@ -9367,8 +9367,8 @@
       "classType": "HE",
       "attributeType": "AZURE",
       "hp": {
-        "defaultStat": 216,
-        "incrementByLevel": 10.43
+        "defaultStat": 301,
+        "incrementByLevel": 14.51
       },
       "abnormalityPartList": [
         825101,
@@ -9791,8 +9791,8 @@
       "classType": "TETH",
       "attributeType": "SCARLET",
       "hp": {
-        "defaultStat": 280,
-        "incrementByLevel": 9.67
+        "defaultStat": 350,
+        "incrementByLevel": 12.09
       },
       "patternID": "8578",
       "abnormalityPartList": [
@@ -10427,8 +10427,8 @@
       "classType": "TETH",
       "attributeType": "SHAMROCK",
       "hp": {
-        "defaultStat": 265,
-        "incrementByLevel": 9.16
+        "defaultStat": 371,
+        "incrementByLevel": 12.79
       },
       "abnormalityPartList": [
         825601,
@@ -10792,7 +10792,7 @@
     {
       "id": 8258,
       "viewid": 8560,
-      "sdPortrait": 8551,
+      "sdPortrait": 8560,
       "nameID": 8120,
       "storyID": 8560,
       "appearance": "8551_LostPassengerPortalAppearance",
@@ -10834,7 +10834,7 @@
     {
       "id": 8259,
       "viewid": 8561,
-      "sdPortrait": 8551,
+      "sdPortrait": 8561,
       "nameID": 8121,
       "storyID": 8561,
       "appearance": "8551_LostPassengerPortalAppearance",
@@ -10876,7 +10876,7 @@
     {
       "id": 8260,
       "viewid": 8562,
-      "sdPortrait": 8551,
+      "sdPortrait": 8562,
       "nameID": 8122,
       "storyID": 8562,
       "appearance": "8551_LostPassengerPortalAppearance",
@@ -10918,7 +10918,7 @@
     {
       "id": 8261,
       "viewid": 8563,
-      "sdPortrait": 8551,
+      "sdPortrait": 8563,
       "nameID": 8123,
       "storyID": 8563,
       "appearance": "8551_LostPassengerPortalAppearance",
@@ -15343,8 +15343,8 @@
       "level": 30,
       "attributeType": "VIOLET",
       "hp": {
-        "defaultStat": 242,
-        "incrementByLevel": 9.18
+        "defaultStat": 363,
+        "incrementByLevel": 13.785
       },
       "patternID": "8556",
       "startActionSlotNum": 5,

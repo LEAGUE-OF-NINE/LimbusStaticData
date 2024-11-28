@@ -1346,6 +1346,31 @@
           "value": 0.001
         }
       ]
+    },
+    {
+      "id": "DevyatDimensionalSackSinclair",
+      "iconId": "DevyatDimensionalSack",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "destroyableOnZero": false,
+      "destroyableOnRetreat": false,
+      "list": [
+        {
+          "ability": "GiveBuffOnRoundStart",
+          "value": 1,
+          "buffData": {
+            "buffKeyword": "DevyatDimensionalSackSinclair",
+            "target": "Self",
+            "stack": 3,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "DevyatDimensionalSackSinclair"
+        }
+      ]
     }
   ]
 }

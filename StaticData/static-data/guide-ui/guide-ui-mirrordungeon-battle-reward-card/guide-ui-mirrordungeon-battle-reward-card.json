@@ -42,7 +42,7 @@
                 "column": 1,
                 "isTitle": true,
                 "textIdList": [
-                  "mirror_battle_reward_card_guide_table_1_desc_0_1"
+                  "mirror_5_battle_reward_card_guide_table_1_desc_0_1"
                 ]
               },
               {
@@ -50,7 +50,7 @@
                 "column": 2,
                 "isTitle": true,
                 "textIdList": [
-                  "mirror_battle_reward_card_guide_table_1_desc_0_2"
+                  "mirror_5_battle_reward_card_guide_table_1_desc_0_2"
                 ]
               },
               {
@@ -64,14 +64,14 @@
                 "row": 1,
                 "column": 1,
                 "textIdList": [
-                  "mirror_battle_reward_card_guide_table_1_desc_1_1"
+                  "mirror_5_battle_reward_card_guide_table_1_desc_1_1"
                 ]
               },
               {
                 "row": 1,
                 "column": 2,
                 "textIdList": [
-                  "mirror_battle_reward_card_guide_table_1_desc_1_2"
+                  "mirror_5_battle_reward_card_guide_table_1_desc_1_2"
                 ]
               },
               {
@@ -85,14 +85,14 @@
                 "row": 2,
                 "column": 1,
                 "textIdList": [
-                  "mirror_battle_reward_card_guide_table_1_desc_2_1"
+                  "mirror_5_battle_reward_card_guide_table_1_desc_2_1"
                 ]
               },
               {
                 "row": 2,
                 "column": 2,
                 "textIdList": [
-                  "mirror_battle_reward_card_guide_table_1_desc_2_2"
+                  "mirror_5_battle_reward_card_guide_table_1_desc_2_2"
                 ]
               },
               {
@@ -106,14 +106,14 @@
                 "row": 3,
                 "column": 1,
                 "textIdList": [
-                  "mirror_battle_reward_card_guide_table_1_desc_3_1"
+                  "mirror_5_battle_reward_card_guide_table_1_desc_3_1"
                 ]
               },
               {
                 "row": 3,
                 "column": 2,
                 "textIdList": [
-                  "mirror_battle_reward_card_guide_table_1_desc_3_2"
+                  "mirror_5_battle_reward_card_guide_table_1_desc_3_2"
                 ]
               },
               {
@@ -127,14 +127,14 @@
                 "row": 4,
                 "column": 1,
                 "textIdList": [
-                  "mirror_battle_reward_card_guide_table_1_desc_4_1"
+                  "mirror_5_battle_reward_card_guide_table_1_desc_4_1"
                 ]
               },
               {
                 "row": 4,
                 "column": 2,
                 "textIdList": [
-                  "mirror_battle_reward_card_guide_table_1_desc_4_2"
+                  "mirror_5_battle_reward_card_guide_table_1_desc_4_2"
                 ]
               },
               {
@@ -148,14 +148,14 @@
                 "row": 5,
                 "column": 1,
                 "textIdList": [
-                  "mirror_battle_reward_card_guide_table_1_desc_5_1"
+                  "mirror_5_battle_reward_card_guide_table_1_desc_5_1"
                 ]
               },
               {
                 "row": 5,
                 "column": 2,
                 "textIdList": [
-                  "mirror_battle_reward_card_guide_table_1_desc_5_2"
+                  "mirror_5_battle_reward_card_guide_table_1_desc_5_2"
                 ]
               }
             ]

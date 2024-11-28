@@ -3774,8 +3774,8 @@
       "classType": "HE",
       "attributeType": "AZURE",
       "hp": {
-        "defaultStat": 285,
-        "incrementByLevel": 10.8
+        "defaultStat": 475,
+        "incrementByLevel": 18.02
       },
       "patternID": "WaterFish",
       "abnormalityPartList": [
@@ -5188,8 +5188,8 @@
       "classType": "HE",
       "attributeType": "VIOLET",
       "hp": {
-        "defaultStat": 284,
-        "incrementByLevel": 10.79
+        "defaultStat": 455,
+        "incrementByLevel": 17.24
       },
       "patternID": "LightningBeast",
       "abnormalityPartList": [

@@ -91,5 +91,12 @@
   "warningReturnMissionIds": [],
   "isEnableSteamWalletUpdate": true,
   "tempSolveEgoGacksungOnPassiveTab": true,
-  "valueFor841104": 0.025
+  "valueFor841104": 0.025,
+  "maxHpMultiplierForMD5Easy": [
+    -0.4,
+    -0.4,
+    -0.4,
+    -0.4,
+    -0.3
+  ]
 }

@@ -22,7 +22,7 @@
     },
     {
       "eventId": 901005,
-      "egoGiftList": [ 9005 ]
+      "egoGiftList": [ 9005, 9161 ]
     },
     {
       "eventId": 902005,
@@ -42,7 +42,7 @@
     },
     {
       "eventId": 901008,
-      "egoGiftList": [ 9008 ]
+      "egoGiftList": [ 9008, 9192 ]
     },
     {
       "eventId": 901009,
@@ -70,7 +70,7 @@
     },
     {
       "eventId": 901015,
-      "egoGiftList": [ 9015 ]
+      "egoGiftList": [ 9015, 9164, 9178 ]
     },
     {
       "eventId": 901016,
@@ -150,7 +150,7 @@
     },
     {
       "eventId": 901036,
-      "egoGiftList": [ 9036 ]
+      "egoGiftList": [ 9036, 9159 ]
     },
     {
       "eventId": 901037,
@@ -182,7 +182,7 @@
     },
     {
       "eventId": 901047,
-      "egoGiftList": [ 9047 ]
+      "egoGiftList": [ 9047, 9169 ]
     },
     {
       "eventId": 901049,
@@ -214,11 +214,11 @@
     },
     {
       "eventId": 901061,
-      "egoGiftList": [ 9061 ]
+      "egoGiftList": [ 9061, 9174 ]
     },
     {
       "eventId": 901062,
-      "egoGiftList": [ 9062 ]
+      "egoGiftList": [ 9062, 9172 ]
     },
     {
       "eventId": 901063,
@@ -246,7 +246,7 @@
     },
     {
       "eventId": 901074,
-      "egoGiftList": [ 9074 ]
+      "egoGiftList": [ 9074, 9177 ]
     },
     {
       "eventId": 901076,
@@ -425,6 +425,26 @@
     {
       "eventId": 971035,
       "egoGiftList": [ 9750 ]
+    },
+    {
+      "eventId": 901100,
+      "egoGiftList": [ 9168 ]
+    },
+    {
+      "eventId": 901101,
+      "egoGiftList": [ 9181 ]
+    },
+    {
+      "eventId": 901102,
+      "egoGiftList": [ 9182 ]
+    },
+    {
+      "eventId": 901103,
+      "egoGiftList": [ 9155, 9156 ]
+    },
+    {
+      "eventId": 901104,
+      "egoGiftList": [ 9160 ]
     }
   ]
 }
