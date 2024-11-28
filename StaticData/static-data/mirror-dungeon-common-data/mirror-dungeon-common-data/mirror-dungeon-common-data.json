@@ -5,36 +5,36 @@
 			{
 				"tier": 1,
 				"cost": [
-					80,
-					160
+					50,
+					100
 				]
 			},
 			{
 				"tier": 2,
+				"cost": [
+					60,
+					120
+				]
+			},
+			{
+				"tier": 3,
+				"cost": [
+					75,
+					150
+				]
+			},
+			{
+				"tier": 4,
 				"cost": [
 					100,
 					200
 				]
 			},
 			{
-				"tier": 3,
-				"cost": [
-					125,
-					250
-				]
-			},
-			{
-				"tier": 4,
-				"cost": [
-					160,
-					320
-				]
-			},
-			{
 				"tier": 5,
 				"cost": [
-					200,
-					400
+					120,
+					240
 				]
 			}
 		]
@@ -561,7 +561,7 @@
 	"additionalCostForNotFormerlyUsedPersonality": 0,
 	"additionalChipForFullRestPersonality": [ 0, 0, 0, 0, 0, 0 ],
 	"additionalChipForNewTheme": 0,
-	"shopRefreshCostPerCount": 25,
+	"shopRefreshCostPerCount": 15,
 	"shopRefreshChipForAnyCount": 10,
 	"acquireChipPerFloor": [ 5, 10, 15, 25, 40 ],
 	"startRestingCount": 5,

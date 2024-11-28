@@ -122,19 +122,19 @@
             "index": 0,
             "fromSkill": 0,
             "toSkill": 1,
-            "price": 75
+            "price": 45
           },
           {
             "index": 1,
             "fromSkill": 1,
             "toSkill": 2,
-            "price": 125
+            "price": 75
           },
           {
             "index": 2,
             "fromSkill": 0,
             "toSkill": 2,
-            "price": 200
+            "price": 120
           }
         ],
         "changeFormation": {
@@ -146,7 +146,7 @@
         },
         "refreshShop": {
           "isActive": true,
-          "shopKeywordRefreshCostAdder": 125
+          "shopKeywordRefreshCostAdder": 75
         },
         "egoGiftUpgrade": {
           "isActive": true
