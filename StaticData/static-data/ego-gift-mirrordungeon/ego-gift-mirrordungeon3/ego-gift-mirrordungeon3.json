@@ -317,7 +317,7 @@
         {
           "upgradeLevel": 0,
           "localizeID": 9100,
-          "abilityIDList": [ 9100, 91001, 91002, 91003 ]
+          "abilityIDList": [ 9100, 91001, 91002, 91003, 91004 ]
         }
       ],
       "tag": [

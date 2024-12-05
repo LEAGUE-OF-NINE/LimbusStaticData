@@ -9016,14 +9016,14 @@
               "unitID": 8064,
               "unitCount": 1,
               "unitLevel": 50
-            }
-          ],
-          "subUnitList": [
+            },
             {
               "unitID": 8064,
               "unitCount": 1,
               "unitLevel": 50
-            },
+            }
+          ],
+          "subUnitList": [
             {
               "unitID": 8064,
               "unitCount": 1,
@@ -9101,14 +9101,14 @@
               "unitID": 8067,
               "unitCount": 1,
               "unitLevel": 50
-            }
-          ],
-          "subUnitList": [
+            },
             {
               "unitID": 8067,
               "unitCount": 1,
               "unitLevel": 50
-            },
+            }
+          ],
+          "subUnitList": [
             {
               "unitID": 8067,
               "unitCount": 1,
@@ -9186,14 +9186,14 @@
               "unitID": 8066,
               "unitCount": 1,
               "unitLevel": 50
-            }
-          ],
-          "subUnitList": [
+            },
             {
               "unitID": 8066,
               "unitCount": 1,
               "unitLevel": 50
-            },
+            }
+          ],
+          "subUnitList": [
             {
               "unitID": 8066,
               "unitCount": 1,
@@ -9271,14 +9271,14 @@
               "unitID": 8067,
               "unitCount": 1,
               "unitLevel": 50
+            },
+            {
+              "unitID": 8067,
+              "unitCount": 1,
+              "unitLevel": 50
             }
           ],
           "subUnitList": [
-            {
-              "unitID": 8066,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
             {
               "unitID": 8066,
               "unitCount": 1,
@@ -9356,14 +9356,14 @@
               "unitID": 8066,
               "unitCount": 1,
               "unitLevel": 50
+            },
+            {
+              "unitID": 8066,
+              "unitCount": 1,
+              "unitLevel": 50
             }
           ],
           "subUnitList": [
-            {
-              "unitID": 8064,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
             {
               "unitID": 8064,
               "unitCount": 1,
@@ -10413,7 +10413,7 @@
             "Battle_Cp6_Enemy_2"
           ],
           "allyPositionID": 65,
-          "enemyPositionID": 68
+          "enemyPositionID": 66
         }
       ],
       "staminaCost": 0,
@@ -10963,7 +10963,7 @@
           "subUnitList": [],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -11019,7 +11019,7 @@
           "subUnitList": [],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -11075,7 +11075,7 @@
           "subUnitList": [],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -11126,7 +11126,7 @@
           "subUnitList": [],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -11177,7 +11177,7 @@
           "subUnitList": [],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -11669,6 +11669,98 @@
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "Refill_Abnormality"
+      ]
+    },
+    {
+      "id": 2062031,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 20
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_GiftMaking"
+          },
+          "unitList": [
+            {
+              "unitID": 8114,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8115,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8116,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [],
+          "bgmList": [
+            "Battle_Cp5_5_Xmas_Boss"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 8114,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8115,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8135,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8135,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 8113,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "enemyPositionID": 13
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "8113"
       ]
     },
     {
@@ -12173,11 +12265,6 @@
               "unitID": 8129,
               "unitCount": 1,
               "unitLevel": 50
-            },
-            {
-              "unitID": 8129,
-              "unitCount": 1,
-              "unitLevel": 50
             }
           ],
           "subUnitList": [
@@ -12204,7 +12291,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -12263,11 +12350,6 @@
               "unitID": 8129,
               "unitCount": 1,
               "unitLevel": 50
-            },
-            {
-              "unitID": 8129,
-              "unitCount": 1,
-              "unitLevel": 50
             }
           ],
           "subUnitList": [
@@ -12294,7 +12376,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -12351,11 +12433,6 @@
             },
             {
               "unitID": 8160,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8064,
               "unitCount": 1,
               "unitLevel": 50
             }
@@ -12443,11 +12520,6 @@
               "unitID": 8160,
               "unitCount": 1,
               "unitLevel": 50
-            },
-            {
-              "unitID": 8069,
-              "unitCount": 1,
-              "unitLevel": 50
             }
           ],
           "subUnitList": [
@@ -12531,11 +12603,6 @@
             },
             {
               "unitID": 8160,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8069,
               "unitCount": 1,
               "unitLevel": 50
             }
@@ -13265,7 +13332,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -13350,7 +13417,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -13690,7 +13757,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ],
           "enemyPositionID": 42
         }
@@ -14224,7 +14291,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ],
           "enemyPositionID": 42
         }
@@ -14946,22 +15013,22 @@
           },
           "unitList": [
             {
-              "unitID": 8069,
+              "unitID": 8129,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8069,
+              "unitID": 8129,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8069,
+              "unitID": 8130,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8069,
+              "unitID": 8131,
               "unitCount": 1,
               "unitLevel": 50
             }
@@ -14969,7 +15036,7 @@
           "subUnitList": [],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -18341,7 +18408,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -18426,7 +18493,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -18496,7 +18563,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -18566,7 +18633,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -18636,7 +18703,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -22551,7 +22618,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -22636,7 +22703,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -22711,7 +22778,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -22786,7 +22853,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -22861,7 +22928,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -23085,6 +23152,82 @@
       "eventScriptName": "8376",
       "abnormalityEventList": [
         837601
+      ]
+    },
+    {
+      "id": 2063834,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_DonglangBattle"
+          },
+          "unitList": [
+            {
+              "unitID": 8182,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8183,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8183,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8183,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8183,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 8183,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8184,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp4_DongLangEGOBattle"
+          ],
+          "allyPositionID": 33,
+          "enemyPositionID": 39
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "8182"
       ]
     },
     {
@@ -31174,7 +31317,7 @@
             },
             {
               "unitID": 8183,
-              "unitCount": 1,
+              "unitCount": 4,
               "unitLevel": 50
             }
           ],
@@ -32789,6 +32932,106 @@
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "8378"
+      ]
+    },
+    {
+      "id": 2065234,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 20
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp6_Mansion_Hall",
+            "mapSize": 20.0
+          },
+          "unitList": [
+            {
+              "unitID": 1050,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1051,
+              "unitCount": 3,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 1052,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1051,
+              "unitCount": 2,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1053,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1054,
+              "unitCount": 1,
+              "unitLevel": 50,
+              "isHide": true
+            },
+            {
+              "unitID": 1055,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1056,
+              "unitCount": 2,
+              "unitLevel": 50,
+              "isHide": true
+            },
+            {
+              "unitID": 1057,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1052,
+              "unitCount": 4,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp6_Heathcliff_1"
+          ],
+          "allyPositionID": 73,
+          "enemyPositionID": 77
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "1050",
+        "FilterAddForce3_Abnormality"
       ]
     },
     {
@@ -36142,7 +36385,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp6_Mansion_StairsToLaboratory"
+            "mapName": "OldRestaurant_inside"
           },
           "unitList": [
             {
@@ -36189,8 +36432,8 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp6_Ally_1",
-            "Battle_Cp6_Enemy_4"
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp3_5_Enemy_1"
           ]
         }
       ],
@@ -36222,7 +36465,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp6_Mansion_StairsToLaboratory"
+            "mapName": "OldRestaurant_inside"
           },
           "unitList": [
             {
@@ -36269,8 +36512,8 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp6_Ally_1",
-            "Battle_Cp6_Enemy_4"
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp3_5_Enemy_1"
           ]
         }
       ],
@@ -36714,7 +36957,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_TcorStreet"
+            "mapName": "OldRestaurant_inside"
           },
           "unitList": [
             {
@@ -36766,8 +37009,8 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp4_Ally_5",
-            "Battle_Cp4_Enemy_5"
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp3_5_Enemy_1"
           ]
         }
       ],
@@ -36799,7 +37042,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_BandofnineSpring"
+            "mapName": "OldRestaurant_inside"
           },
           "unitList": [
             {
@@ -36851,8 +37094,8 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp4_Ally_4",
-            "Battle_Cp4_Enemy_4"
+            "Battle_Cp2_Ally_1",
+            "Battle_Cp3_5_Enemy_1"
           ]
         }
       ],
@@ -36964,7 +37207,9 @@
           "bgmList": [
             "Battle_Cp4_Ally_3",
             "Battle_Cp4_Enemy_3"
-          ]
+          ],
+          "allyPositionID": 33,
+          "enemyPositionID": 29
         }
       ],
       "staminaCost": 0,
@@ -37007,7 +37252,7 @@
           "subUnitList": [
             {
               "unitID": 1059,
-              "unitCount": 1,
+              "unitCount": 4,
               "unitLevel": 50
             },
             {
@@ -37970,21 +38215,11 @@
               "unitID": 8374,
               "unitCount": 1,
               "unitLevel": 50
-            },
-            {
-              "unitID": 8374,
-              "unitCount": 1,
-              "unitLevel": 50
             }
           ],
           "subUnitList": [
             {
               "unitID": 8069,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8374,
               "unitCount": 1,
               "unitLevel": 50
             },
@@ -38154,11 +38389,6 @@
               "unitLevel": 50
             },
             {
-              "unitID": 8374,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
               "unitID": 8069,
               "unitCount": 1,
               "unitLevel": 50
@@ -38207,49 +38437,29 @@
           },
           "unitList": [
             {
-              "unitID": 8069,
+              "unitID": 8374,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8069,
+              "unitID": 8374,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8069,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8069,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8069,
+              "unitID": 8374,
               "unitCount": 1,
               "unitLevel": 50
             }
           ],
           "subUnitList": [
             {
-              "unitID": 8069,
+              "unitID": 8374,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8069,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8069,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8069,
+              "unitID": 8374,
               "unitCount": 1,
               "unitLevel": 50
             }
@@ -40592,8 +40802,7 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp1_Ally_2",
-            "Battle_Cp1_Enemy_2"
+            "Battle_Cp6_5_MOWE_Enemy"
           ]
         }
       ],
@@ -40677,8 +40886,8 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp1_Ally_2",
-            "Battle_Cp1_Enemy_2"
+            "Battle_Cp6_5_MOWE_Enemy"
+
           ]
         }
       ],
@@ -40762,8 +40971,8 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp1_Ally_2",
-            "Battle_Cp1_Enemy_2"
+            "Battle_Cp6_5_MOWE_Enemy"
+
           ]
         }
       ],
@@ -40847,8 +41056,8 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp1_Ally_2",
-            "Battle_Cp1_Enemy_2"
+            "Battle_Cp6_5_MOWE_Enemy"
+
           ]
         }
       ],
@@ -40932,8 +41141,8 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp1_Ally_2",
-            "Battle_Cp1_Enemy_2"
+            "Battle_Cp6_5_MOWE_Enemy"
+
           ]
         }
       ],
@@ -41349,12 +41558,7 @@
           "unitList": [
             {
               "unitID": 8367,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8367,
-              "unitCount": 1,
+              "unitCount": 2,
               "unitLevel": 50
             },
             {
@@ -41364,7 +41568,6 @@
             }
           ],
           "enemyPositionID": 95,
-          "subUnitList": [],
           "bgmList": [
             "Battle_LOB_Dawn_Hard"
           ]
@@ -41384,6 +41587,21 @@
             {
               "unitID": 8369,
               "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "enemyPositionID": 95
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 8368,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8369,
+              "unitCount": 2,
               "unitLevel": 50
             }
           ],
@@ -42022,49 +42240,49 @@
           },
           "unitList": [
             {
-              "unitID": 8373,
+              "unitID": 8392,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8373,
+              "unitID": 8393,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8374,
+              "unitID": 8392,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8374,
+              "unitID": 8393,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8373,
+              "unitID": 8393,
               "unitCount": 1,
               "unitLevel": 50
             }
           ],
           "subUnitList": [
             {
-              "unitID": 8373,
+              "unitID": 8392,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8374,
+              "unitID": 8393,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8373,
+              "unitID": 8392,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8374,
+              "unitID": 8393,
               "unitCount": 1,
               "unitLevel": 50
             }
@@ -42107,44 +42325,39 @@
           },
           "unitList": [
             {
-              "unitID": 8373,
+              "unitID": 8392,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8373,
+              "unitID": 8393,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8374,
+              "unitID": 8392,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8374,
+              "unitID": 8393,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8373,
+              "unitID": 8393,
               "unitCount": 1,
               "unitLevel": 50
             }
           ],
           "subUnitList": [
             {
-              "unitID": 8373,
+              "unitID": 8392,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8374,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8373,
+              "unitID": 8393,
               "unitCount": 1,
               "unitLevel": 50
             },
@@ -42192,49 +42405,38 @@
           },
           "unitList": [
             {
-              "unitID": 8373,
+              "unitID": 8392,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
               "unitID": 8373,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8393,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
               "unitID": 8374,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8374,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8373,
               "unitCount": 1,
               "unitLevel": 50
             }
           ],
           "subUnitList": [
             {
+              "unitID": 8392,
+              "unitCount": 1,
+              "unitLevel": 50
+            },            {
+              "unitID": 8393,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
               "unitID": 8373,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8374,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8373,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8374,
               "unitCount": 1,
               "unitLevel": 50
             }
@@ -42277,42 +42479,27 @@
           },
           "unitList": [
             {
-              "unitID": 8373,
+              "unitID": 8392,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
               "unitID": 8373,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8393,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
               "unitID": 8374,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8374,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8373,
               "unitCount": 1,
               "unitLevel": 50
             }
           ],
           "subUnitList": [
-            {
-              "unitID": 8373,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8374,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
             {
               "unitID": 8373,
               "unitCount": 1,
@@ -42367,16 +42554,6 @@
               "unitLevel": 50
             },
             {
-              "unitID": 8373,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8374,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
               "unitID": 8374,
               "unitCount": 1,
               "unitLevel": 50
@@ -42388,16 +42565,6 @@
             }
           ],
           "subUnitList": [
-            {
-              "unitID": 8373,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8374,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
             {
               "unitID": 8373,
               "unitCount": 1,
@@ -42722,49 +42889,49 @@
           },
           "unitList": [
             {
-              "unitID": 8373,
+              "unitID": 8392,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8373,
+              "unitID": 8393,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8374,
+              "unitID": 8392,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8374,
+              "unitID": 8393,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8374,
+              "unitID": 8393,
               "unitCount": 1,
               "unitLevel": 50
             }
           ],
           "subUnitList": [
             {
-              "unitID": 8373,
+              "unitID": 8392,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8373,
+              "unitID": 8393,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8373,
+              "unitID": 8392,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8374,
+              "unitID": 8393,
               "unitCount": 1,
               "unitLevel": 50
             }
@@ -42807,44 +42974,39 @@
           },
           "unitList": [
             {
-              "unitID": 8373,
+              "unitID": 8392,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8373,
+              "unitID": 8393,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8374,
+              "unitID": 8392,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8374,
+              "unitID": 8393,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8374,
+              "unitID": 8393,
               "unitCount": 1,
               "unitLevel": 50
             }
           ],
           "subUnitList": [
             {
-              "unitID": 8373,
+              "unitID": 8392,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8373,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8373,
+              "unitID": 8393,
               "unitCount": 1,
               "unitLevel": 50
             },
@@ -42892,7 +43054,7 @@
           },
           "unitList": [
             {
-              "unitID": 8373,
+              "unitID": 8392,
               "unitCount": 1,
               "unitLevel": 50
             },
@@ -42902,12 +43064,7 @@
               "unitLevel": 50
             },
             {
-              "unitID": 8374,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8374,
+              "unitID": 8393,
               "unitCount": 1,
               "unitLevel": 50
             },
@@ -42919,22 +43076,17 @@
           ],
           "subUnitList": [
             {
-              "unitID": 8373,
+              "unitID": 8392,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8393,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
               "unitID": 8373,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8373,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8374,
               "unitCount": 1,
               "unitLevel": 50
             }
@@ -42977,7 +43129,7 @@
           },
           "unitList": [
             {
-              "unitID": 8373,
+              "unitID": 8392,
               "unitCount": 1,
               "unitLevel": 50
             },
@@ -42987,12 +43139,7 @@
               "unitLevel": 50
             },
             {
-              "unitID": 8374,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8374,
+              "unitID": 8393,
               "unitCount": 1,
               "unitLevel": 50
             },
@@ -43003,16 +43150,6 @@
             }
           ],
           "subUnitList": [
-            {
-              "unitID": 8373,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8373,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
             {
               "unitID": 8373,
               "unitCount": 1,
@@ -43067,37 +43204,17 @@
               "unitLevel": 50
             },
             {
+              "unitID": 8374,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
               "unitID": 8373,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8374,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8374,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8374,
               "unitCount": 1,
               "unitLevel": 50
             }
           ],
           "subUnitList": [
-            {
-              "unitID": 8373,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
-            {
-              "unitID": 8373,
-              "unitCount": 1,
-              "unitLevel": 50
-            },
             {
               "unitID": 8373,
               "unitCount": 1,
@@ -43962,6 +44079,118 @@
       "eventScriptName": "Statue",
       "abnormalityEventList": [
         852701
+      ]
+    },
+    {
+      "id": 2066935,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Ab_CroohooToad"
+          },
+          "unitList": [
+            {
+              "unitID": 8075,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [],
+          "bgmList": [
+            "Battle_Cp3_Ally_3",
+            "Battle_Cp3_Enemy_3"
+          ],
+          "enemyPositionID": 13
+        },
+        {
+          "battleMapInfo": {
+            "mapName": "Ab_LogicCircuit"
+          },
+          "unitList": [
+            {
+              "unitID": 8076,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 8077,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_5",
+            "Battle_Cp4_Enemy_5"
+          ],
+          "enemyPositionID": 23
+        },
+        {
+          "battleMapInfo": {
+            "mapName": "Ab_RedJewel"
+          },
+          "unitList": [
+            {
+              "unitID": 8078,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8079,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8080,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8081,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [],
+          "bgmList": [
+            "Battle_Statue"
+          ],
+          "enemyPositionID": 22
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [
+        {
+          "type": "EGO_GIFT",
+          "rewardId": 993005,
+          "num": 1,
+          "prob": 1
+        }
+      ],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Mr5Merge"
+      ],
+      "eventScriptName": "CryingToad",
+      "abnormalityEventList": [
+        851001
       ]
     },
     {
@@ -44925,6 +45154,98 @@
         }
       ],
       "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "8556"
+      ],
+      "eventScriptName": "8556",
+      "abnormalityEventList": [
+        855601,
+        85560101
+      ]
+    },
+    {
+      "id": 2067035,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Ab_RoseSign"
+          },
+          "unitList": [
+            {
+              "unitID": 1026,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 1027,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1028,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1029,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1030,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1031,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1032,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1033,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Flore_sicut_rosa"
+          ],
+          "enemyPositionID": 46
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [
+        {
+          "type": "EGO_GIFT",
+          "rewardId": 993005,
+          "num": 1,
+          "prob": 1
+        }
+      ],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "8556"
@@ -46539,7 +46860,7 @@
           "subUnitList": [
             {
               "unitID": 1059,
-              "unitCount": 1,
+              "unitCount": 4,
               "unitLevel": 50
             },
             {
@@ -46686,7 +47007,7 @@
               "unitLevel": 50
             }
           ],
-          "subUnitList": [
+          "supportUnitList": [
             {
               "unitID": 8322,
               "unitCount": 1,
@@ -46817,7 +47138,7 @@
               "unitLevel": 50
             }
           ],
-          "subUnitList": [
+          "supportUnitList": [
             {
               "unitID": 8286,
               "unitCount": 1,
@@ -46930,7 +47251,7 @@
               "unitLevel": 50
             }
           ],
-          "subUnitList": [
+          "supportUnitList": [
             {
               "unitID": 8298,
               "unitCount": 1,
@@ -47042,7 +47363,7 @@
               "unitLevel": 50
             }
           ],
-          "subUnitList": [
+          "supportUnitList": [
             {
               "unitID": 8314,
               "unitCount": 1,
@@ -47102,6 +47423,299 @@
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "ShadowAbNotRefraction"
+      ]
+    },
+    {
+      "id": 2067237,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "isBatonPassOn": true,
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 10
+      },
+      "waveList": [
+        {
+          "isBatonPassOn": true,
+          "battleMapInfo": {
+            "mapName": "LCorpCenter"
+          },
+          "unitList": [
+            {
+              "unitID": 8311,
+              "unitCount": 1,
+              "unitSyncLevel": 4,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 8304,
+              "unitCount": 1,
+              "unitSyncLevel": 4,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 8306,
+              "unitCount": 1,
+              "unitSyncLevel": 4,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 8310,
+              "unitCount": 1,
+              "unitSyncLevel": 4,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 8312,
+              "unitCount": 1,
+              "unitSyncLevel": 4,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 8309,
+              "unitCount": 1,
+              "unitSyncLevel": 4,
+              "unitLevel": 45
+            }
+          ],
+          "supportUnitList": [
+            {
+              "unitID": 8314,
+              "unitCount": 1,
+              "unitSyncLevel": 4,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 8308,
+              "unitCount": 1,
+              "unitSyncLevel": 4,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 8305,
+              "unitCount": 1,
+              "unitSyncLevel": 4,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 8307,
+              "unitCount": 1,
+              "unitSyncLevel": 4,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 8315,
+              "unitCount": 1,
+              "unitSyncLevel": 4,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 8313,
+              "unitCount": 1,
+              "unitSyncLevel": 4,
+              "unitLevel": 45
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp1_Ally_3",
+            "Battle_Cp1_Enemy_3"
+          ]
+        },
+        {
+          "battleMapInfo": {
+            "mapName": "Ab_ElectricSheep"
+          },
+          "unitList": [
+            {
+              "unitID": 1061,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 1062,
+              "unitCount": 1,
+              "unitLevel": 50,
+              "isHide": true
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp6_Enemy_6"
+          ],
+          "enemyPositionID": 86
+        }
+      ],
+      "staminaCost": 8,
+      "recommendedLevel": 1,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [
+        {
+          "type": "EGO_GIFT",
+          "rewardId": 993005,
+          "num": 1,
+          "prob": 1
+        }
+      ],
+      "story": {},
+      "stageScriptList": [
+        "1061PlusShadow"
+      ],
+      "eventScriptName": "8608",
+      "abnormalityEventList": [
+        860801
+      ]
+    },
+    {
+      "id": 2067331,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "isBatonPassOn": true,
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "isBatonPassOn": true,
+          "battleMapInfo": {
+            "mapName": "Ab_TiedKing"
+          },
+          "unitList": [
+            {
+              "unitID": 8316,
+              "unitCount": 1,
+              "unitSyncLevel": 4,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8317,
+              "unitCount": 1,
+              "unitSyncLevel": 4,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8318,
+              "unitCount": 1,
+              "unitSyncLevel": 4,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8319,
+              "unitCount": 1,
+              "unitSyncLevel": 4,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8320,
+              "unitCount": 1,
+              "unitSyncLevel": 4,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8321,
+              "unitCount": 1,
+              "unitSyncLevel": 4,
+              "unitLevel": 50
+            }
+          ],
+          "supportUnitList": [
+            {
+              "unitID": 8322,
+              "unitCount": 1,
+              "unitSyncLevel": 4,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8323,
+              "unitCount": 1,
+              "unitSyncLevel": 4,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8324,
+              "unitCount": 1,
+              "unitSyncLevel": 4,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8325,
+              "unitCount": 1,
+              "unitSyncLevel": 4,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8326,
+              "unitCount": 1,
+              "unitSyncLevel": 4,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8327,
+              "unitCount": 1,
+              "unitSyncLevel": 4,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Audite_pauper",
+            "Battle_Vovete_miserias"
+          ],
+          "allyPositionID": 89,
+          "enemyPositionID": 90
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 1063,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "allyPositionID": 89,
+          "enemyPositionID": 91
+        }
+      ],
+      "staminaCost": 8,
+      "recommendedLevel": 1,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [
+        {
+          "type": "EGO_GIFT",
+          "rewardId": 993005,
+          "num": 1,
+          "prob": 1
+        }
+      ],
+      "story": {
+      },
+      "stageScriptList": ["1063"],
+      "eventScriptName": "8629",
+      "abnormalityEventList": [
+        862901,
+        862902,
+        862903
       ]
     }
   ]

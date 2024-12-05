@@ -41,7 +41,7 @@
 	},
 	"selectNewStartEgoGiftCategoryChip": 12,
 	"egoGiftCombineTierTable": {
-		"maximumAvailableTier": 4,
+		"maximumAvailableTier": 5,
 		"combineScoreByEgoGiftTier": [
 			{
 				"egoGiftTier": 1,
@@ -771,6 +771,28 @@
 			"cost": 120
 		}
 	],
+	"originbattlevictorycostvalueListHardLevel": [
+		{
+			"encounterType": "BATTLE",
+			"cost": 60
+		},
+		{
+			"encounterType": "AB_BATTLE",
+			"cost": 100
+		},
+		{
+			"encounterType": "HARD_BATTLE",
+			"cost": 120
+		},
+		{
+			"encounterType": "HARD_AB_BATTLE",
+			"cost": 150
+		},
+		{
+			"encounterType": "BOSS",
+			"cost": 200
+		}
+	],
 	"battleCostWeightsByFloor": [
 		{
 			"floor": 0,
@@ -830,6 +852,21 @@
 		{
 			"keyword": "Charge",
 			"normalpool": [ 9043, 9052, 9134 ],
+			"buffpool": [  ]
+		},
+		{
+			"keyword": "Slash",
+			"normalpool": [ 9032, 9194, 9140 ],
+			"buffpool": [  ]
+		},
+		{
+			"keyword": "Penetrate",
+			"normalpool": [ 9030, 9198, 9145 ],
+			"buffpool": [  ]
+		},
+		{
+			"keyword": "Hit",
+			"normalpool": [ 9012, 9202, 9150 ],
 			"buffpool": [  ]
 		}
 	],
@@ -1059,5 +1096,23 @@
 	"shopKeywordRefreshWeightMultiplier":12.5,
 	"specificEgoGiftForUpegsProbs":[1, 0.5, 0.25, 0.125],
 	"appearanceRateUpMultiplier": 3,
-	"pieceEgoGiftIds": [9991,9992,9993,9994,9995]
+	"pieceEgoGiftIds": [9991,9992,9993,9994,9995],
+	"shopUpgradeFormula": [
+		{
+			"op": 0,
+			"value" : 60
+		},
+		{
+			"op": 0,
+			"isVar": true
+		},
+		{
+			"op": 3,
+			"value" : 20
+		},
+		{
+			"op": 4,
+			"value" : 100
+		}
+	]
 }

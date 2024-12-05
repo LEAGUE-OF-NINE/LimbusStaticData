@@ -2497,8 +2497,7 @@
           ],
           "nextMainchapterid": 91,
           "nextSubchapterid": 9107,
-          "lastnodeid": 910512,
-          "relatedMainEventId": "MiracleOfDistrict20"
+          "lastnodeid": 910512
         },
         {
           "id": 9106,
@@ -2522,8 +2521,7 @@
               "stageId": 10554,
               "stageNodeType": "NORMAL"
             }
-          ],
-          "relatedMainEventId": "DawnOfGreen"
+          ]
         },
 
         {
@@ -2637,8 +2635,7 @@
           ],
           "nextMainchapterid": 1,
           "nextSubchapterid": 106,
-          "lastnodeid": 910712,
-          "relatedMainEventId": "YCGD"
+          "lastnodeid": 910712
         },
         {
           "id": 9108,
@@ -2662,8 +2659,7 @@
               "stageId": 10557,
               "stageNodeType": "NORMAL"
             }
-          ],
-          "relatedMainEventId": "Walpu3"
+          ]
         },
         {
           "id": 9109,
@@ -2800,8 +2796,7 @@
           ],
           "nextMainchapterid": 91,
           "nextSubchapterid": 9110,
-          "lastnodeid": 910915,
-          "relatedMainEventId": "TKT"
+          "lastnodeid": 910915
         },
         {
           "id": 9110,
@@ -2938,8 +2933,7 @@
           ],
           "nextMainchapterid": 1,
           "nextSubchapterid": 107,
-          "lastnodeid": 911015,
-          "relatedMainEventId": "MOWE"
+          "lastnodeid": 911015
         },
         {
           "id": 9111,
@@ -2968,8 +2962,7 @@
               "stageId": 10561,
               "stageNodeType": "NORMAL"
             }
-          ],
-          "relatedMainEventId": "Walpu4"
+          ]
         }
       ]
     }

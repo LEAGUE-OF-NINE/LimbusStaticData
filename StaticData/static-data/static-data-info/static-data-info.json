@@ -178,10 +178,11 @@
       ]
     },
     {
-      "dataClass": "rail-Line2-buff",
+      "dataClass": "faction-buff",
       "fileList": [
         "rail-line2-buff",
-        "rail-line2-content-buff"
+        "rail-line2-content-buff",
+        "mirror-dungeon-5-faction-buff"
       ]
     },
     {
@@ -345,7 +346,8 @@
         "passive-enemy-wp4",
         "passive-enemy-a1c7p1",
         "passive-enemy-a1c7p2",
-        "passive-enemy-a1c7p3"
+        "passive-enemy-a1c7p3",
+        "passive-mr5"
       ]
     },
     {

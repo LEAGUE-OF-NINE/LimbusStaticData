@@ -5757,8 +5757,8 @@
       "level": 30,
       "attributeType": "VIOLET",
       "hp": {
-        "defaultStat": 242,
-        "incrementByLevel": 9.18
+        "defaultStat": 444,
+        "incrementByLevel": 30.59
       },
       "patternID": "8556",
       "startActionSlotNum": 5,
@@ -6215,15 +6215,15 @@
     },
     {
       "id": 1029,
-      "nameID": 8180,
-      "sdPortrait": 8569,
-      "viewid": 8569,
-      "originID": 8569,
-      "storyID": 8569,
+      "nameID": 8177,
+      "sdPortrait": 8566,
+      "viewid": 8566,
+      "originID": 8566,
+      "storyID": 8566,
       "appearance": "8564_RoseSign_RoseAppearance",
       "unitKeywordList": [ "SMALL" ],
       "level": 35,
-      "attributeType": "INDIGO",
+      "attributeType": "AMBER",
       "hp": {
         "defaultStat": 22,
         "incrementByLevel": 0.79
@@ -6236,37 +6236,56 @@
       ],
       "attributeList": [
         {
-          "skillId": 856901,
-          "number": 2
-        },
-        {
-          "skillId": 856902,
+          "skillId": 856601,
           "number": 1
         },
         {
-          "skillId": 856903,
+          "skillId": 856602,
           "number": 1
+        },
+        {
+          "skillId": 856603,
+          "number": 0
         }
       ],
       "passiveSet": {
         "passiveIdList": [
           855605,
           855606,
-          856904
+          856603
         ]
-      }
+      },
+      "patternList": [
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 856603,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 1030,
-      "nameID": 8181,
-      "sdPortrait": 8570,
-      "viewid": 8570,
-      "originID": 8570,
-      "storyID": 8570,
+      "nameID": 8178,
+      "sdPortrait": 8567,
+      "viewid": 8567,
+      "originID": 8567,
+      "storyID": 8567,
       "appearance": "8564_RoseSign_RoseAppearance",
       "unitKeywordList": [ "SMALL" ],
       "level": 35,
-      "attributeType": "VIOLET",
+      "attributeType": "SHAMROCK",
       "hp": {
         "defaultStat": 22,
         "incrementByLevel": 0.79
@@ -6291,28 +6310,9 @@
         "passiveIdList": [
           855605,
           855606,
-          857004
+          856703
         ]
-      },
-      "patternList": [
-        {
-          "slotList": [
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 857002,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            }
-          ]
-        }
-      ]
+      }
     },
     {
       "id": 1031,
@@ -11609,6 +11609,7 @@
     {
       "id": 1049,
       "nameID": 8164,
+      "sdPortrait": 8164,
       "appearance": "8164_MaouHeathclif_DeadRabbitsAppearance",
       "unitKeywordList": [ "SMALL" ],
       "associationList": [],
@@ -12385,6 +12386,7 @@
     {
       "id": 1050,
       "nameID": 8172,
+      "sdPortrait": 8172,
       "appearance": "8172_MaouHeathclif_MainAppearance",
       "unitKeywordList": [ "SMALL", "WUTHERING_HEIGHTS" ],
       "associationList": [],
@@ -16553,10 +16555,10 @@
     },
     {
       "id": 1071,
-      "viewid": 8372,
+      "viewid": 8378,
       "sdPortrait": 8372,
       "storyID": 8372,
-      "nameID": 8372,
+      "nameID": 8395,
       "appearance": "8372_Barber_NicoleAppearance",
       "associationList": [],
       "unitKeywordList": [ "SMALL", "BLOODFIEND", "THIRD_DEPENDENT" ],

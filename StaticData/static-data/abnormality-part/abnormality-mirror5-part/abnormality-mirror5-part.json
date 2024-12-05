@@ -3064,8 +3064,8 @@
         "Default3"
       ],
       "hp": {
-        "defaultStat": 73,
-        "incrementByLevel": 2.75
+        "defaultStat": 133,
+        "incrementByLevel": 9.18
       },
       "defCorrection": -4,
       "minSpeedList": [
@@ -3152,8 +3152,8 @@
         "Default3"
       ],
       "hp": {
-        "defaultStat": 121,
-        "incrementByLevel": 4.59
+        "defaultStat": 222,
+        "incrementByLevel": 15.29
       },
       "defCorrection": -4,
       "minSpeedList": [

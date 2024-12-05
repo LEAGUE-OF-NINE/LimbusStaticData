@@ -279,7 +279,7 @@
         {
           "upgradeLevel": 0,
           "localizeID": 9180,
-          "abilityIDList": [ 9180, 91801, 91802 ]
+          "abilityIDList": [ 9180, 91801, 91802, 91804 ]
         }
       ],
       "tag": [
@@ -772,6 +772,260 @@
       "keyword": "None",
       "lockType": false,
       "price": 396
+    },
+    {
+      "id": 9193,
+      "attributeType": "VIOLET",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9193,
+          "abilityIDList": [ 9193, 91931 ]
+        }
+      ],
+      "tag": [
+        "TIER_1"
+      ],
+      "keyword": "Slash",
+      "lockType": false,
+      "price": 148
+    },
+    {
+      "id": 9194,
+      "attributeType": "SHAMROCK",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9194,
+          "abilityIDList": [ 9194, 91941 ]
+        },
+        {
+          "upgradeLevel": 1,
+          "localizeID": 19194,
+          "abilityIDList": [ 19194, 191941 ]
+        },
+        {
+          "upgradeLevel": 2,
+          "localizeID": 29194,
+          "abilityIDList": [ 29194, 291941 ]
+        }
+      ],
+      "tag": [
+        "TIER_2"
+      ],
+      "keyword": "Slash",
+      "lockType": false,
+      "price": 207
+    },
+    {
+      "id": 9195,
+      "attributeType": "SHAMROCK",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9195,
+          "abilityIDList": [ 9195, 91951 ]
+        },
+        {
+          "upgradeLevel": 1,
+          "localizeID": 19195,
+          "abilityIDList": [ 19195, 191951 ]
+        },
+        {
+          "upgradeLevel": 2,
+          "localizeID": 29195,
+          "abilityIDList": [ 29195, 291951 ]
+        }
+      ],
+      "tag": [
+        "TIER_3"
+      ],
+      "keyword": "Slash",
+      "lockType": false,
+      "price": 264
+    },
+    {
+      "id": 9196,
+      "attributeType": "AZURE",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9196,
+          "abilityIDList": [ 9196, 91961, 91962 ]
+        }
+      ],
+      "tag": [
+        "TIER_4"
+      ],
+      "keyword": "Slash",
+      "lockType": false,
+      "price": 420
+    },
+    {
+      "id": 9197,
+      "attributeType": "AMBER",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9197,
+          "abilityIDList": [ 9197, 91971 ]
+        }
+      ],
+      "tag": [
+        "TIER_1"
+      ],
+      "keyword": "Penetrate",
+      "lockType": false,
+      "price": 148
+    },
+    {
+      "id": 9198,
+      "attributeType": "INDIGO",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9198,
+          "abilityIDList": [ 9198, 91981 ]
+        },
+        {
+          "upgradeLevel": 1,
+          "localizeID": 19198,
+          "abilityIDList": [ 19198, 191981 ]
+        },
+        {
+          "upgradeLevel": 2,
+          "localizeID": 29198,
+          "abilityIDList": [ 29198, 291981 ]
+        }
+      ],
+      "tag": [
+        "TIER_2"
+      ],
+      "keyword": "Penetrate",
+      "lockType": false,
+      "price": 203
+    },
+    {
+      "id": 9199,
+      "attributeType": "SHAMROCK",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9199,
+          "abilityIDList": [ 9199, 91991 ]
+        },
+        {
+          "upgradeLevel": 1,
+          "localizeID": 19199,
+          "abilityIDList": [ 19199, 191991 ]
+        },
+        {
+          "upgradeLevel": 2,
+          "localizeID": 29199,
+          "abilityIDList": [ 29199, 291991 ]
+        }
+      ],
+      "tag": [
+        "TIER_3"
+      ],
+      "keyword": "Penetrate",
+      "lockType": false,
+      "price": 251
+    },
+    {
+      "id": 9200,
+      "attributeType": "SCARLET",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9200,
+          "abilityIDList": [ 9200, 92001 ]
+        }
+      ],
+      "tag": [
+        "TIER_4"
+      ],
+      "keyword": "Penetrate",
+      "lockType": false,
+      "price": 407
+    },
+    {
+      "id": 9201,
+      "attributeType": "CRIMSON",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9201,
+          "abilityIDList": [ 9201, 92011 ]
+        }
+      ],
+      "tag": [
+        "TIER_1"
+      ],
+      "keyword": "Hit",
+      "lockType": false,
+      "price": 148
+    },
+    {
+      "id": 9202,
+      "attributeType": "AZURE",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9202,
+          "abilityIDList": [ 9202, 92021 ]
+        },
+        {
+          "upgradeLevel": 1,
+          "localizeID": 19202,
+          "abilityIDList": [ 19202, 192021 ]
+        },
+        {
+          "upgradeLevel": 2,
+          "localizeID": 29202,
+          "abilityIDList": [ 29202, 292021 ]
+        }
+      ],
+      "tag": [
+        "TIER_2"
+      ],
+      "keyword": "Hit",
+      "lockType": false,
+      "price": 201
+    },
+    {
+      "id": 9203,
+      "attributeType": "AMBER",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9203,
+          "abilityIDList": [ 9203, 92031 ]
+        }
+      ],
+      "tag": [
+        "TIER_3"
+      ],
+      "keyword": "Hit",
+      "lockType": false,
+      "price": 250
+    },
+    {
+      "id": 9204,
+      "attributeType": "VIOLET",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9204,
+          "abilityIDList": [ 9204, 92041, 92042 ]
+        }
+      ],
+      "tag": [
+        "TIER_4"
+      ],
+      "keyword": "Hit",
+      "lockType": false,
+      "price": 416
     }
   ]
 }
