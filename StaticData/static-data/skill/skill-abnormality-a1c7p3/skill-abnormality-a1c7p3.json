@@ -2240,7 +2240,7 @@
               "scriptName": "EmptyBody"
             },
             {
-              "scriptName": "GiveBuffOnUseWithBloodDinner[10:50:10]",
+              "scriptName": "GiveBuffOnUseWithBloodDinner[50:1000:50]",
               "buffData": {
                 "buffKeyword": "BloodyHand",
                 "target": "Self",

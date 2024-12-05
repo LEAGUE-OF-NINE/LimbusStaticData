@@ -456,7 +456,7 @@
           "contentType": "TABLE",
           "debug": "1번 테이블 재료 수량에 따른 키워드 고정 확률 테이블",
           "tableData": {
-            "rowSize": 3,
+            "rowSize": 4,
             "columnSize": 2,
             "contentList": [
               {
@@ -501,6 +501,20 @@
                 "column": 1,
                 "textIdList": [
                   "new_ego_gift_combine_guide_table_1_desc_2_1"
+                ]
+              },
+              {
+                "row": 3,
+                "column": 0,
+                "textIdList": [
+                  "new_ego_gift_combine_guide_table_1_desc_3_0"
+                ]
+              },
+              {
+                "row": 3,
+                "column": 1,
+                "textIdList": [
+                  "new_ego_gift_combine_guide_table_1_desc_3_1"
                 ]
               }
             ]
@@ -759,6 +773,100 @@
           },
           "layoutData": {
             "paddingTop": 30.0
+          }
+        },
+
+        {
+          "contentType": "TEXT",
+          "textContentData": {
+            "textIdList": [
+              "mirrordungeon_egogift_combine_guide_result_label_upgrade"
+            ]
+          },
+          "layoutData": {
+            "paddingTop": 60.0
+          }
+        },
+        {
+          "contentType": "TABLE",
+          "debug": "3번 테이블. 점수별 결과 등급",
+          "tableData": {
+            "rowSize": 5,
+            "columnSize": 2,
+            "contentList": [
+              {
+                "row": 0,
+                "column": 0,
+                "isTitle": true,
+                "textIdList": [
+                  "mirrordungeon_egogift_combine_guide_result_total_header"
+                ]
+              },
+              {
+                "row": 0,
+                "column": 1,
+                "isTitle": true,
+                "textIdList": [
+                  "mirrordungeon_egogift_combine_guide_result_tier_header"
+                ]
+              },
+              {
+                "row": 1,
+                "column": 0,
+                "textIdList": [
+                  "mirrordungeon_egogift_combine_guide_result_total_1_upgrade"
+                ]
+              },
+              {
+                "row": 1,
+                "column": 1,
+                "textIdList": [
+                  "mirrordungeon_egogift_combine_guide_result_tier_1"
+                ]
+              },
+              {
+                "row": 2,
+                "column": 0,
+                "textIdList": [
+                  "mirrordungeon_egogift_combine_guide_result_total_2_upgrade"
+                ]
+              },
+              {
+                "row": 2,
+                "column": 1,
+                "textIdList": [
+                  "mirrordungeon_egogift_combine_guide_result_tier_2"
+                ]
+              },
+              {
+                "row": 3,
+                "column": 0,
+                "textIdList": [
+                  "mirrordungeon_egogift_combine_guide_result_total_3_upgrade"
+                ]
+              },
+              {
+                "row": 3,
+                "column": 1,
+                "textIdList": [
+                  "mirrordungeon_egogift_combine_guide_result_tier_3"
+                ]
+              },
+              {
+                "row": 4,
+                "column": 0,
+                "textIdList": [
+                  "mirrordungeon_egogift_combine_guide_result_total_4_upgrade"
+                ]
+              },
+              {
+                "row": 4,
+                "column": 1,
+                "textIdList": [
+                  "mirrordungeon_egogift_combine_guide_result_tier_4"
+                ]
+              }
+            ]
           }
         }
       ]

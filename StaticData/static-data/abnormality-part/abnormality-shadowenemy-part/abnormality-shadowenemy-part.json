@@ -527,6 +527,17 @@
       "spreadMpEffectToAbnormality": "true",
       "partType": "BODY",
       "nameID": 999999
+    },
+    {
+      "id": 832801,
+      "defCorrection": -3,
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "spreadMpEffectToAbnormality": "true",
+      "partType": "BODY",
+      "nameID": 999999
     }
   ]
 }

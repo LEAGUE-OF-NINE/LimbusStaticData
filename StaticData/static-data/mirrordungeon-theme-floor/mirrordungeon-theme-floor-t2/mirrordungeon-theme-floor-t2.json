@@ -103,6 +103,12 @@
         "specialEventProb" : 0.75
       },
       "egoGiftPool": [
+        9701,
+        9702,
+        9703,
+        9704,
+        9705,
+
         9001,
         9002,
         9003,
@@ -175,12 +181,7 @@
         9093,
         9095,
         9097,
-        9099,
-        9701,
-        9702,
-        9703,
-        9704,
-        9705
+        9099
       ],
       "specificEgoGiftPool": [
         9701,
@@ -312,6 +313,10 @@
         ]
       },
       "egoGiftPool": [
+        9706,
+        9707,
+        9708,
+
         9001,
         9003,
         9005,
@@ -382,10 +387,7 @@
         9093,
         9095,
         9097,
-        9099,
-        9706,
-        9707,
-        9708
+        9099
       ],
       "specificEgoGiftPool": [
         9706,
@@ -446,7 +448,6 @@
         {
           "dungeonIdx": 1,
           "selectableFloors": [
-            1,
             2
           ]
         }
@@ -520,6 +521,10 @@
         ]
       },
       "egoGiftPool": [
+        9709,
+        9710,
+        9711,
+
         9001,
         9003,
         9005,
@@ -592,10 +597,7 @@
         9093,
         9095,
         9097,
-        9099,
-        9709,
-        9710,
-        9711
+        9099
       ],
       "specificEgoGiftPool": [
         9709,
@@ -742,6 +744,14 @@
         "specialEventProb" : 0.75
       },
       "egoGiftPool": [
+        9712,
+        9713,
+        9714,
+        9715,
+        9716,
+        9719,
+        9720,
+        
         9001,
         9003,
         9005,
@@ -814,14 +824,7 @@
         9093,
         9095,
         9097,
-        9099,
-        9712,
-        9713,
-        9714,
-        9715,
-        9716,
-        9719,
-        9720
+        9099
       ],
       "specificEgoGiftPool": [
         9712,
@@ -974,6 +977,14 @@
         "specialEventProb" : 0.75
       },
       "egoGiftPool": [
+        9721,
+        9722,
+        9723,
+        9724,
+        9725,
+        9726,
+        9727,
+        
         9001,
         9003,
         9005,
@@ -1046,14 +1057,7 @@
         9093,
         9095,
         9097,
-        9099,
-        9721,
-        9722,
-        9723,
-        9724,
-        9725,
-        9726,
-        9727
+        9099
       ],
       "specificEgoGiftPool": [
         9721,
@@ -1208,6 +1212,15 @@
         "specialEventProb" : 0.75
       },
       "egoGiftPool": [
+        9732,
+        9733,
+        9734,
+        9735,
+        9736,
+        9737,
+        9738,
+        9739,
+
         9001,
         9003,
         9005,
@@ -1280,15 +1293,7 @@
         9093,
         9095,
         9097,
-        9099,
-        9732,
-        9733,
-        9734,
-        9735,
-        9736,
-        9737,
-        9738,
-        9739
+        9099
       ],
       "specificEgoGiftPool": [
         9732,
@@ -1388,6 +1393,14 @@
         "specialEventProb" : 1
       },
       "egoGiftPool": [
+        9744,
+        9745,
+        9746,
+        9747,
+        9748,
+        9749,
+        9750,
+
         9001,
         9003,
         9005,
@@ -1460,14 +1473,7 @@
         9093,
         9095,
         9097,
-        9099,
-        9744,
-        9745,
-        9746,
-        9747,
-        9748,
-        9749,
-        9750
+        9099
       ],
       "specificEgoGiftPool": [
         9744,
@@ -1605,53 +1611,19 @@
       ],
       "mapGenOption": {
         "bossPool": [
-          2066931,
-          2066932,
-          2066933,
-          2066934
+          2066935
         ],
         "battlePool": [
-          2066901,
-          2066902,
-          2066903,
-          2066904,
-          2066905,
-          2066906,
-          2066907,
-          2066908,
-          2066909,
-          2066910,
-          2066911,
-          2066912,
-          2066913,
-          2066914,
-          2066915,
-          2066916,
-          2066917,
-          2066918,
-          2066919,
-          2066920
+          
         ],
         "abBattlePool": [
-          2066921,
-          2066922,
-          2066923,
-          2066924,
-          2066925
+
         ],
         "hardBattlePool": [
-          2066926,
-          2066927,
-          2066928,
-          2066929,
-          2066930
+          
         ],
         "hardAbBattlePool": [
-          2066941,
-          2066942,
-          2066943,
-          2066944,
-          2066945
+
         ],
         "eventPool": [
           901041,
@@ -1692,6 +1664,9 @@
         ]
       },
       "egoGiftPool": [
+        9751,
+        9752,
+
         9155,
         9156,
         9159,
@@ -1706,9 +1681,7 @@
         9174,
         9177,
         9178,
-        9182,
-        9751,
-        9752
+        9182
       ],
       "specificEgoGiftPool": [
         9751,
@@ -1716,29 +1689,102 @@
       ],
       "mapGenSequence": [
         {
-          "type": "CREATE_EMPTY_MD4_FLOOR",
+          "type": "CREATE_FIXED_FLOOR",
           "numberList": [
-            5,
+            3,
             3,
             1
+          ],
+          "nodeList": [
+            {
+              "sector": 0,
+              "idx": 0,
+              "encounterType": 0,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [0]
+            },
+            {
+              "sector": 1,
+              "idx": 0,
+              "encounterType": 3,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [0]
+            },
+            {
+              "sector": 2,
+              "idx": 0,
+              "encounterType": 3,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [0]
+            },
+            {
+              "sector": 3,
+              "idx": 0,
+              "encounterType": 10,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [0]
+            },
+            {
+              "sector": 4,
+              "idx": 0,
+              "encounterType": 6,
+              "encounterId": 2066935,
+              "connectedNextNodeIdxList": []
+            }
           ]
         },
         {
-          "type": "FILL_MAP_BY_THEMEFLOOR_MAPGENOPTION",
-          "numberValue": 1108
+          "type": "FILL_EMPTY_EVENT",
+          "numberList": [
+            901041,
+            901042,
+            901043,
+            901047,
+            901049,
+            901051,
+            901054,
+            901056,
+            901057,
+            901058,
+            901059,
+            901061,
+            901062,
+            901063,
+            901066,
+            901067,
+            901068,
+            901069,
+            901073,
+            901074,
+            901076,
+            901077,
+            901078,
+            901079,
+            901080,
+            901084,
+            901085,
+            901091,
+            901095,
+            901099,
+            901100,
+            901101,
+            901102,
+            901103,
+            901104
+          ]
         }
       ],
       "uiConfigs": {
         "showBossIds": [
           8075,
           8076,
-          8082,
           8078
         ],
         "packSpriteId": "RailwayDungeon_1",
-        "isShowWarning": true,
+        "isShowWarning": false,
         "textColor": "7e57a8",
         "isHideLogo": true,
+        "isShowBaton":true,
         "mapOptions": [
           {
             "key": "SetColor_Basic",
@@ -1771,53 +1817,19 @@
       ],
       "mapGenOption": {
         "bossPool": [
-          2067031,
-          2067032,
-          2067033,
-          2067034
+          2067035
         ],
         "battlePool": [
-          2067001,
-          2067002,
-          2067003,
-          2067004,
-          2067005,
-          2067006,
-          2067007,
-          2067008,
-          2067009,
-          2067010,
-          2067011,
-          2067012,
-          2067013,
-          2067014,
-          2067015,
-          2067016,
-          2067017,
-          2067018,
-          2067019,
-          2067020
+          
         ],
         "abBattlePool": [
-          2067021,
-          2067022,
-          2067023,
-          2067024,
-          2067025
+          
         ],
         "hardBattlePool": [
-          2067026,
-          2067027,
-          2067028,
-          2067029,
-          2067030
+          
         ],
         "hardAbBattlePool": [
-          2067041,
-          2067042,
-          2067043,
-          2067044,
-          2067045
+          
         ],
         "eventPool": [
           901041,
@@ -1858,6 +1870,9 @@
         ]
       },
       "egoGiftPool": [
+        9753,
+        9754,
+
         9155,
         9156,
         9159,
@@ -1872,9 +1887,7 @@
         9174,
         9177,
         9178,
-        9182,
-        9753,
-        9754
+        9182
       ],
       "specificEgoGiftPool": [
         9753,
@@ -1882,29 +1895,100 @@
       ],
       "mapGenSequence": [
         {
-          "type": "CREATE_EMPTY_MD4_FLOOR",
+          "type": "CREATE_FIXED_FLOOR",
           "numberList": [
-            5,
+            3,
             3,
             1
+          ],
+          "nodeList": [
+            {
+              "sector": 0,
+              "idx": 0,
+              "encounterType": 0,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [0]
+            },
+            {
+              "sector": 1,
+              "idx": 0,
+              "encounterType": 3,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [0]
+            },
+            {
+              "sector": 2,
+              "idx": 0,
+              "encounterType": 3,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [0]
+            },
+            {
+              "sector": 3,
+              "idx": 0,
+              "encounterType": 10,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [0]
+            },
+            {
+              "sector": 4,
+              "idx": 0,
+              "encounterType": 6,
+              "encounterId": 2067035,
+              "connectedNextNodeIdxList": []
+            }
           ]
         },
         {
-          "type": "FILL_MAP_BY_THEMEFLOOR_MAPGENOPTION",
-          "numberValue": 1109
+          "type": "FILL_EMPTY_EVENT",
+          "numberList": [
+            901041,
+            901042,
+            901043,
+            901047,
+            901049,
+            901051,
+            901054,
+            901056,
+            901057,
+            901058,
+            901059,
+            901061,
+            901062,
+            901063,
+            901066,
+            901067,
+            901068,
+            901069,
+            901073,
+            901074,
+            901076,
+            901077,
+            901078,
+            901079,
+            901080,
+            901084,
+            901085,
+            901091,
+            901095,
+            901099,
+            901100,
+            901101,
+            901102,
+            901103,
+            901104
+          ]
         }
       ],
       "uiConfigs": {
         "showBossIds": [
-          8118,
-          8117,
-          8119,
           8201
         ],
         "packSpriteId": "RailwayDungeon_2",
-        "isShowWarning": true,
+        "isShowWarning": false,
         "textColor": "7e57a8",
         "isHideLogo": true,
+        "isShowBaton":true,
         "mapOptions": [
           {
             "key": "SetColor_Basic",
@@ -1937,50 +2021,19 @@
       ],
       "mapGenOption": {
         "bossPool": [
-          2067131,
-          2067132,
-          2067133
+          2067134
         ],
         "battlePool": [
-          2067101,
-          2067102,
-          2067103,
-          2067104,
-          2067105,
-          2067106,
-          2067107,
-          2067108,
-          2067109,
-          2067110,
-          2067111,
-          2067112,
-          2067113,
-          2067114,
-          2067115,
-          2067116,
-          2067117,
-          2067118,
-          2067119,
-          2067120
+          
         ],
         "abBattlePool": [
-          2067121,
-          2067122,
-          2067123,
-          2067124,
-          2067125
+          
         ],
         "hardBattlePool": [
-          2067126,
-          2067127,
-          2067128,
-          2067129,
-          2067130
+
         ],
         "hardAbBattlePool": [
-          2067141,
-          2067142,
-          2067143
+          
         ],
         "eventPool": [
           901041,
@@ -2021,6 +2074,9 @@
         ]
       },
       "egoGiftPool": [
+        9755,
+        9756,
+
         9155,
         9156,
         9159,
@@ -2035,9 +2091,7 @@
         9174,
         9177,
         9178,
-        9182,
-        9755,
-        9756
+        9182
       ],
       "specificEgoGiftPool": [
         9755,
@@ -2045,28 +2099,102 @@
       ],
       "mapGenSequence": [
         {
-          "type": "CREATE_EMPTY_MD4_FLOOR",
+          "type": "CREATE_FIXED_FLOOR",
           "numberList": [
-            5,
+            3,
             3,
             1
+          ],
+          "nodeList": [
+            {
+              "sector": 0,
+              "idx": 0,
+              "encounterType": 0,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [0]
+            },
+            {
+              "sector": 1,
+              "idx": 0,
+              "encounterType": 3,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [0]
+            },
+            {
+              "sector": 2,
+              "idx": 0,
+              "encounterType": 3,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [0]
+            },
+            {
+              "sector": 3,
+              "idx": 0,
+              "encounterType": 10,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [0]
+            },
+            {
+              "sector": 4,
+              "idx": 0,
+              "encounterType": 6,
+              "encounterId": 2067134,
+              "connectedNextNodeIdxList": []
+            }
           ]
         },
         {
-          "type": "FILL_MAP_BY_THEMEFLOOR_MAPGENOPTION",
-          "numberValue": 1110
+          "type": "FILL_EMPTY_EVENT",
+          "numberList": [
+            901041,
+            901042,
+            901043,
+            901047,
+            901049,
+            901051,
+            901054,
+            901056,
+            901057,
+            901058,
+            901059,
+            901061,
+            901062,
+            901063,
+            901066,
+            901067,
+            901068,
+            901069,
+            901073,
+            901074,
+            901076,
+            901077,
+            901078,
+            901079,
+            901080,
+            901084,
+            901085,
+            901091,
+            901095,
+            901099,
+            901100,
+            901101,
+            901102,
+            901103,
+            901104
+          ]
         }
       ],
       "uiConfigs": {
         "showBossIds": [
-          8198,
-          8197,
-          8199
+          70098,
+          70099,
+          70100
         ],
         "packSpriteId": "RailwayDungeon_3",
-        "isShowWarning": true,
+        "isShowWarning": false,
         "textColor": "7e57a8",
         "isHideLogo": true,
+        "isShowBaton":true,
         "mapOptions": [
           {
             "key": "SetColor_Basic",
@@ -2099,50 +2227,20 @@
       ],
       "mapGenOption": {
         "bossPool": [
-          2067231,
-          2067232,
-          2067233,
-          2067234,
-          2067235,
-          2067236
+          2067237
         ],
         "battlePool": [
-          2067201,
-          2067202,
-          2067203,
-          2067204,
-          2067205,
-          2067206,
-          2067207,
-          2067208,
-          2067209,
-          2067210,
-          2067211,
-          2067212,
-          2067213,
-          2067214,
-          2067215,
-          2067216,
-          2067217,
-          2067218,
-          2067219,
-          2067220
+
         ],
         "abBattlePool": [
-          2067221,
-          2067222,
-          2067223,
-          2067224,
-          2067225
+        
         ],
         "hardBattlePool": [
-          2067226,
-          2067227,
-          2067228,
-          2067229,
-          2067230
+
         ],
-        "hardAbBattlePool": [],
+        "hardAbBattlePool": [
+          
+        ],
         "eventPool": [
           901041,
           901042,
@@ -2182,6 +2280,9 @@
         ]
       },
       "egoGiftPool": [
+        9757,
+        9758,
+
         9155,
         9156,
         9159,
@@ -2196,9 +2297,7 @@
         9174,
         9177,
         9178,
-        9182,
-        9757,
-        9758
+        9182
       ],
       "specificEgoGiftPool": [
         9757,
@@ -2206,28 +2305,304 @@
       ],
       "mapGenSequence": [
         {
-          "type": "CREATE_EMPTY_MD4_FLOOR",
+          "type": "CREATE_FIXED_FLOOR",
           "numberList": [
-            5,
+            3,
             3,
             1
+          ],
+          "nodeList": [
+            {
+              "sector": 0,
+              "idx": 0,
+              "encounterType": 0,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [0]
+            },
+            {
+              "sector": 1,
+              "idx": 0,
+              "encounterType": 3,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [0]
+            },
+            {
+              "sector": 2,
+              "idx": 0,
+              "encounterType": 3,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [0]
+            },
+            {
+              "sector": 3,
+              "idx": 0,
+              "encounterType": 10,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [0]
+            },
+            {
+              "sector": 4,
+              "idx": 0,
+              "encounterType": 6,
+              "encounterId": 2067237,
+              "connectedNextNodeIdxList": []
+            }
           ]
         },
         {
-          "type": "FILL_MAP_BY_THEMEFLOOR_MAPGENOPTION",
-          "numberValue": 1111
+          "type": "FILL_EMPTY_EVENT",
+          "numberList": [
+            901041,
+            901042,
+            901043,
+            901047,
+            901049,
+            901051,
+            901054,
+            901056,
+            901057,
+            901058,
+            901059,
+            901061,
+            901062,
+            901063,
+            901066,
+            901067,
+            901068,
+            901069,
+            901073,
+            901074,
+            901076,
+            901077,
+            901078,
+            901079,
+            901080,
+            901084,
+            901085,
+            901091,
+            901095,
+            901099,
+            901100,
+            901101,
+            901102,
+            901103,
+            901104
+          ]
         }
       ],
       "uiConfigs": {
         "showBossIds": [
-          1058,
-          1061,
-          1063
+          1061
         ],
         "packSpriteId": "RailwayDungeon_4",
-        "isShowWarning": true,
+        "isShowWarning": false,
         "textColor": "7e57a8",
         "isHideLogo": true,
+        "isShowBaton":true,
+        "mapOptions": [
+          {
+            "key": "SetColor_Basic",
+            "value": "7e57a8"
+          },
+          {
+            "key": "SetColor_Cleared",
+            "value": "4e3076"
+          },
+          {
+            "key": "MirrorDungeon4_Base"
+          }
+        ]
+      },
+      "difficulty": "DIFFICULT"
+    },
+    {
+      "id": 1112,
+      "unlockCondition": {
+        "unlockCode": 106
+      },
+      "desc": "거울굴절철도 4호선-2",
+      "exceptionConditions": [
+        {
+          "dungeonIdx": 1,
+          "selectableFloors": [
+            4
+          ]
+        }
+      ],
+      "mapGenOption": {
+        "bossPool": [
+          2067331
+        ],
+        "battlePool": [
+
+        ],
+        "abBattlePool": [
+        
+        ],
+        "hardBattlePool": [
+
+        ],
+        "hardAbBattlePool": [
+          
+        ],
+        "eventPool": [
+          901041,
+          901042,
+          901043,
+          901047,
+          901049,
+          901051,
+          901054,
+          901056,
+          901057,
+          901058,
+          901059,
+          901061,
+          901062,
+          901063,
+          901066,
+          901067,
+          901068,
+          901069,
+          901073,
+          901074,
+          901076,
+          901077,
+          901078,
+          901079,
+          901080,
+          901084,
+          901085,
+          901091,
+          901095,
+          901099,
+          901100,
+          901101,
+          901102,
+          901103,
+          901104
+        ]
+      },
+      "egoGiftPool": [
+        9757,
+        9758,
+
+        9155,
+        9156,
+        9159,
+        9160,
+        9163,
+        9164,
+        9165,
+        9168,
+        9169,
+        9172,
+        9173,
+        9174,
+        9177,
+        9178,
+        9182
+      ],
+      "specificEgoGiftPool": [
+        9757,
+        9758
+      ],
+      "mapGenSequence": [
+        {
+          "type": "CREATE_FIXED_FLOOR",
+          "numberList": [
+            3,
+            3,
+            1
+          ],
+          "nodeList": [
+            {
+              "sector": 0,
+              "idx": 0,
+              "encounterType": 0,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [0]
+            },
+            {
+              "sector": 1,
+              "idx": 0,
+              "encounterType": 3,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [0]
+            },
+            {
+              "sector": 2,
+              "idx": 0,
+              "encounterType": 3,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [0]
+            },
+            {
+              "sector": 3,
+              "idx": 0,
+              "encounterType": 10,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [0]
+            },
+            {
+              "sector": 4,
+              "idx": 0,
+              "encounterType": 6,
+              "encounterId": 2067331,
+              "connectedNextNodeIdxList": []
+            }
+          ]
+        },
+        {
+          "type": "FILL_EMPTY_EVENT",
+          "numberList": [
+            901041,
+            901042,
+            901043,
+            901047,
+            901049,
+            901051,
+            901054,
+            901056,
+            901057,
+            901058,
+            901059,
+            901061,
+            901062,
+            901063,
+            901066,
+            901067,
+            901068,
+            901069,
+            901073,
+            901074,
+            901076,
+            901077,
+            901078,
+            901079,
+            901080,
+            901084,
+            901085,
+            901091,
+            901095,
+            901099,
+            901100,
+            901101,
+            901102,
+            901103,
+            901104
+          ]
+        }
+      ],
+      "uiConfigs": {
+        "showBossIds": [
+          1063
+        ],
+        "packSpriteId": "RailwayDungeon_4_2",
+        "isShowWarning": false,
+        "textColor": "7e57a8",
+        "isHideLogo": true,
+        "isShowBaton":true,
         "mapOptions": [
           {
             "key": "SetColor_Basic",

@@ -469,17 +469,6 @@
                 "nextEventID": 90100502
               }
             ]
-          },
-          {
-            "index": 2,
-            "cantSelectInThisCase": "None",
-            "resultList": [
-              {
-                "resultIndex": 0,
-                "resultCondition": "Prob_1",
-                "nextEventID": 90100503
-              }
-            ]
           }
         ]
       }
@@ -6654,13 +6643,6 @@
                         "prob": 1
                       }
                     }
-                  },
-                  {
-                    "resultForm": {
-                      "resultEffect": "GetConfirmedEgogiftOnWinBattle",
-                      "resultDescId": "Choice_LoseBattle",
-                      "nextBattleID": -1
-                    }
                   }
                 ]
               }
@@ -6832,7 +6814,7 @@
                   {
                     "resultForm": {
                       "resultEffect": "GetConfirmedEgogiftOnWinBattle",
-                      "resultDescId": "Choice_EGO971029",
+                      "resultDescId": "Choice_EGO901104",
                       "nextBattleID": -1,
                       "itemReward": {
                         "type": "EGO_GIFT",
@@ -6840,13 +6822,6 @@
                         "num": 1,
                         "prob": 1
                       }
-                    }
-                  },
-                  {
-                    "resultForm": {
-                      "resultEffect": "GetConfirmedEgogiftOnWinBattle",
-                      "resultDescId": "Choice_LoseBattle",
-                      "nextBattleID": -1
                     }
                   }
                 ]

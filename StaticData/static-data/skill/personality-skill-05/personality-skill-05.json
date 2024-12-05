@@ -5508,7 +5508,7 @@
                     "buffKeyword": "Burst",
                     "target": "Target",
                     "buffOwner": "",
-                    "stack": -1,
+                    "stack": 0,
                     "turn": 0,
                     "activeRound": 0,
                     "value": 3
