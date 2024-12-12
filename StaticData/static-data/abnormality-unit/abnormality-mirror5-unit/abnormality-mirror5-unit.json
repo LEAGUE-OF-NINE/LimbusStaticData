@@ -6298,12 +6298,16 @@
       ],
       "attributeList": [
         {
-          "skillId": 857001,
+          "skillId": 856701,
           "number": 1
         },
         {
-          "skillId": 857002,
-          "number": 0
+          "skillId": 856702,
+          "number": 1
+        },
+        {
+          "skillId": 856703,
+          "number": 1
         }
       ],
       "passiveSet": {
@@ -12399,7 +12403,7 @@
       },
       "startActionSlotNum": 3,
       "maxActionSlotNum": 6,
-      "patternID": "8172",
+      "patternID": "1050",
       "abnormalityPartList": [
         105001
       ],

@@ -70,7 +70,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["Chapter7SetAllyDefaultMp", "Refill", "a1c7Normal"],
+      "stageScriptList": ["Chapter7SetAllyDefaultMp", "Refill", "a1c7Normal", "BlockBloodDinnerSc"],
       "story": {
         "enter": [
           "S721B"
@@ -148,7 +148,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["Chapter7SetAllyDefaultMp", "Refill", "a1c7Normal"],
+      "stageScriptList": ["Chapter7SetAllyDefaultMp", "Refill", "a1c7Normal", "BlockBloodDinnerSc"],
       "story": {
         "enter": [
           "S722B"
@@ -231,7 +231,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["Chapter7SetAllyDefaultMp", "Refill", "a1c7Normal"],
+      "stageScriptList": ["Chapter7SetAllyDefaultMp", "Refill", "a1c7Normal", "BlockBloodDinnerSc"],
       "story": {
         "enter": [
           "S723B"
@@ -324,7 +324,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["Chapter7SetAllyDefaultMp", "Refill", "a1c7Normal"],
+      "stageScriptList": ["Chapter7SetAllyDefaultMp", "Refill", "a1c7Normal", "BlockBloodDinnerSc"],
       "story": {
         "enter": [
           "S724B"
@@ -466,7 +466,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["Chapter7SetAllyDefaultMp", "Refill", "400001", "a1c7Normal"],
+      "stageScriptList": ["Chapter7SetAllyDefaultMp", "Refill", "400001", "a1c7Normal", "BlockBloodDinnerSc"],
       "story": {
         "enter": [
           "S731B"
@@ -562,7 +562,7 @@
           "localizeId": 1
         }
       ],
-      "stageScriptList": ["Chapter7SetAllyDefaultMp", "Refill", "400001", "a1c7Normal"],
+      "stageScriptList": ["Chapter7SetAllyDefaultMp", "Refill", "400001", "a1c7Normal", "BlockBloodDinnerSc"],
       "rewardList": []
     },
     {
@@ -665,7 +665,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["Chapter7SetAllyDefaultMp", "Refill", "400001", "a1c7Normal"],
+      "stageScriptList": ["Chapter7SetAllyDefaultMp", "Refill", "400001", "a1c7Normal", "BlockBloodDinnerSc"],
       "story": {
         "enter": [
           "S733B"
@@ -781,7 +781,7 @@
           "localizeId": 1
         }
       ],
-      "stageScriptList": ["Chapter7SetAllyDefaultMp", "Refill", "400001", "a1c7Normal"],
+      "stageScriptList": ["Chapter7SetAllyDefaultMp", "Refill", "400001", "a1c7Normal", "BlockBloodDinnerSc"],
       "rewardList": []
     },
     {
@@ -880,7 +880,7 @@
           "S735B"
         ]
       },      
-      "stageScriptList": ["8381", "Chapter7SetAllyDefaultMp", "400001", "a1c7Abnormality"]
+      "stageScriptList": ["8381", "Chapter7SetAllyDefaultMp", "400001", "a1c7Abnormality", "BlockBloodDinnerSc"]
     }
   ]
 }

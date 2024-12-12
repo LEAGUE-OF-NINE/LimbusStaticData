@@ -17,21 +17,9 @@
           "unitList": [
             {
               "unitID": 90046,
-              "unitCount": 4,
+              "unitCount": 3,
               "unitLevel": 27
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp1_Ally_2",
-            "Battle_Cp1_Enemy_2"
-          ]
-        },
-        {
-          "battleMapInfo": {
-            "mapName": "Cp4_BrokenKCorpStreet_v1",
-            "mapSize": 33.28
-          },
-          "unitList": [
+            },
             {
               "unitID": 90071,
               "unitCount": 1,
@@ -39,9 +27,13 @@
             },
             {
               "unitID": 90072,
-              "unitCount": 4,
+              "unitCount": 1,
               "unitLevel": 27
             }
+          ],
+          "bgmList": [
+            "Battle_Cp1_Ally_2",
+            "Battle_Cp1_Enemy_2"
           ]
         }
       ],
@@ -81,7 +73,12 @@
           "unitList": [
             {
               "unitID": 8042,
-              "unitCount": 4,
+              "unitCount": 3,
+              "unitLevel": 29
+            },
+            {
+              "unitID": 8041,
+              "unitCount": 1,
               "unitLevel": 29
             }
           ],
@@ -89,21 +86,6 @@
             "Battle_Cp1_Ally_3",
             "Battle_Cp1_Enemy_3"
           ]
-        },
-        {
-          "battleMapInfo": {
-            "mapName": "Cp4_BrokenKCorpStreet",
-            "mapSize": 33.28
-          },
-          "unitList": [
-            {
-              "unitID": 8041,
-              "unitCount": 1,
-              "unitLevel": 29
-            }
-          ],
-          "enemyPositionID": 30,
-          "allyPositionID": 34
         }
       ],
       "staminaCost": 20,
@@ -142,7 +124,7 @@
           "unitList": [
             {
               "unitID": 90071,
-              "unitCount": 2,
+              "unitCount": 3,
               "unitLevel": 27
             },
             {
@@ -154,24 +136,6 @@
           "bgmList": [
             "Battle_Cp1_Ally_2",
             "Battle_Cp1_Enemy_2"
-          ]
-        },
-        {
-          "battleMapInfo": {
-            "mapName": "Cp4_BrokenKCorpStreet_v1",
-            "mapSize": 33.28
-          },
-          "unitList": [
-            {
-              "unitID": 90071,
-              "unitCount": 3,
-              "unitLevel": 27
-            },
-            {
-              "unitID": 90072,
-              "unitCount": 2,
-              "unitLevel": 27
-            }
           ]
         }
       ],
@@ -206,28 +170,6 @@
           "unitList": [
             {
               "unitID": 90071,
-              "unitCount": 2,
-              "unitLevel": 28
-            },
-            {
-              "unitID": 90072,
-              "unitCount": 2,
-              "unitLevel": 28
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp1_Ally_2",
-            "Battle_Cp1_Enemy_2"
-          ]
-        },
-        {
-          "battleMapInfo": {
-            "mapName": "Cp4_BrokenKCorpStreet_v1",
-            "mapSize": 33.28
-          },
-          "unitList": [
-            {
-              "unitID": 90071,
               "unitCount": 4,
               "unitLevel": 28
             },
@@ -236,6 +178,10 @@
               "unitCount": 1,
               "unitLevel": 28
             }
+          ],
+          "bgmList": [
+            "Battle_Cp1_Ally_2",
+            "Battle_Cp1_Enemy_2"
           ]
         }
       ],
@@ -323,27 +269,13 @@
             },
             {
               "unitID": 90048,
-              "unitCount": 2,
+              "unitCount": 3,
               "unitLevel": 28
             }
           ],
           "bgmList": [
             "Battle_Cp4_Ally_2",
             "Battle_Cp4_Enemy_2"
-          ]
-        },
-        {
-          "unitList": [
-            {
-              "unitID": 90047,
-              "unitCount": 2,
-              "unitLevel": 28
-            },
-            {
-              "unitID": 90048,
-              "unitCount": 3,
-              "unitLevel": 28
-            }
           ]
         }
       ],
@@ -388,27 +320,13 @@
             },
             {
               "unitID": 90048,
-              "unitCount": 2,
+              "unitCount": 3,
               "unitLevel": 29
             }
           ],
           "bgmList": [
             "Battle_Cp4_Ally_2",
             "Battle_Cp4_Enemy_2"
-          ]
-        },
-        {
-          "unitList": [
-            {
-              "unitID": 90047,
-              "unitCount": 2,
-              "unitLevel": 29
-            },
-            {
-              "unitID": 90048,
-              "unitCount": 3,
-              "unitLevel": 29
-            }
           ]
         }
       ],
@@ -448,24 +366,6 @@
             },
             {
               "unitID": 90048,
-              "unitCount": 2,
-              "unitLevel": 29
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp4_Ally_2",
-            "Battle_Cp4_Enemy_2"
-          ]
-        },
-        {
-          "unitList": [
-            {
-              "unitID": 90047,
-              "unitCount": 2,
-              "unitLevel": 29
-            },
-            {
-              "unitID": 90048,
               "unitCount": 1,
               "unitLevel": 29
             },
@@ -474,6 +374,10 @@
               "unitCount": 2,
               "unitLevel": 29
             }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_2",
+            "Battle_Cp4_Enemy_2"
           ]
         }
       ],
@@ -513,28 +417,6 @@
           "unitList": [
             {
               "unitID": 90047,
-              "unitCount": 2,
-              "unitLevel": 30
-            },
-            {
-              "unitID": 90048,
-              "unitCount": 2,
-              "unitLevel": 30
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp4_Ally_2",
-            "Battle_Cp4_Enemy_2"
-          ]
-        },
-        {
-          "battleMapInfo": {
-            "mapName": "Cp4_KCropLab_2F_Corridor_v1",
-            "mapSize": 33.28
-          },
-          "unitList": [
-            {
-              "unitID": 90047,
               "unitCount": 1,
               "unitLevel": 30
             },
@@ -548,6 +430,10 @@
               "unitCount": 2,
               "unitLevel": 30
             }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_2",
+            "Battle_Cp4_Enemy_2"
           ]
         }
       ],
@@ -611,24 +497,6 @@
               "unitID": 90048,
               "unitCount": 2,
               "unitLevel": 32
-            }
-          ]
-        },
-        {
-          "battleMapInfo": {
-            "mapName": "Cp4_KCropLab_2F_Corridor",
-            "mapSize": 33.28
-          },
-          "unitList": [
-            {
-              "unitID": 90047,
-              "unitCount": 2,
-              "unitLevel": 32
-            },
-            {
-              "unitID": 90048,
-              "unitCount": 2,
-              "unitLevel": 32
             },
             {
               "unitID": 91007,
@@ -669,19 +537,6 @@
           "unitList": [
             {
               "unitID": 90047,
-              "unitCount": 4,
-              "unitLevel": 30
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp4_Ally_2",
-            "Battle_Cp4_Enemy_2"
-          ]
-        },
-        {
-          "unitList": [
-            {
-              "unitID": 90047,
               "unitCount": 1,
               "unitLevel": 30
             },
@@ -690,6 +545,10 @@
               "unitCount": 4,
               "unitLevel": 30
             }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_2",
+            "Battle_Cp4_Enemy_2"
           ]
         }
       ],
@@ -732,22 +591,14 @@
           "unitList": [
             {
               "unitID": 90047,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 31
             },
             {
               "unitID": 90048,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 31
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp4_Ally_2",
-            "Battle_Cp4_Enemy_2"
-          ]
-        },
-        {
-          "unitList": [
+            },
             {
               "unitID": 90049,
               "unitCount": 2,
@@ -755,9 +606,13 @@
             },
             {
               "unitID": 90050,
-              "unitCount": 3,
+              "unitCount": 1,
               "unitLevel": 31
             }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_2",
+            "Battle_Cp4_Enemy_2"
           ]
         }
       ],
@@ -797,11 +652,21 @@
           "unitList": [
             {
               "unitID": 90047,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 31
             },
             {
               "unitID": 90048,
+              "unitCount": 1,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90049,
+              "unitCount": 1,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90050,
               "unitCount": 2,
               "unitLevel": 31
             }
@@ -809,20 +674,6 @@
           "bgmList": [
             "Battle_Cp4_Ally_2",
             "Battle_Cp4_Enemy_2"
-          ]
-        },
-        {
-          "unitList":[
-            {
-              "unitID": 90049,
-              "unitCount": 2,
-              "unitLevel": 31
-            },
-            {
-              "unitID": 90050,
-              "unitCount": 3,
-              "unitLevel": 31
-            }
           ]
         }
       ],
@@ -862,39 +713,12 @@
           "unitList": [
             {
               "unitID": 90047,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 32
             },
             {
-              "unitID": 90048,
-              "unitCount": 2,
-              "unitLevel": 32
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp4_Ally_1",
-            "Battle_Cp4_Enemy_1"
-          ]
-        },
-        {
-          "unitList":[
-            {
               "unitID": 90049,
-              "unitCount": 2,
-              "unitLevel": 32
-            },
-            {
-              "unitID": 90050,
-              "unitCount": 2,
-              "unitLevel": 32
-            }
-          ]
-        },
-        {
-          "unitList":[
-            {
-              "unitID": 90049,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 32
             },
             {
@@ -907,6 +731,10 @@
               "unitCount": 1,
               "unitLevel": 32
             }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_1",
+            "Battle_Cp4_Enemy_1"
           ]
         }
       ],
@@ -953,20 +781,6 @@
           "bgmList": [
             "Battle_Cp4_Ally_1",
             "Battle_Cp4_Enemy_1"
-          ]
-        },
-        {
-          "unitList": [
-            {
-              "unitID": 90049,
-              "unitCount": 2,
-              "unitLevel": 32
-            },
-            {
-              "unitID": 90050,
-              "unitCount": 2,
-              "unitLevel": 32
-            }
           ]
         },
         {
@@ -1025,22 +839,6 @@
           "unitList": [
             {
               "unitID": 90052,
-              "unitCount": 2,
-              "unitLevel": 33
-            },
-            {
-              "unitID": 90053,
-              "unitCount": 2,
-              "unitLevel": 33
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp4_Ally_3",
-            "Battle_Cp4_Enemy_3"
-          ],
-          "subUnitList": [
-            {
-              "unitID": 90052,
               "unitCount": 1,
               "unitLevel": 33
             },
@@ -1059,6 +857,10 @@
               "unitCount": 1,
               "unitLevel": 33
             }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_3",
+            "Battle_Cp4_Enemy_3"
           ]
         }
       ],
@@ -1110,28 +912,6 @@
           "bgmList": [
             "Battle_Cp4_Ally_1",
             "Battle_Cp4_Enemy_1"
-          ],
-          "subUnitList": [
-            {
-              "unitID": 90051,
-              "unitCount": 1,
-              "unitLevel": 31
-            },
-            {
-              "unitID": 90052,
-              "unitCount": 1,
-              "unitLevel": 31
-            },
-            {
-              "unitID": 90053,
-              "unitCount": 1,
-              "unitLevel": 31
-            },
-            {
-              "unitID": 90051,
-              "unitCount": 1,
-              "unitLevel": 31
-            }
           ]
         }
       ],
@@ -1171,45 +951,33 @@
           "unitList": [
             {
               "unitID": 90051,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90052,
+              "unitCount": 1,
               "unitLevel": 31
             },
             {
               "unitID": 90053,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90052,
+              "unitCount": 1,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90053,
+              "unitCount": 1,
               "unitLevel": 31
             }
           ],
           "bgmList": [
             "Battle_Cp4_Ally_1",
             "Battle_Cp4_Enemy_1"
-          ],
-          "subUnitList": [
-            {
-              "unitID": 90051,
-              "unitCount": 1,
-              "unitLevel": 31
-            },
-            {
-              "unitID": 90052,
-              "unitCount": 1,
-              "unitLevel": 31
-            },
-            {
-              "unitID": 90053,
-              "unitCount": 1,
-              "unitLevel": 31
-            },
-            {
-              "unitID": 90052,
-              "unitCount": 1,
-              "unitLevel": 31
-            },
-            {
-              "unitID": 90053,
-              "unitCount": 1,
-              "unitLevel": 31
-            }
           ]
         }
       ],
@@ -1258,12 +1026,7 @@
               "unitLevel": 32
             },
             {
-              "unitID": 90049,
-              "unitCount": 1,
-              "unitLevel": 32
-            },
-            {
-              "unitID": 90050,
+              "unitID": 91007,
               "unitCount": 1,
               "unitLevel": 32
             }
@@ -1271,30 +1034,6 @@
           "bgmList": [
             "Battle_Cp4_Ally_1",
             "Battle_Cp4_Enemy_1"
-          ]
-        },
-        {
-          "unitList": [
-            {
-              "unitID": 90051,
-              "unitCount": 1,
-              "unitLevel": 32
-            },
-            {
-              "unitID": 90052,
-              "unitCount": 1,
-              "unitLevel": 32
-            },
-            {
-              "unitID": 90053,
-              "unitCount": 1,
-              "unitLevel": 32
-            },
-            {
-              "unitID": 91007,
-              "unitCount": 1,
-              "unitLevel": 32
-            }
           ]
         }
       ],
@@ -1420,30 +1159,6 @@
             "Battle_Cp4_Ally_2",
             "Battle_Cp4_Enemy_2"
           ]
-        },
-        {
-          "unitList": [
-            {
-              "unitID": 90073,
-              "unitCount": 1,
-              "unitLevel": 29
-            },
-            {
-              "unitID": 90074,
-              "unitCount": 1,
-              "unitLevel": 29
-            },
-            {
-              "unitID": 90075,
-              "unitCount": 2,
-              "unitLevel": 29
-            },
-            {
-              "unitID": 90056,
-              "unitCount": 1,
-              "unitLevel": 29
-            }
-          ]
         }
       ],
       "staminaCost": 20,
@@ -1500,25 +1215,6 @@
             "Battle_Cp4_Ally_2",
             "Battle_Cp4_Enemy_2"
           ]
-        },
-        {
-          "unitList": [
-            {
-              "unitID": 90073,
-              "unitCount": 1,
-              "unitLevel": 30
-            },
-            {
-              "unitID": 90055,
-              "unitCount": 3,
-              "unitLevel": 30
-            },
-            {
-              "unitID": 90056,
-              "unitCount": 1,
-              "unitLevel": 30
-            }
-          ]
         }
       ],
       "staminaCost": 20,
@@ -1552,7 +1248,7 @@
           "unitList": [
             {
               "unitID": 90054,
-              "unitCount": 3,
+              "unitCount": 4,
               "unitLevel": 30
             },
             {
@@ -1564,20 +1260,6 @@
           "bgmList": [
             "Battle_Cp4_Ally_2",
             "Battle_Cp4_Enemy_2"
-          ]
-        },
-        {
-          "unitList": [
-            {
-              "unitID": 90054,
-              "unitCount": 4,
-              "unitLevel": 30
-            },
-            {
-              "unitID": 90056,
-              "unitCount": 1,
-              "unitLevel": 30
-            }
           ]
         }
       ],
@@ -1617,40 +1299,28 @@
             },
             {
               "unitID": 90059,
-              "unitCount": 3,
+              "unitCount": 1,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90058,
+              "unitCount": 1,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90059,
+              "unitCount": 1,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90059,
+              "unitCount": 1,
               "unitLevel": 31
             }
           ],
           "bgmList": [
             "Battle_Cp4_Ally_1",
             "Battle_Cp4_Enemy_1"
-          ],
-          "subUnitList": [
-            {
-              "unitID": 90058,
-              "unitCount": 1,
-              "unitLevel": 31
-            },
-            {
-              "unitID": 90059,
-              "unitCount": 1,
-              "unitLevel": 31
-            },
-            {
-              "unitID": 90058,
-              "unitCount": 1,
-              "unitLevel": 31
-            },
-            {
-              "unitID": 90059,
-              "unitCount": 1,
-              "unitLevel": 31
-            },
-            {
-              "unitID": 90059,
-              "unitCount": 1,
-              "unitLevel": 31
-            }
           ]
         }
       ],
@@ -1693,7 +1363,22 @@
           "unitList": [
             {
               "unitID": 90058,
-              "unitCount": 3,
+              "unitCount": 1,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90059,
+              "unitCount": 1,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90058,
+              "unitCount": 1,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90059,
+              "unitCount": 1,
               "unitLevel": 31
             },
             {
@@ -1705,33 +1390,6 @@
           "bgmList": [
             "Battle_Cp4_Ally_1",
             "Battle_Cp4_Enemy_1"
-          ],
-          "subUnitList": [
-            {
-              "unitID": 90058,
-              "unitCount": 1,
-              "unitLevel": 31
-            },
-            {
-              "unitID": 90059,
-              "unitCount": 1,
-              "unitLevel": 31
-            },
-            {
-              "unitID": 90058,
-              "unitCount": 1,
-              "unitLevel": 31
-            },
-            {
-              "unitID": 90059,
-              "unitCount": 1,
-              "unitLevel": 31
-            },
-            {
-              "unitID": 90059,
-              "unitCount": 1,
-              "unitLevel": 31
-            }
           ]
         }
       ],
@@ -1765,46 +1423,34 @@
           },
           "unitList": [
             {
+              "unitID": 90058,
+              "unitCount": 1,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90058,
+              "unitCount": 1,
+              "unitLevel": 32
+            },
+            {
               "unitID": 90059,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 32
             },
             {
               "unitID": 90061,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90061,
+              "unitCount": 1,
               "unitLevel": 32
             }
           ],
           "bgmList": [
             "Battle_Cp4_Ally_1",
             "Battle_Cp4_Enemy_1"
-          ],
-          "subUnitList": [
-            {
-              "unitID": 90058,
-              "unitCount": 1,
-              "unitLevel": 32
-            },
-            {
-              "unitID": 90058,
-              "unitCount": 1,
-              "unitLevel": 32
-            },
-            {
-              "unitID": 90059,
-              "unitCount": 1,
-              "unitLevel": 32
-            },
-            {
-              "unitID": 90061,
-              "unitCount": 1,
-              "unitLevel": 32
-            },
-            {
-              "unitID": 90061,
-              "unitCount": 1,
-              "unitLevel": 32
-            }
           ]
         }
       ],
@@ -1844,22 +1490,6 @@
           "unitList": [
             {
               "unitID": 90058,
-              "unitCount": 2,
-              "unitLevel": 32
-            },
-            {
-              "unitID": 90060,
-              "unitCount": 2,
-              "unitLevel": 32
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp4_Ally_1",
-            "Battle_Cp4_Enemy_1"
-          ],
-          "subUnitList": [
-            {
-              "unitID": 90058,
               "unitCount": 1,
               "unitLevel": 32
             },
@@ -1883,6 +1513,10 @@
               "unitCount": 1,
               "unitLevel": 32
             }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_1",
+            "Battle_Cp4_Enemy_1"
           ]
         }
       ],
@@ -1922,65 +1556,13 @@
             },
             {
               "unitID": 90061,
-              "unitCount": 2,
+              "unitCount": 3,
               "unitLevel": 33
             }
           ],
           "bgmList": [
             "Battle_Cp4_Ally_3",
             "Battle_Cp4_Enemy_3"
-          ],
-          "subUnitList": [
-            {
-              "unitID": 90060,
-              "unitCount": 1,
-              "unitLevel": 33
-            },
-            {
-              "unitID": 90061,
-              "unitCount": 1,
-              "unitLevel": 33
-            },
-            {
-              "unitID": 90060,
-              "unitCount": 1,
-              "unitLevel": 33
-            },
-            {
-              "unitID": 90061,
-              "unitCount": 1,
-              "unitLevel": 33
-            },
-            {
-              "unitID": 90061,
-              "unitCount": 1,
-              "unitLevel": 33
-            },
-            {
-              "unitID": 90060,
-              "unitCount": 1,
-              "unitLevel": 33
-            },
-            {
-              "unitID": 90061,
-              "unitCount": 1,
-              "unitLevel": 33
-            },
-            {
-              "unitID": 90060,
-              "unitCount": 1,
-              "unitLevel": 33
-            },
-            {
-              "unitID": 90060,
-              "unitCount": 1,
-              "unitLevel": 33
-            },
-            {
-              "unitID": 90061,
-              "unitCount": 1,
-              "unitLevel": 33
-            }
           ]
         }
       ],
@@ -2014,24 +1596,6 @@
           },
           "unitList": [
             {
-              "unitID": 90054,
-              "unitCount": 3,
-              "unitLevel": 31
-            },
-            {
-              "unitID": 90056,
-              "unitCount": 1,
-              "unitLevel": 31
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp4_Ally_2",
-            "Battle_Cp4_Enemy_2"
-          ]
-        },
-        {
-          "unitList": [
-            {
               "unitID": 90076,
               "unitCount": 2,
               "unitLevel": 31
@@ -2046,6 +1610,10 @@
               "unitCount": 1,
               "unitLevel": 31
             }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_2",
+            "Battle_Cp4_Enemy_2"
           ]
         }
       ],
@@ -2084,24 +1652,6 @@
           },
           "unitList": [
             {
-              "unitID": 90054,
-              "unitCount": 3,
-              "unitLevel": 31
-            },
-            {
-              "unitID": 90056,
-              "unitCount": 1,
-              "unitLevel": 31
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp4_Ally_2",
-            "Battle_Cp4_Enemy_2"
-          ]
-        },
-        {
-          "unitList": [
-            {
               "unitID": 90076,
               "unitCount": 2,
               "unitLevel": 31
@@ -2116,6 +1666,10 @@
               "unitCount": 1,
               "unitLevel": 31
             }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_2",
+            "Battle_Cp4_Enemy_2"
           ]
         }
       ],
@@ -2149,24 +1703,6 @@
           },
           "unitList": [
             {
-              "unitID": 90054,
-              "unitCount": 3,
-              "unitLevel": 32
-            },
-            {
-              "unitID": 90057,
-              "unitCount": 1,
-              "unitLevel": 32
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp4_Ally_1",
-            "Battle_Cp4_Enemy_1"
-          ]
-        },
-        {
-          "unitList": [
-            {
               "unitID": 90076,
               "unitCount": 2,
               "unitLevel": 32
@@ -2181,6 +1717,10 @@
               "unitCount": 1,
               "unitLevel": 32
             }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_1",
+            "Battle_Cp4_Enemy_1"
           ]
         }
       ],
@@ -2220,7 +1760,7 @@
             },
             {
               "unitID": 90055,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 33
             },
             {
@@ -2246,11 +1786,6 @@
             },
             {
               "unitID": 90060,
-              "unitCount": 1,
-              "unitLevel": 33
-            },
-            {
-              "unitID": 90061,
               "unitCount": 1,
               "unitLevel": 33
             },
@@ -2331,31 +1866,6 @@
               "unitID": 90061,
               "unitCount": 1,
               "unitLevel": 33
-            },
-            {
-              "unitID": 90060,
-              "unitCount": 1,
-              "unitLevel": 33
-            },
-            {
-              "unitID": 90061,
-              "unitCount": 1,
-              "unitLevel": 33
-            },
-            {
-              "unitID": 90060,
-              "unitCount": 1,
-              "unitLevel": 33
-            },
-            {
-              "unitID": 90061,
-              "unitCount": 1,
-              "unitLevel": 33
-            },
-            {
-              "unitID": 90060,
-              "unitCount": 1,
-              "unitLevel": 33
             }
           ]
         }
@@ -2396,7 +1906,7 @@
             },
             {
               "unitID": 90061,
-              "unitCount": 1,
+              "unitCount": 2,
               "unitLevel": 34
             }
           ],
@@ -2405,26 +1915,6 @@
             "Battle_Cp4_Enemy_3"
           ],
           "subUnitList": [
-            {
-              "unitID": 90060,
-              "unitCount": 1,
-              "unitLevel": 34
-            },
-            {
-              "unitID": 90061,
-              "unitCount": 1,
-              "unitLevel": 34
-            },
-            {
-              "unitID": 90060,
-              "unitCount": 1,
-              "unitLevel": 34
-            },
-            {
-              "unitID": 90061,
-              "unitCount": 1,
-              "unitLevel": 34
-            },
             {
               "unitID": 90060,
               "unitCount": 1,
@@ -2484,24 +1974,6 @@
           "unitList": [
             {
               "unitID": 90054,
-              "unitCount": 4,
-              "unitLevel": 32
-            },
-            {
-              "unitID": 90057,
-              "unitCount": 1,
-              "unitLevel": 32
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp4_Ally_1",
-            "Battle_Cp4_Enemy_1"
-          ]
-        },
-        {
-          "unitList": [
-            {
-              "unitID": 90054,
               "unitCount": 2,
               "unitLevel": 32
             },
@@ -2515,6 +1987,10 @@
               "unitCount": 1,
               "unitLevel": 32
             }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_1",
+            "Battle_Cp4_Enemy_1"
           ]
         }
       ],
@@ -2549,45 +2025,33 @@
           "unitList": [
             {
               "unitID": 90060,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 32
             },
             {
               "unitID": 90061,
-              "unitCount": 3,
+              "unitCount": 1,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90060,
+              "unitCount": 1,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90061,
+              "unitCount": 1,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90060,
+              "unitCount": 1,
               "unitLevel": 32
             }
           ],
           "bgmList": [
             "Battle_Cp4_Ally_1",
             "Battle_Cp4_Enemy_1"
-          ],
-          "subUnitList": [
-            {
-              "unitID": 90060,
-              "unitCount": 1,
-              "unitLevel": 32
-            },
-            {
-              "unitID": 90061,
-              "unitCount": 1,
-              "unitLevel": 32
-            },
-            {
-              "unitID": 90060,
-              "unitCount": 1,
-              "unitLevel": 32
-            },
-            {
-              "unitID": 90061,
-              "unitCount": 1,
-              "unitLevel": 32
-            },
-            {
-              "unitID": 90060,
-              "unitCount": 1,
-              "unitLevel": 32
-            }
           ]
         }
       ],
@@ -2830,22 +2294,6 @@
           "unitList": [
             {
               "unitID": 90064,
-              "unitCount": 2,
-              "unitLevel": 32
-            },
-            {
-              "unitID": 90065,
-              "unitCount": 2,
-              "unitLevel": 32
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp4_Ally_1",
-            "Battle_Cp4_Enemy_1"
-          ],
-          "subUnitList": [
-            {
-              "unitID": 90064,
               "unitCount": 1,
               "unitLevel": 32
             },
@@ -2864,6 +2312,10 @@
               "unitCount": 1,
               "unitLevel": 32
             }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_1",
+            "Battle_Cp4_Enemy_1"
           ]
         }
       ],
@@ -2903,22 +2355,6 @@
           "unitList": [
             {
               "unitID": 90064,
-              "unitCount": 2,
-              "unitLevel": 33
-            },
-            {
-              "unitID": 90065,
-              "unitCount": 2,
-              "unitLevel": 33
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp4_Ally_1",
-            "Battle_Cp4_Enemy_1"
-          ],
-          "subUnitList": [
-            {
-              "unitID": 90064,
               "unitCount": 1,
               "unitLevel": 33
             },
@@ -2937,6 +2373,10 @@
               "unitCount": 1,
               "unitLevel": 33
             }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_1",
+            "Battle_Cp4_Enemy_1"
           ]
         }
       ],
@@ -2971,40 +2411,28 @@
           "unitList": [
             {
               "unitID": 90062,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 33
             },
             {
               "unitID": 90063,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90062,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90063,
+              "unitCount": 1,
               "unitLevel": 33
             }
           ],
           "bgmList": [
             "Battle_Cp4_Ally_1",
             "Battle_Cp4_Enemy_1"
-          ],
-          "subUnitList": [
-            {
-              "unitID": 90062,
-              "unitCount": 1,
-              "unitLevel": 33
-            },
-            {
-              "unitID": 90063,
-              "unitCount": 1,
-              "unitLevel": 33
-            },
-            {
-              "unitID": 90062,
-              "unitCount": 1,
-              "unitLevel": 33
-            },
-            {
-              "unitID": 90063,
-              "unitCount": 1,
-              "unitLevel": 33
-            }
           ]
         }
       ],
@@ -3044,40 +2472,28 @@
           "unitList": [
             {
               "unitID": 90062,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 34
             },
             {
               "unitID": 90063,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 34
+            },
+            {
+              "unitID": 90062,
+              "unitCount": 1,
+              "unitLevel": 34
+            },
+            {
+              "unitID": 90063,
+              "unitCount": 1,
               "unitLevel": 34
             }
           ],
           "bgmList": [
             "Battle_Cp4_Ally_1",
             "Battle_Cp4_Enemy_1"
-          ],
-          "subUnitList": [
-            {
-              "unitID": 90062,
-              "unitCount": 1,
-              "unitLevel": 34
-            },
-            {
-              "unitID": 90063,
-              "unitCount": 1,
-              "unitLevel": 34
-            },
-            {
-              "unitID": 90062,
-              "unitCount": 1,
-              "unitLevel": 34
-            },
-            {
-              "unitID": 90063,
-              "unitCount": 1,
-              "unitLevel": 34
-            }
           ]
         }
       ],
@@ -3112,7 +2528,7 @@
           "unitList": [
             {
               "unitID": 90068,
-              "unitCount": 4,
+              "unitCount": 3,
               "unitLevel": 35
             }
           ],

@@ -271,7 +271,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["Refill", "SubUnitDefaultSlotAdder", "a1c7Normal", "Chapter7SetAllyDefaultMp"],
+      "stageScriptList": ["Refill", "SubUnitDefaultSlotAdder", "a1c7Normal", "BlockBloodDinnerSc", "Chapter7SetAllyDefaultMp"],
       "story": {
         "enter": [
           "S709B"
@@ -347,7 +347,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["Refill", "SubUnitDefaultSlotAdder", "a1c7Normal", "Chapter7SetAllyDefaultMp"],
+      "stageScriptList": ["Refill", "SubUnitDefaultSlotAdder", "a1c7Normal", "BlockBloodDinnerSc", "Chapter7SetAllyDefaultMp"],
       "story": {
         "enter": [
           "S710B"
@@ -430,7 +430,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["Refill", "SubUnitDefaultSlotAdder", "a1c7Normal", "Chapter7SetAllyDefaultMp"]
+      "stageScriptList": ["Refill", "SubUnitDefaultSlotAdder", "a1c7Normal", "BlockBloodDinnerSc", "Chapter7SetAllyDefaultMp"]
     },
     {
       "id": 10712,
@@ -508,7 +508,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["Refill", "SubUnitDefaultSlotAdder", "a1c7Normal", "Chapter7SetAllyDefaultMp"],
+      "stageScriptList": ["Refill", "SubUnitDefaultSlotAdder", "a1c7Normal", "BlockBloodDinnerSc", "Chapter7SetAllyDefaultMp"],
       "story": {
         "enter": [
           "S712B"
@@ -608,7 +608,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["Refill", "SubUnitDefaultSlotAdder", "a1c7p1_Shooting", "a1c7Normal", "Chapter7SetAllyDefaultMp"],
+      "stageScriptList": ["Refill", "SubUnitDefaultSlotAdder", "a1c7p1_Shooting", "a1c7Normal", "BlockBloodDinnerSc", "Chapter7SetAllyDefaultMp"],
       "story": {
         "enter": [
           "S713B"
@@ -703,7 +703,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["Refill", "SubUnitDefaultSlotAdder", "a1c7p1_Shooting", "a1c7Normal", "Chapter7SetAllyDefaultMp"],
+      "stageScriptList": ["Refill", "SubUnitDefaultSlotAdder", "a1c7p1_Shooting", "a1c7Normal", "BlockBloodDinnerSc", "Chapter7SetAllyDefaultMp"],
       "story": {
         "enter": [
           "S714B"
@@ -810,7 +810,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["Refill", "SubUnitDefaultSlotAdder", "a1c7p1_Shooting", "a1c7Normal", "Chapter7SetAllyDefaultMp"],
+      "stageScriptList": ["Refill", "SubUnitDefaultSlotAdder", "a1c7p1_Shooting", "a1c7Normal", "BlockBloodDinnerSc", "Chapter7SetAllyDefaultMp"],
       "story": {
         "enter": [
           "S715B"
@@ -867,7 +867,7 @@
           "S716A"
         ]
       },
-      "stageScriptList": ["8372", "a1c7Abnormality", "Chapter7SetAllyDefaultMp"]
+      "stageScriptList": ["8372", "a1c7Abnormality", "BlockBloodDinnerSc", "Chapter7SetAllyDefaultMp"]
     },
     {
       "id": 10717,

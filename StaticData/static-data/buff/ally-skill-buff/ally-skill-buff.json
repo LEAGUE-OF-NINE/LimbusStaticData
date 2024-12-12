@@ -1371,6 +1371,130 @@
           "ability": "DevyatDimensionalSackSinclair"
         }
       ]
+    },
+    {
+      "id": "SwirlingBloodPersonality",
+      "iconId": "SwirlingBlood",
+      "buffClass": "VolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 50,
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "SwirlingBloodPersonality"
+        }
+      ]
+    },
+    {
+      "id": "BloodArmorPersonalityFirst",
+      "iconId": "BloodArmor",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 30,
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "BloodArmorPersonalityBase"
+        }
+      ]
+    },
+    {
+      "id": "BloodArmorPersonalitySecond",
+      "iconId": "BloodArmor",
+      "subIdList": [ "BloodArmorPersonalityFirst" ],
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 30,
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "BloodArmorPersonalityBase"
+        },
+        {
+          "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
+          "value": 5,
+          "buffData": {
+            "buffKeyword": "AttackUp",
+            "target": "Self",
+            "stack": 1,
+            "turn": -1,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "MinSpeedAdder",
+          "value": 1
+        },
+        {
+          "ability": "MaxSpeedAdder",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "BloodArmorPersonalityThird",
+      "iconId": "BloodArmor",
+      "subIdList": [ "BloodArmorPersonalityFirst" ],
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 30,
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "BloodArmorPersonalityBase"
+        },
+        {
+          "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
+          "value": 5,
+          "buffData": {
+            "buffKeyword": "AttackUp",
+            "target": "Self",
+            "stack": 1,
+            "turn": -1,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
+          "value": 5,
+          "buffData": {
+            "buffKeyword": "DefenseUp",
+            "target": "Self",
+            "stack": 1,
+            "turn": -1,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "MinSpeedAdder",
+          "value": 2
+        },
+        {
+          "ability": "MaxSpeedAdder",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "id": "SadLamanchaland",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "maxStack": 1,
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "ParryingResultAdderAsStack",
+          "value": 1
+        },
+        {
+          "ability": "AtkDamageMultiplierByStack",
+          "value": 0.2
+        },
+        {
+          "ability": "TakeAtkDamageMultiplierByStack",
+          "value": 0.2
+        }
+      ]
     }
   ]
 }

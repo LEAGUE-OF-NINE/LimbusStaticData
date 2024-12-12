@@ -4708,6 +4708,1959 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1031001,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "AMBER",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 3,
+          "defaultValue": 3,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S1",
+          "range": 6,
+          "arearange":  4,
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "103100101",
+              "value": 0.3
+            },
+            {
+              "scriptName": "GiveBuffOnUseWithBloodDinnerGainBuffStackIfFailed_Laceration5[5:50:5]",
+              "buffData": {
+                "buffKeyword": "BloodArmorPersonalityFirst",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 2,
+          "abilityScriptList": [
+            {
+              "scriptName": "103100101",
+              "value": 0.3
+            },
+            {
+              "scriptName": "GiveBuffOnUseWithBloodDinnerGainBuffStackIfFailed_Laceration5[5:50:5]",
+              "buffData": {
+                "buffKeyword": "BloodArmorPersonalityFirst",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "CoinScaleAdderOnStartTurnViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "buffOwner": "Target",
+                "stack": 6,
+                "turn": 0,
+                "value": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "103100101",
+              "value": 0.3
+            },
+            {
+              "scriptName": "GiveBuffOnUseWithBloodDinnerGainBuffStackIfFailed_Laceration5[5:50:5]",
+              "buffData": {
+                "buffKeyword": "BloodArmorPersonalityFirst",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "CoinScaleAdderOnStartTurnViaBuffCheckDevideByStackWithLimit2",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 6,
+                "turn": 0,
+                "value": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031002,
+      "skillType": "SKILL",
+      "skillTier": 2,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "CRIMSON",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "range": 6,
+          "arearange": 4,
+          "mpUsage": 0,
+          "skillLevelCorrection": 3,
+          "defaultValue": 4,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "103100101",
+              "value": 0.3
+            },
+            {
+              "scriptName": "GiveBuffOnUseWithBloodDinnerGainBuffStackIfFailed_Laceration5[10:50:10]",
+              "buffData": {
+                "buffKeyword": "BloodArmorPersonalityFirst",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "TargetNumAdderViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "BloodArmorPersonalityFirst",
+                "buffOwner": "Self",
+                "stack": 10,
+                "turn": 0,
+                "value": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "DmgUpByBuffStackWithLimit25",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "buffOwner": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.025
+                  }
+                },
+                {
+                  "scriptName": "DmgUpByBuffStackWithLimit25",
+                  "buffData": {
+                    "buffKeyword": "BloodDinner_Accumulation",
+                    "buffOwner": "Self",
+                    "stack": 100,
+                    "turn": 0,
+                    "value": 0.05
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 2,
+          "abilityScriptList": [
+            {
+              "scriptName": "103100101",
+              "value": 0.3
+            },
+            {
+              "scriptName": "GiveBuffOnUseWithBloodDinnerGainBuffStackIfFailed_Laceration5[10:50:10]",
+              "buffData": {
+                "buffKeyword": "BloodArmorPersonalityFirst",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "CoinScaleAdderOnStartTurnViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "buffOwner": "Target",
+                "stack": 6,
+                "turn": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "103100201[10:1:20:2]"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "DmgUpByBuffStackWithLimit25",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "buffOwner": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.025
+                  }
+                },
+                {
+                  "scriptName": "DmgUpByBuffStackWithLimit50",
+                  "buffData": {
+                    "buffKeyword": "BloodDinner_Accumulation",
+                    "buffOwner": "Self",
+                    "stack": 100,
+                    "turn": 0,
+                    "value": 0.1
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "abilityScriptList": [
+            {
+              "scriptName": "103100101[10]",
+              "value": 0.3
+            },
+            {
+              "scriptName": "GiveBuffOnUseWithBloodDinnerGainBuffStackIfFailed_Laceration5[10:50:10]",
+              "buffData": {
+                "buffKeyword": "BloodArmorPersonalityFirst",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "CoinScaleAdderOnStartTurnViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "buffOwner": "Target",
+                "stack": 6,
+                "turn": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "103100201[10:1:20:2]"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "DmgUpByBuffStackWithLimit25",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "buffOwner": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.025
+                  }
+                },
+                {
+                  "scriptName": "DmgUpByBuffStackWithLimit50",
+                  "buffData": {
+                    "buffKeyword": "BloodDinner_Accumulation",
+                    "buffOwner": "Self",
+                    "stack": 100,
+                    "turn": 0,
+                    "value": 0.1
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "103100101",
+              "value": 0.3
+            },
+            {
+              "scriptName": "GiveBuffOnUseWithBloodDinnerGainBuffStackIfFailed_Laceration5[10:50:10]",
+              "buffData": {
+                "buffKeyword": "BloodArmorPersonalityFirst",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "CoinScaleAdderOnStartTurnViaBuffCheckDevideByStackWithLimit2",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 6,
+                "turn": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "103100201[10:1:20:2]"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 6,
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "DmgUpByBuffStackWithLimit25",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "buffOwner": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.025
+                  }
+                },
+                {
+                  "scriptName": "DmgUpByBuffStackWithLimit75",
+                  "buffData": {
+                    "buffKeyword": "BloodDinner_Accumulation",
+                    "buffOwner": "Self",
+                    "stack": 100,
+                    "turn": 0,
+                    "value": 0.15
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031003,
+      "skillType": "SKILL",
+      "skillTier": 3,
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ],
+      "skillData": [
+        {
+          "gaksungLevel": 3,
+          "attributeType": "SCARLET",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "range": 30,
+          "arearange": 4,
+          "mpUsage": 0,
+          "skillLevelCorrection": 5,
+          "defaultValue": 4,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S3",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "103100101",
+              "value": 0.5
+            },
+            {
+              "scriptName": "ParryingPowerResultAdderOnStartTurnSelfViaBuffCheckDevideByStack",
+              "buffData": {
+                "buffKeyword": "BloodArmorPersonalityFirst",
+                "buffOwner": "Self",
+                "stack": 10,
+                "turn": 0,
+                "value": 1,
+                "limit": 2
+              }
+            },
+            {
+              "scriptName": "CoinScaleAdderOnStartTurnViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "buffOwner": "Target",
+                "stack": 10,
+                "turn": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnUseWithBloodDinnerGainBuffStackIfFailed_Laceration10[10:50:10]",
+              "buffData": {
+                "buffKeyword": "BloodArmorPersonalityFirst",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "AttackDmgUpByRatioOnUseViaBuffCheckDevideByStackWithLimit50",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "buffOwner": "Target",
+                "target": "",
+                "stack": 1,
+                "turn": 0,
+                "value": 0.05
+              }
+            },
+            {
+              "scriptName": "AttackDmgUpByRatioOnUseViaBuffCheckDevideByStackWithLimit50",
+              "buffData": {
+                "buffKeyword": "BloodDinner_Accumulation",
+                "buffOwner": "Self",
+                "target": "",
+                "stack": 100,
+                "turn": 0,
+                "value": 0.1
+              }
+            },
+            {
+              "scriptName": "AddBloodDinnerOnKillTarget30(limit:1)"
+            },
+            {
+              "scriptName": "GiveBuffOnKillMainTarget(Limit:1)",
+              "buffData": {
+                "buffKeyword": "BloodArmorPersonalityFirst",
+                "buffOwner": "",
+                "target": "Self",
+                "stack": 10,
+                "turn": 0,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 2,
+              "abilityScriptList": [
+
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 3,
+              "cutsceneStart": true,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "defaultValue": 5,
+          "abilityScriptList": [
+            {
+              "scriptName": "103100101",
+              "value": 0.5
+            },
+            {
+              "scriptName": "ParryingPowerResultAdderOnStartTurnSelfViaBuffCheckDevideByStack",
+              "buffData": {
+                "buffKeyword": "BloodArmorPersonalityFirst",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 10,
+                "turn": 0,
+                "value": 1,
+                "limit": 2
+              }
+            },
+            {
+              "scriptName": "CoinScaleAdderOnStartTurnViaBuffCheckDevideByStackWithLimit2",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "buffOwner": "Target",
+                "stack": 5,
+                "turn": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnUseWithBloodDinnerGainBuffStackIfFailed_Laceration10[10:50:10]",
+              "buffData": {
+                "buffKeyword": "BloodArmorPersonalityFirst",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "AttackDmgUpByRatioOnUseViaBuffCheckDevideByStackWithLimit50",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "buffOwner": "Target",
+                "target": "",
+                "stack": 1,
+                "turn": 0,
+                "value": 0.05
+              }
+            },
+            {
+              "scriptName": "AttackDmgUpByRatioOnUseViaBuffCheckDevideByStackWithLimit100",
+              "buffData": {
+                "buffKeyword": "BloodDinner_Accumulation",
+                "buffOwner": "Self",
+                "target": "",
+                "stack": 100,
+                "turn": 0,
+                "value": 0.2
+              }
+            },
+            {
+              "scriptName": "AddBloodDinnerOnKillTarget60(limit:1)"
+            },
+            {
+              "scriptName": "GiveBuffOnKillMainTarget(Limit:1)",
+              "buffData": {
+                "buffKeyword": "BloodArmorPersonalityFirst",
+                "buffOwner": "",
+                "target": "Self",
+                "stack": 10,
+                "turn": 0,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 2,
+              "abilityScriptList": [
+
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 3,
+              "cutsceneStart": true,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031004,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "SCARLET",
+          "atkType": "PENETRATE",
+          "defType": "COUNTER",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "range": 999,
+          "arearange": 4,
+          "skillLevelCorrection": 3,
+          "defaultValue": 3,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S4",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnBattleStartWithBloodDinnerGainBuffStackIfFailed_Laceration10[10:50:10]",
+              "buffData": {
+                "buffKeyword": "BloodArmorPersonalityFirst",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "103100401(Limit:1)",
+              "value": 50,
+              "buffData": {
+                "buffKeyword": "SwirlingBloodPersonality",
+                "target": "LowestHpValueAlly",
+                "stack": -1,
+                "turn": 0,
+                "limit": 10,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "defaultValue": 5,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnBattleStartWithBloodDinnerGainBuffStackIfFailed_Laceration5[10:50:10]",
+              "buffData": {
+                "buffKeyword": "BloodArmorPersonalityFirst",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "103100401(Limit:1)",
+              "value": 50,
+              "buffData": {
+                "buffKeyword": "SwirlingBloodPersonality",
+                "target": "LowestHpValueAlly",
+                "stack": -1,
+                "turn": 0,
+                "limit": 15,
+                "activeRound": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031005,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "AMBER",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "range": 6,
+          "arearange": 4,
+          "mpUsage": 0,
+          "skillLevelCorrection": 3,
+          "defaultValue": 2,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S5",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "103100101[20]",
+              "value": 0.5
+            },
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Self",
+                "stack": 20,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "103100503",
+              "value": 10
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "grade": 2,
+              "color": "GREY",
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "grade": 2,
+              "color": "GREY",
+              "actionIndex": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 2,
+          "abilityScriptList": [
+            {
+              "scriptName": "103100101[20]",
+              "value": 0.5
+            },
+            {
+              "scriptName": "CoinScaleAdderOnStartTurnViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "buffOwner": "Target",
+                "stack": 6,
+                "turn": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Self",
+                "stack": 20,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "103100503",
+              "value": 10
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "grade": 2,
+              "color": "GREY",
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "grade": 2,
+              "color": "GREY",
+              "actionIndex": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 3
+        },
+        {
+          "gaksungLevel": 4,
+          "defaultValue": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "103100101[20]",
+              "value": 0.5
+            },
+            {
+              "scriptName": "CoinScaleAdderOnStartTurnViaBuffCheckDevideByStackWithLimit2",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 6,
+                "turn": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Self",
+                "stack": 20,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "103100503",
+              "value": 10
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "grade": 2,
+              "color": "GREY",
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "grade": 2,
+              "color": "GREY",
+              "actionIndex": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "ForceToActivateBuffOSA",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031006,
+      "skillType": "SKILL",
+      "skillTier": 2,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "CRIMSON",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 2,
+          "range": 6,
+          "arearange": 4,
+          "mpUsage": 0,
+          "skillLevelCorrection": 3,
+          "defaultValue": 4,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S6",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "103100101",
+              "value": 0.3
+            },
+            {
+              "scriptName": "CoinScaleAdderOnStartTurnViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "buffOwner": "Target",
+                "stack": 6,
+                "turn": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "103100601",
+              "value": 10,
+              "buffData": {
+                "buffKeyword": "BloodArmorPersonalityFirst",
+                "buffOwner": "Self",
+                "stack": 10,
+                "turn": 0,
+                "value": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "actionIndex": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "grade": 2,
+              "color": "GREY",
+              "actionIndex": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "DmgUpByBuffStackWithLimit25",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "buffOwner": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.025
+                  }
+                },
+                {
+                  "scriptName": "103100601_100:25",
+                  "value": 0.05
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 2,
+          "abilityScriptList": [
+            {
+              "scriptName": "103100101",
+              "value": 0.3
+            },
+            {
+              "scriptName": "CoinScaleAdderOnStartTurnViaBuffCheckDevideByStackWithLimit2",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 6,
+                "turn": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "103100602[10:1:20:2]",
+              "value": 10
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "actionIndex": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "grade": 2,
+              "color": "GREY",
+              "actionIndex": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "DmgUpByBuffStackWithLimit25",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "buffOwner": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.025
+                  }
+                },
+                {
+                  "scriptName": "103100601_100:50",
+                  "value": 0.1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "actionIndex": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "grade": 2,
+              "color": "GREY",
+              "actionIndex": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "DmgUpByBuffStackWithLimit25",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "buffOwner": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.025
+                  }
+                },
+                {
+                  "scriptName": "103100601_100:50",
+                  "value": 0.1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "actionIndex": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "grade": 2,
+              "color": "GREY",
+              "actionIndex": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "DmgUpByBuffStackWithLimit25",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "buffOwner": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.025
+                  }
+                },
+                {
+                  "scriptName": "103100601_100:75",
+                  "value": 0.15
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031007,
+      "skillType": "SKILL",
+      "skillTier": 3,
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ],
+      "skillData": [
+        {
+          "gaksungLevel": 3,
+          "attributeType": "SCARLET",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "range": 30,
+          "arearange": 4,
+          "mpUsage": 0,
+          "skillLevelCorrection": 5,
+          "defaultValue": 4,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S8",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "103100101[20]",
+              "value": 0.5
+            },
+            {
+              "scriptName": "SkillPowerAdderOnUseViaBuffCheckDevideByStackWithLimit2",
+              "buffData": {
+                "buffKeyword": "BloodArmorPersonalityFirst",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 10,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "CoinScaleAdderOnStartTurnViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "buffOwner": "Target",
+                "stack": 10,
+                "turn": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "AttackDmgUpByRatioOnUseViaBuffCheckDevideByStackWithLimit50",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "buffOwner": "Target",
+                "target": "",
+                "stack": 1,
+                "turn": 0,
+                "value": 0.05,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "103100701[100:100]",
+              "value": 0.2
+            },
+            {
+              "scriptName": "103100702[10:30]"
+            },
+            {
+              "scriptName": "AddBloodDinnerOnKillTarget50(limit:1)"
+            },
+            {
+              "scriptName": "1031003Payback(limit:1)",
+              "buffData": {
+                "buffKeyword": "BloodArmorPersonalityFirst",
+                "target": "Self",
+                "stack": 0,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 0.5
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "actionIndex": 1,
+              "grade": 2,
+              "color": "GREY",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "actionIndex": 2,
+              "grade": 2,
+              "color": "GREY",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "actionIndex": 3,
+              "grade": 2,
+              "color": "GREY",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "grade": 2,
+              "color": "GREY",
+              "actionIndex": 4,
+              "cutsceneStart": true,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 4,
+                    "turn": 4,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnKillMainTarget",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "buffOwner": "",
+                    "target": "EveryEnemy",
+                    "stack": 5,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "defaultValue": 5,
+          "abilityScriptList": [
+            {
+              "scriptName": "103100101[20]",
+              "value": 0.5
+            },
+            {
+              "scriptName": "SkillPowerAdderOnUseViaBuffCheckDevideByStackWithLimit3",
+              "buffData": {
+                "buffKeyword": "BloodArmorPersonalityFirst",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 10,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "CoinScaleAdderOnStartTurnViaBuffCheckDevideByStackWithLimit2",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 5,
+                "turn": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "AttackDmgUpByRatioOnUseViaBuffCheckDevideByStackWithLimit50",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "buffOwner": "Target",
+                "target": "",
+                "stack": 1,
+                "turn": 0,
+                "value": 0.05,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "103100701[100:100]",
+              "value": 0.2
+            },
+            {
+              "scriptName": "103100702[10:30]"
+            },
+            {
+              "scriptName": "AddBloodDinnerOnKillTarget100(limit:1)"
+            },
+            {
+              "scriptName": "1031003Payback(limit:1)",
+              "buffData": {
+                "buffKeyword": "BloodArmorPersonalityFirst",
+                "target": "Self",
+                "stack": 0,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 0.5
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "grade": 2,
+              "color": "GREY",
+              "actionIndex":1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "actionIndex":2,
+              "grade": 2,
+              "color": "GREY",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "actionIndex":3,
+              "grade": 2,
+              "color": "GREY",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "grade": 2,
+              "color": "GREY",
+              "actionIndex": 4,
+              "cutsceneStart": true,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 8,
+                    "turn": 4,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnKillMainTarget",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "buffOwner": "",
+                    "target": "EveryEnemy",
+                    "stack": 5,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031008,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "SCARLET",
+          "atkType": "PENETRATE",
+          "defType": "COUNTER",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "range": 999,
+          "arearange": 4,
+          "mpUsage": 0,
+          "skillLevelCorrection": 3,
+          "defaultValue": 4,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S7",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "103100802(Limit:1)",
+              "value": 40,
+              "buffData": {
+                "buffKeyword": "SwirlingBloodPersonality",
+                "target": "LowestHpValueAlly",
+                "stack": -1,
+                "turn": 0,
+                "value": 15,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "grade": 2,
+              "color": "GREY",
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 3,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "defaultValue": 6,
+          "abilityScriptList": [
+            {
+              "scriptName": "103100802(Limit:1)",
+              "value": 40,
+              "buffData": {
+                "buffKeyword": "SwirlingBloodPersonality",
+                "target": "LowestHpValueAlly",
+                "stack": -1,
+                "turn": 0,
+                "value": 10,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "grade": 2,
+              "color": "GREY",
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 3,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

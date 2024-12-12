@@ -2627,6 +2627,39 @@
       ]
     },
     {
+      "id": 1031004,
+      "attributeStockCondition": [
+        {
+          "type": "SCARLET",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1031001
+    },
+    {
+      "id": 1031002
+    },
+    {
+      "id": 1031003
+    },
+    {
+      "id": 1031021,
+      "attributeResonanceCondition": [
+        {
+          "type": "SCARLET",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
       "id": 1090901,
       "attributeStockCondition": [
         {

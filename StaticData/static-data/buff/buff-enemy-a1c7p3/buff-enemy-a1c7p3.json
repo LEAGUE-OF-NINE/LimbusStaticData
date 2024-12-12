@@ -655,6 +655,143 @@
         }
       ],
       "categoryKeywordList": []
+    },
+    {
+      "id": "RighteousFeelingSancho",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": false,
+      "destroyableOnZero": true,
+      "maxStack": 1,
+      "list": [
+        {
+          "ability": "TakeBuffStackAddLimitedCountInRound",
+          "buffData": {
+            "buffKeyword": "BloodArmorPersonalityFirst",
+            "stack": 1
+          },
+          "value": 5
+        },
+        {
+          "ability": "GiveBuffOnRoundEnd",
+          "buffData": {
+            "buffKeyword": "Agility",
+            "target": "Self",
+            "stack": 2,
+            "turn": 0,
+            "activeRound": 1
+          }
+        },
+        {
+          "ability": "GiveBuffOnRoundEnd",
+          "buffData": {
+            "buffKeyword": "AttackUp",
+            "target": "Self",
+            "stack": 3,
+            "turn": 0,
+            "activeRound": 1
+          }
+        },
+        {
+          "ability": "RighteousFeeling"
+        }
+      ],
+      "categoryKeywordList": []
+    },
+    {
+      "id": "UnfinishedDreamSancho",
+      "subIdList": [ "UnfinishedDream" ],
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": true,
+      "destroyableOnZero": true,
+      "maxStack": 1,
+      "list": [
+        {
+          "ability": "TakeBuffStackAddLimitedCountInRound",
+          "buffData": {
+            "buffKeyword": "BloodArmorPersonalityFirst",
+            "stack": 2
+          },
+          "value": 5
+        },
+        {
+          "ability": "GiveBuffOnRoundEnd",
+          "buffData": {
+            "buffKeyword": "Agility",
+            "target": "Self",
+            "stack": 2,
+            "turn": 0,
+            "activeRound": 1
+          }
+        },
+        {
+          "ability": "GiveBuffOnRoundEnd",
+          "buffData": {
+            "buffKeyword": "AttackUp",
+            "target": "Self",
+            "stack": 3,
+            "turn": 0,
+            "activeRound": 1
+          }
+        },
+        {
+          "ability": "RighteousFeeling"
+        }
+      ],
+      "categoryKeywordList": []
+    },
+    {
+      "id": "FragmentOfHopeSancho",
+      "subIdList": [ "FragmentOfHope" ],
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": true,
+      "destroyableOnZero": true,
+      "maxStack": 4,
+      "list": [
+        {
+          "ability": "ParryingResultAdderAsStack",
+          "value": 1
+        },
+        {
+          "ability": "AttackDmgMultiplier",
+          "value": 0.1
+        },
+        {
+          "ability": "FragmentOfHope"
+        }
+      ],
+      "categoryKeywordList": []
+    },
+    {
+      "id": "FragmentOfHopeTwoSancho",
+      "iconId": "FragmentOfHopeSancho",
+      "subIdList": [ "FragmentOfHopeTwo" ],
+      "buffClass": "VolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": true,
+      "destroyableOnZero": true,
+      "maxStack": 4,
+      "list": [
+        {
+          "ability": "ParryingResultAdderAsStack",
+          "value": 4
+        },
+        {
+          "ability": "AttackDmgMultiplier",
+          "value": 0.2
+        },
+        {
+          "ability": "FragmentOfHopeTwo",
+          "value": 30
+        },
+        {
+          "ability": "AdditionalDmg",
+          "value": 1
+        }
+      ],
+      "categoryKeywordList": []
     }
   ]
 }

@@ -763,12 +763,12 @@
 			"cost": 100
 		},
 		{
-			"encounterType": "HARD_AB_BATTLE",
-			"cost": 100
-		},
-		{
 			"encounterType": "BOSS",
 			"cost": 120
+		},
+		{
+			"encounterType": "HARD_AB_BATTLE",
+			"cost": 100
 		}
 	],
 	"originbattlevictorycostvalueListHardLevel": [
@@ -785,12 +785,12 @@
 			"cost": 120
 		},
 		{
-			"encounterType": "HARD_AB_BATTLE",
-			"cost": 150
-		},
-		{
 			"encounterType": "BOSS",
 			"cost": 200
+		},
+		{
+			"encounterType": "HARD_AB_BATTLE",
+			"cost": 150
 		}
 	],
 	"battleCostWeightsByFloor": [
