@@ -920,6 +920,132 @@
           "number": 1
         }
       ]
+    },
+    {
+      "id": 10310,
+      "appearance": "10310_Donquixote_DarkSanchoAppearance",
+      "unitKeywordList": [ "SMALL", "BLOODFIEND", "SECOND_DEPENDENT" ],
+      "associationList": [ "LA_MANCHA_LAND" ],
+      "characterId": 3,
+      "panicType": 9999,
+      "season": 5,
+      "unitScriptID": "10310",
+      "defenseSkillIDList": [
+        1031004,
+        1031008
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 63,
+        "incrementByLevel": 2.17
+      },
+      "defCorrection": 0,
+      "minSpeedList": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        6,
+        7,
+        7,
+        7
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          65,
+          40,
+          20
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1031001,
+          "number": 3
+        },
+        {
+          "skillId": 1031002,
+          "number": 2
+        },
+        {
+          "skillId": 1031003,
+          "number": 1
+        },
+        {
+          "skillId": 1031005,
+          "number": 0
+        },
+        {
+          "skillId": 1031006,
+          "number": 0
+        },
+        {
+          "skillId": 1031007,
+          "number": 0
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1031001,
+          1031002,
+          1031004
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1031021
+        ]
+      }
     }
   ]
 }

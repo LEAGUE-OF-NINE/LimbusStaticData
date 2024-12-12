@@ -20846,7 +20846,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_SheddingTearsBlind"
+            "mapName": "Cp4_SheddingTears"
           },
           "unitList": [
             {
@@ -25163,7 +25163,7 @@
               "unitLevel": 50
             },
             {
-              "unitID": 1052,
+              "unitID": 1051,
               "unitCount": 4,
               "unitLevel": 50
             }
@@ -31257,21 +31257,21 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp3_B3_BossBattle"
+            "mapName": "Cp4_BrassBull"
           },
           "unitList": [
             {
-              "unitID": 8082,
+              "unitID": 8096,
               "unitCount": 1,
               "unitLevel": 50
             }
           ],
           "subUnitList": [],
           "bgmList": [
-            "Battle_Cp3_Cromer_p1",
-            "Battle_Cp3_Cromer_p2"
+            "Battle_Cp1_Ally_3",
+            "Battle_Cp1_Enemy_3"
           ],
-          "enemyPositionID": 13
+          "enemyPositionID": 30
         }
       ],
       "staminaCost": 0,
@@ -31288,12 +31288,7 @@
       "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
-        "Cromer_Mirror"
-      ],
-      "eventScriptName": "Cromer",
-      "abnormalityEventList": [
-        802701,
-        803001
+        "BrassBull_Second"
       ]
     },
     {
@@ -31307,37 +31302,41 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_DonglangBattle"
+            "mapName": "Cp5_HeartEntrance3"
           },
           "unitList": [
             {
-              "unitID": 8182,
+              "unitID": 8141,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8183,
-              "unitCount": 4,
-              "unitLevel": 50
-            }
-          ],
-          "subUnitList": [
-            {
-              "unitID": 8183,
+              "unitID": 8136,
               "unitCount": 1,
               "unitLevel": 50
             },
             {
-              "unitID": 8184,
+              "unitID": 8136,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8136,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8136,
               "unitCount": 1,
               "unitLevel": 50
             }
           ],
+          "subUnitList": [],
           "bgmList": [
-            "Battle_Cp4_DongLangEGOBattle"
+            "Battle_Cp5_Ally_3",
+            "Battle_Cp5_Enemy_4"
           ],
-          "allyPositionID": 33,
-          "enemyPositionID": 39
+          "enemyPositionID": 53
         }
       ],
       "staminaCost": 0,
@@ -31354,7 +31353,11 @@
       "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
-        "8182"
+        "8100Base"
+      ],
+      "eventScriptName": "8141",
+      "abnormalityEventList": [
+        810001
       ]
     },
     {
@@ -31365,34 +31368,25 @@
         "min": 6,
         "max": 6
       },
-      "battleCameraInfo": {
-        "defaultPosX": 0,
-        "defaultPosY": 0,
-        "defaultPosZ": -10
-      },
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Ab_ContemptSprial",
+            "mapName": "Ab_FireMoth",
             "mapSize": 33.3
           },
           "unitList": [
             {
-              "unitID": 8199,
+              "unitID": 8197,
               "unitCount": 1,
               "unitLevel": 50
             }
           ],
-          "subUnitList": [
-            {
-              "unitID": 8200,
-              "unitCount": 1,
-              "unitLevel": 50
-            }
-          ],
+          "subUnitList": [],
           "bgmList": [
-            "Battle_Cur_dolorem_sentis"
+            "Battle_Cp5_Ally_4",
+            "Battle_Cp5_Enemy_5"
           ],
+          "allyPositionID": 48,
           "enemyPositionID": 13
         }
       ],
@@ -31410,22 +31404,11 @@
       "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
-        "8199"
+        "8197"
       ],
-      "eventScriptName": "8585",
+      "eventScriptName": "8577",
       "abnormalityEventList": [
-        858501,
-        85850101,
-        85850102,
-        85850103,
-        858502,
-        85850201,
-        85850202,
-        85850203,
-        85850204,
-        85850205,
-        85850206,
-        85850207
+        857701
       ]
     },
     {
@@ -33004,7 +32987,7 @@
               "unitLevel": 50
             },
             {
-              "unitID": 1052,
+              "unitID": 1051,
               "unitCount": 4,
               "unitLevel": 50
             }
@@ -35681,7 +35664,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_SheddingTearsBlind"
+            "mapName": "Cp4_SheddingTears"
           },
           "unitList": [
             {
@@ -35704,7 +35687,8 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_3",
-            "Battle_Cp4_Enemy_3"
+            "Battle_Cp4_Enemy_3",
+            "Battle_Cp4_DongbaekBattle"
           ],
           "allyPositionID": 33,
           "enemyPositionID": 29
@@ -37142,7 +37126,13 @@
               "unitLevel": 50
             }
           ],
-          "subUnitList": [],
+          "subUnitList": [
+            {
+              "unitID": 8140,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
           "bgmList": [
             "Battle_Cp5_Ally_4",
             "Battle_Cp5_Enemy_5"
@@ -37183,7 +37173,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_SheddingTearsBlind"
+            "mapName": "Cp4_SheddingTears"
           },
           "unitList": [
             {
@@ -37206,7 +37196,8 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_3",
-            "Battle_Cp4_Enemy_3"
+            "Battle_Cp4_Enemy_3",
+            "Battle_Cp4_DongbaekBattle"
           ],
           "allyPositionID": 33,
           "enemyPositionID": 29
@@ -42195,7 +42186,7 @@
               "unitLevel": 50
             },
             {
-              "unitID": 1052,
+              "unitID": 1051,
               "unitCount": 4,
               "unitLevel": 50
             }

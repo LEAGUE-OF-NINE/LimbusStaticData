@@ -1782,17 +1782,17 @@
         ],
         "packSpriteId": "RailwayDungeon_1",
         "isShowWarning": false,
-        "textColor": "7e57a8",
+        "textColor": "002ff8",
         "isHideLogo": true,
         "isShowBaton":true,
         "mapOptions": [
           {
             "key": "SetColor_Basic",
-            "value": "7e57a8"
+            "value": "002ff8"
           },
           {
             "key": "SetColor_Cleared",
-            "value": "4e3076"
+            "value": "110c36"
           },
           {
             "key": "MirrorDungeon4_Base"
@@ -1986,17 +1986,17 @@
         ],
         "packSpriteId": "RailwayDungeon_2",
         "isShowWarning": false,
-        "textColor": "7e57a8",
+        "textColor": "4dea00",
         "isHideLogo": true,
         "isShowBaton":true,
         "mapOptions": [
           {
             "key": "SetColor_Basic",
-            "value": "7e57a8"
+            "value": "4dea00"
           },
           {
             "key": "SetColor_Cleared",
-            "value": "4e3076"
+            "value": "003d0f"
           },
           {
             "key": "MirrorDungeon4_Base"
@@ -2192,17 +2192,17 @@
         ],
         "packSpriteId": "RailwayDungeon_3",
         "isShowWarning": false,
-        "textColor": "7e57a8",
+        "textColor": "ff6600",
         "isHideLogo": true,
         "isShowBaton":true,
         "mapOptions": [
           {
             "key": "SetColor_Basic",
-            "value": "7e57a8"
+            "value": "ff6600"
           },
           {
             "key": "SetColor_Cleared",
-            "value": "4e3076"
+            "value": "ff6600"
           },
           {
             "key": "MirrorDungeon4_Base"
@@ -2396,17 +2396,17 @@
         ],
         "packSpriteId": "RailwayDungeon_4",
         "isShowWarning": false,
-        "textColor": "7e57a8",
+        "textColor": "00a2e1",
         "isHideLogo": true,
         "isShowBaton":true,
         "mapOptions": [
           {
             "key": "SetColor_Basic",
-            "value": "7e57a8"
+            "value": "00a2e1"
           },
           {
             "key": "SetColor_Cleared",
-            "value": "4e3076"
+            "value": "04364a"
           },
           {
             "key": "MirrorDungeon4_Base"
@@ -2600,17 +2600,17 @@
         ],
         "packSpriteId": "RailwayDungeon_4_2",
         "isShowWarning": false,
-        "textColor": "7e57a8",
+        "textColor": "00a2e1",
         "isHideLogo": true,
         "isShowBaton":true,
         "mapOptions": [
           {
             "key": "SetColor_Basic",
-            "value": "7e57a8"
+            "value": "00a2e1"
           },
           {
             "key": "SetColor_Cleared",
-            "value": "4e3076"
+            "value": "04364a"
           },
           {
             "key": "MirrorDungeon4_Base"

@@ -106,7 +106,7 @@
     -0.2,
     -0.15
   ],
-  "useFaqWebpage": false,
+  "useFaqWebpage": true,
   "enemyLevelAdders": [
     {
       "id": 1064,
@@ -178,5 +178,5 @@
     }
   ],
   "mirrorDungeonSpecialPackLevelReward": 3,
-  "isUsingLetterBox": false
+  "isUsingLetterBox": true
 }
