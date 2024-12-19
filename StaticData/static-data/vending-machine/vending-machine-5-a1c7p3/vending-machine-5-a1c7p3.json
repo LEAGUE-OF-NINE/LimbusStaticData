@@ -13,9 +13,7 @@
 						{
 							"type": "PERSONALITY",
 							"id": 10310,
-							"price": 400,
-							"blocked": true,
-							"vendingAvailableDate": "2024-12-19T03:00:00.000Z"
+							"price": 400
 						},
 						{
 							"type": "PERSONALITY",

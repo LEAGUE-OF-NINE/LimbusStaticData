@@ -7430,17 +7430,17 @@
           "subUnitList": [
             {
               "unitID": 8145,
-              "unitCount": 1,
+              "unitCount": 4,
               "unitLevel": 50
             },
             {
               "unitID": 8146,
-              "unitCount": 1,
+              "unitCount": 4,
               "unitLevel": 50
             },
             {
               "unitID": 8146,
-              "unitCount": 1,
+              "unitCount": 2,
               "unitLevel": 50
             }
           ],
@@ -35734,17 +35734,17 @@
           "subUnitList": [
             {
               "unitID": 8145,
-              "unitCount": 1,
+              "unitCount": 4,
               "unitLevel": 50
             },
             {
               "unitID": 8146,
-              "unitCount": 1,
+              "unitCount": 4,
               "unitLevel": 50
             },
             {
               "unitID": 8146,
-              "unitCount": 1,
+              "unitCount": 2,
               "unitLevel": 50
             }
           ],
@@ -38016,6 +38016,7 @@
       "stageScriptList": [
         "AbnormalityEvent"
       ],
+      "isBatonPassOn": "TRUE",
       "eventScriptName": "NobodyGonnaCry",
       "abnormalityEventList": [
         804701
@@ -38083,6 +38084,7 @@
       "stageScriptList": [
         "AbnormalityEvent"
       ],
+      "isBatonPassOn": "TRUE",
       "eventScriptName": "8059",
       "abnormalityEventList": [
         805901

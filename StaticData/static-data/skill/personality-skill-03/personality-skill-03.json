@@ -5591,7 +5591,7 @@
           "defaultValue": 5,
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnBattleStartWithBloodDinnerGainBuffStackIfFailed_Laceration5[10:50:10]",
+              "scriptName": "GiveBuffOnBattleStartWithBloodDinnerGainBuffStackIfFailed_Laceration10[10:50:10]",
               "buffData": {
                 "buffKeyword": "BloodArmorPersonalityFirst",
                 "target": "Self",
