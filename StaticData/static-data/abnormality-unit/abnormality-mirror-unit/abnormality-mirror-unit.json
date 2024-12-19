@@ -8994,8 +8994,8 @@
       "classType": "TETH",
       "attributeType": "AMBER",
       "hp": {
-        "defaultStat": 1105,
-        "incrementByLevel": 57.14
+        "defaultStat": 444,
+        "incrementByLevel": 22.98
       },
       "breakSection": {
         "sectionList": [
@@ -9155,8 +9155,8 @@
       "classType": "TETH",
       "attributeType": "AMBER",
       "hp": {
-        "defaultStat": 1105,
-        "incrementByLevel": 57.14
+        "defaultStat": 444,
+        "incrementByLevel": 22.98
       },
       "breakSection": {
         "sectionList": [
