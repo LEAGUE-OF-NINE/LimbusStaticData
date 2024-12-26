@@ -2618,6 +2618,218 @@
         ]
       },
       "difficulty": "DIFFICULT"
+    },
+    {
+      "id": 1113,
+      "relatedEventId": 17,
+      "unlockCondition": {
+        "unlockCode": 106
+      },
+      "desc": "20번구의 기적 BokGak",
+      "exceptionConditions": [
+        {
+          "dungeonIdx": 1,
+          "selectableFloors": [
+            3,
+            4
+          ]
+        }
+      ],
+      "mapGenOption": {
+        "bossPool": [
+          2067431
+        ],
+        "battlePool": [
+
+        ],
+        "abBattlePool": [
+        
+        ],
+        "hardBattlePool": [
+
+        ],
+        "hardAbBattlePool": [
+          
+        ],
+        "eventPool": [
+        ],
+        "specialEventPool": [
+          971036,
+          971037
+        ],
+        "specialEventProb" : 1
+      },
+      "egoGiftPool": [
+        9709,
+        9710,
+        9711,
+        9759,
+        9760,
+        9762,
+        9763,
+
+        9001,
+        9003,
+        9005,
+        9008,
+        9009,
+        9012,
+        9013,
+        9016,
+        9018,
+        9019,
+        9020,
+        9023,
+        9024,
+        9027,
+        9029,
+        9030,
+        9031,
+        9032,
+        9033,
+        9034,
+        9041,
+        9042,
+        9043,
+        9044,
+        9045,
+        9046,
+        9047,
+        9048,
+        9049,
+        9050,
+        9051,
+        9052,
+        9053,
+        9054,
+        9055,
+        9056,
+        9057,
+        9058,
+        9059,
+        9060,
+        9061,
+        9062,
+        9063,
+        9064,
+        9065,
+        9066,
+        9067,
+        9068,
+        9069,
+        9070,
+        9071,
+        9072,
+        9073,
+        9074,
+        9075,
+        9076,
+        9077,
+        9078,
+        9079,
+        9080,
+        9081,
+        9082,
+        9083,
+        9084,
+        9085,
+        9086,
+        9087,
+        9089,
+        9091,
+        9093,
+        9095,
+        9097,
+        9099
+      ],
+      "specificEgoGiftPool": [
+        9709,
+        9710,
+        9711,
+        9759,
+        9760,
+        9762,
+        9763
+      ],
+      "mapGenSequence": [
+        {
+          "type": "CREATE_FIXED_FLOOR",
+          "numberList": [
+            3,
+            3,
+            1
+          ],
+          "nodeList": [
+            {
+              "sector": 0,
+              "idx": 0,
+              "encounterType": 0,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [0]
+            },
+            {
+              "sector": 1,
+              "idx": 0,
+              "encounterType": 3,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [0]
+            },
+            {
+              "sector": 2,
+              "idx": 0,
+              "encounterType": 3,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [0]
+            },
+            {
+              "sector": 3,
+              "idx": 0,
+              "encounterType": 10,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [0]
+            },
+            {
+              "sector": 4,
+              "idx": 0,
+              "encounterType": 6,
+              "encounterId": 2067431,
+              "connectedNextNodeIdxList": []
+            }
+          ]
+        },
+        {
+          "type": "FILL_EMPTY_EVENT",
+          "numberList": [
+            971036,
+            971037
+          ]
+        }
+      ],
+      "uiConfigs": {
+        "showBossIds": [
+          1078
+        ],
+        "packSpriteId": "Canto_Miracle20_BokGak",
+        "textColor": "b60000",
+        "isHideLogo": true,
+        "isShowBaton":true,
+        "attackType": "PENETRATE",
+        "attributeType": "CRIMSON",
+        "mapOptions": [
+          {
+            "key": "SetColor_Basic",
+            "value": "b60000"
+          },
+          {
+            "key": "SetColor_Cleared",
+            "value": "680000"
+          },
+          {
+            "key": "MirrorDungeon4_Base"
+          }
+        ]
+      },
+      "difficulty": "DIFFICULT"
     }
   ]
 }

@@ -1,0 +1,1029 @@
+{
+	"list": [
+		{
+			"id": 17,
+			"startDate": "2024-12-10T03:00:00.000Z",
+			"startDateForUI": "2024-12-26T03:00:00.000Z",
+			"endDate": "2025-01-23T01:00:00.000Z",
+			"endDateForUI": "2025-01-23T01:00:00.000Z",
+			"gracePeriod": "2025-01-30T01:00:00.000Z",
+			"eventRewardDatas": [
+				{
+					"rewardId": 1,
+					"rewardPrice": {
+						"type": "ITEM",
+						"id": 20009,
+						"num": 750
+					},
+					"rewardItemList": [
+						{
+							"type": "USER_TICKET_DECO_LEFT",
+							"id": 19,
+							"num": 1
+						},
+						{
+							"type": "USER_TICKET_DECO_RIGHT",
+							"id": 19,
+							"num": 1
+						},
+						{
+							"type": "USER_TICKET_DECO_EGOBG",
+							"id": 19,
+							"num": 1
+						}
+					],
+					"limitCount": 1,
+					"unableIfPossessed": true
+				},
+				{
+					"rewardId": 2,
+					"rewardPrice": {
+						"type": "ITEM",
+						"id": 20009,
+						"num": 600
+					},
+					"rewardItemList": [
+						{
+							"type": "USERBANNER",
+							"id": 24,
+							"num": 1
+						}
+					],
+					"limitCount": 1,
+					"unableIfPossessed": true
+				},
+				{
+					"rewardId": 3,
+					"rewardPrice": {
+						"type": "ITEM",
+						"id": 20009,
+						"num": 500
+					},
+					"rewardItemList": [
+						{
+							"type": "ANNOUNCER",
+							"id": 23,
+							"num": 1
+						}
+					],
+					"limitCount": 1,
+					"unableIfPossessed": true
+				},
+				{
+					"rewardId": 4,
+					"rewardPrice": {
+						"type": "ITEM",
+						"id": 20009,
+						"num": 500
+					},
+					"rewardItemList": [
+						{
+							"type": "EGO",
+							"id": 20705,
+							"num": 1
+						}
+					],
+					"limitCount": 1,
+					"unableIfPossessed": true
+				},
+				{
+					"rewardId": 5,
+					"rewardPrice": {
+						"type": "ITEM",
+						"id": 20009,
+						"num": 250
+					},
+					"rewardItemList": [
+						{
+							"type": "USER_TICKET_DECO_LEFT",
+							"id": 18,
+							"num": 1
+						},
+						{
+							"type": "USER_TICKET_DECO_RIGHT",
+							"id": 18,
+							"num": 1
+						},
+						{
+							"type": "USER_TICKET_DECO_EGOBG",
+							"id": 18,
+							"num": 1
+						}
+					],
+					"limitCount": 1,
+					"unableIfPossessed": true
+				},
+				{
+					"rewardId": 6,
+					"rewardPrice": {
+						"type": "ITEM",
+						"id": 20009,
+						"num": 200
+					},
+					"rewardItemList": [
+						{
+							"type": "USERBANNER",
+							"id": 23,
+							"num": 1
+						}
+					],
+					"limitCount": 1,
+					"unableIfPossessed": true
+				},
+				{
+					"rewardId": 7,
+					"rewardPrice": {
+						"type": "ITEM",
+						"id": 20009,
+						"num": 25
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id": 301,
+							"num": 2
+						}
+					],
+					"limitCount": 6
+				},
+				{
+					"rewardId": 8,
+					"rewardPrice": {
+						"type": "ITEM",
+						"id": 20009,
+						"num": 20
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id": 101,
+							"num": 1
+						}
+					],
+					"limitCount": 20
+				},
+				{
+					"rewardId": 9,
+					"rewardPrice": {
+						"type": "ITEM",
+						"id": 20009,
+						"num": 15
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id": 1205,
+							"num": 5
+						}
+					],
+					"limitCount": 10
+				},
+				{
+					"rewardId": 10,
+					"rewardPrice": {
+						"type": "ITEM",
+						"id": 20009,
+						"num": 10
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id": 1105,
+							"num": 5
+						}
+					],
+					"limitCount": 10
+				},
+				{
+					"rewardId": 11,
+					"rewardPrice": {
+						"type": "ITEM",
+						"id": 20009,
+						"num": 15
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id": 214,
+							"num": 1
+						}
+					],
+					"limitCount": 50
+				},
+				{
+					"rewardId": 12,
+					"rewardPrice": {
+						"type": "ITEM",
+						"id": 20009,
+						"num": 5
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id": 213,
+							"num": 1
+						}
+					],
+					"limitCount": 20
+				},
+				{
+					"rewardId": 13,
+					"rewardPrice": {
+						"type": "ITEM",
+						"id": 20009,
+						"num": 5
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id": 201,
+							"num": 5
+						}
+					],
+					"limitCount": 80
+				}
+			],
+			"eventMainItemId": 20009,
+			"maxEventBonusPercentage": 120,
+			"eventBonusEgoList": [
+				{
+					"id": 20808,
+					"percentage": 40,
+					"element": {
+						"type": "EGO",
+						"id": 20808
+					}
+				},
+				{
+					"id": 21208,
+					"percentage": 40,
+					"element": {
+						"type": "EGO",
+						"id": 21208
+					}
+				},
+				{
+					"id": 21105,
+					"percentage": 40,
+					"element": {
+						"type": "EGO",
+						"id": 21105
+					}
+				},
+				{
+					"id": 20705,
+					"percentage": 20,
+					"element": {
+						"type": "EGO",
+						"id": 20705
+					}
+				}
+			],
+			"exchangeTargetItem": {
+				"type": "ITEM",
+				"id": 20010,
+				"num": 1
+			},
+			"exchangeResultItem": {
+				"type": "ITEM",
+				"id": 20009,
+				"num": 20
+			},
+			"additionalStageNodeRewards": [
+				{
+					"nodeRewardIdStr":"STAGE_8",
+					"normalClearRewards": [],
+					"firstClearRewards": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 8
+						}
+					],
+					"probabilisticRewardPercentage": 5,
+					"probabilisticRewards": [
+						{
+							"type": "ITEM",
+							"id": 20010,
+							"num": 1
+						}
+					],
+					"nodeIdList":[
+						10102,
+						10103,
+						10104,
+						10105
+					]
+				},
+				{
+					"nodeRewardIdStr": "STAGE_12",
+					"normalClearRewards": [],
+					"firstClearRewards": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 12
+						}
+					],
+					"probabilisticRewardPercentage": 5,
+					"probabilisticRewards": [
+						{
+							"type": "ITEM",
+							"id": 20010,
+							"num": 1
+						}
+					],
+					"nodeIdList":[
+						10106,
+						10107,
+						10108,
+						10109,
+						10110
+					]
+				},
+				{
+					"nodeRewardIdStr": "STAGE_16",
+					"normalClearRewards": [],
+					"firstClearRewards": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 16
+						}
+					],
+					"probabilisticRewardPercentage": 5,
+					"probabilisticRewards": [
+						{
+							"type": "ITEM",
+							"id": 20010,
+							"num": 1
+						}
+					],
+					"nodeIdList":[
+						10202,
+						10204,
+						10205,
+						10206,
+						10207,
+						10208,
+						10209,
+						10210,
+						10211,
+						10212,
+						10213,
+						10214,
+						10215,
+						10218,
+
+						910301,
+						910302,
+						910303,
+						910304,
+						910305,
+						910306,
+						910307,
+						910308
+					]
+				},
+				{
+					"nodeRewardIdStr": "STAGE_18",
+					"normalClearRewards": [],
+					"firstClearRewards": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 18
+						}
+					],
+					"probabilisticRewardPercentage": 5,
+					"probabilisticRewards": [
+						{
+							"type": "ITEM",
+							"id": 20010,
+							"num": 1
+						}
+					],
+					"nodeIdList":[
+						10302,
+						10304,
+						10305,
+						10306,
+						10310,
+						10311,
+						10312,
+						10313
+					]
+				},
+				{
+					"nodeRewardIdStr": "STAGE_20",
+					"normalClearRewards": [],
+					"firstClearRewards": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 20
+						}
+					],
+					"probabilisticRewardPercentage": 5,
+					"probabilisticRewards": [
+						{
+							"type": "ITEM",
+							"id": 20010,
+							"num": 1
+						}
+					],
+					"nodeIdList":[
+						10111,
+
+						10314,
+						10315,
+						10316,
+						10317,
+						10318,
+						10319,
+						10320,
+						10321,
+
+						910309,
+
+						10402,
+						10403,
+						10404,
+						10405,
+						10406,
+						10410,
+						10411,
+						10412,
+						10413,
+						10414,
+						10416,
+						10417,
+						10418,
+						10419,
+						10420,
+						10421,
+						10422,
+						10423,
+						10424,
+						10425,
+						10430,
+						10431,
+						10432,
+						10433,
+						10434,
+						10435,
+						10436,
+						10437,
+						10438,
+						10439,
+						10440,
+						10441,
+						10442,
+						10443,
+						10444,
+						10445,
+						10446,
+						10447,
+						10448,
+						10449,
+						10450,
+						10451,
+						10452,
+						10453,
+
+						910402,
+						910403,
+						910405,
+						910407,
+						910408,
+						910409,
+						910411,
+
+						10504,
+						10505,
+						10506,
+						10507,
+						10508,
+						10509,
+						10510,
+						10511,
+						10512,
+						10516,
+						10517,
+						10518,
+						10519,
+						10522,
+						10523,
+						10525,
+						10526,
+						10527,
+						10529,
+						10530,
+						10532,
+						10535,
+						10537,
+
+						910702,
+						910703,
+						910704,
+						910705,
+						910706,
+						910707,
+						910708,
+						910709,
+						910710,
+						910711,
+
+						10602,
+						10603,
+						10609,
+						10614,
+						10615,
+						10616,
+						10617,
+						10618,
+						10619,
+						10620,
+						10621,
+						10622,
+						10623,
+						10624,
+						10625,
+						10626,
+						10627,
+						10628,
+						10629,
+						10630,
+						10631,
+						10632,
+						10633,
+						10634,
+						10635,
+						10637,
+						10638,
+						10639,
+						10640,
+						10641,
+						10642,
+						10644,
+						10645,
+						10648,
+
+						910902,
+						910906,
+						910907,
+						910908,
+						910909,
+						910910,
+						910914,
+
+						911004,
+						911006,
+						911007,
+						911008,
+						911009,
+						911010,
+						911011,
+						911012,
+						911013,
+
+						10703,
+						10704,
+						10706,
+						10709,
+						10710,
+						10711,
+						10712,
+						10713,
+						10714,
+						10715,
+						10716,
+						10717,
+						10718,
+						10721,
+						10722,
+						10723,
+						10724,
+						10726,
+						10730,
+						10731,
+						10732,
+						10733,
+						10734
+					]
+				},
+				{
+					"nodeRewardIdStr": "STAGE_40",
+					"normalClearRewards": [],
+					"firstClearRewards": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 40
+						}
+					],
+					"probabilisticRewardPercentage": 5,
+					"probabilisticRewards": [
+						{
+							"type": "ITEM",
+							"id": 20010,
+							"num": 1
+						}
+					],
+					"nodeIdList":[
+						10219,
+
+						910310,
+
+						910712,
+
+						910915
+					]
+				},
+				{
+					"nodeRewardIdStr": "STAGE_60",
+					"normalClearRewards": [],
+					"firstClearRewards": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 60
+						}
+					],
+					"probabilisticRewardPercentage": 5,
+					"probabilisticRewards": [
+						{
+							"type": "ITEM",
+							"id": 20010,
+							"num": 1
+						}
+					],
+					"nodeIdList":[
+						10322
+					]
+				},
+				{
+					"nodeRewardIdStr": "STAGE_80",
+					"normalClearRewards": [],
+					"firstClearRewards": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 80
+						}
+					],
+					"probabilisticRewardPercentage": 5,
+					"probabilisticRewards": [
+						{
+							"type": "ITEM",
+							"id": 20010,
+							"num": 1
+						}
+					],
+					"nodeIdList":[
+						10454
+					]
+				},
+				{
+					"nodeRewardIdStr": "STAGE_100",
+					"normalClearRewards": [],
+					"firstClearRewards": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 100
+						}
+					],
+					"probabilisticRewardPercentage": 5,
+					"probabilisticRewards": [
+						{
+							"type": "ITEM",
+							"id": 20010,
+							"num": 1
+						}
+					],
+					"nodeIdList":[
+						10539
+					]
+				},
+				{
+					"nodeRewardIdStr": "STAGE_120",
+					"normalClearRewards": [],
+					"firstClearRewards": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 120
+						}
+					],
+					"probabilisticRewardPercentage": 5,
+					"probabilisticRewards": [
+						{
+							"type": "ITEM",
+							"id": 20010,
+							"num": 1
+						}
+					],
+					"nodeIdList":[
+						10736
+					]
+				},
+				{
+					"nodeRewardIdStr": "EVENT_40",
+					"normalClearRewards": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 10
+						}
+					],
+					"firstClearRewards": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 40
+						}
+					],
+					"probabilisticRewardPercentage": 5,
+					"probabilisticRewards": [
+						{
+							"type": "ITEM",
+							"id": 20010,
+							"num": 1
+						}
+					],
+					"nodeIdList":[
+						910503,
+						910504,
+						910505
+					]
+				},
+				{
+					"nodeRewardIdStr": "EVENT_60",
+					"normalClearRewards": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 10
+						}
+					],
+					"firstClearRewards": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 60
+						}
+					],
+					"probabilisticRewardPercentage": 5,
+					"probabilisticRewards": [
+						{
+							"type": "ITEM",
+							"id": 20010,
+							"num": 1
+						}
+					],
+					"nodeIdList":[
+						910506,
+						910507,
+						910508
+					]
+				},
+				{
+					"nodeRewardIdStr": "EVENT_80",
+					"normalClearRewards": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 10
+						}
+					],
+					"firstClearRewards": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 80
+						}
+					],
+					"probabilisticRewardPercentage": 5,
+					"probabilisticRewards": [
+						{
+							"type": "ITEM",
+							"id": 20010,
+							"num": 1
+						}
+					],
+					"nodeIdList":[
+						910509,
+						910510,
+						910511
+					]
+				},
+				{
+					"nodeRewardIdStr": "EVENT_120",
+					"normalClearRewards": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 50
+						}
+					],
+					"firstClearRewards": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 120
+						}
+					],
+					"probabilisticRewardPercentage": 10,
+					"probabilisticRewards": [
+						{
+							"type": "ITEM",
+							"id": 20010,
+							"num": 1
+						}
+					],
+					"nodeIdList":[
+						910513
+					]
+				},
+				{
+					"nodeRewardIdStr": "EVENT_50",
+					"normalClearRewards": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 15
+						}
+					],
+					"firstClearRewards": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 50
+						}
+					],
+					"probabilisticRewardPercentage": 5,
+					"probabilisticRewards": [
+						{
+							"type": "ITEM",
+							"id": 20010,
+							"num": 1
+						}
+					],
+					"nodeIdList":[
+						911203,
+						911204,
+						911205
+					]
+				},
+				{
+					"nodeRewardIdStr": "EVENT_75",
+					"normalClearRewards": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 15
+						}
+					],
+					"firstClearRewards": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 75
+						}
+					],
+					"probabilisticRewardPercentage": 5,
+					"probabilisticRewards": [
+						{
+							"type": "ITEM",
+							"id": 20010,
+							"num": 1
+						}
+					],
+					"nodeIdList":[
+						911206,
+						911207,
+						911208
+					]
+				},
+				{
+					"nodeRewardIdStr": "EVENT_100",
+					"normalClearRewards": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 15
+						}
+					],
+					"firstClearRewards": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 100
+						}
+					],
+					"probabilisticRewardPercentage": 5,
+					"probabilisticRewards": [
+						{
+							"type": "ITEM",
+							"id": 20010,
+							"num": 1
+						}
+					],
+					"nodeIdList":[
+						911209,
+						911210,
+						911211
+					]
+				},
+				{
+					"nodeRewardIdStr": "EVENT_150",
+					"normalClearRewards": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 75
+						}
+					],
+					"firstClearRewards": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 150
+						}
+					],
+					"probabilisticRewardPercentage": 10,
+					"probabilisticRewards": [
+						{
+							"type": "ITEM",
+							"id": 20010,
+							"num": 1
+						}
+					],
+					"nodeIdList":[
+						911213
+					]
+				}
+			],
+			"additionalMirrordungeonRewards":[
+				{
+					"mirrordungeonId": 5,
+					"mirrordungeonIndex": 0,
+					"rewardsPerFloor": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 10
+						}
+					],
+					"nodeRewards":[
+						{
+							"themeList":[
+								1103
+							],
+							"rewardsPerTheme":[
+								{
+									"type": "ITEM",
+									"id": 20009,
+									"num": 50
+								}
+							]
+						}
+					]
+				},
+				{
+					"mirrordungeonId": 5,
+					"mirrordungeonIndex": 1,
+					"rewardsPerFloor": [
+						{
+							"type": "ITEM",
+							"id": 20009,
+							"num": 20
+						}
+					],
+					"nodeRewards":[
+						{
+							"themeList":[
+								1103,
+								1113
+							],
+							"rewardsPerTheme":[
+								{
+									"type": "ITEM",
+									"id": 20009,
+									"num": 70
+								}
+							]
+						}
+					]
+				}
+			],
+			"additionalMirrordungeonProbabilisticRewardPercentage":5,
+			"additionalMirrordungeonProbabilisticRewards":{
+				"type": "ITEM",
+				"id": 20010,
+				"num": 1
+			}
+		}
+	]
+}

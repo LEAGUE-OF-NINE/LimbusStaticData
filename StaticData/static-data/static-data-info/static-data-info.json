@@ -76,7 +76,8 @@
         "abnormality-part-wp4",
         "abnormality-part-a1c7p1",
         "abnormality-part-a1c7p2",
-        "abnormality-part-a1c7p3"
+        "abnormality-part-a1c7p3",
+        "abnormality-part91-5-hard"
       ]
     },
     {
@@ -108,7 +109,8 @@
         "abnormality-unit-wp4",
         "abnormality-unit-a1c7p1",
         "abnormality-unit-a1c7p2",
-        "abnormality-unit-a1c7p3"
+        "abnormality-unit-a1c7p3",
+        "abnormality-unit91-5-hard"
       ]
     },
     {
@@ -246,7 +248,8 @@
         "ego-gift-walpu4",
         "hidden-ego-gift-mirrordungeon",
         "ego-gift-story-ycgd",
-        "ego-gift-story-tkt"
+        "ego-gift-story-tkt",
+        "ego-gift-story-5-5-1"
       ]
     },
     {
@@ -287,7 +290,9 @@
         "gacha-200",
         "gacha-201",
         "gacha-202",
-        "gacha-203"
+        "gacha-203",
+        "gacha-204",
+        "gacha-205"
       ]
     },
     {
@@ -453,7 +458,8 @@
         "skill-abnormality-a1c7p2",
         "skill-abnormality-a1c7p3",
         "skill-enemy-a1c7p1",
-        "skill-enemy-a1c7p2"
+        "skill-enemy-a1c7p2",
+        "skill-abnormality91-5-hard"
       ]
     },
     {
@@ -481,7 +487,8 @@
         "storybattle-wp4",
         "storybattle-a1c7p1",
         "storybattle-a1c7p2",
-        "storybattle-a1c7p3"
+        "storybattle-a1c7p3",
+        "storybattle-a1c9112"
       ]
     },
     {
@@ -558,7 +565,8 @@
         "stagenodereward91-11",
         "stagenodereward-a1c7p1",
         "stagenodereward-a1c7p2",
-        "stagenodereward-a1c7p3"
+        "stagenodereward-a1c7p3",
+        "stagenodereward91-12"
       ]
     },
     {
@@ -1197,11 +1205,9 @@
     {
       "dataClass": "event",
       "fileList": [
-        "limbus-1st-gift-240227",
-        "mowe-event",
-        "walpu4-event-data",
+        "returninguser-event",
         "newuser-event",
-        "returninguser-event"
+        "miracleofdistrict20-returns-event"
       ]
     },
     {

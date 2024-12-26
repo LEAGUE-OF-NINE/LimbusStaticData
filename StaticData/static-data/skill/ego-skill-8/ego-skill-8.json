@@ -1761,6 +1761,442 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2080811,
+      "skillType": "EGO_AWAKEN",
+      "skillTier": 3,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "AMBER",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 3,
+          "mpUsage": 20,
+          "skillLevelCorrection": 1,
+          "defaultValue": 12,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "SKILL",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffBeforeAttackByReso20808",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 5,
+                "activeRound": 0,
+                "limit": 10
+              }
+            },
+            {
+              "scriptName": "EighthIshmaelEgoAwakenSkillMpHeal10"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 5,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "VibrationExplosionOnSucceedAttackAndLoseTargetVibrationTurn1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "abilityScriptList": [
+            {
+              "scriptName": "EighthIshmaelEgoAttackDmgMultiplier0And1And10And450"
+            },
+            {
+              "scriptName": "GiveBuffBeforeAttackByReso20808",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 5,
+                "activeRound": 0,
+                "limit": 10
+              }
+            },
+            {
+              "scriptName": "EighthIshmaelEgoAwakenSkillMpHeal10"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 5,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackByCheckCondition20808",
+                  "buffData": {
+                    "buffKeyword": "Sinking",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 5,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "EighthIshmaelEgoVEOSAAndLoseTargetVibrationTurn1And2"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "VibrationExplosionOnSucceedAttackAndLoseTargetVibrationTurn1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "EighthIshmaelEgoAttackDmgMultiplier0And1And10And450"
+            },
+            {
+              "scriptName": "GiveBuffBeforeAttackByReso20808",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 5,
+                "activeRound": 0,
+                "limit": 10
+              }
+            },
+            {
+              "scriptName": "EighthIshmaelEgoAwakenSkillMpHeal10"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 5,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackByCheckCondition20808",
+                  "buffData": {
+                    "buffKeyword": "Sinking",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 5,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "EighthIshmaelEgoVEOSAAndLoseTargetVibrationTurn2And2"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "VibrationExplosionOnSucceedAttackAndLoseTargetVibrationTurn1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080821,
+      "skillType": "EGO_EROSION",
+      "skillTier": 3,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "AMBER",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillTargetType": "RANDOM",
+          "targetNum": 5,
+          "mpUsage": 20,
+          "skillLevelCorrection": 2,
+          "defaultValue": 18,
+          "canTeamKill": true,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "SKILL",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffBeforeAttackByReso20808",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 5,
+                "activeRound": 0,
+                "limit": 10
+              }
+            },
+            {
+              "scriptName": "HealHpBeforeAttackSelf10"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 5,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "SUB",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "VibrationExplosionOnSucceedAttackAndLoseTargetVibrationTurn1"
+                }
+              ]
+            },
+            {
+              "operatorType": "SUB",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "VibrationExplosionOnSucceedAttackAndLoseTargetVibrationTurn1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "abilityScriptList": [
+            {
+              "scriptName": "EighthIshmaelEgoSkillPowerAdder1"
+            },
+            {
+              "scriptName": "GiveBuffBeforeAttackByReso20808",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 5,
+                "activeRound": 0,
+                "limit": 10
+              }
+            },
+            {
+              "scriptName": "HealHpBeforeAttackSelf10"
+            },
+            {
+              "scriptName": "EighthIshmaelEgoErosionSkillMpHeal5"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 5,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackByCheckCondition20808",
+                  "buffData": {
+                    "buffKeyword": "Sinking",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 5,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "SUB",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "VibrationExplosionOnSucceedAttackAndLoseTargetVibrationTurn1"
+                }
+              ]
+            },
+            {
+              "operatorType": "SUB",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "EighthIshmaelEgoVEOSAAndLoseTargetVibrationTurn1And1"
+                },
+                {
+                  "scriptName": "VibrationExplosionOnSucceedAttackAndLoseTargetVibrationTurn1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "EighthIshmaelEgoSkillPowerAdder2"
+            },
+            {
+              "scriptName": "GiveBuffBeforeAttackByReso20808",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 5,
+                "activeRound": 0,
+                "limit": 10
+              }
+            },
+            {
+              "scriptName": "HealHpBeforeAttackSelf10"
+            },
+            {
+              "scriptName": "EighthIshmaelEgoErosionSkillMpHeal5"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 5,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackByCheckCondition20808",
+                  "buffData": {
+                    "buffKeyword": "Sinking",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 5,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "SUB",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "EighthIshmaelEgoVEOSAAndLoseTargetVibrationTurn1And1"
+                },
+                {
+                  "scriptName": "VibrationExplosionOnSucceedAttackAndLoseTargetVibrationTurn1"
+                }
+              ]
+            },
+            {
+              "operatorType": "SUB",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "EighthIshmaelEgoVEOSAAndLoseTargetVibrationTurn1And1"
+                },
+                {
+                  "scriptName": "VibrationExplosionOnSucceedAttackAndLoseTargetVibrationTurn1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

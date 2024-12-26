@@ -17,6 +17,22 @@
       "isBannerVisible": true
     },
     {
+      "eventId": "MiracleOfDistrict20",
+      "mainUIPhaseTypeList": [
+        "Lobby",
+        "Stage"
+      ],
+      "bannerSpriteId": "banner_district20_event",
+      "isBannerVisible": true
+    },
+    {
+      "eventId": "MiracleOfDistrict20Reward",
+      "mainUIPhaseTypeList": [
+        "Stage"
+      ],
+      "isBannerVisible": true
+    },
+    {
       "eventId": "MirrorDungeon",
       "mainUIPhaseTypeList": [
         "Lobby"

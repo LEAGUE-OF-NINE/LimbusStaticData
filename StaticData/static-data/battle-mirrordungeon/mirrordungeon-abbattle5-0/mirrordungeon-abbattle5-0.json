@@ -256,7 +256,8 @@
           "bgmList": [
             "Battle_Cur_dolorem_sentis"
           ],
-          "enemyPositionID": 13
+          "enemyPositionID": 63,
+          "allyPositionID": 48
         }
       ],
       "staminaCost": 0,
@@ -327,7 +328,8 @@
           "bgmList": [
             "Battle_Cur_dolorem_sentis"
           ],
-          "enemyPositionID": 13
+          "enemyPositionID": 63,
+          "allyPositionID": 48
         }
       ],
       "staminaCost": 0,
@@ -16136,7 +16138,8 @@
           "bgmList": [
             "Battle_Cur_dolorem_sentis"
           ],
-          "enemyPositionID": 13
+          "enemyPositionID": 63,
+          "allyPositionID": 48
         }
       ],
       "staminaCost": 0,
@@ -28595,7 +28598,8 @@
           "bgmList": [
             "Battle_Cur_dolorem_sentis"
           ],
-          "enemyPositionID": 13
+          "enemyPositionID": 63,
+          "allyPositionID": 48
         }
       ],
       "staminaCost": 0,
@@ -32749,7 +32753,8 @@
           "bgmList": [
             "Battle_Cur_dolorem_sentis"
           ],
-          "enemyPositionID": 13
+          "enemyPositionID": 63,
+          "allyPositionID": 48
         }
       ],
       "staminaCost": 0,
@@ -33116,7 +33121,8 @@
           "bgmList": [
             "Battle_Cur_dolorem_sentis"
           ],
-          "enemyPositionID": 13
+          "enemyPositionID": 63,
+          "allyPositionID": 48
         }
       ],
       "staminaCost": 0,
@@ -38018,6 +38024,7 @@
       ],
       "isBatonPassOn": "TRUE",
       "eventScriptName": "NobodyGonnaCry",
+      "isBatonPassOn": "TRUE",
       "abnormalityEventList": [
         804701
       ]
@@ -38086,6 +38093,7 @@
       ],
       "isBatonPassOn": "TRUE",
       "eventScriptName": "8059",
+      "isBatonPassOn": "TRUE",
       "abnormalityEventList": [
         805901
       ]
@@ -41229,7 +41237,7 @@
           "localizeId": 1
         }
       ],
-      "rewardList": [],
+      "rewardList": [ ],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "8350"
@@ -46180,7 +46188,8 @@
           "bgmList": [
             "Battle_Cur_dolorem_sentis"
           ],
-          "enemyPositionID": 13
+          "enemyPositionID": 63,
+          "allyPositionID": 48
         }
       ],
       "staminaCost": 0,
@@ -46372,7 +46381,8 @@
           "bgmList": [
             "Battle_Cur_dolorem_sentis"
           ],
-          "enemyPositionID": 13
+          "enemyPositionID": 63,
+          "allyPositionID": 48
         }
       ],
       "staminaCost": 0,
@@ -47710,6 +47720,188 @@
         862902,
         862903
       ]
+    },
+    {
+      "id": 2067431,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 20
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_GiftMaking"
+          },
+          "unitList": [
+            {
+              "unitID": 8114,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8115,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8116,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8115,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8135,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_Xmas_Boss"
+          ],
+          "subUnitList": [
+            {
+              "unitID": 8114,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8115,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8135,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8115,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8114,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8115,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8114,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8115,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8135,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8115,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8114,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8115,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8135,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8115,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8114,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8115,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8135,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8115,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1078,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ]
+        }
+      ],
+      "staminaType": "ENKEPHALIN_MODULE",
+      "staminaCost": 1,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [
+        {
+          "type": "EGO_GIFT",
+          "rewardId": 9709,
+          "num": 1,
+          "prob": 1
+        },
+        {
+          "type": "EGO_GIFT",
+          "rewardId": 9710,
+          "num": 1,
+          "prob": 1
+        },
+        {
+          "type": "EGO_GIFT",
+          "rewardId": 9711,
+          "num": 1,
+          "prob": 1
+        }
+      ],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": ["1078_Mirror"]
     }
   ]
 }

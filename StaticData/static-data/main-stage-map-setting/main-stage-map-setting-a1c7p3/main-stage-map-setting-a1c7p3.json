@@ -36,6 +36,21 @@
           }
         ]
       }
+    },
+    {
+      "subChapterId": 9112,
+      "stageMapPosZ": 0,
+      "stageNodeZoomAnimationPivotX": 0.295,
+      "upperStageNodeZoomAnimationPivotY": 0.575,
+      "lowerStageNodeZoomAnimationPivotY": 0.4,
+      "zoomInScale": 1.7,
+      "stageIconSlotScale": 0.6,
+      "selectedIconScale": 1.15,
+      "isUseEffectPositionData": false,
+      "effectPosition": {
+        "positionX": 2000,
+        "positionY": 2028
+      }
     }
   ]
 }

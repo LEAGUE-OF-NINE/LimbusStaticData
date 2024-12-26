@@ -91,6 +91,34 @@
           "id": 910910,
           "mustParticipateIds": [ 4, 6, 9 ],
           "abstainIds": [ 1, 2, 3, 5, 7, 8, 10, 11, 12 ]
+        },
+        {
+          "id": 911203,
+          "abstainIds": [ 1, 2, 4, 5, 6, 8, 9, 10, 11, 12 ]
+        },
+        {
+          "id": 911204,
+          "abstainIds": [ 3, 7 ]
+        },
+        {
+          "id": 911205,
+          "abstainIds": [ 3, 7 ]
+        },
+        {
+          "id": 911206,
+          "abstainIds": [ 3, 7 ]
+        },
+        {
+          "id": 911207,
+          "abstainIds": [ 3, 7 ]
+        },
+        {
+          "id": 911208,
+          "abstainIds": [ 3, 7 ]
+        },
+        {
+          "id": 911209,
+          "abstainIds": [ 3, 7 ]
         }
       ]
     }
