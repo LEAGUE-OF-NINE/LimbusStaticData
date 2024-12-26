@@ -509,6 +509,18 @@
       "requireIDList": [
         "CheckAwakenLevel2"
       ]
+    },
+    {
+      "id": 2080811,
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 2120811,
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
     }
   ]
 }

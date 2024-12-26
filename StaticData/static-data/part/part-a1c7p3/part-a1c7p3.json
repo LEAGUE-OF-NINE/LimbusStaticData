@@ -2065,7 +2065,8 @@
         {
           "chapterId": 91,
           "subchapterId": 9105,
-          "type": "SUB"
+          "type": "SUB",
+          "relatedEventId": "MiracleOfDistrict20"
         },
         {
           "chapterId": 91,
@@ -2493,6 +2494,15 @@
               "posy": 1200,
               "upper": 0,
               "stageNodeType": "STORY"
+            },
+            {
+              "nodeId": 910513,
+              "stageId": 910513,
+              "hideNodeIndex": true,
+              "posx": 11390,
+              "posy": 1200,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
             }
           ],
           "nextMainchapterid": 91,
@@ -2963,6 +2973,159 @@
               "stageNodeType": "NORMAL"
             }
           ]
+        },
+        {
+          "id": 9112,
+          "illustSprName": "9105",
+          "region": "u",
+          "sprName": "chapter5.5_miracle",
+          "subChapterNumber": "5.5",
+          "nodeIllustPath": "Assets/Resources_moved/Sprite/StageNodeCG/MainChapter91/SubChapter9105",
+          "mapIllustId": "9105",
+          "mapSizeRow": 1,
+          "mapSizeColoumn": 6,
+          "unlockCondition": {
+            "unlockCode": 106
+          },
+          "subchapterFeatureList": [
+            "HARD"
+          ],
+          "stageNodeList": [
+            {
+              "nodeId": 911201,
+              "nodeInfoId": 910501,
+              "stageId": 910501,
+              "posx": 625,
+              "posy": 630,
+              "upper": 1,
+              "stageNodeType": "STORY",
+              "nodeIllustIdString": "910501"
+            },
+            {
+              "nodeId": 911202,
+              "nodeInfoId": 910502,
+              "stageId": 910502,
+              "posx": 1167,
+              "posy": 630,
+              "upper": 1,
+              "stageNodeType": "STORY",
+              "nodeIllustIdString": "910502"
+            },
+            {
+              "nodeId": 911203,
+              "nodeInfoId": 910503,
+              "stageId": 911203,
+              "posx": 2890,
+              "posy": 630,
+              "upper": 1,
+              "stageNodeType": "NORMAL",
+              "nodeIllustIdString": "910503"
+            },
+            {
+              "nodeId": 911204,
+              "nodeInfoId": 910504,
+              "stageId": 911204,
+              "posx": 4115,
+              "posy": 638,
+              "upper": 1,
+              "stageNodeType": "NORMAL",
+              "nodeIllustIdString": "910504"              
+            },
+            {
+              "nodeId": 911205,
+              "nodeInfoId": 910505,
+              "stageId": 911205,
+              "posx": 3788,
+              "posy": 1370,
+              "upper": 1,
+              "stageNodeType": "NORMAL",
+              "nodeIllustIdString": "910505"
+            },
+            {
+              "nodeId": 911206,
+              "nodeInfoId": 910506,
+              "stageId": 911206,
+              "posx": 4638,
+              "posy": 1370,
+              "upper": 1,
+              "stageNodeType": "NORMAL",
+              "nodeIllustIdString": "910505"
+            },
+            {
+              "nodeId": 911207,
+              "nodeInfoId": 910507,
+              "stageId": 911207,
+              "posx": 5510,
+              "posy": 1370,
+              "upper": 1,
+              "stageNodeType": "NORMAL",
+              "nodeIllustIdString": "910507"              
+            },
+            {
+              "nodeId": 911208,
+              "nodeInfoId": 910508,
+              "stageId": 911208,
+              "posx": 6494,
+              "posy": 1370,
+              "upper": 1,
+              "stageNodeType": "NORMAL",
+              "nodeIllustIdString": "910508"              
+            },
+            {
+              "nodeId": 911209,
+              "nodeInfoId": 910509,
+              "stageId": 911209,
+              "posx": 8060,
+              "posy": 1370,
+              "upper": 1,
+              "stageNodeType": "NORMAL",
+              "nodeIllustIdString": "910509"
+            },
+            {
+              "nodeId": 911210,
+              "nodeInfoId": 910510,
+              "stageId": 911210,
+              "posx": 9037,
+              "posy": 1200,
+              "upper": 0,
+              "stageNodeType": "NORMAL",
+              "nodeIllustIdString": "910510"
+            },
+            {
+              "nodeId": 911211,
+              "nodeInfoId": 910511,
+              "stageId": 911211,
+              "posx": 9866,
+              "posy": 1200,
+              "upper": 0,
+              "stageNodeType": "NORMAL",
+              "nodeIllustIdString": "910511"
+            },
+            {
+              "nodeId": 911212,
+              "nodeInfoId": 910512,
+              "stageId": 910512,
+              "posx": 11090,
+              "posy": 1200,
+              "upper": 0,
+              "stageNodeType": "STORY",
+              "nodeIllustIdString": "910512"
+            },
+            {
+              "nodeId": 911213,
+              "nodeInfoId": 910513,
+              "hideNodeIndex": true,
+              "stageId": 911213,
+              "posx": 11390,
+              "posy": 1200,
+              "upper": 1,
+              "stageNodeType": "NORMAL",
+              "nodeIllustIdString": "910513"
+            }
+          ],
+          "nextMainchapterid": -1,
+          "nextSubchapterid": -1,
+          "lastnodeid": -1
         }
       ]
     }

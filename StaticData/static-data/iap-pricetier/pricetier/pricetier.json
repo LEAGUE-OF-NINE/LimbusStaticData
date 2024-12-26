@@ -43,6 +43,12 @@
       "jpy": 1650
     },
     {
+      "priceTier": 16,
+      "usd_cent": 1599,
+      "krw": 23000,
+      "jpy": 2200
+    },
+    {
       "priceTier": 19,
       "usd_cent": 1899,
       "krw": 28000,

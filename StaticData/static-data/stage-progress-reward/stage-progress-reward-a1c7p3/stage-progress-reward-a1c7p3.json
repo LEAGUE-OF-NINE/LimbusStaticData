@@ -51,6 +51,59 @@
             ]
           }
         ]
+      },
+      {
+        "mainchapterid": 91,
+        "subchapterlist": [
+          {
+            "subchapterid": 9112,
+            "progressRewardList": [
+              {
+                "type": "NORMALCLEAR_ONETHIRD",
+                "rewardList": [
+                  {
+                    "type": "ITEM",
+                    "id": 2,
+                    "num": 130
+                  }
+                ]
+              },
+              {
+                "type": "NORMALCLEAR_TWOTHIRD",
+                "rewardList": [
+                  {
+                    "type": "ITEM",
+                    "id": 2,
+                    "num": 130
+                  }
+                ]
+              },
+              {
+                "type": "NORMALCLEAR_ALLCLEAR",
+                "rewardList": [
+                  {
+                    "type": "ITEM",
+                    "id": 2,
+                    "num": 130
+                  }
+                ]
+              },
+              {
+                "type": "EXCLEAR_ALLCLEAR",
+                "rewardList": [
+                  {
+                    "type": "ITEM",
+                    "id": 2,
+                    "num": 260
+                  }
+                ]
+              }
+            ],
+            "excludedNodeIdList": [
+              911213
+            ]
+          }
+        ]
       }
     ]
   }

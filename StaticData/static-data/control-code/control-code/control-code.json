@@ -178,5 +178,7 @@
     }
   ],
   "mirrorDungeonSpecialPackLevelReward": 3,
-  "isUsingLetterBox": true
+  "isUsingLetterBox": false,
+  "isBattleLog2MirrorDungeon": true,
+  "isBattleLog2RailwayDungeon": true
 }

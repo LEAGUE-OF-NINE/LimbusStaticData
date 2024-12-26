@@ -1267,6 +1267,29 @@
       ]
     },
     {
+      "id": 20808,
+      "pivotList": [
+        {
+          "cutsceneType": "EGO_AWAKEN",
+          "offsetX": 0.02,
+          "offsetY": 0.03,
+
+          "offsetStartY": -0.15,
+
+          "closeUp": 0.58
+        },
+        {
+          "cutsceneType": "EGO_EROSION",
+          "offsetX": -0.19,
+          "offsetY": 0.03,
+
+          "offsetStartX": 0.21,
+
+          "closeUp": 0.58
+        }
+      ]
+    },
+    {
       "id": 20901,
       "pivotList": [
         {
@@ -1906,6 +1929,32 @@
           "offsetStartY": -0.22,
 
           "closeUp": 0.46
+
+        }
+      ]
+    },
+    {
+      "id": 21208,
+      "pivotList": [
+        {
+          "cutsceneType": "EGO_AWAKEN",
+          "offsetX": 0.08,
+          "offsetY": 0.15,
+
+          "offsetStartX": -0.13,
+          "offsetStartY": -0.09,
+
+          "closeUp": 0.58
+        },
+        {
+          "cutsceneType": "EGO_EROSION",
+          "offsetX": 0.17,
+          "offsetY": 0.21,
+
+          "offsetStartX": -0.11,
+          "offsetStartY": -0.04,
+
+          "closeUp": 0.6
 
         }
       ]
