@@ -11711,7 +11711,8 @@
           "subUnitList": [],
           "bgmList": [
             "Battle_Cp5_5_Xmas_Boss"
-          ]
+          ],
+          "enemyPositionID": 2
         },
         {
           "unitList": [
@@ -11744,8 +11745,7 @@
               "unitCount": 1,
               "unitLevel": 50
             }
-          ],
-          "enemyPositionID": 13
+          ]
         }
       ],
       "staminaCost": 0,
@@ -17478,7 +17478,8 @@
           "subUnitList": [],
           "bgmList": [
             "Battle_Cp5_5_Xmas_Boss"
-          ]
+          ],
+          "enemyPositionID": 2
         },
         {
           "unitList": [
@@ -37912,7 +37913,8 @@
           "subUnitList": [],
           "bgmList": [
             "Battle_Cp5_5_Xmas_Boss"
-          ]
+          ],
+          "enemyPositionID": 2
         },
         {
           "unitList": [
@@ -47865,7 +47867,8 @@
               "unitCount": 1,
               "unitLevel": 50
             }
-          ]
+          ],
+          "enemyPositionID": 2
         }
       ],
       "staminaType": "ENKEPHALIN_MODULE",
