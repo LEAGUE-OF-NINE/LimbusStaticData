@@ -6,6 +6,7 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "destroyableOnZero": false,
+      "destroyableOnRetreat": false,
       "list": [
 
       ],
@@ -29,6 +30,23 @@
       "categoryKeywordList": [
         "RESOURCE",
         "BULLET"
+      ]
+    },
+    {
+      "id": "Bullet_LogicAtelier",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "destroyableOnZero": false,
+      "destroyableOnRetreat": false,
+      "maxStack": 1,
+      "list": [
+
+      ],
+      "categoryKeywordList": [
+        "RESOURCE",
+        "BULLET",
+        "CAN_GET_ONLY_BY_SYSTEM"
       ]
     }
   ]

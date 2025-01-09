@@ -1178,9 +1178,6 @@
               "scale": 7,
               "abilityScriptList": [
                 {
-                  "scriptName": "CriticalDmgUpByRatio"
-                },
-                {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "Breath",
@@ -2963,7 +2960,7 @@
               "scriptName": "EmptyBody"
             },
             {
-              "scriptName": "ChangeAttackDamageToHalfOnOnLoseDuel"
+              "scriptName": "ChangeAttackDamageToHalfOnLoseDuel"
             }
           ],
           "coinList": [

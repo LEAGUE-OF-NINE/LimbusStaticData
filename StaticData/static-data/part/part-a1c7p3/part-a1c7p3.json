@@ -2174,6 +2174,25 @@
           "chapterId": 1,
           "subchapterId": 107,
           "type": "MAIN"
+        },
+        {
+          "type": "EVENT",
+          "relatedEventId": "Walpu5",
+          "isUnlockByUnlockCode": true,
+          "unlockCode": 107,
+          "uiConfig": {
+            "customChapterText": 1,
+            "illustId": "story-id_E071X",
+            "region": "p",
+            "mapAreaId": 9111,
+            "chapterTagIconType": "BATTLE",
+            "timeLine": "984-12"
+          },
+          "relatedData": {
+          "chapterId": 91,
+          "subchapterId": 9113,
+          "nodeId": 911301
+        }
         }
       ]
     },
@@ -3126,6 +3145,25 @@
           "nextMainchapterid": -1,
           "nextSubchapterid": -1,
           "lastnodeid": -1
+        },
+        {
+          "id": 9113,
+          "region": "p",
+          "unlockCondition": {
+            "unlockCode": 107
+          },
+          "stageNodeList": [
+            {
+              "nodeId": 911301,
+              "stageId": 10562,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911302,
+              "stageId": 10563,
+              "stageNodeType": "NORMAL"
+            }
+          ]
         }
       ]
     }

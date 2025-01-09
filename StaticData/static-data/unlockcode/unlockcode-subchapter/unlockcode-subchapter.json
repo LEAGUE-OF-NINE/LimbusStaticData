@@ -89,6 +89,11 @@
       "id": 9112,
       "unlockcodeType": "SUBCHAPTER_CLEAR",
       "desc": "5.5-1 miracle returns"
+    },
+    {
+      "id": 9113,
+      "unlockcodeType": "SUBCHAPTER_CLEAR",
+      "desc": "walpu5"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "list": [
+    {
+      "nodeid": 911301,
+      "acquireExp": 20,
+      "acquireTotalExpForPersonality": 600,
+      "normalClearRewards": [
+        {
+          "type": "UNLOCK_CODE",
+          "id": 9113
+        }
+      ],
+      "exClearRewards": [
+      ]
+    },
+    {
+      "nodeid": 911302,
+      "acquireExp": 20,
+      "acquireTotalExpForPersonality": 600,
+      "normalClearRewards": [
+      ],
+      "exClearRewards": [
+      ]
+    }
+  ]
+}

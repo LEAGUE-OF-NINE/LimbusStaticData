@@ -1028,6 +1028,145 @@
           "number": 0
         }
       ]
+    },
+    {
+      "id": 10711,
+      "appearance": "10711_Heathcliff_TamakiAppearance",
+      "unitKeywordList": [ "SMALL", "FIXER" ],
+      "associationList": [ "FULL_STOP" ],
+      "unitScriptID" : "10711",
+      "characterId": 7,
+      "panicType": 9999,
+      "season": 9105,
+      "walpurgisType": "LOR",
+      "defenseSkillIDList": [
+        1071104,
+        1071106
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 70,
+        "incrementByLevel": 2.3
+      },
+      "initBuffList": [
+        {
+          "level": 1,
+          "list": [
+            {
+              "buff": "Bullet",
+              "stack": 10
+            },
+            {
+              "buff": "LogicAtelierAM",
+              "stack": 0
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "list": [
+            {
+              "buff": "Bullet",
+              "stack": 10
+            },
+            {
+              "buff": "Bullet_LogicAtelier",
+              "stack": 1
+            },
+            {
+              "buff": "LogicAtelierAM",
+              "stack": 0
+            }
+          ]
+        }
+      ],
+      "defCorrection": -1,
+      "minSpeedList": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "maxSpeedList": [
+        6,
+        6,
+        8,
+        8
+      ],
+      "uniqueAttribute": "AZURE",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          65,
+          35,
+          15
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1071101,
+          "number": 3
+        },
+        {
+          "skillId": 1071102,
+          "number": 2
+        },
+        {
+          "skillId": 1071103,
+          "number": 1
+        },
+        {
+          "skillId": 1071105,
+          "number": 0
+        }
+      ]
     }
   ]
 }

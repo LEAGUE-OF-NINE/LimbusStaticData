@@ -120,6 +120,20 @@
             "rotateZ": 0.0
         },
         {
+            "id": "10110_gacksung",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10110_normal",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
             "id": "10201_normal",
             "offsetX": 21.0,
             "offsetY": 1.0,
@@ -239,6 +253,20 @@
             "rotateZ": 0.0
         },
         {
+            "id": "10210_gacksung",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10210_normal",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
             "id": "10301_normal",
             "offsetX": 21.0,
             "offsetY": 1.0,
@@ -344,6 +372,34 @@
             "rotateZ": 0.0
         },
         {
+            "id": "10309_gacksung",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10309_normal",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10310_gacksung",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10310_normal",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
             "id": "10401_normal",
             "offsetX": 21.0,
             "offsetY": 1.0,
@@ -443,6 +499,34 @@
         },
         {
             "id": "10408_normal",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10409_gacksung",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10409_normal",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10410_gacksung",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10410_normal",
             "offsetX": 7.2440185546875,
             "offsetY": 3.946044921875,
             "scaleFactor": 1.0,
@@ -568,6 +652,34 @@
             "rotateZ": 0.0
         },
         {
+            "id": "10510_gacksung",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10510_normal",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10511_gacksung",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10511_normal",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
             "id": "10601_normal",
             "offsetX": 21.0,
             "offsetY": 1.0,
@@ -673,6 +785,48 @@
             "rotateZ": 0.0
         },
         {
+            "id": "10609_gacksung",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10609_normal",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10610_gacksung",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10610_normal",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10611_gacksung",
+            "offsetX": -44.0,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10611_normal",
+            "offsetX": -44.0,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
             "id": "10701_normal",
             "offsetX": 21.0,
             "offsetY": 1.0,
@@ -774,6 +928,48 @@
             "id": "10708_normal",
             "offsetX": 55.0,
             "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10709_gacksung",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10709_normal",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10710_gacksung",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10710_normal",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10711_gacksung",
+            "offsetX": -245.0,
+            "offsetY": -116.0,
+            "scaleFactor": 1.2000000476837159,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10711_normal",
+            "offsetX": 7.2440185546875,
+            "offsetY": -14.0,
             "scaleFactor": 1.0,
             "rotateZ": 0.0
         },
@@ -897,6 +1093,20 @@
             "rotateZ": 0.0
         },
         {
+            "id": "10810_gacksung",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10810_normal",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
             "id": "10901_normal",
             "offsetX": 21.0,
             "offsetY": 1.0,
@@ -996,6 +1206,48 @@
         },
         {
             "id": "10908_normal",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10909_gacksung",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10909_normal",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10910_gacksung",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10910_normal",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10911_gacksung",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10911_normal",
             "offsetX": 7.2440185546875,
             "offsetY": 3.946044921875,
             "scaleFactor": 1.0,
@@ -1121,6 +1373,34 @@
             "rotateZ": 0.0
         },
         {
+            "id": "11010_gacksung",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11010_normal",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11011_gacksung",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11011_normal",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
             "id": "11101_normal",
             "offsetX": 21.0,
             "offsetY": 1.0,
@@ -1234,6 +1514,34 @@
         },
         {
             "id": "11109_normal",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11110_gacksung",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11110_normal",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11111_gacksung",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11111_normal",
             "offsetX": 7.2440185546875,
             "offsetY": 3.946044921875,
             "scaleFactor": 1.0,
@@ -1355,6 +1663,20 @@
             "id": "11209_normal",
             "offsetX": 7.2440185546875,
             "offsetY": -23.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11210_gacksung",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11210_normal",
+            "offsetX": 7.2440185546875,
+            "offsetY": 3.946044921875,
             "scaleFactor": 1.0,
             "rotateZ": 0.0
         }

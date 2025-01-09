@@ -1495,6 +1495,290 @@
           "value": 0.2
         }
       ]
+    },
+    {
+      "id": "FreishutzOutisEgoBullet_1st",
+      "buffClass": "VolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 1,
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "AttackDmgMultiplier",
+          "value": 0.2
+        },
+        {
+          "ability": "DamageFirstBreakSectionOnSuccessAttackByDmgRatio_30",
+          "value": 1
+        },
+        {
+          "ability": "LoseAllStackOnEndSkill"
+        }
+      ],
+      "categoryKeywordList": [ "FREISHUTZ_OUTIS_EGO_BULLET" ]
+    },
+    {
+      "id": "FreishutzOutisEgoBullet_2nd",
+      "buffClass": "VolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 1,
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "AttackDmgMultiplier",
+          "value": 0.1
+        },
+        {
+          "ability": "FreishutzOutisEgoBulletTargetNumAdder",
+          "value": 4
+        },
+        {
+          "ability": "CanDealOnlySubTarget"
+        },
+        {
+          "ability": "GiveBuffOnSA",
+          "buffData": {
+            "buffKeyword": "Paralysis",
+            "target": "Target",
+            "stack": 3,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "LoseAllStackOnEndSkill"
+        }
+      ],
+      "categoryKeywordList": [ "FREISHUTZ_OUTIS_EGO_BULLET" ]
+    },
+    {
+      "id": "FreishutzOutisEgoBullet_3rd",
+      "buffClass": "VolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 1,
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "AttackDmgMultiplier",
+          "value": 0.2
+        },
+        {
+          "ability": "FreishutzOutisEgoBulletTargetNumAdder",
+          "value": 2
+        },
+        {
+          "ability": "GiveBuffOnSA",
+          "buffData": {
+            "buffKeyword": "Reduction",
+            "target": "Target",
+            "stack": 2,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "GiveBuffOnSA",
+          "buffData": {
+            "buffKeyword": "Combustion",
+            "target": "Target",
+            "stack": 10,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "LoseAllStackOnEndSkill"
+        }
+      ],
+      "categoryKeywordList": [ "FREISHUTZ_OUTIS_EGO_BULLET" ]
+    },
+    {
+      "id": "FreishutzOutisEgoBullet_4th",
+      "buffClass": "VolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 1,
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "AttackDmgMultiplier",
+          "value": 0.3
+        },
+        {
+          "ability": "FreishutzOutisEgoBulletTargetNumAdder",
+          "value": 3
+        },
+        {
+          "ability": "DamageFirstBreakSectionOnSuccessAttackByDmgRatio_20",
+          "value": 1
+        },
+        {
+          "ability": "GiveBuffOnSA",
+          "buffData": {
+            "buffKeyword": "Vulnerable",
+            "target": "Target",
+            "stack": 3,
+            "turn": 0,
+            "activeRound": 1
+          }
+        },
+        {
+          "ability": "LoseAllStackOnEndSkill"
+        }
+      ],
+      "categoryKeywordList": [ "FREISHUTZ_OUTIS_EGO_BULLET" ]
+    },
+    {
+      "id": "FreishutzOutisEgoBullet_5th",
+      "buffClass": "VolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 1,
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "AttackDmgMultiplier",
+          "value": 0.3
+        },
+        {
+          "ability": "FreishutzOutisEgoBulletTargetNumAdder",
+          "value": 4
+        },
+        {
+          "ability": "GiveBuffOnSA",
+          "buffData": {
+            "buffKeyword": "Combustion",
+            "target": "Target",
+            "stack": 10,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "GiveBuffOnSA",
+          "buffData": {
+            "buffKeyword": "AttackDown",
+            "target": "Target",
+            "stack": 4,
+            "turn": 0,
+            "activeRound": 1
+          }
+        },
+        {
+          "ability": "GiveBuffOnSA",
+          "buffData": {
+            "buffKeyword": "DefenseDown",
+            "target": "Target",
+            "stack": 4,
+            "turn": 0,
+            "activeRound": 1
+          }
+        },
+        {
+          "ability": "LoseAllStackOnEndSkill"
+        }
+      ],
+      "categoryKeywordList": [ "FREISHUTZ_OUTIS_EGO_BULLET" ]
+    },
+    {
+      "id": "FreishutzOutisEgoBullet_6th",
+      "buffClass": "VolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 1,
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "FreishutzOutisEgoBulletTargetNumAdder",
+          "value": 6
+        },
+        {
+          "ability": "DamageFirstBreakSectionOnSuccessAttackByDmgRatio_30",
+          "value": 1
+        },
+        {
+          "ability": "FreishutzOutisEgoBulletRerollCoin",
+          "buffData": {
+            "buffKeyword": "Combustion",
+            "buffOwner": "Target",
+            "stack": 7,
+            "turn": 0,
+            "limit": 2
+          }
+        },
+        {
+          "ability": "SkillPowerAdderAsStack",
+          "coinOperator": "ADD",
+          "value": -16
+        },
+        {
+          "ability": "SkillPowerAdderAsStack",
+          "coinOperator": "SUB",
+          "value": -22
+        },
+        {
+          "ability": "CoinScaleAdderByStack",
+          "coinOperator": "ADD",
+          "value": -8
+        },
+        {
+          "ability": "CoinScaleAdderByStack",
+          "coinOperator": "SUB",
+          "value": -12
+        },
+        {
+          "ability": "LoseAllStackOnEndSkill"
+        }
+      ],
+      "categoryKeywordList": [ "FREISHUTZ_OUTIS_EGO_BULLET" ]
+    },
+    {
+      "id": "FreishutzOutisEgoBullet_7th",
+      "buffClass": "VolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 1,
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "AttackDmgMultiplier",
+          "value": 2
+        },
+        {
+          "ability": "AtkDamageMultiplierByTargetLostHpRatioWithMax_200",
+          "value": 0.025
+        },
+        {
+          "ability": "FreishutzOutisEgoBulletOverwriteAtkResist",
+          "atk": "PENETRATE",
+          "value": 2.0
+        },
+        {
+          "ability": "InstantDeathOnEndSkill",
+          "value": 1
+        },
+        {
+          "ability": "LoseAllStackOnEndSkill"
+        }
+      ],
+      "categoryKeywordList": [ "FREISHUTZ_OUTIS_EGO_BULLET" ]
+    },
+    {
+      "id": "LogicAtelierAM",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 4,
+      "canBeDespelled": false,
+      "destroyableOnZero": false,
+      "destroyableOnRetreat": false,
+      "list": [
+        {
+          "ability": "GiveBuffOnRoundEnd",
+          "buffData": {
+            "buffKeyword": "LogicAtelierAM",
+            "target": "Self",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        }
+      ]
     }
   ]
 }

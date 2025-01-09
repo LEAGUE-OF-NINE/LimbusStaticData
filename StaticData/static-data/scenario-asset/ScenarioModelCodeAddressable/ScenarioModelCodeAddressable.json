@@ -4023,6 +4023,22 @@
       "nameTagColor": "#1c1616",
       "nameFontColor": "#cc2424",
       "portraitSpritePath": "StoryLog_Sancho_Past"
+    },
+    {
+      "name": "단테3",
+      "krname": "단테",
+      "jpname": "ダンテ",
+      "enname": "Dante",
+      "fileName": "Dante3",
+      "nickName": "관리자",
+      "jpNickName": "管理人",
+      "enNickName": "Manager",
+      "headPosX": 0,
+      "headPosY": 430,
+      "scale": 0.9,
+      "bottomYPos": 65,
+      "portraitSpritePath": "StoryLog_Dante3",
+      "nameTagColor": "#b01c37"
     }
   ]
 }

@@ -141,6 +141,28 @@
           "value": 0.01
         }
       ]
+    },
+    {
+      "id": "RequestedTarget",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "maxStack": 1,
+      "canBeDespelled": false,
+      "destroyableOnZero": true,
+      "list": [
+        {
+          "ability": "RequestedTargetAddEgoResource",
+          "value": 1
+        },
+        {
+          "ability": "RequestedTargetAddMp",
+          "value": 10
+        },
+        {
+          "ability": "RequestedTargetAtkResistWeek",
+          "value": 0.2
+        }
+      ]
     }
   ]
 }
