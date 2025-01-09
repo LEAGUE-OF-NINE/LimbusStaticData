@@ -1872,6 +1872,526 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2110811,
+      "skillType": "EGO_AWAKEN",
+      "skillTier": 3,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "INDIGO",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 25,
+          "skillLevelCorrection": 3,
+          "defaultValue": 22,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "SKILL",
+          "parryingCloseType": "NEAR",
+          "isManyCoinSkill" : true,
+          "abilityScriptList": [
+            {
+              "scriptName": "AttackDmgUpByRatioViaBuffCheckDevideByStackWithLimit10",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "buffOwner": "Target",
+                "stack": 3,
+                "turn": 0,
+                "value": 0.01
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnStartBehaviourIfNotHasStack21108",
+              "buffData": {
+                "buffKeyword": "FreischutzShotCount",
+                "target": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnStartBehaviour21108",
+              "buffData": {
+                "buffKeyword": "",
+                "target": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnEndBehaviour21108",
+              "buffData": {
+                "buffKeyword": "FreischutzShotCount",
+                "target": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0,
+                "limit": 4
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnKill2110811",
+              "buffData": {
+                "buffKeyword": "DarkFlame",
+                "target": "Custom",
+                "stack": 2,
+                "turn": 0,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 14,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOSADuplicateStackDevideByValue21108",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "stack": -1,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOSADuplicateStackDevideByValueLimitPerUnitPerTurn21108",
+                  "buffData": {
+                    "buffKeyword": "DarkFlame",
+                    "target": "Target",
+                    "stack": -1,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "limit": 1
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "abilityScriptList": [
+            {
+              "scriptName": "AttackDmgUpByRatioViaBuffCheckDevideByStackWithLimit20",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "buffOwner": "Target",
+                "stack": 3,
+                "turn": 0,
+                "value": 0.02
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnStartBehaviourIfNotHasStack21108",
+              "buffData": {
+                "buffKeyword": "FreischutzShotCount",
+                "target": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnStartBehaviour21108",
+              "buffData": {
+                "buffKeyword": "",
+                "target": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnEndBehaviour21108",
+              "buffData": {
+                "buffKeyword": "FreischutzShotCount",
+                "target": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0,
+                "limit": 4
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnKill2110811",
+              "buffData": {
+                "buffKeyword": "DarkFlame",
+                "target": "Custom",
+                "stack": 3,
+                "turn": 0,
+                "activeRound": 0
+              }
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "AttackDmgUpByRatioViaBuffCheckDevideByStackWithLimit30",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "buffOwner": "Target",
+                "stack": 3,
+                "turn": 0,
+                "value": 0.03
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnStartBehaviourIfNotHasStack21108",
+              "buffData": {
+                "buffKeyword": "FreischutzShotCount",
+                "target": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnStartBehaviour21108",
+              "buffData": {
+                "buffKeyword": "",
+                "target": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnEndBehaviour21108",
+              "buffData": {
+                "buffKeyword": "FreischutzShotCount",
+                "target": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0,
+                "limit": 4
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnKill2110811",
+              "buffData": {
+                "buffKeyword": "DarkFlame",
+                "target": "Custom",
+                "stack": 4,
+                "turn": 0,
+                "activeRound": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110821,
+      "skillType": "EGO_EROSION",
+      "skillTier": 3,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "INDIGO",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillTargetType": "RANDOM",
+          "targetNum": 1,
+          "mpUsage": 30,
+          "skillLevelCorrection": 5,
+          "defaultValue": 40,
+          "canTeamKill": true,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "SKILL",
+          "parryingCloseType": "NEAR",
+          "isManyCoinSkill" : true,
+          "abilityScriptList": [
+            {
+              "scriptName": "AttackDmgUpByRatioViaBuffCheckDevideByStackWithLimit10",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "buffOwner": "Target",
+                "stack": 3,
+                "turn": 0,
+                "value": 0.01
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnStartBehaviourIfNotHasStack21108",
+              "buffData": {
+                "buffKeyword": "FreischutzShotCount",
+                "target": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnStartBehaviour21108",
+              "buffData": {
+                "buffKeyword": "",
+                "target": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnEndBehaviour21108",
+              "buffData": {
+                "buffKeyword": "FreischutzShotCount",
+                "target": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0,
+                "limit": 4
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnKill2110821",
+              "buffData": {
+                "buffKeyword": "DarkFlame",
+                "target": "Custom",
+                "stack": 3,
+                "turn": 0,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 20,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOSADuplicateStackDevideByValue21108",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "stack": -1,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOSADuplicateStackDevideByValueLimitPerUnitPerTurn21108",
+                  "buffData": {
+                    "buffKeyword": "DarkFlame",
+                    "target": "Target",
+                    "stack": -1,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "limit": 1
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "abilityScriptList": [
+            {
+              "scriptName": "AttackDmgUpByRatioViaBuffCheckDevideByStackWithLimit20",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "buffOwner": "Target",
+                "stack": 3,
+                "turn": 0,
+                "value": 0.02
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnStartBehaviourIfNotHasStack21108",
+              "buffData": {
+                "buffKeyword": "FreischutzShotCount",
+                "target": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnStartBehaviour21108",
+              "buffData": {
+                "buffKeyword": "",
+                "target": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnEndBehaviour21108",
+              "buffData": {
+                "buffKeyword": "FreischutzShotCount",
+                "target": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0,
+                "limit": 4
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnKill2110821",
+              "buffData": {
+                "buffKeyword": "DarkFlame",
+                "target": "Custom",
+                "stack": 5,
+                "turn": 0,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 20,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOSADuplicateStackDevideByValue21108",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "stack": -1,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOSADuplicateTurnByStackDevideByValue21108",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "stack": 0,
+                    "turn": -1,
+                    "activeRound": 0,
+                    "value": 3
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOSADuplicateStackDevideByValueLimitPerUnitPerTurn21108",
+                  "buffData": {
+                    "buffKeyword": "DarkFlame",
+                    "target": "Target",
+                    "stack": -1,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "limit": 1
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "AttackDmgUpByRatioViaBuffCheckDevideByStackWithLimit30",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "buffOwner": "Target",
+                "stack": 3,
+                "turn": 0,
+                "value": 0.03
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnStartBehaviourIfNotHasStack21108",
+              "buffData": {
+                "buffKeyword": "FreischutzShotCount",
+                "target": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnStartBehaviour21108",
+              "buffData": {
+                "buffKeyword": "",
+                "target": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnEndBehaviour21108",
+              "buffData": {
+                "buffKeyword": "FreischutzShotCount",
+                "target": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0,
+                "limit": 4
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnKill2110821",
+              "buffData": {
+                "buffKeyword": "DarkFlame",
+                "target": "Custom",
+                "stack": 7,
+                "turn": 0,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 20,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOSADuplicateStackDevideByValue21108",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "stack": -1,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOSADuplicateTurnByStackDevideByValue21108",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "stack": 0,
+                    "turn": -1,
+                    "activeRound": 0,
+                    "value": 2
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOSADuplicateStackDevideByValueLimitPerUnitPerTurn21108",
+                  "buffData": {
+                    "buffKeyword": "DarkFlame",
+                    "target": "Target",
+                    "stack": -1,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "limit": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

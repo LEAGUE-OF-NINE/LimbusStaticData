@@ -1010,6 +1010,132 @@
           "number": 1
         }
       ]
+    },
+    {
+      "id": 10611,
+      "appearance": "10611_Honglu_FullStopAppearance",
+      "unitKeywordList": [ "SMALL", "FIXER" ],
+      "associationList": [ "FULL_STOP" ],
+      "unitScriptID" : "10611",
+      "characterId": 6,
+      "panicType": 9999,
+      "season": 9105,
+      "walpurgisType": "LOR",
+      "additionalAttachment": "",
+      "defenseSkillIDList": [
+        1061104,
+        1061107
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 70,
+        "incrementByLevel": 2.4
+      },
+      "initBuffList": [
+        {
+          "level": 1,
+          "list": [
+            {
+              "buff": "Bullet",
+              "stack": 18
+            }
+          ]
+        }
+      ],
+      "defCorrection": 0,
+      "minSpeedList": [
+        2,
+        3,
+        3,
+        3
+      ],
+      "maxSpeedList": [
+        6,
+        6,
+        7,
+        7
+      ],
+      "uniqueAttribute": "AMBER",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          70,
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1061101,
+          "number": 3
+        },
+        {
+          "skillId": 1061102,
+          "number": 2
+        },
+        {
+          "skillId": 1061103,
+          "number": 1
+        },
+        {
+          "skillId": 1061105,
+          "number": 0
+        },
+        {
+          "skillId": 1061106,
+          "number": 0
+        },
+        {
+          "skillId": 1061108,
+          "number": 0
+        }
+      ]
     }
   ]
 }

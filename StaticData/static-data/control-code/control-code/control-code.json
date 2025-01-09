@@ -180,5 +180,8 @@
   "mirrorDungeonSpecialPackLevelReward": 3,
   "isUsingLetterBox": false,
   "isBattleLog2MirrorDungeon": true,
-  "isBattleLog2RailwayDungeon": true
+  "isBattleLog2RailwayDungeon": true,
+  "isBattleLog2IOS":true,
+  "isBattleLog2Android": true,
+  "isBattleLogOnRailwayMobile": false
 }

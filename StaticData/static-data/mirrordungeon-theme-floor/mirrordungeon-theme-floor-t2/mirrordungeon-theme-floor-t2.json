@@ -2830,6 +2830,283 @@
         ]
       },
       "difficulty": "DIFFICULT"
+    },
+    {
+      "id": 1114,
+      "relatedEventId": 18,
+      "desc": "제5회 발푸르기스의 밤",
+      "exceptionConditions": [
+        {
+          "dungeonIdx": 0,
+          "selectableFloors": [
+            3
+          ]
+        },
+        {
+          "dungeonIdx": 1,
+          "selectableFloors": [
+            2
+          ]
+        }
+      ],
+      "mapGenOption": {
+        "bossPool": [
+          2067531
+        ],
+        "battlePool": [
+          2067521,
+          2067522
+        ],
+        "abBattlePool": [
+        ],
+        "hardBattlePool": [
+          2067526,
+          2067527
+        ],
+        "hardAbBattlePool": [],
+        "eventPool": [
+        ],
+        "specialEventPool": [
+          971038,
+          971039,
+          971040,
+          971041
+        ],
+        "specialEventProb" : 1
+      },
+      "egoGiftPool": [
+        9766,
+        9767,
+        9768,
+        9769,
+        9770,
+        9771,
+
+        9001,
+        9003,
+        9005,
+        9008,
+        9009,
+        9012,
+        9013,
+        9016,
+        9018,
+        9019,
+        9020,
+        9023,
+        9024,
+        9027,
+        9029,
+        9030,
+        9031,
+        9032,
+        9033,
+        9034,
+        9041,
+        9042,
+        9043,
+        9044,
+        9045,
+        9046,
+        9047,
+        9048,
+        9049,
+        9050,
+        9051,
+        9052,
+        9053,
+        9054,
+        9055,
+        9056,
+        9057,
+        9058,
+        9059,
+        9060,
+        9061,
+        9062,
+        9063,
+        9064,
+        9065,
+        9066,
+        9067,
+        9068,
+        9069,
+        9070,
+        9071,
+        9072,
+        9073,
+        9074,
+        9075,
+        9076,
+        9077,
+        9078,
+        9079,
+        9080,
+        9081,
+        9082,
+        9083,
+        9084,
+        9085,
+        9086,
+        9087,
+        9089,
+        9091,
+        9093,
+        9095,
+        9097,
+        9099
+      ],
+      "specificEgoGiftPool": [
+        9766,
+        9767,
+        9768,
+        9769,
+        9770,
+        9771
+      ],
+      "specificEgoGiftForUpegsProbs":[0,0,0,0],
+      "mapGenSequence": [
+        {
+          "type": "CREATE_FIXED_FLOOR",
+          "numberList": [
+            5,
+            3,
+            1
+          ],
+          "nodeList": [
+            {
+              "sector": 0,
+              "idx": 0,
+              "encounterType": 0,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [1]
+            },
+            {
+              "sector": 1,
+              "idx": 1,
+              "encounterType": 2,
+              "encounterId": 2067526,
+              "connectedNextNodeIdxList": [0,2]
+            },
+            {
+              "sector": 2,
+              "idx": 0,
+              "encounterType": 3,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [0]
+            },
+            {
+              "sector": 2,
+              "idx": 2,
+              "encounterType": 3,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [2]
+            },
+            {
+              "sector": 3,
+              "idx": 0,
+              "encounterType": 3,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [1]
+            },
+            {
+              "sector": 3,
+              "idx": 2,
+              "encounterType": 3,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [1]
+            },
+            {
+              "sector": 4,
+              "idx": 1,
+              "encounterType": 2,
+              "encounterId": 2067527,
+              "connectedNextNodeIdxList": [1]
+            },
+            {
+              "sector": 5,
+              "idx": 1,
+              "encounterType": 10,
+              "encounterId": 0,
+              "connectedNextNodeIdxList": [0]
+            },
+            {
+              "sector": 6,
+              "idx": 0,
+              "encounterType": 6,
+              "encounterId": 2067531,
+              "connectedNextNodeIdxList": []
+            }
+          ]
+        },
+        {
+          "type": "FILL_EMPTY_EVENT",
+          "numberList": [
+            971038,
+            971039,
+            971040,
+            971041
+          ]
+        }
+      ],
+      "uiConfigs": {
+        "nodeSettings": {
+          "defaultHoverSprite": "Sprites/MainUI_ChurchOfGear_05.png[MainUI_ChurchOfGear_05_4]",
+          "warningHoverSprite": "Sprites/MainUI_ChurchOfGear_05.png[MainUI_ChurchOfGear_05_5]",
+          "bossHoverSprite": "Sprites/MainUI_ChurchOfGear_05.png[MainUI_ChurchOfGear_05_8]",
+          "warningFrame": "Sprites/MainUI_ChurchOfGear_05.png[MainUI_ChurchOfGear_05_6]",
+          "backgroundPrefab": "MirrorDungeon/Background/Walpu5.prefab",
+          "all": {
+            "status": {
+              "normal": {"spriteId":"Sprites/MainUI_ChurchOfGear_05.png[MainUI_ChurchOfGear_05_2]"},
+              "current": {"spriteId":"Sprites/MainUI_ChurchOfGear_05.png[MainUI_ChurchOfGear_05_1]"},
+              "passed": {"spriteId":"Sprites/MainUI_ChurchOfGear_05.png[MainUI_ChurchOfGear_05_0]"},
+              "notAvailable": {"spriteId":"Sprites/MainUI_ChurchOfGear_05.png[MainUI_ChurchOfGear_05_3]"},
+              "currentCleared": {"spriteId":"Sprites/MainUI_ChurchOfGear_05.png[MainUI_ChurchOfGear_05_1]"},
+              "nextPassable": {"spriteId":"Sprites/MainUI_ChurchOfGear_05.png[MainUI_ChurchOfGear_05_2]"}
+            }
+          },
+          "battle": {
+            "icon": "Sprites/MainUI_ChurchOfGear_05.png[MainUI_ChurchOfGear_05_10]"
+          },
+          "hardBattle": {
+            "icon": "Sprites/MainUI_ChurchOfGear_05.png[MainUI_ChurchOfGear_05_11]"
+          },
+          "events": {
+            "icon": "Sprites/MainUI_ChurchOfGear_05.png[MainUI_ChurchOfGear_05_13]"
+          },
+          "boss": {
+            "icon": "Sprites/MainUI_ChurchOfGear_05.png[MainUI_ChurchOfGear_05_12]",
+            "status": {
+              "normal": {"spriteId":"Sprites/MainUI_ChurchOfGear_05.png[MainUI_ChurchOfGear_05_7]"},
+              "current": {"spriteId":"Sprites/MainUI_ChurchOfGear_05.png[MainUI_ChurchOfGear_05_7]"},
+              "passed": {"spriteId":"Sprites/MainUI_ChurchOfGear_05.png[MainUI_ChurchOfGear_05_9]"},
+              "notAvailable": {"spriteId":"Sprites/MainUI_ChurchOfGear_05.png[MainUI_ChurchOfGear_05_9]"},
+              "currentCleared": {"spriteId":"Sprites/MainUI_ChurchOfGear_05.png[MainUI_ChurchOfGear_05_9]"},
+              "nextPassable": {"spriteId":"Sprites/MainUI_ChurchOfGear_05.png[MainUI_ChurchOfGear_05_7]"}
+            }
+          }
+        },
+        "showBossIds": [
+          70180
+        ],
+        "packSpriteId": "Walpu5_ChurchOfGears",
+        "textColor": "efc281",
+        "isHideLogo": true,
+        "mapOptions": [
+          {
+            "key": "SetColor_Basic",
+            "value": "a99f8a"
+          },
+          {
+            "key": "SetColor_Cleared",
+            "value": "4d483f"
+          },
+          {
+            "key": "MirrorDungeon4_Base"
+          }
+        ]
+      }
     }
   ]
 }

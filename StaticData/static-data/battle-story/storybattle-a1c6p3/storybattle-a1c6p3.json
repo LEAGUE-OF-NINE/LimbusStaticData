@@ -553,7 +553,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptList": ["WH"]
+      "stageScriptList": ["WH", "CantRetreatHeathcliff_Abnormality"]
     },
     {
       "id": 10642,
@@ -744,7 +744,7 @@
           "S644A"
         ]
       },
-      "stageScriptList": ["8172"]
+      "stageScriptList": ["8172", "CantRetreatHeathcliff_Abnormality"]
     },
     {
       "id": 10645,
@@ -799,7 +799,7 @@
           "S645A"
         ]
       },
-      "stageScriptList": ["8171"],
+      "stageScriptList": ["8171", "CantRetreatHeathcliff_Abnormality"],
       "eventScriptName": "8171",
       "abnormalityEventList": [
         817101
@@ -911,7 +911,7 @@
           "S648A"
         ]
       },
-      "stageScriptList": ["8173"],
+      "stageScriptList": ["8173", "CantRetreatHeathcliff_Abnormality"],
       "eventScriptName": "8173",
       "includeBoss": 1,
       "abnormalityEventList": [

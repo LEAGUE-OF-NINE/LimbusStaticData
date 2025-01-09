@@ -1,0 +1,220 @@
+{
+  "list": [
+    {
+      "id": 10037,
+      "type": "KILL_ENEMY_ONCE_BATTLE",
+      "valueType": "PEAK",
+      "targetList1": [ 10562 ],
+      "targetList2": [ 0 ],
+      "targetList3": []
+    },
+    {
+      "id": 10038,
+      "type": "KILL_ENEMY_ONCE_BATTLE",
+      "valueType": "PEAK",
+      "targetList1": [ 10562 ],
+      "targetList2": [ 0 ],
+      "targetList3": []
+    },
+    {
+      "id": 10039,
+      "type": "KILL_ENEMY_ONCE_BATTLE",
+      "valueType": "PEAK",
+      "targetList1": [ 10562 ],
+      "targetList2": [ 0 ],
+      "targetList3": []
+    },
+    {
+      "id": 10040,
+      "type": "KILL_ENEMY_ONCE_BATTLE",
+      "valueType": "PEAK",
+      "targetList1": [ 10562 ],
+      "targetList2": [ 90180 ],
+      "targetList3": []
+    },
+    {
+      "id": 10041,
+      "type": "CLEAR_ALIVE_ALL",
+      "valueType": "ACCUMULATED",
+      "targetList1": [ 10562 ],
+      "targetList2": [ 0 ],
+      "targetList3": [ 0 ]
+    },
+    {
+      "id": 10042,
+      "type": "CLEAR_EQUANNIMITY_ALL",
+      "valueType": "ACCUMULATED",
+      "targetList1": [ 10562 ],
+      "targetList2": [ 0 ],
+      "targetList3": [ 0 ]
+    },
+    {
+      "id": 10043,
+      "type": "ENEMY_KILLED_BY_PLAYER_WITH_BUFF",
+      "valueType": "PEAK",
+      "targetList1": [ 10562 ],
+      "targetList2": [ 0 ],
+      "targetList3": [ 748 ]
+    },
+    {
+      "id": 10044,
+      "type": "TL_DAMAGE_ATTACK_SKILL",
+      "valueType": "ACCUMULATED",
+      "targetList1": [ 10562 ],
+      "targetList2": [ 5 ],
+      "targetList3": [ 1 ]
+    },
+    {
+      "id": 10045,
+      "type": "ENEMY_MULTIKILLED_ONE_SKILL",
+      "valueType": "PEAK",
+      "targetList1": [ 10562 ],
+      "targetList2": [ 0 ],
+      "targetList3": [ 4 ]
+    },
+    {
+      "id": 10046,
+      "type": "ENEMY_KILLED_BY_ONE_SKILL_HP_RATIO_80",
+      "valueType": "PEAK",
+      "targetList1": [ 10562 ],
+      "targetList2": [ 90180 ],
+      "targetList3": []
+    },
+    {
+      "id": 20039,
+      "type": "KILL_ENEMY_ONCE_BATTLE",
+      "valueType": "PEAK",
+      "targetList1": [ 10563 ],
+      "targetList2": [ 0 ],
+      "targetList3": []
+    },
+    {
+      "id": 20040,
+      "type": "KILL_ENEMY_ONCE_BATTLE",
+      "valueType": "PEAK",
+      "targetList1": [ 10563 ],
+      "targetList2": [ 0 ],
+      "targetList3": []
+    },
+    {
+      "id": 20041,
+      "type": "KILL_ENEMY_ONCE_BATTLE",
+      "valueType": "PEAK",
+      "targetList1": [ 10563 ],
+      "targetList2": [ 0 ],
+      "targetList3": []
+    },
+    {
+      "id": 20042,
+      "type": "KILL_ENEMY_ONCE_BATTLE",
+      "valueType": "PEAK",
+      "targetList1": [ 10563 ],
+      "targetList2": [ 90180 ],
+      "targetList3": [ ]
+    },
+    {
+      "id": 20043,
+      "type": "CLEAR_ALIVE_ALL",
+      "valueType": "ACCUMULATED",
+      "targetList1": [ 10563 ],
+      "targetList2": [ 0 ],
+      "targetList3": [ 0 ]
+    },
+    {
+      "id": 20044,
+      "type": "CLEAR_EQUANNIMITY_ALL",
+      "valueType": "ACCUMULATED",
+      "targetList1": [ 10563 ],
+      "targetList2": [ 0 ],
+      "targetList3": [ 0 ]
+    },
+    {
+      "id": 20045,
+      "type": "CLEAR_WITHOUT_PLAYER_BUFF_STACK_REACHED",
+      "valueType": "ACCUMULATED",
+      "targetList1": [ 10563 ],
+      "targetList2": [ 0 ],
+      "targetList3": [ 744, 5 ]
+    },
+    {
+      "id": 20046,
+      "type": "ENEMY_KILLED_BY_PLAYER_WITH_BUFF",
+      "valueType": "PEAK",
+      "targetList1": [ 10563 ],
+      "targetList2": [ 0 ],
+      "targetList3": [ 748 ]
+    },
+    {
+      "id": 20047,
+      "type": "ENEMY_KILLED_BY_PLAYER_WITH_BUFF",
+      "valueType": "PEAK",
+      "targetList1": [ 10563 ],
+      "targetList2": [ 0 ],
+      "targetList3": [ 748 ]
+    },
+    {
+      "id": 20048,
+      "type": "TL_DAMAGE_ATTACK_SKILL",
+      "valueType": "ACCUMULATED",
+      "targetList1": [ 10563 ],
+      "targetList2": [ 3 ],
+      "targetList3": [ 1 ]
+    },
+    {
+      "id": 20049,
+      "type": "ENEMY_MULTIKILLED_ONE_SKILL",
+      "valueType": "PEAK",
+      "targetList1": [ 10563 ],
+      "targetList2": [ 0 ],
+      "targetList3": [ 7 ]
+    },
+    {
+      "id": 20050,
+      "type": "ENEMY_KILLED_BY_ONE_SKILL_HP_RATIO_80",
+      "valueType": "PEAK",
+      "targetList1": [ 10563 ],
+      "targetList2": [ 90180 ],
+      "targetList3": []
+    },
+    {
+      "id": 20051,
+      "type": "CRITICAL_DMG_ONCE",
+      "valueType": "PEAK",
+      "targetList1": [ 10563 ],
+      "targetList2": [ 0 ],
+      "targetList3": [ 300 ]
+    },
+    {
+      "id": 30004,
+      "type": "MISSION_ALL_CLEAR",
+      "valueType": "ACCUMULATED",
+      "targetList1": [ 
+        10037,
+        10038,
+        10039,
+        10040,
+        10041,
+        10042,
+        10043,
+        10044,
+        10045,
+        10046,
+        20039,
+        20040,
+        20041,
+        20042,
+        20043,
+        20044,
+        20045,
+        20046,
+        20047,
+        20048,
+        20049,
+        20050,
+        20051 
+      ],
+      "targetList2": [],
+      "targetList3": []
+    }
+  ]
+}

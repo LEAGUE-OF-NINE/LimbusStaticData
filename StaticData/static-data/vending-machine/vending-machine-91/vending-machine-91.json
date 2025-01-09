@@ -4,7 +4,7 @@
 			"id": 91,
 			"bannerInfo": {
 				"bannerSpr": "banner_vendingMachine91",
-				"priority": 1,
+				"priority": 99,
 				"festival": true
 			},
 			"groups": [
@@ -13,33 +13,45 @@
 					"contents": [
 						{
 							"type": "PERSONALITY",
-							"id": 10110,
+							"id": 10611,
 							"price": 400,
 							"blocked": true
+						},
+						{
+							"type": "PERSONALITY",
+							"id": 10711,
+							"price": 400,
+							"blocked": true
+						},
+						{
+							"type": "PERSONALITY",
+							"id": 10110,
+							"price": 400,
+							"blocked": false
 						},
 						{
 							"type": "PERSONALITY",
 							"id": 10410,
 							"price": 400,
-							"blocked": true
+							"blocked": false
 						},
 						{
 							"type": "PERSONALITY",
 							"id": 10207,
 							"price": 400,
-							"blocked": true
+							"blocked": false
 						},
 						{
 							"type": "PERSONALITY",
 							"id": 11009,
 							"price": 400,
-							"blocked": true
+							"blocked": false
 						},
 						{
 							"type": "PERSONALITY",
 							"id": 11107,
 							"price": 400,
-							"blocked": true
+							"blocked": false
 						},
 
 
@@ -48,13 +60,13 @@
 							"type": "PERSONALITY",
 							"id": 10307,
 							"price": 150,
-							"blocked": true
+							"blocked": false
 						},
 						{
 							"type": "PERSONALITY",
 							"id": 10607,
 							"price": 150,
-							"blocked": true
+							"blocked": false
 						},
 
 
@@ -62,27 +74,33 @@
 
 						{
 							"type": "EGO",
-							"id": 21207,
+							"id": 21108,
 							"price": 400,
 							"blocked": true
+						},
+						{
+							"type": "EGO",
+							"id": 21207,
+							"price": 400,
+							"blocked": false
 						},
 						{
 							"type": "EGO",
 							"id": 20505,
 							"price": 400,
-							"blocked": true
+							"blocked": false
 						},
 						{
 							"type": "EGO",
 							"id": 20806,
 							"price": 400,
-							"blocked": true
+							"blocked": false
 						},
 						{
 							"type": "EGO",
 							"id": 20906,
 							"price": 400,
-							"blocked": true
+							"blocked": false
 						}
 					]
 				}

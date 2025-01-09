@@ -885,6 +885,18 @@
       ]
     },
     {
+      "id": 1061111,
+      "attributeStockCondition": [
+        {
+          "type": "INDIGO",
+          "value": 5
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel4"
+      ]
+    },
+    {
       "id": 1121011,
       "attributeStockCondition": [
         {
@@ -930,6 +942,18 @@
         {
           "type": "SHAMROCK",
           "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel4"
+      ]
+    },
+    {
+      "id": 1071111,
+      "attributeResonanceCondition": [
+        {
+          "type": "INDIGO",
+          "value": 2
         }
       ],
       "requireIDList": [

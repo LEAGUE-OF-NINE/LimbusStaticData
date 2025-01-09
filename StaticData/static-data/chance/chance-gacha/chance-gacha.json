@@ -544,6 +544,16 @@
       "id":205,
       "max":1,
       "resetTimeType":"DAILY"
+    },
+    {
+      "id":206,
+      "max":1,
+      "resetTimeType":"DAILY"
+    },
+    {
+      "id":207,
+      "max":1,
+      "resetTimeType":"DAILY"
     }
   ]
 }

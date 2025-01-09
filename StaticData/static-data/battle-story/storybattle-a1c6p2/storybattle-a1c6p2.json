@@ -896,7 +896,7 @@
           "S633B"
         ]
       },
-      "stageScriptList": ["a1c6p2_Buff_Abnormality_Filter"]
+      "stageScriptList": ["a1c6p2_Buff_Abnormality_Filter", "CantRetreatHeathcliff_Abnormality"]
     },
     {
       "id": 10634,
@@ -957,7 +957,7 @@
           "S634A"
         ]
       },
-      "stageScriptList": ["8164"],
+      "stageScriptList": ["8164", "CantRetreatHeathcliff_Abnormality"],
       "eventScriptName": "8164",
       "abnormalityEventList": [
         816401

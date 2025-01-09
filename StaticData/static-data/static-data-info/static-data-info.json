@@ -161,7 +161,8 @@
         "buff-enemy-wp4",
         "buff-enemy-a1c7p1",
         "buff-enemy-a1c7p2",
-        "buff-enemy-a1c7p3"
+        "buff-enemy-a1c7p3",
+        "buff-enemy-wp5"
       ]
     },
     {
@@ -176,7 +177,8 @@
         "panic-buff-mowe",
         "panic-buff-a1c7p1",
         "panic-buff-a1c7p2",
-        "panic-buff-a1c7p3"
+        "panic-buff-a1c7p3",
+        "panic-buff-wp5"
       ]
     },
     {
@@ -249,7 +251,8 @@
         "hidden-ego-gift-mirrordungeon",
         "ego-gift-story-ycgd",
         "ego-gift-story-tkt",
-        "ego-gift-story-5-5-1"
+        "ego-gift-story-5-5-1",
+        "ego-gift-walpu5"
       ]
     },
     {
@@ -273,7 +276,8 @@
         "enemy-a1c7p1",
         "enemy-a1c7p2",
         "enemy-a1c7p3",
-        "enemy-mirrordungeon5"
+        "enemy-mirrordungeon5",
+        "enemy-wp5"
       ]
     },
     {
@@ -292,7 +296,9 @@
         "gacha-202",
         "gacha-203",
         "gacha-204",
-        "gacha-205"
+        "gacha-205",
+        "gacha-206",
+        "gacha-207"
       ]
     },
     {
@@ -352,7 +358,8 @@
         "passive-enemy-a1c7p1",
         "passive-enemy-a1c7p2",
         "passive-enemy-a1c7p3",
-        "passive-mr5"
+        "passive-mr5",
+        "passive-enemy-wp5"
       ]
     },
     {
@@ -459,7 +466,8 @@
         "skill-abnormality-a1c7p3",
         "skill-enemy-a1c7p1",
         "skill-enemy-a1c7p2",
-        "skill-abnormality91-5-hard"
+        "skill-abnormality91-5-hard",
+        "skill-enemy-wp5"
       ]
     },
     {
@@ -488,7 +496,8 @@
         "storybattle-a1c7p1",
         "storybattle-a1c7p2",
         "storybattle-a1c7p3",
-        "storybattle-a1c9112"
+        "storybattle-a1c9112",
+        "storybattle-wp5"
       ]
     },
     {
@@ -566,7 +575,8 @@
         "stagenodereward-a1c7p1",
         "stagenodereward-a1c7p2",
         "stagenodereward-a1c7p3",
-        "stagenodereward91-12"
+        "stagenodereward91-12",
+        "stagenodereward91-13"
       ]
     },
     {
@@ -755,7 +765,8 @@
         "storytheater-other-9109",
         "storytheater-other-9017",
         "storytheater-other-9110",
-        "storytheater-other-9018"
+        "storytheater-other-9018",
+        "storytheater-other-9019"
       ]
     },
     {
@@ -784,7 +795,8 @@
         "announcer-a1c6p1",
         "announcer-wp3",
         "announcer-wp4",
-        "announcer-a1c7p3"
+        "announcer-a1c7p3",
+        "announcer-wp5"
       ]
     },
     {
@@ -839,44 +851,37 @@
     {
       "dataClass": "userbannerconfiguration",
       "fileList": [
-        "userbannerconfiguration",
-        "userbannerconfiguration-a1c7p1",
-        "userbannerconfiguration-a1c7p3"
+        "userbannerconfiguration"
       ]
     },
     {
       "dataClass": "userbanner",
       "fileList": [
-        "userbanner",
-        "userbanner-a1c7p3"
+        "userbanner"
       ]
     },
     {
       "dataClass": "userticketconfiguration",
       "fileList": [
-        "userticketconfiguration",
-        "userticketconfiguration-a1c7p3"
+        "userticketconfiguration"
       ]
     },
     {
       "dataClass": "userticket-l",
       "fileList": [
-        "userticket-l",
-        "userticket-l-a1c7p3"
+        "userticket-l"
       ]
     },
     {
       "dataClass": "userticket-r",
       "fileList": [
-        "userticket-r",
-        "userticket-r-a1c7p3"
+        "userticket-r"
       ]
     },
     {
       "dataClass": "userticket-egobg",
       "fileList": [
-        "userticket-ego-bg",
-        "userticket-ego-bg-a1c7p3"
+        "userticket-ego-bg"
       ]
     },
     {
@@ -1176,7 +1181,8 @@
         "restrict-participation-walpu3",
         "restrict-participation-walpu4",
         "restrict-participation-a1c7p1",
-        "restrict-participation-a1c7p2"
+        "restrict-participation-a1c7p2",
+        "restrict-participation-walpu5"
       ]
     },
     {
@@ -1207,7 +1213,8 @@
       "fileList": [
         "returninguser-event",
         "newuser-event",
-        "miracleofdistrict20-returns-event"
+        "miracleofdistrict20-returns-event",
+        "walpu5-event-data"
       ]
     },
     {
@@ -1271,20 +1278,22 @@
     {
       "dataClass": "event-mission",
       "fileList": [
-        "event-walpu4"
+        "event-walpu5"
       ]
     },
     {
       "dataClass": "mission",
       "fileList": [
-        "return-mission-a1c7"
+        "return-mission-a1c7",
+        "event-walpu5-mission"
       ]
     },
     {
       "dataClass": "mission-condition",
       "fileList": [
         "return-mission-condition",
-        "return-mission-open-condition"
+        "return-mission-open-condition",
+        "event-walpu5-mission-condition"
       ]
     },
     {
@@ -1355,6 +1364,12 @@
       "dataClass": "story-mirror-dungeon-common-data",
       "fileList": [
         "story-mirror-dungeon-common-data"
+      ]
+    },
+    {
+      "dataClass": "use-killcount-extra-stage",
+      "fileList": [
+        "use-killcount-extra-stage"
       ]
     }
   ]

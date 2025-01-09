@@ -171,6 +171,41 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": []
+    },
+    {
+      "id": "FreishutzOutisEgoBulletCnt",
+      "buffClass": "TypoOnlyBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": []
+    },
+    {
+      "id": "MeleeCover",
+      "buffClass": "TypoOnlyBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": []
+    },
+    {
+      "id": "Retreat_FullStop",
+      "buffClass": "TypoOnlyBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": []
+    },
+    {
+      "id": "CoveringFire",
+      "buffClass": "TypoOnlyBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": []
+    },
+    {
+      "id": "FullReload",
+      "buffClass": "TypoOnlyBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": []
     }
   ]
 }
