@@ -1898,12 +1898,12 @@
     {
       "id": 1071103,
       "name": "Snipe",
-      "desc": "Encounter Start: gain 3 [PenetrateResultUp]\n\nWhen this unit enters the Encounter, gain 1 [Bullet_LogicAtelier] (once per Encounter)\n\nTurn End: If this unit does not have any remaining [Bullet] of any kind, activate [Retreat_FullStop] (once per Encounter)\n\nIf this unit is Substituted in, or is rejoining battle after [Retreat_FullStop], gain max [LogicAtelierAM], 3 [PenetrateResultUp], and [FullReload]\n(Except [Bullet_LogicAtelier]; once per Encounter)"
+      "desc": "Encounter Start: gain 3 [PenetrateResultUp]\n\n<style=\"highlight\">When this unit enters the Encounter, gain 1 [Bullet_LogicAtelier] (once per Encounter)</style>\n\nTurn End: If this unit does not have any remaining [Bullet] of any kind, activate [Retreat_FullStop] (once per Encounter)\n\nIf this unit is Substituted in, or is rejoining battle after [Retreat_FullStop], gain max [LogicAtelierAM], 3 [PenetrateResultUp], and [FullReload]\n(Except [Bullet_LogicAtelier]; once per Encounter)"
     },
     {
       "id": 1071111,
       "name": "Precision Aim",
-      "desc": "Turn End: gain 1 [Agility] next turn for every 10 [Breath] on self (max 2)\n\n<style=\"highlight\">Encounter Start: if this unit is not set to use any Attack Skills (including E.G.O Skills), apply 3 [Breath] to 1 ally with the least [Breath] Potency</style>\n\nTurn End: if this unit did not use any Attack Skills (including E.G.O Skills, excluding [CoveringFire]), gain 10 [Breath] and 1 [PenetrateResultUp] next turn"
+      "desc": "Turn End: gain 1 [Agility] next turn for every 10 [Breath] on self (max 2)\n\n<style=\"highlight\">Combat Start: if this unit is not set to use any Attack Skills (including E.G.O Skills), apply 3 [Breath] to 1 ally with the least Poise Potency</style>\n\nTurn End: if this unit did not use any Attack Skills (including E.G.O Skills, excluding [CoveringFire]), gain 10 [Breath] and 1 [PenetrateResultUp] next turn"
     },
     {
       "id": 1071121,

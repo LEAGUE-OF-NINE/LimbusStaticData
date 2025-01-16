@@ -1140,7 +1140,7 @@
                   "desc": "[Bullet] 1 소모"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [PenetrateResistDown] 1 부여 (턴 당 2회)"
+                  "desc": "[OnSucceedAttack] [PenetrateTakeDamageUp] 1 부여 (턴 당 2회)"
                 }
               ]
             }
@@ -1160,10 +1160,10 @@
                   "desc": "<style=\"highlight\">크리티컬 피해량 +30%</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [PenetrateResistDown] 1 부여 (턴 당 2회)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] [PenetrateTakeDamageUp] 1 부여 (턴 당 2회)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] 다음 턴에 [PenetrateResistDown] 1 부여 (턴 당 1회)</style>"
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] 다음 턴에 [PenetrateTakeDamageUp] 1 부여 (턴 당 1회)</style>"
                 }
               ]
             }
@@ -1183,10 +1183,10 @@
                   "desc": "크리티컬 피해량 <style=\"highlight\">+50%</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [PenetrateResistDown] 1 부여 (턴 당 2회)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] [PenetrateTakeDamageUp] 1 부여 (턴 당 2회)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 다음 턴에 [PenetrateResistDown] 1 부여 (턴 당 1회)<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] 다음 턴에 [PenetrateTakeDamageUp] 1 부여 (턴 당 1회)<style=\"highlight\"></style>"
                 }
               ]
             }

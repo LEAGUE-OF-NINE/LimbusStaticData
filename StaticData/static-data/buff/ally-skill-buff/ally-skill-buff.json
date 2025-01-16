@@ -1737,6 +1737,10 @@
       "canBeDespelled": false,
       "list": [
         {
+          "ability": "FreishutzOutisEgoBulletTargetNumAdder",
+          "value": 0
+        },
+        {
           "ability": "AttackDmgMultiplier",
           "value": 2
         },

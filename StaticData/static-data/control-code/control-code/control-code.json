@@ -183,5 +183,25 @@
   "isBattleLog2RailwayDungeon": true,
   "isBattleLog2IOS":true,
   "isBattleLog2Android": true,
-  "isBattleLogOnRailwayMobile": false
+  "isBattleLogOnRailwayMobile": true,
+  "isStaminaNotificationActivated" : false,
+  "staminaNotificationMessages": [
+    "push_notification_message_full_stamina_1",
+    "push_notification_message_full_stamina_2",
+    "push_notification_message_full_stamina_3",
+    "push_notification_message_full_stamina_4",
+    "push_notification_message_full_stamina_5",
+    "push_notification_message_full_stamina_6",
+    "push_notification_message_full_stamina_7",
+    "push_notification_message_full_stamina_8",
+    "push_notification_message_full_stamina_9",
+    "push_notification_message_full_stamina_11",
+    "push_notification_message_full_stamina_12",
+    "push_notification_message_full_stamina_13",
+    "push_notification_message_full_stamina_14",
+    "push_notification_message_full_stamina_15"
+  ],
+  "staminaNotificationMessageProbsForEach": [
+    3,3,3,3,3,3,3,3,3,3,3,3,1,2
+  ]
 }
