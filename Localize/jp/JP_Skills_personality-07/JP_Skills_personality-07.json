@@ -1133,7 +1133,7 @@
                   "desc": "[Bullet]を1消耗"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [PenetrateResistDown]1を付与(1ターンにつき2回)"
+                  "desc": "[OnSucceedAttack] [PenetrateTakeDamageUp]1を付与(1ターンにつき2回)"
                 }
               ]
             }
@@ -1153,10 +1153,10 @@
                   "desc": "<style=\"highlight\">クリティカルダメージ量 +30%</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [PenetrateResistDown]1を付与(1ターンにつき2回)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] [PenetrateTakeDamageUp]1を付与(1ターンにつき2回)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] 次のターンに[PenetrateResistDown]1を付与(1ターンにつき1回)</style>"
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] 次のターンに[PenetrateTakeDamageUp]1を付与(1ターンにつき1回)</style>"
                 }
               ]
             }
@@ -1165,7 +1165,7 @@
         {
           "level": 4,
           "name": "ヘッドショット",
-          "desc": "対象の速度が自分より低ければ、対象との速度差1につきダメージ量 +10%<style=\"highlight\">(最大50%)</style>\n[WhenUse] 3を得る。[Breath]回数が<style=\"highlight\">2</style>増加\n[WhenUse] 次のターンに[Agility]2を得る(1ターンにつき1回)",
+          "desc": "対象の速度が自分より低ければ、対象との速度差1につきダメージ量 +10%<style=\"highlight\">(最大50%)</style>\n[WhenUse] [Breath]3を得る。[Breath]回数が<style=\"highlight\">2</style>増加\n[WhenUse] 次のターンに[Agility]2を得る(1ターンにつき1回)",
           "coinlist": [
             {
               "coindescs": [
@@ -1176,10 +1176,10 @@
                   "desc": "クリティカルダメージ量 <style=\"highlight\">+50%</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [PenetrateResistDown]1を付与(1ターンにつき2回)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] [PenetrateTakeDamageUp]1を付与(1ターンにつき2回)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 次のターンに[PenetrateResistDown]1を付与(1ターンにつき1回)<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] 次のターンに[PenetrateTakeDamageUp]1を付与(1ターンにつき1回)<style=\"highlight\"></style>"
                 }
               ]
             }
