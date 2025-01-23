@@ -469,6 +469,34 @@
     {
       "eventId": 971041,
       "egoGiftList": [ 9771, 9769 ]
+    },
+    {
+      "eventId": 971042,
+      "egoGiftList": [ 9772, 9773, 9038 ]
+    },
+    {
+      "eventId": 971043,
+      "egoGiftList": [ 9774 ]
+    },
+    {
+      "eventId": 971044,
+      "egoGiftList": [ 9775 ]
+    },
+    {
+      "eventId": 971045,
+      "egoGiftList": [ 9776 ]
+    },
+    {
+      "eventId": 971046,
+      "egoGiftList": [ 9777 ]
+    },
+    {
+      "eventId": 971047,
+      "egoGiftList": [ 9778 ]
+    },
+    {
+      "eventId": 971048,
+      "egoGiftList": [ 9779 ]
     }
   ]
 }

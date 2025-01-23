@@ -157,8 +157,26 @@
     },
     {
       "id": 20023,
-
+      
       "ignoreExcess": true
+    },
+    {
+      "id": 20024,
+
+      "ignoreExcess": true,
+      "spriteStr": "lcb_checkup_event_item_1"
+    },
+    {
+      "id": 20025,
+      "autoTransformable": true,
+      "autoTransformTargetElement": {
+        "type": "ITEM",
+        "id": 20024,
+        "num": 20
+      },
+      "ignoreExcess": true,
+
+      "spriteStr": "lcb_checkup_event_item_2"
     }
   ]
 }

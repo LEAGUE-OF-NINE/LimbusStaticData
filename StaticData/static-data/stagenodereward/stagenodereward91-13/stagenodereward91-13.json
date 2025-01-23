@@ -21,6 +21,28 @@
       ],
       "exClearRewards": [
       ]
+    },
+    {
+      "nodeid": 911303,
+      "acquireExp": 0,
+      "acquireTotalExpForPersonality": 0,
+      "normalClearRewards": [
+        {
+          "type": "UNLOCK_CODE",
+          "id": 9113
+        }
+      ],
+      "exClearRewards": [
+      ]
+    },
+    {
+      "nodeid": 911304,
+      "acquireExp": 0,
+      "acquireTotalExpForPersonality": 0,
+      "normalClearRewards": [
+      ],
+      "exClearRewards": [
+      ]
     }
   ]
 }

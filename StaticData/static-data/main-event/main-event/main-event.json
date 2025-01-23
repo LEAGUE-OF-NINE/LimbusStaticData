@@ -1,6 +1,22 @@
 {
   "list": [
     {
+      "eventId": "LCBCheckup",
+      "mainUIPhaseTypeList": [
+        "Lobby",
+        "Stage"
+      ],
+      "bannerSpriteId": "banner_LCBCheckUp_event",
+      "isBannerVisible": true
+    },
+    {
+      "eventId": "LCBCheckupReward",
+      "mainUIPhaseTypeList": [
+        "Stage"
+      ],
+      "isBannerVisible": true
+    },
+    {
       "eventId": "NewUserDailyLoginEvent",
       "mainUIPhaseTypeList": [
         "Lobby"

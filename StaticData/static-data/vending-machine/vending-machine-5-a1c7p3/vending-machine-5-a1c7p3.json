@@ -12,6 +12,12 @@
 					"contents": [
 						{
 							"type": "PERSONALITY",
+							"id": 10211,
+							"price": 400,
+							"vendingAvailableDate": "2025-01-30T03:00:00.000Z"
+						},
+						{
+							"type": "PERSONALITY",
 							"id": 10310,
 							"price": 400
 						},
@@ -56,6 +62,12 @@
 							"type": "EGO",
 							"id": 20107,
 							"price": 400
+						},
+						{
+							"type": "EGO",
+							"id": 20408,
+							"price": 400,
+							"vendingAvailableDate": "2025-01-30T03:00:00.000Z"
 						},
 						{
 							"type": "EGO",

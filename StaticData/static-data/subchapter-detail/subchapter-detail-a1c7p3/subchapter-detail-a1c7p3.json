@@ -29,6 +29,11 @@
       "subchapterGroupIdList": [
         "DIFFICULTY_GROUP_MIRACLE_DISTRICT_20"
       ]
+    },
+    {
+      "partId": 91,
+      "subchapterId": 9114,
+      "bgmTypeByUIPanel": "LCB_CHECKUP_MAIN"
     }
   ],
   "subchapterGroupList": [

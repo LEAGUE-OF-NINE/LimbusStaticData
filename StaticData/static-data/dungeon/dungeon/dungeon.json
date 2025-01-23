@@ -7,6 +7,7 @@
       "recommendedLevel": 7,
       "entranceStory": "S111B",
       "illustname": "chapter1_StoryDungeon",
+      "dungeonSubchapterForUI": "1",
       "questlist": [
         {
           "localizeId": 2
@@ -20,6 +21,7 @@
       "recommendedLevel": 15,
       "entranceStory": "S219B",
       "illustname": "chapter2_StoryDungeon",
+      "dungeonSubchapterForUI": "2",
       "questlist": [
         {
           "localizeId": 2
@@ -33,6 +35,7 @@
       "recommendedLevel": 30,
       "entranceStory": "S322B",
       "illustname": "chapter3_StoryDungeon",
+      "dungeonSubchapterForUI": "3",
       "questlist": [
         {
           "localizeId": 2
@@ -47,6 +50,7 @@
       "entranceStory": "E305A",
       "clearStory": "E306A",
       "illustname": "chapter3.5_HellsChickenDungeon_Normal",
+      "dungeonSubchapterForUI": "3.5",
       "questlist": [
         {
           "localizeId": 2
@@ -59,6 +63,7 @@
       "staminaModule": 2,
       "recommendedLevel": 30,
       "illustname": "chapter3.5_HellsChickenDungeon_Hard",
+      "dungeonSubchapterForUI": "3.5",
       "questlist": [
         {
           "localizeId": 2
@@ -72,6 +77,7 @@
       "recommendedLevel": 35,
       "entranceStory": "S454B",
       "illustname": "chapter4_StoryDungeon",
+      "dungeonSubchapterForUI": "4",
       "questlist": [
         {
           "localizeId": 2

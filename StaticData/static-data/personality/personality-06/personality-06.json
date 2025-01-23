@@ -6,7 +6,7 @@
       "unitKeywordList": [
                 "BASE_APPEARANCE", "SMALL"
             ],
-            "associationList": [ "LIMBUS_COMPANY" ],
+            "associationList": [ "LIMBUS_COMPANY", "LIMBUS_COMPANY_LCB" ],
       "characterId": 6,
       "panicType": 9999,
       "season": 0,

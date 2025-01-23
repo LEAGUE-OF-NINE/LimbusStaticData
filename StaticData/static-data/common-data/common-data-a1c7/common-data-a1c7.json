@@ -641,5 +641,6 @@
     }
   },
   "returningUserPackageId": 401,
-  "invalidURLtest": 0
+  "invalidURLtest": 0,
+  "maxNumberOfItemsOnceUsed": 400
 }

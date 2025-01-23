@@ -278,6 +278,13 @@
         10611,
         10711
       ]
+    },
+    {
+      "mirrorWorldId": 34,
+      "needsPersonalityIdList": [
+        10211,
+        10111
+      ]
     }
   ]
 }

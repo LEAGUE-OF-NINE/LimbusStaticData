@@ -6,7 +6,7 @@
       "unitKeywordList": [
         "BASE_APPEARANCE", "SMALL"
       ],
-      "associationList": [ "LIMBUS_COMPANY" ],
+      "associationList": [ "LIMBUS_COMPANY", "LIMBUS_COMPANY_LCB" ],
       "characterId": 1,
       "panicType": 9999,
       "season": 0,
@@ -1020,6 +1020,102 @@
         },
         {
           "skillId": 1011003,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 10111,
+      "appearance": "10111_Yisang_FairyLanternAppearance",
+      "unitKeywordList": [ "SMALL" ],
+      "associationList": [ "LIMBUS_COMPANY", "LIMBUS_COMPANY_LCE" ],
+      "characterId": 1,
+      "panicType": 9999,
+      "season": 5,
+      "additionalAttachment": "EVENT",
+      "defenseSkillIDList": [
+        1011104
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 2,
+      "hp": {
+        "defaultStat": 73,
+        "incrementByLevel": 2.51
+      },
+      "defCorrection": 0,
+      "minSpeedList": [
+        3,
+        3,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        5,
+        6,
+        6,
+        6
+      ],
+      "uniqueAttribute": "SHAMROCK",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply10AndPlus10Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1011101,
+          "number": 3
+        },
+        {
+          "skillId": 1011102,
+          "number": 2
+        },
+        {
+          "skillId": 1011103,
           "number": 1
         }
       ]

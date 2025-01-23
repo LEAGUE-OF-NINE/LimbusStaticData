@@ -959,6 +959,18 @@
       "requireIDList": [
         "CheckAwakenLevel4"
       ]
+    },
+    {
+      "id": 1011111,
+      "attributeStockCondition": [
+        {
+          "type": "SHAMROCK",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel4"
+      ]
     }
   ]
 }

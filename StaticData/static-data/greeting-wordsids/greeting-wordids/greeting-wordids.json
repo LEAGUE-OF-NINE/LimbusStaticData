@@ -804,6 +804,21 @@
       "id": 177,
       "condition": "GetEGO",
       "conditionRefId": 21108
+    },
+    {
+      "id": 178,
+      "condition": "GetPersonality",
+      "conditionRefId": 10111
+    },
+    {
+      "id": 179,
+      "condition": "GetPersonality",
+      "conditionRefId": 10211
+    },
+    {
+      "id": 180,
+      "condition": "GetEGO",
+      "conditionRefId": 20408
     }
   ]
 }

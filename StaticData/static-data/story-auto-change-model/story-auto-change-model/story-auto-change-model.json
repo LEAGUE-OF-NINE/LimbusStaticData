@@ -284,6 +284,21 @@
 					"to": "히스클리프2"
 				}
 			]
+		},
+		{
+			"includeConditions": {
+				"prefix": "E7"
+			},
+			"changeModel": [
+				{
+					"from": "단테",
+					"to": "단테3"
+				},
+				{
+					"from": "히스클리프",
+					"to": "히스클리프2"
+				}
+			]
 		}
 	]
 }

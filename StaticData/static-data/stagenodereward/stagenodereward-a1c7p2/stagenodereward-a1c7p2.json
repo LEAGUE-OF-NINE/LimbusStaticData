@@ -133,8 +133,8 @@
         },
         {
             "nodeid": 10730,
-            "acquireExp": 0,
-            "acquireTotalExpForPersonality": 0,
+            "acquireExp": 20,
+            "acquireTotalExpForPersonality": 600,
             "normalClearRewards": [],
             "exClearRewards": [
                 {

@@ -184,7 +184,7 @@
   "isBattleLog2IOS":true,
   "isBattleLog2Android": true,
   "isBattleLogOnRailwayMobile": true,
-  "isStaminaNotificationActivated" : false,
+  "isStaminaNotificationActivated" : true,
   "staminaNotificationMessages": [
     "push_notification_message_full_stamina_1",
     "push_notification_message_full_stamina_2",

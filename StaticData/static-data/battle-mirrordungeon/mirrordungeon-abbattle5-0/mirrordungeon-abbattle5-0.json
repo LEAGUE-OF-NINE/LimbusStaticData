@@ -47883,28 +47883,437 @@
           "localizeId": 1
         }
       ],
-      "rewardList": [
-        {
-          "type": "EGO_GIFT",
-          "rewardId": 9709,
-          "num": 1,
-          "prob": 1
-        },
-        {
-          "type": "EGO_GIFT",
-          "rewardId": 9710,
-          "num": 1,
-          "prob": 1
-        },
-        {
-          "type": "EGO_GIFT",
-          "rewardId": 9711,
-          "num": 1,
-          "prob": 1
-        }
-      ],
+      "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": ["1078_Mirror"]
+    },
+
+    {
+      "id": 2067621,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 20
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-1_fathoms_lobotomy"
+          },
+          "unitList": [
+            {
+              "unitID": 1080,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8159,
+              "unitCount": 3,
+              "unitLevel": 50
+            }
+          ],
+          "enemyPositionID": 112,
+          "subUnitList": [
+            {
+              "unitID": 8159,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8159,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8159,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8159,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp7_5_LCE_Enemy_2"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill_Abnormality"
+      ]
+    },
+    {
+      "id": 2067622,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 20
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-1_fathoms_lobotomy"
+          },
+          "unitList": [
+            {
+              "unitID": 1080,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8159,
+              "unitCount": 3,
+              "unitLevel": 50
+            }
+          ],
+          "enemyPositionID": 112,
+          "subUnitList": [
+            {
+              "unitID": 8159,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8159,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8159,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8159,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp7_5_LCE_Enemy_2"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill_Abnormality"
+      ]
+    },
+    {
+      "id": 2067623,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 20
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-1_fathoms_lobotomy"
+          },
+          "unitList": [
+            {
+              "unitID": 1093,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8152,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "enemyPositionID": 112,
+          "subUnitList": [
+            {
+              "unitID": 8152,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8152,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8152,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8152,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp7_5_LCE_Enemy_2"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill_Abnormality"
+      ]
+    },
+    {
+      "id": 2067624,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 20
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-1_fathoms_lobotomy"
+          },
+          "unitList": [
+            {
+              "unitID": 1093,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8152,
+              "unitCount": 3,
+              "unitLevel": 50
+            }
+          ],
+          "enemyPositionID": 112,
+          "subUnitList": [
+            {
+              "unitID": 8152,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8152,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8152,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8152,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp7_5_LCE_Enemy_2"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill_Abnormality"
+      ]
+    },
+    {
+      "id": 2067625,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 20
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-1_fathoms_lobotomy"
+          },
+          "unitList": [
+            {
+              "unitID": 8152,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8159,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 8152,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8159,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8152,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8159,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8152,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp7_5_LCE_Enemy_2"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill_Abnormality"
+      ]
+    },
+    {
+      "id": 2067631,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-1_HohenheimLab"
+          },
+          "unitList": [
+            {
+              "unitID": 1082,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [],
+          "bgmList": [
+            "Battle_Cp7_5_LCE_Boss"
+          ],
+          "enemyPositionID": 13
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": ["1082"],
+      "eventScriptName": "1082",
+      "abnormalityEventList": [
+        108201,
+        108202,
+        108203
+      ]
     }
   ]
 }

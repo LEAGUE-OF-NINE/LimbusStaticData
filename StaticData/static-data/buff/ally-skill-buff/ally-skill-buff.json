@@ -1783,6 +1783,74 @@
           }
         }
       ]
+    },
+    {
+      "id": "GlowingLantern",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "maxStack": 5,
+      "list": [
+        {
+          "ability": "AggroAdderOnRoundStart",
+          "value": 10
+        },
+        {
+          "ability": "TakeAtkDamageMultiplier",
+          "value": 0.5
+        },
+        {
+          "ability": "GlowingLantern_15",
+          "value": 0.5,
+          "buffData": {
+            "buffKeyword": "Burst",
+            "target": "Target",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0,
+            "value": 1,
+            "limit": 3
+          }
+        },
+        {
+          "ability": "LoseStackOnRoundEnd",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "HoldingBreath",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": false,
+      "maxStack": 20,
+      "list": [
+        {
+          "ability": "HoldingBreath",
+          "value": 0.04,
+          "buffData": {
+            "buffKeyword": "Breath",
+            "target": "",
+            "stack": 15,
+            "turn": 5,
+            "activeRound": 0,
+            "value": 5
+          }
+        }
+      ]
+    },
+    {
+      "id": "NebulizerInhale",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": false,
+      "destroyableOnDie": true,
+      "destroyableOnRetreat": false,
+      "maxStack": 5,
+      "list": [
+        {
+          "ability": "NebulizerInhale"
+        }
+      ]
     }
   ]
 }

@@ -1879,6 +1879,500 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2040811,
+      "skillType": "EGO_AWAKEN",
+      "skillTier": 3,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "INDIGO",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 3,
+          "mpUsage": 25,
+          "skillLevelCorrection": 3,
+          "defaultValue": 6,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "SKILL",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOrSkillPowerResultAdderByMaxRes",
+              "value": 0,
+              "buffData": {
+                "buffKeyword": "Breath",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": 15,
+                "turn": 0,
+                "limit": 4,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOrCoinScaleAdderByMaxRes",
+              "value": 0,
+              "buffData": {
+                "buffKeyword": "Breath",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 5,
+                "value": 0.5,
+                "limit": 2,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnKillTarget(Limit:2)",
+              "buffData": {
+                "buffKeyword": "HoldingBreath",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveSystemAbilityIfEgoPassiveDeactivated"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": []
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack(Limit:1)",
+                  "buffData": {
+                    "buffKeyword": "HoldingBreath",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 6,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOrSkillPowerResultAdderByMaxRes",
+              "value": 0,
+              "buffData": {
+                "buffKeyword": "Breath",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": 15,
+                "turn": 0,
+                "limit": 6,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOrCoinScaleAdderByMaxRes",
+              "value": 0,
+              "buffData": {
+                "buffKeyword": "Breath",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 5,
+                "value": 0.5,
+                "limit": 2,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnKillTarget(Limit:2)",
+              "buffData": {
+                "buffKeyword": "HoldingBreath",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 2,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveSystemAbilityIfEgoPassiveDeactivated"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": []
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "CriticalDmgUpByRatioByStackPlusTurn",
+                  "buffData": {
+                    "buffKeyword": "Breath",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "limit": 20
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack(Limit:1)",
+                  "buffData": {
+                    "buffKeyword": "HoldingBreath",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "defaultValue": 8,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOrSkillPowerResultAdderByMaxRes",
+              "value": 0,
+              "buffData": {
+                "buffKeyword": "Breath",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": 15,
+                "turn": 0,
+                "limit": 6,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOrCoinScaleAdderByMaxRes",
+              "value": 0,
+              "buffData": {
+                "buffKeyword": "Breath",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 5,
+                "value": 0.5,
+                "limit": 3,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnKillTarget(Limit:3)",
+              "buffData": {
+                "buffKeyword": "HoldingBreath",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 2,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveSystemAbilityIfEgoPassiveDeactivated"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": []
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "CriticalDmgUpByRatioByStackPlusTurn",
+                  "buffData": {
+                    "buffKeyword": "Breath",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "limit": 40
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack(Limit:1)",
+                  "buffData": {
+                    "buffKeyword": "HoldingBreath",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 4,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040821,
+      "skillType": "EGO_EROSION",
+      "skillTier": 3,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "INDIGO",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillTargetType": "RANDOM",
+          "targetNum": 4,
+          "mpUsage": 25,
+          "skillLevelCorrection": 5,
+          "defaultValue": 20,
+          "canTeamKill": true,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "SKILL",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "2040821Target"
+            },
+            {
+              "scriptName": "AttackDmgMultiplierIfAllyContains",
+              "value": 0.3
+            },
+            {
+              "scriptName": "GiveBuffAndLoseHpByRatio2040821",
+              "value": 0.1,
+              "buffData": {
+                "buffKeyword": "Breath",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": 5,
+                "turn": 5,
+                "value": 0,
+                "limit": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnKillTarget2040821(Limit:1)",
+              "value": 0,
+              "buffData": {
+                "buffKeyword": "HoldingBreath",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": 2,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveSystemAbilityIfEgoPassiveDeactivated"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 8,
+              "abilityScriptList": [
+
+              ]
+            },
+            {
+              "operatorType": "SUB",
+              "scale": 8,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack(Limit:1)",
+                  "buffData": {
+                    "buffKeyword": "HoldingBreath",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 4,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "abilityScriptList": [
+            {
+              "scriptName": "2040821Target"
+            },
+            {
+              "scriptName": "AttackDmgMultiplierIfAllyContains",
+              "value": 0.3
+            },
+            {
+              "scriptName": "GiveBuffAndLoseHpByRatio2040821",
+              "value": 0.1,
+              "buffData": {
+                "buffKeyword": "Breath",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": 5,
+                "turn": 5,
+                "value": 1,
+                "limit": 2,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnKillTarget2040821(Limit:1)",
+              "value": 1,
+              "buffData": {
+                "buffKeyword": "HoldingBreath",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": 2,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveSystemAbilityIfEgoPassiveDeactivated"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 8,
+              "abilityScriptList": [
+                
+              ]
+            },
+            {
+              "operatorType": "SUB",
+              "scale": 8,
+              "abilityScriptList": [
+                {
+                  "scriptName": "CriticalDmgUpByRatioByStackPlusTurn",
+                  "buffData": {
+                    "buffKeyword": "Breath",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "limit": 20
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack(Limit:1)",
+                  "buffData": {
+                    "buffKeyword": "HoldingBreath",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 4,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "defaultValue": 24,
+          "abilityScriptList": [
+            {
+              "scriptName": "2040821Target"
+            },
+            {
+              "scriptName": "AttackDmgMultiplierIfAllyContains",
+              "value": 0.3
+            },
+            {
+              "scriptName": "GiveBuffAndLoseHpByRatio2040821",
+              "value": 0.1,
+              "buffData": {
+                "buffKeyword": "Breath",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": 5,
+                "turn": 5,
+                "value": 2,
+                "limit": 2,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnKillTarget2040821(Limit:1)",
+              "value": 2,
+              "buffData": {
+                "buffKeyword": "HoldingBreath",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": 3,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveSystemAbilityIfEgoPassiveDeactivated"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 8,
+              "abilityScriptList": [
+                
+              ]
+            },
+            {
+              "operatorType": "SUB",
+              "scale": 8,
+              "abilityScriptList": [
+                {
+                  "scriptName": "CriticalDmgUpByRatioByStackPlusTurn",
+                  "buffData": {
+                    "buffKeyword": "Breath",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "limit": 40
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack(Limit:1)",
+                  "buffData": {
+                    "buffKeyword": "HoldingBreath",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 7,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

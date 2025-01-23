@@ -37,7 +37,8 @@
         "battle-coin-choice-event-a1c7p3",
         "abnormality-choice-event-a1c7p3",
         "story-dungeon-action-choice-event-a1c7p3",
-        "story-dungeon-personality-choice-event-a1c7p3"
+        "story-dungeon-personality-choice-event-a1c7p3",
+        "abnormality-action-choice-event-a1c971"
       ]
     },
     {
@@ -77,7 +78,9 @@
         "abnormality-part-a1c7p1",
         "abnormality-part-a1c7p2",
         "abnormality-part-a1c7p3",
-        "abnormality-part91-5-hard"
+        "abnormality-part91-5-hard",
+        "abnormality-part-a1c971",
+        "abnormality-part-a1c971-s"
       ]
     },
     {
@@ -110,7 +113,9 @@
         "abnormality-unit-a1c7p1",
         "abnormality-unit-a1c7p2",
         "abnormality-unit-a1c7p3",
-        "abnormality-unit91-5-hard"
+        "abnormality-unit91-5-hard",
+        "abnormality-unit-a1c971",
+        "abnormality-unit-a1c971-s"
       ]
     },
     {
@@ -162,7 +167,8 @@
         "buff-enemy-a1c7p1",
         "buff-enemy-a1c7p2",
         "buff-enemy-a1c7p3",
-        "buff-enemy-wp5"
+        "buff-enemy-wp5",
+        "buff-enemy-a1c971"
       ]
     },
     {
@@ -178,7 +184,8 @@
         "panic-buff-a1c7p1",
         "panic-buff-a1c7p2",
         "panic-buff-a1c7p3",
-        "panic-buff-wp5"
+        "panic-buff-wp5",
+        "panic-buff-a1c971"
       ]
     },
     {
@@ -252,7 +259,8 @@
         "ego-gift-story-ycgd",
         "ego-gift-story-tkt",
         "ego-gift-story-5-5-1",
-        "ego-gift-walpu5"
+        "ego-gift-walpu5",
+        "ego-gift-story-7-5-1"
       ]
     },
     {
@@ -277,7 +285,8 @@
         "enemy-a1c7p2",
         "enemy-a1c7p3",
         "enemy-mirrordungeon5",
-        "enemy-wp5"
+        "enemy-wp5",
+        "enemy-a1c971"
       ]
     },
     {
@@ -291,14 +300,10 @@
         "gacha-6",
         "gacha-7",
         "gacha-8",
-        "gacha-200",
-        "gacha-201",
-        "gacha-202",
-        "gacha-203",
-        "gacha-204",
-        "gacha-205",
         "gacha-206",
-        "gacha-207"
+        "gacha-207",
+        "gacha-208",
+        "gacha-209"
       ]
     },
     {
@@ -359,7 +364,8 @@
         "passive-enemy-a1c7p2",
         "passive-enemy-a1c7p3",
         "passive-mr5",
-        "passive-enemy-wp5"
+        "passive-enemy-wp5",
+        "passive-enemy-a1c971"
       ]
     },
     {
@@ -467,7 +473,10 @@
         "skill-enemy-a1c7p1",
         "skill-enemy-a1c7p2",
         "skill-abnormality91-5-hard",
-        "skill-enemy-wp5"
+        "skill-enemy-wp5",
+        "skill-enemy-a1c971",
+        "skill-abnormality-a1c971",
+        "skill-abnormality-a1c971-s"
       ]
     },
     {
@@ -497,7 +506,8 @@
         "storybattle-a1c7p2",
         "storybattle-a1c7p3",
         "storybattle-a1c9112",
-        "storybattle-wp5"
+        "storybattle-wp5",
+        "storybattle-a1c9114"
       ]
     },
     {
@@ -513,7 +523,8 @@
         "dungeonbattle-a1c5p3",
         "dungeonbattle-ycgd",
         "dungeonbattle-tkt",
-        "dungeonbattle-a1c7p3"
+        "dungeonbattle-a1c7p3",
+        "dungeonbattle-a1c9114"
       ]
     },
     {
@@ -529,7 +540,8 @@
         "abbattle-a1c5p3",
         "abbattle-ycgd",
         "abbattle-tkt",
-        "abbattle-a1c7p3"
+        "abbattle-a1c7p3",
+        "abbattle-a1c9114"
       ]
     },
     {
@@ -576,7 +588,8 @@
         "stagenodereward-a1c7p2",
         "stagenodereward-a1c7p3",
         "stagenodereward91-12",
-        "stagenodereward91-13"
+        "stagenodereward91-13",
+        "stagenodereward91-14"
       ]
     },
     {
@@ -766,7 +779,8 @@
         "storytheater-other-9017",
         "storytheater-other-9110",
         "storytheater-other-9018",
-        "storytheater-other-9019"
+        "storytheater-other-9019",
+        "storytheater-other-9114"
       ]
     },
     {
@@ -797,6 +811,12 @@
         "announcer-wp4",
         "announcer-a1c7p3",
         "announcer-wp5"
+      ]
+    },
+    {
+      "dataClass": "announcer-unequippable",
+      "fileList": [
+        "announcer-9114"
       ]
     },
     {
@@ -1214,7 +1234,8 @@
         "returninguser-event",
         "newuser-event",
         "miracleofdistrict20-returns-event",
-        "walpu5-event-data"
+        "walpu5-event-data",
+        "lcbcheckup-event"
       ]
     },
     {
@@ -1370,6 +1391,18 @@
       "dataClass": "use-killcount-extra-stage",
       "fileList": [
         "use-killcount-extra-stage"
+      ]
+    },
+    {
+      "dataClass": "stagequest",
+      "fileList": [
+        "stagequest-a1c971"
+      ]
+    },
+    {
+      "dataClass": "levelnumber-adjust-value",
+      "fileList": [
+        "levelnumber-adjust-value"
       ]
     }
   ]
