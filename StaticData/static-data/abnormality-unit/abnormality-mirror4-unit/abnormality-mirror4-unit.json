@@ -8337,7 +8337,7 @@
     },
     {
       "id": 8246,
-      "nameID": 91006,
+      "nameID": 8079,
       "sdPortrait": 91006,
       "appearance": "91006_NCorpAppearance",
       "associationList": [
@@ -8384,7 +8384,7 @@
     },
     {
       "id": 8247,
-      "nameID": 91004,
+      "nameID": 8080,
       "sdPortrait": 91004,
       "appearance": "91004_EyedAppearance",
       "unitKeywordList": [ "CLAN", "BACK_STREET", "SMALL" ],
@@ -8426,7 +8426,7 @@
     },
     {
       "id": 8248,
-      "nameID": 91002,
+      "nameID": 8081,
       "sdPortrait": 91002,
       "appearance": "91002_GCorp_Infested_BossAppearance",
       "associationList": [ "G_CORP" ],

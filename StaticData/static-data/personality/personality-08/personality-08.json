@@ -7,7 +7,7 @@
         "BASE_APPEARANCE",
         "SMALL"
       ],
-      "associationList": [ "LIMBUS_COMPANY" ],
+      "associationList": [ "LIMBUS_COMPANY", "LIMBUS_COMPANY_LCB" ],
       "characterId": 8,
       "panicType": 9999,
       "season": 0,
@@ -304,7 +304,7 @@
       "id": 10804,
       "appearance": "10804_Ishmael_LCCSodeAppearance",
       "unitKeywordList": [ "SMALL" ],
-      "associationList": [ "LIMBUS_COMPANY" ],
+      "associationList": [ "LIMBUS_COMPANY", "LIMBUS_COMPANY_LCC" ],
       "characterId": 8,
       "panicType": 9999,
       "season": 1,

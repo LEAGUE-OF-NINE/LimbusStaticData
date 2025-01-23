@@ -1,0 +1,317 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "characterlist": "로쟈 : 3",
+      "feeling": "sigh",
+      "bg": "story_fathoms_lobotomy",
+      "bgm": "Corporation",
+      "soundeffect": "SFX_Walk_Iron"
+    },
+    {
+      "id": 1,
+      "feeling": "idle"
+    },
+    {
+      "id": 2,
+      "characterlist": "파우스트 : 1",
+      "feeling": "idle4",
+      "soundeffect": "SFX_Cloth_Rubbed_Move"
+    },
+    {
+      "id": 3,
+      "characterlist": "그레고르 : 1",
+      "feeling": "shork",
+      "soundeffect": "SFX_Jean_Crumble_Light"
+    },
+    {
+      "id": 4,
+      "characterlist": "홍루 : 7",
+      "feeling": "surprise",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 5,
+      "feeling": "idle"
+    },
+    {
+      "id": 6,
+      "soundeffect": "SFX_Cloth_Crumble",
+      "monologue": true,
+      "effectv2": "{\"glitch\": {\"isActive\" : \"true\", \"turnOn\" : \"true\", \"strength\" : 1, \"duration\" : 3}}"
+    },
+    {
+      "id": 7,
+      "monologue": true
+    },
+    {
+      "id": 8,
+      "monologue": true
+    },
+    {
+      "id": 9,
+      "characterlist": "ALL : -1",
+      "bg": "blackbg",
+      "monologue": true
+    },
+    {
+      "id": 10,
+      "bg": "story_Hohenheim Lab",
+      "cg": "E000X_8:FadeIn:[0~0.1],E000X_8:FadeOut:[0.1~0.2]",
+      "soundeffect": "SFX_Small_Metal_Door_Open,SFX_Noise_Ultra",
+      "monologue": true
+    },
+    {
+      "id": 11,
+      "characterlist": "이스마엘 : 5",
+      "feeling": "angry",
+      "soundeffect": "SFX_Hair_Care_2",
+      "effectv2": "{\"glitch\": {\"isActive\":\"true\", \"turnOn\":\"false\", \"duration\":1}}"
+    },
+    {
+      "id": 12,
+      "characterlist": "ALL:-1,호엔과거동료그림자: 3",
+      "cg": "black:FadeOut, E000X_8:FadeIn:[0~0.1],E000X_8:FadeOut:[0.1~0.2]",
+      "bgm": "Backstreet",
+      "soundeffect": "SFX_Noise_Short"
+    },
+    {
+      "id": 13,
+      "characterlist": "호엔하임과거:7:mode=FADE_IN"
+    },
+    {
+      "id": 14,
+      "soundeffect": "SFX_Noise_Ultra",
+      "monologue": true,
+      "effectv2": "{\"glitch\": {\"isActive\" : \"true\", \"turnOn\" : \"true\", \"strength\" : 4, \"duration\" : 1}}"
+    },
+    {
+      "id": 15,
+      "soundeffect": "SFX_Noise_Short_3",
+      "monologue": true
+    },
+    {
+      "id": 16,
+      "characterlist": "검열된호엔과거동료:3",
+      "cg": "E000X_8:FadeIn:[0~0.1],E000X_8:FadeOut:[0.1~0.2]",
+      "soundeffect": "SFX_Noise_Short_1",
+      "monologue": true
+    },
+    {
+      "id": 17,
+      "feeling": "idle",
+      "soundeffect": "SFX_Noise_2",
+      "effectv2": "{\"glitch\": {\"isActive\":\"true\", \"turnOn\":\"false\", \"duration\":1}}"
+    },
+    {
+      "id": 18,
+      "feeling": "idle2",
+      "effect": "CustomCamShake:[10][2][0.5]",
+      "soundeffect": "SFX_Leather_Crumble_Light,SFX_Glasses_Dalkak"
+    },
+    {
+      "id": 19
+    },
+    {
+      "id": 20,
+      "feeling": "idle",
+      "effect": "CustomCamShake:[10][2][0.5]",
+      "soundeffect": "SFX_Leather_Crumble_Light,SFX_Glasses_Dalkak"
+    },
+    {
+      "id": 21,
+      "feeling": "idle2"
+    },
+    {
+      "id": 22,
+      "feeling": "surprise",
+      "soundeffect": "SFX_Cotton_Crumble_Light"
+    },
+    {
+      "id": 23,
+      "feeling": "idle"
+    },
+    {
+      "id": 24,
+      "feeling": "idle",
+      "soundeffect": "SFX_Leather_Crumble_Light"
+    },
+    {
+      "id": 25,
+      "feeling": "idle",
+      "soundeffect": "SFX_Cloth_Crumble"
+    },
+    {
+      "id": 26,
+      "monologue": true,
+      "effectv2": "{\"glitch\": {\"isActive\" : \"true\", \"turnOn\" : \"true\", \"strength\" : 2, \"duration\" : 1}}"
+    },
+    {
+      "id": 27,
+      "soundeffect": "SFX_Walk_Iron_Once",
+      "monologue": true
+    },
+    {
+      "id": 28,
+      "monologue": true
+    },
+    {
+      "id": 29,
+      "soundeffect": "SFX_Muscle_Over_2",
+      "monologue": true
+    },
+    {
+      "id": 30,
+      "soundeffect": "SFX_Walk_Wood_2StepOnly",
+      "monologue": true
+    },
+    {
+      "id": 31,
+      "feeling": "idle",
+      "soundeffect": "SFX_Cloth_Rubbed_Move",
+      "effectv2": "{\"glitch\": {\"isActive\":\"true\", \"turnOn\":\"false\", \"duration\":1}}"
+    },
+    {
+      "id": 32,
+      "feeling": "surprise",
+      "soundeffect": "SFX_Jean_Crumble_Light"
+    },
+    {
+      "id": 33,
+      "feeling": "idle"
+    },
+    {
+      "id": 34,
+      "feeling": "angry",
+      "soundeffect": "SFX_Cloth_Crumble"
+    },
+    {
+      "id": 35,
+      "feeling": "smile",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 36,
+      "soundeffect": "SFX_Leather_Crumble_Light"
+    },
+    {
+      "id": 37,
+      "feeling": "idle",
+      "soundeffect": "SFX_Cloth_Crumble"
+    },
+    {
+      "id": 38,
+      "monologue": true,
+      "effectv2": "{\"glitch\": {\"isActive\" : \"true\", \"turnOn\" : \"true\", \"strength\" : 2, \"duration\" : 1}}"
+    },
+    {
+      "id": 39,
+      "feeling": "idle",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew",
+      "effectv2": "{\"glitch\": {\"isActive\":\"true\", \"turnOn\":\"false\", \"duration\":1}}"
+    },
+    {
+      "id": 40,
+      "feeling": "idle"
+    },
+    {
+      "id": 41,
+      "feeling": "smile",
+      "soundeffect": "SFX_Jean_Crumble_Light"
+    },
+    {
+      "id": 42,
+      "feeling": "idle",
+      "soundeffect": "SFX_Cloth_Crumble"
+    },
+    {
+      "id": 43,
+      "feeling": "angry"
+    },
+    {
+      "id": 44,
+      "feeling": "idle2",
+      "soundeffect": "SFX_Walk_Iron_Once"
+    },
+    {
+      "id": 45,
+      "feeling": "idle",
+      "soundeffect": "SFX_Walk_Wood_2StepOnly"
+    },
+    {
+      "id": 46,
+      "feeling": "smile",
+      "soundeffect": "SFX_Jean_Crumble_Light"
+    },
+    {
+      "id": 47,
+      "feeling": "glasses",
+      "effect": "CustomCamShake:[10][2][0.5]",
+      "soundeffect": "SFX_Leather_Crumble_Light,SFX_Glasses_Dalkak"
+    },
+    {
+      "id": 48,
+      "feeling": "idle",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 49,
+      "soundeffect": "SFX_Jean_Crumble_Light"
+    },
+    {
+      "id": 50,
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 51,
+      "feeling": "idle",
+      "soundeffect": "SFX_Cloth_Rubbed_Move"
+    },
+    {
+      "id": 52,
+      "feeling": "smile",
+      "soundeffect": "SFX_Leather_Crumble_Light"
+    },
+    {
+      "id": 53,
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 54,
+      "soundeffect": "SFX_Walk_Wood_2StepOnly"
+    },
+    {
+      "id": 55,
+      "characterlist": "ALL:-1",
+      "cg": "black:FadeIn",
+      "soundeffect": "SFX_Noise_Ultra",
+      "monologue": true,
+      "effectv2": "{\"glitch\": {\"isActive\" : \"true\", \"turnOn\" : \"true\", \"strength\" : 2, \"duration\" : 1}}"
+    },
+    {
+      "id": 56,
+      "cg": "black:FadeOut",
+      "bgm": "Corporation",
+      "monologue": true
+    },
+    {
+      "id": 57,
+      "characterlist": "검열된직원 : 5",
+      "bg": "story_fathoms_lobotomy",
+      "soundeffect": "SFX_Walking_Zombie"
+    },
+    {
+      "id": 58,
+      "soundeffect": "SFX_Walking_Sin_Set"
+    },
+    {
+      "id": 59,
+      "monologue": true
+    },
+    {
+      "id": 60,
+      "soundeffect": "SFX_Cloth_Crumble",
+      "monologue": true
+    }
+  ]
+}

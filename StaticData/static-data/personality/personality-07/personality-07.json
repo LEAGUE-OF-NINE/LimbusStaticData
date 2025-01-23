@@ -6,7 +6,7 @@
       "unitKeywordList": [
         "BASE_APPEARANCE", "SMALL"
       ],
-      "associationList": [ "LIMBUS_COMPANY" ],
+      "associationList": [ "LIMBUS_COMPANY", "LIMBUS_COMPANY_LCB" ],
       "unitScriptID" : "10701",
       "characterId": 7,
       "panicType": 9999,

@@ -253,6 +253,44 @@
     {
       "id": 9033,
       "attributeType": "VIOLET"
+    },
+
+
+    {
+      "id": 9772,
+      "attributeType": "VIOLET"
+    },
+    {
+      "id": 9773,
+      "attributeType": "AZURE"
+    },
+    {
+      "id": 9774,
+      "attributeType": "SCARLET"
+    },
+    {
+      "id": 9775,
+      "attributeType": "CRIMSON"
+    },
+    {
+      "id": 9776,
+      "attributeType": "CRIMSON"
+    },
+    {
+      "id": 9777,
+      "attributeType": "SHAMROCK"
+    },
+    {
+      "id": 9778,
+      "attributeType": "SCARLET"
+    },
+    {
+      "id": 9779,
+      "attributeType": "VIOLET"
+    },
+    {
+      "id": 9038,
+      "attributeType": "VIOLET"
     }
   ]
 }

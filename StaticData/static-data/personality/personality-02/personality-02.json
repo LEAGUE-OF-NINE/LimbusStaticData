@@ -6,7 +6,7 @@
       "unitKeywordList": [
         "BASE_APPEARANCE", "SMALL"
       ],
-      "associationList": [ "LIMBUS_COMPANY" ],
+      "associationList": [ "LIMBUS_COMPANY", "LIMBUS_COMPANY_LCB" ],
       "characterId": 2,
       "panicType": 9999,
       "season": 0,
@@ -1000,6 +1000,110 @@
         {
           "skillId": 1021003,
           "number": 1
+        }
+      ]
+    },
+    {
+      "id": 10211,
+      "appearance": "10211_Faust_FireMothAppearance",
+      "unitKeywordList": [ "SMALL" ],
+      "associationList": [ "LIMBUS_COMPANY", "LIMBUS_COMPANY_LCE"],
+      "characterId": 2,
+      "panicType": 9999,
+      "season": 5,
+      "additionalAttachment": "EVENT",
+      "defenseSkillIDList": [
+        1021104
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 2.28
+      },
+      "defCorrection": -1,
+      "minSpeedList": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "maxSpeedList": [
+        5,
+        6,
+        7,
+        7
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50,
+          20
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1021101,
+          "number": 3
+        },
+        {
+          "skillId": 1021102,
+          "number": 2
+        },
+        {
+          "skillId": 1021103,
+          "number": 1
+        },
+        {
+          "skillId": 1021105,
+          "number": 0
         }
       ]
     }

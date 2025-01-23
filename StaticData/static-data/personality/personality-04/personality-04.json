@@ -6,7 +6,7 @@
       "unitKeywordList": [
         "BASE_APPEARANCE", "SMALL"
       ],
-      "associationList": [ "LIMBUS_COMPANY" ],
+      "associationList": [ "LIMBUS_COMPANY", "LIMBUS_COMPANY_LCB" ],
       "characterId": 4,
       "panicType": 9999,
       "season": 0,
@@ -507,7 +507,7 @@
       "id": 10406,
       "appearance": "10406_Ryoshu_LCCBAppearance",
       "unitKeywordList": [ "SMALL" ],
-      "associationList": [ "LIMBUS_COMPANY" ],
+      "associationList": [ "LIMBUS_COMPANY", "LIMBUS_COMPANY_LCC" ],
       "characterId": 4,
       "panicType": 9999,
       "season": 3,

@@ -94,6 +94,11 @@
       "id": 9113,
       "unlockcodeType": "SUBCHAPTER_CLEAR",
       "desc": "walpu5"
+    },
+    {
+      "id": 9114,
+      "unlockcodeType": "SUBCHAPTER_CLEAR",
+      "desc": "LCB Checkup "
     }
   ]
 }

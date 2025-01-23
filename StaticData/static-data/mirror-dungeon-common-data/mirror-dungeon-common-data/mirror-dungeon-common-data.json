@@ -562,6 +562,12 @@
 				"cEgoGiftId": 9711,
 				"resultEgoGiftId": 9765,
 				"requiredEgoGiftIds": [9709,9710,9711]
+			},
+			{
+				"aEgoGiftId": 9778,
+				"bEgoGiftId": 9779,
+				"resultEgoGiftId": 9780,
+				"requiredEgoGiftIds": [9778,9779]
 			}
 		],
 		"combineMixed": [

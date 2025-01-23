@@ -8,6 +8,7 @@
       "entranceStory": "E518B",
       "clearStory": "E519A",
       "illustname": "chapter5.5_2_StoryDungeon",
+      "dungeonSubchapterForUI": "5.5",
       "questlist": [
         {
           "localizeId": 2

@@ -2980,6 +2980,9 @@
       ]
     },
     {
+      "id": 1051102
+    },
+    {
       "id": 1051121,
       "attributeResonanceCondition": [
         {
@@ -3192,7 +3195,55 @@
       ]
     },
     {
-      "id": 1051102
+      "id": 1011101,
+      "attributeStockCondition": [
+        {
+          "type": "SHAMROCK",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1011121,
+      "attributeStockCondition": [
+        {
+          "type": "SHAMROCK",
+          "value": 5
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1021101
+    },
+    {
+      "id": 1021111,
+      "attributeStockCondition": [
+        {
+          "type": "CRIMSON",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1021121,
+      "attributeResonanceCondition": [
+        {
+          "type": "CRIMSON",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
     },
     {
       "id": 90001

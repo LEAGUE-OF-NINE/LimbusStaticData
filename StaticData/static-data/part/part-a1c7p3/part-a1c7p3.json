@@ -1984,8 +1984,8 @@
               "stageNodeType": "DUNGEON"
             }
           ],
-          "nextMainchapterid": -1,
-          "nextSubchapterid": -1,
+          "nextMainchapterid": 91,
+          "nextSubchapterid": 9114,
           "lastnodeid": 10736,
           "voiceBank": "Ch7"
         }
@@ -2192,7 +2192,16 @@
           "chapterId": 91,
           "subchapterId": 9113,
           "nodeId": 911301
-        }
+          }
+        },
+        {
+          "chapterId": 91,
+          "subchapterId": 9114,
+          "relatedEventId": "LCBCheckup",
+          "type": "SUB",
+          "uiConfig": {
+            "timeLine": "984-12"
+          }
         }
       ]
     },
@@ -2513,15 +2522,6 @@
               "posy": 1200,
               "upper": 0,
               "stageNodeType": "STORY"
-            },
-            {
-              "nodeId": 910513,
-              "stageId": 910513,
-              "hideNodeIndex": true,
-              "posx": 11390,
-              "posy": 1200,
-              "upper": 1,
-              "stageNodeType": "NORMAL"
             }
           ],
           "nextMainchapterid": 91,
@@ -3129,17 +3129,6 @@
               "upper": 0,
               "stageNodeType": "STORY",
               "nodeIllustIdString": "910512"
-            },
-            {
-              "nodeId": 911213,
-              "nodeInfoId": 910513,
-              "hideNodeIndex": true,
-              "stageId": 911213,
-              "posx": 11390,
-              "posy": 1200,
-              "upper": 1,
-              "stageNodeType": "NORMAL",
-              "nodeIllustIdString": "910513"
             }
           ],
           "nextMainchapterid": -1,
@@ -3162,6 +3151,144 @@
               "nodeId": 911302,
               "stageId": 10563,
               "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911303,
+              "nodeInfoId": 911301,
+              "stageId": 10564,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911304,
+              "nodeInfoId": 911302,
+              "stageId": 10565,
+              "stageNodeType": "NORMAL"
+            }
+          ]
+        },
+        {
+          "id": 9114,
+          "illustSprName": "9114",
+          "region": "p",
+          "sprName": "chapter7.5_LCBCheckUp",
+          "subChapterNumber": "7.5",
+          "mapSizeRow": 1,
+          "mapSizeColoumn": 7,
+          "unlockCondition": {
+            "unlockCode": 107
+          },
+          "stageNodeList": [
+            {
+              "nodeId": 911401,
+              "stageId": 911401,
+              "posx": 833,
+              "posy": 662,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911402,
+              "stageId": 911402,
+              "posx": 1654,
+              "posy": 855,
+              "upper": 1,
+              "stageNodeType": "STORY"
+            },
+            {
+              "nodeId": 911403,
+              "stageId": 911403,
+              "posx": 2297,
+              "posy": 467,
+              "upper": 1,
+              "stageNodeType": "STORY"
+            },
+            {
+              "nodeId": 911404,
+              "stageId": 911404,
+              "posx": 3643,
+              "posy": 582,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911405,
+              "stageId": 911405,
+              "posx": 4434,
+              "posy": 904,
+              "upper": 0,
+              "stageNodeType": "STORY"
+            },
+            {
+              "nodeId": 911406,
+              "stageId": 911406,
+              "posx": 5199,
+              "posy": 403,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911407,
+              "stageId": 911407,
+              "posx": 6622,
+              "posy": 492,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911408,
+              "stageId": 911408,
+              "posx": 7033,
+              "posy": 1104,
+              "upper": 0,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911409,
+              "stageId": 911409,
+              "posx": 7466,
+              "posy": 948,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911410,
+              "stageId": 911410,
+              "posx": 8488,
+              "posy": 824,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911411,
+              "stageId": 911411,
+              "posx": 9861,
+              "posy": 798,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911412,
+              "stageId": 911412,
+              "posx": 10844,
+              "posy": 1163,
+              "upper": 1,
+              "stageNodeType": "STORY"
+            },
+            {
+              "nodeId": 911413,
+              "stageId": 911413,
+              "posx": 11882,
+              "posy": 731,
+              "upper": 1,
+              "stageNodeType": "STORY"
+            },
+            {
+              "nodeId": 911414,
+              "stageId": 911401,
+              "posx": 13120,
+              "posy": 899,
+              "upper": 1,
+              "stageNodeType": "DUNGEON"
             }
           ]
         }

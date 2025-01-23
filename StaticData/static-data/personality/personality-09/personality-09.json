@@ -6,7 +6,7 @@
       "unitKeywordList": [
         "BASE_APPEARANCE", "SMALL"
       ],
-      "associationList": [ "LIMBUS_COMPANY" ],
+      "associationList": [ "LIMBUS_COMPANY", "LIMBUS_COMPANY_LCB" ],
       "characterId": 9,
       "panicType": 9999,
       "season": 0,
@@ -206,7 +206,7 @@
       "id": 10903,
       "appearance": "10903_Rodion_EpiAppearance",
       "unitKeywordList": [ "SMALL" ],
-      "associationList": [ "LIMBUS_COMPANY" ],
+      "associationList": [ "LIMBUS_COMPANY", "LIMBUS_COMPANY_LCC" ],
       "characterId": 9,
       "panicType": 9999,
       "season": 1,
