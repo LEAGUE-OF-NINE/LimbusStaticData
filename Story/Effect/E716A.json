@@ -1,0 +1,283 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "characterlist": "호엔하임과거 : 7, 검열된호엔과거동료:3",
+      "feeling": "smile",
+      "bg": "story_Hohenheim Lab",
+      "bgm": "Backstreet",
+      "soundeffect": "SFX_Walk_Wood"
+    },
+    {
+      "id": 1,
+      "feeling": "smile",
+      "soundeffect": "SFX_Walk_Iron_Once"
+    },
+    {
+      "id": 2,
+      "feeling": "surprise",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 3,
+      "feeling": "idle2",
+      "soundeffect": "SFX_Jean_Crumble_Light"
+    },
+    {
+      "id": 4,
+      "feeling": "smile",
+      "soundeffect": "SFX_Cloth_Crumble"
+    },
+    {
+      "id": 5,
+      "feeling": "idle",
+      "soundeffect": "SFX_Leather_Crumble_Light"
+    },
+    {
+      "id": 6,
+      "feeling": "idle"
+    },
+    {
+      "id": 7,
+      "feeling": "idle",
+      "soundeffect": "SFX_Walk_Iron_Once"
+    },
+    {
+      "id": 8,
+      "bgm": "Mystery_Nervous_Ambience",
+      "soundeffect": "SFX_Noise_Ultra",
+      "monologue": true,
+      "effectv2": "{\"glitch\": {\"isActive\" : \"true\", \"turnOn\" : \"true\", \"strength\" : 1, \"duration\" : 3}}"
+    },
+    {
+      "id": 9,
+      "cg": "black:FadeIn",
+      "monologue": true
+    },
+    {
+      "id": 10,
+      "monologue": true
+    },
+    {
+      "id": 11,
+      "characterlist": "ALL:-1",
+      "bg": "story_fathoms_lobotomy",
+      "cg": "black:FadeOut",
+      "monologue": true
+    },
+    {
+      "id": 12,
+      "bgm": "War",
+      "soundeffect": "SFX_Muscle_Over_1",
+      "monologue": true
+    },
+    {
+      "id": 13,
+      "characterlist": "검열된직원 : 5 : mode=FADE_IN",
+      "soundeffect": "SFX_Walking_Zombie"
+    },
+    {
+      "id": 14,
+      "soundeffect": "SFX_Cloth_Crumble",
+      "monologue": true
+    },
+    {
+      "id": 15,
+      "soundeffect": "SFX_Walking_Zombie"
+    },
+    {
+      "id": 16,
+      "monologue": true
+    },
+    {
+      "id": 17,
+      "characterlist": "ALL:-1",
+      "bg": "blackbg",
+      "cg": "black",
+      "soundeffect": "SFX_Stretch_HardGrab"
+    },
+    {
+      "id": 18,
+      "characterlist": "단테 : 5",
+      "bg": "story_fathoms_lobotomy",
+      "cg": "black:FadeOut",
+      "soundeffect": "siren, SFX_LOB_Horn_1",
+      "voice": "D_Surprise",
+      "effectv2": "{\"glitch\": {\"isActive\":\"true\", \"turnOn\":\"false\", \"duration\":1}}"
+    },
+    {
+      "id": 19,
+      "characterlist": "이상 : 1, 그레고르 : 3",
+      "feeling": "angry",
+      "soundeffect": "SFX_Cloth_Crumble"
+    },
+    {
+      "id": 20,
+      "feeling": "depressed",
+      "soundeffect": "SFX_Jean_Crumble_Light"
+    },
+    {
+      "id": 21,
+      "feeling": "depressed"
+    },
+    {
+      "id": 22,
+      "characterlist": "ALL : -1, 검열된호엔과거동료:5",
+      "feeling": "surprise",
+      "bg": "story_past_lobotomy",
+      "cg": "E000X_8:FadeIn:[0~0.1],E000X_8:FadeOut:[0.1~0.2]",
+      "effect": "CustomCamShake:[5][20][1]",
+      "bgm": "First_Warning",
+      "soundeffect": "SFX_Noise_Short_2, SFX_Noise_Ultra, SFX_Noise2,SFX_Earthquake:loop"
+    },
+    {
+      "id": 24,
+      "characterlist": "호엔하임과거:5",
+      "feeling": "glasses",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 25,
+      "characterlist": "검열된호엔과거동료:5",
+      "feeling": "surprise",
+      "effect": "CustomCamShake:[5][20][1]",
+      "soundeffect": "SFX_Jean_Crumble_Light"
+    },
+    {
+      "id": 26,
+      "soundeffect": "siren_smaller"
+    },
+    {
+      "id": 27,
+      "effect": "CustomCamShake:[5][20][1]",
+      "soundeffect": "siren_smaller"
+    },
+    {
+      "id": 28,
+      "soundeffect": "siren_smaller"
+    },
+    {
+      "id": 29,
+      "effect": "CustomCamShake:[5][20][1]",
+      "soundeffect": "SFX_Phone_Get_Call_Filtered"
+    },
+    {
+      "id": 30,
+      "characterlist": "호엔하임과거:5",
+      "feeling": "surprise",
+      "soundeffect": "SFX_Noise_Short_2, SFX_Noise_Ultra, SFX_Noise2",
+      "effectv2": "{\"glitch\": {\"isActive\" : \"true\", \"turnOn\" : \"true\", \"strength\" : 1, \"duration\" : 2}}"
+    },
+    {
+      "id": 31,
+      "feeling": "glasses",
+      "bg": "story_fathoms_lobotomy",
+      "cg": "E000X_8:FadeIn:[0~0.1],E000X_8:FadeOut:[0.1~0.2]",
+      "soundeffect": "SFX_Grab_Small"
+    },
+    {
+      "id": 32
+    },
+    {
+      "id": 33,
+      "soundeffect": "SFX_Cloth_Crumble"
+    },
+    {
+      "id": 34,
+      "soundeffect": "SFX_Stretch_HardGrab"
+    },
+    {
+      "id": 35,
+      "soundeffect": "SFX_Jean_Crumble_Light",
+      "effectv2": "{\"glitch\": {\"isActive\" : \"true\", \"turnOn\" : \"true\", \"strength\" : 2, \"duration\" : 2}}"
+    },
+    {
+      "id": 36
+    },
+    {
+      "id": 37,
+      "soundeffect": "SFX_Cloth_Crumble"
+    },
+    {
+      "id": 38,
+      "soundeffect": "SFX_Cotton_Crumble_Light",
+      "effectv2": "{\"glitch\": {\"isActive\" : \"true\", \"turnOn\" : \"true\", \"strength\" : 4, \"duration\" : 2}}"
+    },
+    {
+      "id": 39,
+      "bg": "story_fathoms_lobotomy",
+      "cg": "black:FadeIn",
+      "soundeffect": "SFX_Muscle_Over_1",
+      "monologue": true
+    },
+    {
+      "id": 40,
+      "monologue": true
+    },
+    {
+      "id": 41,
+      "characterlist": "이스마엘 : 5",
+      "feeling": "sad2",
+      "cg": "black:FadeOut",
+      "soundeffect": "SFX_Jean_Crumble_Light",
+      "effectv2": "{\"glitch\": {\"isActive\":\"true\", \"turnOn\":\"false\", \"duration\":1}}"
+    },
+    {
+      "id": 42,
+      "soundeffect": "SFX_Muscle_Over_2",
+      "monologue": true,
+      "effectv2": "{\"glitch\": {\"isActive\" : \"true\", \"turnOn\" : \"true\", \"strength\" : 1, \"duration\" : 3}}"
+    },
+    {
+      "id": 43,
+      "soundeffect": "SFX_Walk_Wood_2StepOnly",
+      "monologue": true
+    },
+    {
+      "id": 44,
+      "characterlist": "ALL : -1",
+      "cg": "black:FadeIn",
+      "bgm": "First_Warning:75",
+      "soundeffect": "SFX_LOB_Destroy",
+      "effectv2": "{\"glitch\": {\"isActive\":\"true\", \"turnOn\":\"false\", \"duration\":1}}"
+    },
+    {
+      "id": 45,
+      "bgm": "First_Warning:30"
+    },
+    {
+      "id": 46,
+      "bgm": "Unacceptable",
+      "soundeffect": "SFX_Muscle_Over_1, SFX_Earthquake:end",
+      "monologue": true,
+      "effectv2": "{\"glitch\": {\"isActive\" : \"true\", \"turnOn\" : \"true\", \"strength\" : 1, \"duration\" : 3}}"
+    },
+    {
+      "id": 47,
+      "soundeffect": "SFX_Low_Rumble",
+      "monologue": true
+    },
+    {
+      "id": 48,
+      "characterlist": "단테:5",
+      "cg": "black:FadeOut",
+      "voice": "D_Wick",
+      "effectv2": "{\"glitch\": {\"isActive\":\"true\", \"turnOn\":\"false\", \"duration\":1}}"
+    },
+    {
+      "id": 49,
+      "voice": "D_Normal"
+    },
+    {
+      "id": 50,
+      "characterlist": "이스마엘 : 1",
+      "feeling": "idle",
+      "soundeffect": "SFX_Cloth_Crumble"
+    },
+    {
+      "id": 51,
+      "feeling": "angry",
+      "soundeffect": "SFX_Walk_Wood_2StepOnly"
+    }
+  ]
+}

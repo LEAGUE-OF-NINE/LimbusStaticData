@@ -1,0 +1,228 @@
+{
+  "isCheckingEventStoryCode": true,
+  "isCheckingLoadUserData": true,
+  "isCheckingLogFontColor": true,
+  "isLackOfParticipantsPopupAppears": true,
+  "isAlarmAtExitShop": true,
+  "isAlarmAtExitChangeFormation": true,
+  "isAlarmAtExitChangeFormationLess": true,
+  "moveStartBufMapZoomPC": 1.0,
+  "moveStartBufMapZoomMobile": 0.0017,
+  "isInitBuffMap": true,
+  "mirrorMapSetting": true,
+  "networkLatencyForTest": 0,
+  "skillPowerResultUpLevelDiffCondition": 3,
+  "resultAdderByResStack": [
+    0,
+    1,
+    3,
+    3,
+    5,
+    5,
+    7,
+    7,
+    9,
+    9,
+    11,
+    13
+  ],
+  "isShowBattleResultAfterGiveUp": true,
+  "isPassResetRailwayDungeonOnInitialize": true,
+  "isCheckMirrorDungeonLoadByBoolean": false,
+  "isCheckForUpdateCatalog": true,
+  "isClearDataReturnToLogin": true,
+  "isBlockTextInputableForCounterUI": false,
+  "isBlockKeyboardInput": false,
+  "isCompareCatalogHashSteam": true,
+  "isCompareCatalogHashIOS": false,
+  "isCompareCatalogHashAndroid": true,
+  "isClosableAPIActivated": true,
+  "isAllowToRedefineEgoIndex": true,
+  "isAllowToSendUUID": true,
+  "isLoadEgoGiftFromMirrorDungeonFirst": true,
+  "packageShopOrder": [
+    111,
+    123,
+    102,
+    103,
+    101,
+    141,
+    142,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    131,
+    143,
+    134,
+    135,
+    136
+  ],
+  "isActiveUnlinkAccount": true,
+  "isHideOpenMailPopup": false,
+  "isBlockBlackScreenCleaner": false,
+  "isWhUseGc": false,
+  "rollingCoinUpdateUI": true,
+  "isMirrorDungeonShopShowRefreshByChipWarningPopupOnce": false,
+  "isUseMirrorDungeonKeywardRefresh": true,
+  "playStoryExitStageUnlockCodeLocalSave": true,
+  "isResetEgoStockOnAddSinStockByDungeon": false,
+  "isUseUnitSheildValueUI": true,
+  "isCreateBlurMaterial": true,
+  "isBlockForceInitEgoStock": true,
+  "adjustEnemySubUnitLevelStageIds": [
+    2066331
+  ],
+  "contentList": [
+    {
+      "targetId": 99999,
+      "targetIntegers": [
+        25,
+        10
+      ]
+    },
+    {
+      "targetId": 11009,
+      "targetIntegers": [
+        40,
+        20
+      ]
+    }
+  ],
+  "isSendblog": true,
+  "battleLogCheckSize": 4194304,
+  "isEnableFetchSynchronousApi": true,
+  "isSolveBattlePassEscBuff": true,
+  "isEnableShopUseUnlockcode": true,
+  "warningReturnMissionIds": [],
+  "isEnableSteamWalletUpdate": true,
+  "tempSolveEgoGacksungOnPassiveTab": true,
+  "valueFor841104": 0.025,
+  "maxHpMultiplierForMD5Easy": [
+    -0.4,
+    -0.4,
+    -0.4,
+    -0.4,
+    -0.3
+  ],
+  "maxHpMultiplierForMD5Hard": [
+    -0.25,
+    -0.25,
+    -0.25,
+    -0.2,
+    -0.15
+  ],
+  "useFaqWebpage": true,
+  "enemyLevelAdders": [
+    {
+      "id": 1064,
+      "value": 25
+    },
+    {
+      "id": 1065,
+      "value": 35
+    },
+    {
+      "id": 1070,
+      "value": 25
+    },
+    {
+      "id": 1071,
+      "value": 25
+    },
+    {
+      "id": 1072,
+      "value": 35
+    },
+    {
+      "id": 1069,
+      "value": 15
+    },
+    {
+      "id": 1068,
+      "value": 15
+    },
+    {
+      "id": 1067,
+      "value": 15
+    },
+    {
+      "id": 70154,
+      "value": 15
+    },
+    {
+      "id": 70155,
+      "value": 15
+    },
+    {
+      "id": 70171,
+      "value": 15
+    },
+    {
+      "id": 70172,
+      "value": 15
+    },
+    {
+      "id": 70175,
+      "value": 15
+    },
+    {
+      "id": 70176,
+      "value": 15
+    },
+    {
+      "id": 70166,
+      "value": 15
+    },
+    {
+      "id": 70167,
+      "value": 15
+    },
+    {
+      "id": 70168,
+      "value": 15
+    }
+  ],
+  "mirrorDungeonSpecialPackLevelReward": 3,
+  "isUsingLetterBox": false,
+  "isBattleLog2MirrorDungeon": true,
+  "isBattleLog2RailwayDungeon": true,
+  "isBattleLog2IOS": true,
+  "isBattleLog2Android": true,
+  "isBattleLogOnRailwayMobile": true,
+  "isStaminaNotificationActivated": true,
+  "staminaNotificationMessages": [
+    "push_notification_message_full_stamina_1",
+    "push_notification_message_full_stamina_2",
+    "push_notification_message_full_stamina_3",
+    "push_notification_message_full_stamina_4",
+    "push_notification_message_full_stamina_5",
+    "push_notification_message_full_stamina_6",
+    "push_notification_message_full_stamina_7",
+    "push_notification_message_full_stamina_8",
+    "push_notification_message_full_stamina_9",
+    "push_notification_message_full_stamina_11",
+    "push_notification_message_full_stamina_12",
+    "push_notification_message_full_stamina_13",
+    "push_notification_message_full_stamina_14",
+    "push_notification_message_full_stamina_15"
+  ],
+  "staminaNotificationMessageProbsForEach": [
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    1,
+    2
+  ]
+}

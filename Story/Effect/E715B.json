@@ -1,0 +1,101 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "characterlist": "검열된직원 : 5",
+      "bg": "story_fathoms_lobotomy",
+      "bgm": "Corporation",
+      "soundeffect": "SFX_Noise2",
+      "effectv2": "{\"glitch\": {\"isActive\" : \"true\", \"turnOn\" : \"true\", \"strength\" : 1, \"duration\" : 1}}"
+    },
+    {
+      "id": 1,
+      "characterlist": "단테 : 5",
+      "voice": "D_Click",
+      "effectv2": "{\"glitch\": {\"isActive\":\"true\", \"turnOn\":\"false\", \"duration\":1}}"
+    },
+    {
+      "id": 3,
+      "soundeffect": "SFX_Jean_Crumble_Light",
+      "monologue": true,
+      "effectv2": "{\"glitch\": {\"isActive\" : \"true\", \"turnOn\" : \"true\", \"strength\" : 2, \"duration\" : 3}}"
+    },
+    {
+      "id": 4,
+      "soundeffect": "SFX_Walk_Wood",
+      "monologue": true
+    },
+    {
+      "id": 5,
+      "monologue": true
+    },
+    {
+      "id": 7,
+      "characterlist": "그레고르 : 1, 이상 : 9, 검열된직원 : 5",
+      "feeling": "shork",
+      "soundeffect": "SFX_Jean_Crumble_Light",
+      "effectv2": "{\"glitch\": {\"isActive\":\"true\", \"turnOn\":\"false\", \"duration\":1}}"
+    },
+    {
+      "id": 8,
+      "feeling": "angry",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 9,
+      "soundeffect": "SFX_Noise2",
+      "effectv2": "{\"glitch\": {\"isActive\" : \"true\", \"turnOn\" : \"true\", \"strength\" : 1, \"duration\" : 1}}"
+    },
+    {
+      "id": 10,
+      "feeling": "shock",
+      "effectv2": "{\"glitch\": {\"isActive\":\"true\", \"turnOn\":\"false\", \"duration\":1}}"
+    },
+    {
+      "id": 11,
+      "soundeffect": "SFX_Walk_Wood_2StepOnly",
+      "monologue": true,
+      "effectv2": "{\"glitch\": {\"isActive\" : \"true\", \"turnOn\" : \"true\", \"strength\" : 1, \"duration\" : 1}}"
+    },
+    {
+      "id": 12,
+      "characterlist": "후디히스 : 1",
+      "feeling": "angry",
+      "soundeffect": "SFX_Jean_Crumble_Hard",
+      "effectv2": "{\"glitch\": {\"isActive\":\"true\", \"turnOn\":\"false\", \"duration\":1}}"
+    },
+    {
+      "id": 13,
+      "monologue": true,
+      "effectv2": "{\"glitch\": {\"isActive\" : \"true\", \"turnOn\" : \"true\", \"strength\" : 1, \"duration\" : 1}}"
+    },
+    {
+      "id": 14,
+      "characterlist": "이스마엘 : 9",
+      "feeling": "surprise",
+      "soundeffect": "SFX_Jean_Crumble_Light",
+      "effectv2": "{\"glitch\": {\"isActive\":\"true\", \"turnOn\":\"false\", \"duration\":1}}"
+    },
+    {
+      "id": 15,
+      "monologue": true,
+      "effectv2": "{\"glitch\": {\"isActive\" : \"true\", \"turnOn\" : \"true\", \"strength\" : 1, \"duration\" : 1}}"
+    },
+    {
+      "id": 16,
+      "soundeffect": "SFX_Noise_Ultra"
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "id": 19,
+      "characterlist": "ALL : -1, 단테 : 5",
+      "voice": "D_Normal",
+      "effectv2": "{\"glitch\": {\"isActive\":\"true\", \"turnOn\":\"false\", \"duration\":1}}"
+    }
+  ]
+}

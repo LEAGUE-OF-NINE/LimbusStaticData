@@ -1,0 +1,17 @@
+{
+  "list": [
+    {
+      "extraStageType": "LOB",
+      "useKillCountStageTypeList": [
+        1,
+        2
+      ]
+    },
+    {
+      "extraStageType": "LOR",
+      "useKillCountStageTypeList": [
+        2
+      ]
+    }
+  ]
+}

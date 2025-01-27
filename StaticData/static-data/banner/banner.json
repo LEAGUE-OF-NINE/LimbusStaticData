@@ -1,0 +1,19 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "pos": 1,
+      "sprName": "banner_battlepass_dummy"
+    },
+    {
+      "id": 2,
+      "pos": 2,
+      "sprName": "banner_dummygacha"
+    },
+    {
+      "id": 3,
+      "pos": 2,
+      "sprName": "banner_dummygacha"
+    }
+  ]
+}

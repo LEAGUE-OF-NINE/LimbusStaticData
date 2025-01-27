@@ -1,0 +1,391 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "characterlist": "탐정료슈:2",
+      "feeling": "angry3",
+      "bg": "story_hideout_street_blur",
+      "bgm": "StoryNervous",
+      "soundeffect": "SFX_Cotton_Crumble_SoiftNew"
+    },
+    {
+      "id": 1
+    },
+    {
+      "id": 2,
+      "characterlist": "탐정홍루:4",
+      "feeling": "idle",
+      "soundeffect": "SFX_Run_Stone_B"
+    },
+    {
+      "id": 3,
+      "characterlist": "ALL:-1,단테:5",
+      "effect": "Filter:[IN][ColorDown][Standing{5}]",
+      "voice": "D_Normal"
+    },
+    {
+      "id": 4,
+      "characterlist": "탐정로쟈:5",
+      "feeling": "sad",
+      "effect": "Filter:[OUT][ColorDown][Standing{5}]",
+      "soundeffect": "SFX_Cloth_Rubbed_Move"
+    },
+    {
+      "id": 5,
+      "characterlist": "단테:5",
+      "effect": "Filter:[IN][ColorDown][Standing{5}]",
+      "voice": "D_Tick"
+    },
+    {
+      "id": 6,
+      "characterlist": "탐정로쟈:5",
+      "feeling": "sad",
+      "effect": "Filter:[OUT][ColorDown][Standing{5}]"
+    },
+    {
+      "id": 7,
+      "feeling": "sigh",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 8,
+      "characterlist": "단테:5",
+      "effect": "Filter:[IN][ColorDown][Standing{5}]",
+      "voice": "D_Tok"
+    },
+    {
+      "id": 9,
+      "characterlist": "탐정로쟈:5",
+      "feeling": "smile4",
+      "emotion": "Fun",
+      "effect": "Filter:[OUT][ColorDown][Standing{5}]",
+      "soundeffect": "SFX_Jean_Crumble_Hard"
+    },
+    {
+      "id": 10,
+      "feeling": "smile2",
+      "soundeffect": "SFX_Leather_Crumble_Light"
+    },
+    {
+      "id": 11,
+      "characterlist": "T사대표:8",
+      "feeling": "idle2",
+      "soundeffect": "SFX_ClothNCoin_Crumble"
+    },
+    {
+      "id": 12,
+      "feeling": "smile"
+    },
+    {
+      "id": 13,
+      "feeling": "surprise"
+    },
+    {
+      "id": 14,
+      "feeling": "idle",
+      "soundeffect": "SFX_ClothNCoin_Crumble"
+    },
+    {
+      "id": 15,
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 16,
+      "feeling": "smile2"
+    },
+    {
+      "id": 17,
+      "feeling": "angry2",
+      "soundeffect": "SFX_Stretch_HardGrab"
+    },
+    {
+      "id": 18,
+      "cg": "black:FadeIn",
+      "bgm": "StoryNervous:0",
+      "soundeffect": "SFX_Yisang_Walk, SFX_MetalCrumble, SFX_Spring_1"
+    },
+    {
+      "id": 19,
+      "cg": "black:Off,S605_1_3:FadeIn:[0~0.1]",
+      "bgm": "Take_Off_Your_Veil",
+      "soundeffect": "SFX_Cotton_Crumble_Light"
+    },
+    {
+      "id": 20,
+      "soundeffect": "SFX_Cotton_Crumble_Hard, SFX_Metalarm_SFX_Spring_3"
+    },
+    {
+      "id": 21,
+      "voice": "D_Surprise"
+    },
+    {
+      "id": 22,
+      "feeling": "surprise",
+      "soundeffect": "SFX_Cloth_Crumble"
+    },
+    {
+      "id": 23,
+      "feeling": "smile2"
+    },
+    {
+      "id": 24,
+      "feeling": "surprise",
+      "soundeffect": "SFX_Run_Marble_B"
+    },
+    {
+      "id": 25,
+      "feeling": "smile"
+    },
+    {
+      "id": 26,
+      "characterlist": "ALL:-1,시간살인마:5",
+      "cg": "S605_1_3:FadeOut",
+      "effect": "Filter:[IN][ColorDown][Standing{5}]",
+      "soundeffect": "SFX_Cloth_Rubbed_Move, SFX_MetalCrumble, SFX_Spring_2"
+    },
+    {
+      "id": 27,
+      "characterlist": "탐정로쟈:5",
+      "feeling": "smile2",
+      "effect": "Filter:[OUT][ColorDown][Standing{5}]",
+      "soundeffect": "SFX_Jean_Crumble_Hard, SFX_Metal_Shring:delay=0.4"
+    },
+    {
+      "id": 28,
+      "characterlist": "단테:5",
+      "effect": "Filter:[IN][ColorDown][Standing{5}]",
+      "voice": "D_Normal"
+    },
+    {
+      "id": 29,
+      "characterlist": "시간살인마:5",
+      "soundeffect": "SFX_Leather_Crumble_Hard, SFX_Spring_1"
+    },
+    {
+      "id": 30,
+      "soundeffect": "SFX_Walk_Wood_2StepOnly, SFX_MetalCrumble, SFX_Spring_3"
+    },
+    {
+      "id": 31,
+      "soundeffect": "SFX_Cotton_Crumble_Light, SFX_Walk_Wood_2StepOnly:delay=0.2, SFX_Spring_1"
+    },
+    {
+      "id": 32,
+      "soundeffect": "SFX_Jean_Crumble_Light, SFX_MetalCrumble_SFX_Spring_2"
+    },
+    {
+      "id": 33,
+      "soundeffect": "SFX_Spring_1"
+    },
+    {
+      "id": 34,
+      "soundeffect": "SFX_Cloth_Crumble, SFX_MetalCrumble_SFX_Spring_3"
+    },
+    {
+      "id": 35,
+      "characterlist": "탐정로쟈:5",
+      "feeling": "smile2",
+      "effect": "Filter:[OUT][ColorDown][Standing{5}]",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 36,
+      "characterlist": "시간살인마:5",
+      "effect": "Filter:[IN][ColorDown][Standing{5}]",
+      "soundeffect": "SFX_Leather_Crumble_Hard, SFX_Spring_3, SFX_MetalCrumble"
+    },
+    {
+      "id": 37,
+      "soundeffect": "SFX_Spring_2"
+    },
+    {
+      "id": 38,
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew, SFX_Spring_3, SFX_MetalCrumble"
+    },
+    {
+      "id": 39,
+      "characterlist": "탐정로쟈:5",
+      "feeling": "smile4",
+      "effect": "Filter:[OUT][ColorDown][Standing{5}]"
+    },
+    {
+      "id": 40,
+      "feeling": "smile",
+      "soundeffect": "SFX_Cloth_Crumble_SoftNew"
+    },
+    {
+      "id": 41,
+      "feeling": "smile3",
+      "soundeffect": "SFX_Detective_4"
+    },
+    {
+      "id": 42,
+      "characterlist": "시간살인마:5",
+      "effect": "Filter:[IN][ColorDown][Standing{5}]",
+      "soundeffect": "SFX_Jean_Crumble_Light, SFX_Metalarm"
+    },
+    {
+      "id": 43,
+      "soundeffect": "SFX_Spring_2"
+    },
+    {
+      "id": 44,
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew, SFX_MetalCrumble"
+    },
+    {
+      "id": 45
+    },
+    {
+      "id": 46,
+      "soundeffect": "SFX_Sweat_Crumble_Light, SFX_Metalarm, SFX_Spring_1"
+    },
+    {
+      "id": 47,
+      "characterlist": "탐정로쟈:5",
+      "feeling": "surprise",
+      "effect": "Filter:[OUT][ColorDown][Standing{5}]",
+      "soundeffect": "SFX_Cotton_Crumble_Light"
+    },
+    {
+      "id": 48,
+      "characterlist": "시간살인마:5",
+      "effect": "Filter:[IN][ColorDown][Standing{5}]",
+      "soundeffect": "SFX_Spring_3"
+    },
+    {
+      "id": 49,
+      "soundeffect": "SFX_Jean_Crumble_Light, SFX_Metalarm, SFX_Spring_2"
+    },
+    {
+      "id": 50,
+      "characterlist": "탐정로쟈:5",
+      "feeling": "smile4",
+      "effect": "Filter:[OUT][ColorDown][Standing{5}]",
+      "soundeffect": "SFX_Cloth_Crumble"
+    },
+    {
+      "id": 51,
+      "characterlist": "시간살인마:5",
+      "effect": "Filter:[IN][ColorDown][Standing{5}]",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew, SFX_MetalCrumble, SFX_Spring_1"
+    },
+    {
+      "id": 52,
+      "soundeffect": "SFX_Walk_Wood_2StepOnly, SFX_Metalarm, SFX_Spring_3"
+    },
+    {
+      "id": 53,
+      "soundeffect": "SFX_Spring_2"
+    },
+    {
+      "id": 54,
+      "soundeffect": "SFX_Jean_Crumble_Light, SFX_MetalCrumble, SFX_Spring_3"
+    },
+    {
+      "id": 55
+    },
+    {
+      "id": 56,
+      "characterlist": "탐정로쟈:5",
+      "feeling": "sad",
+      "effect": "Filter:[OUT][ColorDown][Standing{5}]",
+      "soundeffect": "SFX_Stretch_HardGrab"
+    },
+    {
+      "id": 57,
+      "characterlist": "시간살인마:5",
+      "effect": "Filter:[IN][ColorDown][Standing{5}]",
+      "soundeffect": "SFX_Metalarm, SFX_Spring_2, SFX_Cotton_Crumble_Light, SFX_Yisang_Walk:delay=0.5"
+    },
+    {
+      "id": 58
+    },
+    {
+      "id": 59,
+      "characterlist": "시간살인마:-1:mode=FADE_OUT,탐정료슈:9",
+      "feeling": "angry3",
+      "effect": "Filter:[OUT][ColorDown][Standing{5}]",
+      "bgm": "StoryNervous",
+      "soundeffect": "SFX_Run_Stone_B"
+    },
+    {
+      "id": 60,
+      "characterlist": "탐정로쟈:5",
+      "feeling": "sad"
+    },
+    {
+      "id": 61,
+      "characterlist": "탐정료슈:5",
+      "feeling": "angry2",
+      "soundeffect": "SFX_Cloth_Crumble"
+    },
+    {
+      "id": 62,
+      "characterlist": "단테:5",
+      "effect": "Filter:[IN][ColorDown][Standing{5}]",
+      "voice": "D_Click"
+    },
+    {
+      "id": 63,
+      "characterlist": "탐정홍루:2",
+      "feeling": "idle2",
+      "effect": "Filter:[OUT][ColorDown][Standing{2/8}]",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 64,
+      "characterlist": "탐정로쟈:8",
+      "feeling": "sad",
+      "soundeffect": "SFX_Cloth_Crumble"
+    },
+    {
+      "id": 65,
+      "feeling": "sigh",
+      "soundeffect": "SFX_Cloth_Rubbed_Move"
+    },
+    {
+      "id": 66,
+      "characterlist": "ALL:-1"
+    },
+    {
+      "id": 67,
+      "characterlist": "탐정료슈:3",
+      "feeling": "angry3",
+      "soundeffect": "SFX_Jean_Crumble_Light"
+    },
+    {
+      "id": 68,
+      "characterlist": "탐정로쟈:8",
+      "feeling": "idle"
+    },
+    {
+      "id": 69,
+      "feeling": "smile2",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 70
+    },
+    {
+      "id": 71,
+      "soundeffect": "SFX_Cigarette_Fire"
+    },
+    {
+      "id": 72
+    },
+    {
+      "id": 73
+    },
+    {
+      "id": 74,
+      "characterlist": "탐정홍루:3",
+      "feeling": "surprise",
+      "soundeffect": "SFX_Cloth_Crumble"
+    },
+    {
+      "id": 75,
+      "feeling": "sad",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    }
+  ]
+}

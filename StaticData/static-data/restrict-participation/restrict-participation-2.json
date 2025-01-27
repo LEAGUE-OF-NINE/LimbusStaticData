@@ -1,0 +1,13 @@
+{
+  "list": [
+    {
+      "stageType": "EVENT_DAWN_OF_GREEN",
+      "restrictList": [
+        {
+          "id": 10552,
+          "adjustedLevel": 40
+        }
+      ]
+    }
+  ]
+}

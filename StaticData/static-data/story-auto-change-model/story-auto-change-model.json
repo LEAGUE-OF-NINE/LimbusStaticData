@@ -1,0 +1,304 @@
+{
+  "list": [
+    {
+      "includeConditions": {
+        "prefix": "S5"
+      },
+      "changeModel": [
+        {
+          "from": "단테",
+          "to": "단테2"
+        }
+      ]
+    },
+    {
+      "includeConditions": {
+        "prefix": "5D"
+      },
+      "changeModel": [
+        {
+          "from": "단테",
+          "to": "단테2"
+        }
+      ]
+    },
+    {
+      "includeConditions": {
+        "prefix": "E050X"
+      },
+      "changeModel": [
+        {
+          "from": "단테",
+          "to": "단테2"
+        }
+      ]
+    },
+    {
+      "includeConditions": {
+        "prefix": "E5"
+      },
+      "changeModel": [
+        {
+          "from": "단테",
+          "to": "단테2"
+        }
+      ]
+    },
+    {
+      "includeConditions": {
+        "prefix": "E051X"
+      },
+      "changeModel": [
+        {
+          "from": "단테",
+          "to": "단테2"
+        }
+      ]
+    },
+    {
+      "includeConditions": {
+        "prefix": "E052X"
+      },
+      "changeModel": [
+        {
+          "from": "단테",
+          "to": "단테2"
+        }
+      ]
+    },
+    {
+      "includeConditions": {
+        "prefix": "E053X"
+      },
+      "changeModel": [
+        {
+          "from": "단테",
+          "to": "단테2"
+        }
+      ]
+    },
+    {
+      "includeConditions": {
+        "prefix": "E054X"
+      },
+      "changeModel": [
+        {
+          "from": "단테",
+          "to": "단테2"
+        }
+      ]
+    },
+    {
+      "includeConditions": {
+        "prefix": "S6"
+      },
+      "changeModel": [
+        {
+          "from": "단테",
+          "to": "단테2"
+        }
+      ]
+    },
+    {
+      "includeConditions": {
+        "prefix": "E061X"
+      },
+      "changeModel": [
+        {
+          "from": "단테",
+          "to": "단테2"
+        },
+        {
+          "from": "히스클리프",
+          "to": "히스클리프2"
+        }
+      ]
+    },
+    {
+      "includeConditions": {
+        "prefix": "E062X"
+      },
+      "changeModel": [
+        {
+          "from": "단테",
+          "to": "단테2"
+        },
+        {
+          "from": "히스클리프",
+          "to": "히스클리프2"
+        }
+      ]
+    },
+    {
+      "includeConditions": {
+        "prefix": "E6"
+      },
+      "changeModel": [
+        {
+          "from": "단테",
+          "to": "단테2"
+        }
+      ]
+    },
+    {
+      "includeConditions": {
+        "prefix": "E616"
+      },
+      "changeModel": [
+        {
+          "from": "히스클리프",
+          "to": "히스클리프2"
+        }
+      ]
+    },
+    {
+      "includeConditions": {
+        "prefix": "E617"
+      },
+      "changeModel": [
+        {
+          "from": "히스클리프",
+          "to": "히스클리프2"
+        }
+      ]
+    },
+    {
+      "includeConditions": {
+        "prefix": "E618"
+      },
+      "changeModel": [
+        {
+          "from": "히스클리프",
+          "to": "히스클리프2"
+        }
+      ]
+    },
+    {
+      "includeConditions": {
+        "prefix": "E619"
+      },
+      "changeModel": [
+        {
+          "from": "히스클리프",
+          "to": "히스클리프2"
+        }
+      ]
+    },
+    {
+      "includeConditions": {
+        "prefix": "E62"
+      },
+      "changeModel": [
+        {
+          "from": "히스클리프",
+          "to": "히스클리프2"
+        }
+      ]
+    },
+    {
+      "includeConditions": {
+        "prefix": "E064X"
+      },
+      "changeModel": [
+        {
+          "from": "단테",
+          "to": "단테2"
+        },
+        {
+          "from": "히스클리프",
+          "to": "히스클리프2"
+        }
+      ]
+    },
+    {
+      "includeConditions": {
+        "prefix": "E065X"
+      },
+      "changeModel": [
+        {
+          "from": "단테",
+          "to": "단테2"
+        },
+        {
+          "from": "히스클리프",
+          "to": "히스클리프2"
+        }
+      ]
+    },
+    {
+      "includeConditions": {
+        "prefix": "S7"
+      },
+      "changeModel": [
+        {
+          "from": "단테",
+          "to": "단테2"
+        },
+        {
+          "from": "히스클리프",
+          "to": "히스클리프2"
+        }
+      ]
+    },
+    {
+      "includeConditions": {
+        "prefix": "7D"
+      },
+      "changeModel": [
+        {
+          "from": "단테",
+          "to": "단테2"
+        },
+        {
+          "from": "히스클리프",
+          "to": "히스클리프2"
+        }
+      ]
+    },
+    {
+      "includeConditions": {
+        "prefix": "E070X"
+      },
+      "changeModel": [
+        {
+          "from": "단테",
+          "to": "단테3"
+        },
+        {
+          "from": "히스클리프",
+          "to": "히스클리프2"
+        }
+      ]
+    },
+    {
+      "includeConditions": {
+        "prefix": "E071X"
+      },
+      "changeModel": [
+        {
+          "from": "단테",
+          "to": "단테3"
+        },
+        {
+          "from": "히스클리프",
+          "to": "히스클리프2"
+        }
+      ]
+    },
+    {
+      "includeConditions": {
+        "prefix": "E7"
+      },
+      "changeModel": [
+        {
+          "from": "단테",
+          "to": "단테3"
+        },
+        {
+          "from": "히스클리프",
+          "to": "히스클리프2"
+        }
+      ]
+    }
+  ]
+}
