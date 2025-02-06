@@ -1867,21 +1867,15 @@
         },
         {
           "unitId": 8049,
-          "classType": "WAW",
-          "hazardGrade": "05",
-          "codeName": "GU-11-10"
-        },
-        {
-          "unitId": 8144,
-          "classType": "WAW",
+          "classType": "TETH",
           "hazardGrade": "05",
           "codeName": "GU-11-10"
         },
         {
           "unitId": 8618,
-          "classType": "WAW",
-          "hazardGrade": "05",
-          "codeName": "GU-11-10"
+          "classType": "TETH",
+          "hazardGrade": "04",
+          "codeName": "IN-20-12"
         }
         
         

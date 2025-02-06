@@ -1167,6 +1167,111 @@
           "number": 0
         }
       ]
+    },
+    {
+      "id": 10712,
+      "appearance": "10712_Heathclif_KurokumoAppearance",
+      "unitKeywordList": [ "CLAN", "SMALL" ],
+      "unitScriptID": "10712",
+      "associationList": [ "BLACK_CLOUD" ],
+      "characterId": 7,
+      "panicType": 9999,
+      "season": 5,
+      "additionalAttachment": "EVENT",
+      "defenseSkillIDList": [
+        1071204
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 70,
+        "incrementByLevel": 3.19
+      },
+      "defCorrection": 3,
+      "minSpeedList": [
+        2,
+        3,
+        3,
+        3
+      ],
+      "maxSpeedList": [
+        6,
+        6,
+        7,
+        7
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          60,
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1071201,
+          "number": 3
+        },
+        {
+          "skillId": 1071202,
+          "number": 2
+        },
+        {
+          "skillId": 1071203,
+          "number": 1
+        },
+        {
+          "skillId": 1071205,
+          "number": 0
+        }
+      ]
     }
   ]
 }

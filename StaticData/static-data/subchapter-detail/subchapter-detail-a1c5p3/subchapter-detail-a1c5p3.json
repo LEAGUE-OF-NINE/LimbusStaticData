@@ -32,7 +32,10 @@
     {
       "partId": 91,
       "subchapterId": 9107,
-      "bgmTypeByUIPanel": "EVENT_YCGD_MAIN"
+      "bgmTypeByUIPanel": "EVENT_YCGD_MAIN",
+      "subchapterGroupIdList": [
+        "DIFFICULTY_GROUP_YCGD"
+      ]
     }
   ]
 }
