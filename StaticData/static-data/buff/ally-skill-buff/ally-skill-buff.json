@@ -122,7 +122,8 @@
         {
           "ability": "LoseAllStackOnDie"
         }
-      ]
+      ],
+      "categoryKeywordList": [ "DUEL_DECLARATION" ]
     },
     {
       "id": "DuelDeclaration_Outis",
@@ -139,7 +140,8 @@
         {
           "ability": "LoseAllStackOnDie"
         }
-      ]
+      ],
+      "categoryKeywordList": [ "DUEL_DECLARATION" ]
     },
     {
       "id": "DuelDeclaration_Sinclair",
@@ -156,7 +158,8 @@
         {
           "ability": "LoseAllStackOnDie"
         }
-      ]
+      ],
+      "categoryKeywordList": [ "DUEL_DECLARATION" ]
     },
     {
       "id": "Muckworm",
@@ -881,7 +884,8 @@
         {
           "ability": "LoseAllStackOnDie"
         }
-      ]
+      ],
+      "categoryKeywordList": [ "CONCENTRATED_ATTACK" ]
     },
     {
       "id": "Snare",
@@ -1849,6 +1853,115 @@
       "list": [
         {
           "ability": "NebulizerInhale"
+        }
+      ]
+    },
+    {
+      "id": "BlackCloud",
+      "buffClass": "VolatileBuff",
+      "buffType": "Neutral",
+      "destroyableOnDie": true,
+      "maxStack": 1,
+      "list": [
+        {
+          "ability": "BlackCloudAllSkill",
+          "value": 1,
+          "buffData": {
+            "buffKeyword": "Laceration",
+            "target": "Target",
+            "stack": 1,
+            "turn": 1
+          }
+        },
+        {
+          "ability": "BlackCloudOnLoseDuel",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "BlackCloudBlade",
+      "buffClass": "VolatileBuff",
+      "buffType": "Positive",
+      "destroyableOnDie": true,
+      "maxStack": 1,
+      "list": [
+        {
+          "ability": "SkillPowerResultAdderAsStack",
+          "atk": "SLASH",
+          "value": 1
+        },
+        {
+          "ability": "GiveBuffOnSA",
+          "atk": "SLASH",
+          "buffData": {
+            "buffKeyword": "Laceration",
+            "target": "Target",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "EngageToBattle",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": false,
+      "destroyableOnDie": true,
+      "maxStack": 1,
+      "list": [
+        {
+          "ability": "GiveBuffStackAdderIfNotZero",
+          "buffData": {
+            "buffKeyword": "Laceration",
+            "stack": 1
+          }
+        },
+        {
+          "ability": "GiveBuffTurnAdderIfNotZero",
+          "buffData": {
+            "buffKeyword": "Laceration",
+            "turn": 1
+          }
+        },
+        {
+          "ability": "EngageToBattle",
+          "buffData": {
+            "buffKeyword": "SlashResultUp",
+            "target": "Self",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "EngageToBattle",
+          "buffData": {
+            "buffKeyword": "SlashDamageUp",
+            "target": "Self",
+            "stack": 3,
+            "turn": 0,
+            "activeRound": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "CloudWall",
+      "buffClass": "VolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": false,
+      "destroyableOnDie": true,
+      "maxStack": 1,
+      "list": [
+        {
+          "ability": "DefSkillPowerResultAdderAsStack",
+          "value": 1
+        },
+        {
+          "ability": "CloudWall"
         }
       ]
     }

@@ -758,7 +758,8 @@
         ]
       },
       "isBatonPassOn": "TRUE",
-      "stageScriptList": [ "1079_Story" ]
+      "stageScriptList": [ "1079_Story" ],
+      "abstainSupporterCharacterIds": [ 3 ]
     }
     
   ]

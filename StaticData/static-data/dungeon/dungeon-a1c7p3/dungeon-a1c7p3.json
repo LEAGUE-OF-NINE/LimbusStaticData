@@ -28,6 +28,21 @@
           "localizeId": 2
         }
       ]
+    },
+    {
+      "id": 911501,
+      "dungeonType": "STORY_MIRROR_DUNGEON",
+      "staminaModule": 2,
+      "recommendedLevel": 50,
+      "entranceStory": "E518B",
+      "clearStory": "E519A",
+      "illustname": "chapter5.5_2_StoryDungeon",
+      "dungeonSubchapterForUI": "5.5",
+      "questlist": [
+        {
+          "localizeId": 2
+        }
+      ]
     }
   ]
 }

@@ -15,7 +15,8 @@
         {
           "ability": "LoseAllStackOnDie"
         }
-      ]
+      ],
+      "categoryKeywordList": [ "DUEL_DECLARATION" ]
     },
     {
       "id": "RecklessDuel",
@@ -37,7 +38,8 @@
       "maxStack": 3,
       "list": [
         
-      ]
+      ],
+      "categoryKeywordList": [ "CONCENTRATED_ATTACK" ]
     },
     {
       "id": "BloodScissor",

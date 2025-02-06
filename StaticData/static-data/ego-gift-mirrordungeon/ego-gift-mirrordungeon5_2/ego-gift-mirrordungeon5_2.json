@@ -245,7 +245,7 @@
         {
           "upgradeLevel": 0,
           "localizeID": 9176,
-          "abilityIDList": [ 9176, 91761, 91762, 91763 ]
+          "abilityIDList": [ 9176, 91761, 91762, 91763, 91764 ]
         }
       ],
       "tag": [
@@ -380,7 +380,7 @@
       "tag": [
         "TIER_4"
       ],
-      "keyword": "None",
+      "keyword": "Breath",
       "lockType": false,
       "price": 389
     },
@@ -424,7 +424,7 @@
       "tag": [
         "TIER_3"
       ],
-      "keyword": "None",
+      "keyword": "Sinking",
       "lockType": false,
       "price": 249
     },
@@ -468,7 +468,7 @@
       "tag": [
         "TIER_4"
       ],
-      "keyword": "None",
+      "keyword": "Sinking",
       "lockType": false,
       "price": 392
     },
@@ -485,7 +485,7 @@
       "tag": [
         "TIER_3"
       ],
-      "keyword": "None",
+      "keyword": "Laceration",
       "lockType": false,
       "price": 239
     },
@@ -502,7 +502,7 @@
       "tag": [
         "TIER_3"
       ],
-      "keyword": "None",
+      "keyword": "Laceration",
       "lockType": false,
       "price": 248
     },
@@ -541,7 +541,7 @@
       "tag": [
         "TIER_4"
       ],
-      "keyword": "None",
+      "keyword": "Laceration",
       "lockType": false,
       "price": 394
     },
@@ -715,7 +715,7 @@
       "tag": [
         "TIER_4"
       ],
-      "keyword": "None",
+      "keyword": "Combustion",
       "lockType": false,
       "price": 393
     },
@@ -851,7 +851,7 @@
         {
           "upgradeLevel": 0,
           "localizeID": 9196,
-          "abilityIDList": [ 9196, 91961, 91962 ]
+          "abilityIDList": [ 9196, 91961, 91962, 91963 ]
         }
       ],
       "tag": [
@@ -939,7 +939,7 @@
         {
           "upgradeLevel": 0,
           "localizeID": 9200,
-          "abilityIDList": [ 9200, 92001 ]
+          "abilityIDList": [ 9200, 92001, 92002, 92003 ]
         }
       ],
       "tag": [
@@ -1017,7 +1017,7 @@
         {
           "upgradeLevel": 0,
           "localizeID": 9204,
-          "abilityIDList": [ 9204, 92041, 92042 ]
+          "abilityIDList": [ 9204, 92041, 92042, 92043 ]
         }
       ],
       "tag": [

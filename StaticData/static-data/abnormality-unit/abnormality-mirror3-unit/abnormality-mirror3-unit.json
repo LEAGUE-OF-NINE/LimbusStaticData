@@ -2688,6 +2688,7 @@
       "appearance": "8153_KimSatGat_ErodeAppearance",
       "unitKeywordList": [ "CLAN", "REGULAR" ],
       "associationList": [ "BLADE_LINEAGE" ],
+      "unitScriptID": "8153",
       "classType": "ZAYIN",
       "attributeType": "SCARLET",
       "hp": {
@@ -3097,10 +3098,11 @@
       "sdPortrait": 8153,
       "storyID": 8154,
       "appearance": "8153_KimSatGat_ErodeAppearance",
-      "unitKeywordList": [ "CLAN", "REGULAR"  ],
+      "unitKeywordList": [ "CLAN", "REGULAR" ],
       "associationList": [
         "BLADE_LINEAGE"
       ],
+      "unitScriptID": "8153",
       "classType": "ZAYIN",
       "attributeType": "SCARLET",
       "hp": {

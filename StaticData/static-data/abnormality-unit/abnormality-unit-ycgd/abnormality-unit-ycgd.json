@@ -3,10 +3,14 @@
     {
       "id": 8153,
       "appearance": "8153_KimSatGat_ErodeAppearance",
-      "unitKeywordList": [ "CLAN", "REGULAR" ],
+      "unitKeywordList": [
+        "CLAN",
+        "REGULAR"
+      ],
       "associationList": [
         "BLADE_LINEAGE"
       ],
+      "unitScriptID": "8153",
       "classType": "ZAYIN",
       "attributeType": "SCARLET",
       "hp": {
@@ -412,10 +416,14 @@
     {
       "id": 8154,
       "appearance": "8153_KimSatGat_ErodeAppearance",
-      "unitKeywordList": [ "CLAN", "REGULAR" ],
+      "unitKeywordList": [
+        "CLAN",
+        "REGULAR"
+      ],
       "associationList": [
         "BLADE_LINEAGE"
       ],
+      "unitScriptID": "8153",
       "classType": "ZAYIN",
       "attributeType": "SCARLET",
       "hp": {
@@ -920,7 +928,9 @@
       "id": 8151,
       "deadsceneid": 8007,
       "appearance": "8151_Septempeccata_Fire2Appearance",
-      "unitKeywordList": [ "REGULAR" ],
+      "unitKeywordList": [
+        "REGULAR"
+      ],
       "level": 5,
       "classType": "TETH",
       "attributeType": "CRIMSON",
@@ -957,7 +967,9 @@
       "id": 8152,
       "deadsceneid": 8016,
       "appearance": "8152_Septempeccata_Water2Appearance",
-      "unitKeywordList": [ "REGULAR" ],
+      "unitKeywordList": [
+        "REGULAR"
+      ],
       "level": 5,
       "classType": "TETH",
       "attributeType": "AZURE",

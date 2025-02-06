@@ -80,7 +80,8 @@
         "abnormality-part-a1c7p3",
         "abnormality-part91-5-hard",
         "abnormality-part-a1c971",
-        "abnormality-part-a1c971-s"
+        "abnormality-part-a1c971-s",
+        "abnormality-part-a1c9115"
       ]
     },
     {
@@ -115,7 +116,8 @@
         "abnormality-unit-a1c7p3",
         "abnormality-unit91-5-hard",
         "abnormality-unit-a1c971",
-        "abnormality-unit-a1c971-s"
+        "abnormality-unit-a1c971-s",
+        "abnormality-unit-a1c9115"
       ]
     },
     {
@@ -168,7 +170,8 @@
         "buff-enemy-a1c7p2",
         "buff-enemy-a1c7p3",
         "buff-enemy-wp5",
-        "buff-enemy-a1c971"
+        "buff-enemy-a1c971",
+        "buff-enemy-a1c9115"
       ]
     },
     {
@@ -260,7 +263,8 @@
         "ego-gift-story-tkt",
         "ego-gift-story-5-5-1",
         "ego-gift-walpu5",
-        "ego-gift-story-7-5-1"
+        "ego-gift-story-7-5-1",
+        "ego-gift-story-ycgd-BokGak"
       ]
     },
     {
@@ -286,7 +290,8 @@
         "enemy-a1c7p3",
         "enemy-mirrordungeon5",
         "enemy-wp5",
-        "enemy-a1c971"
+        "enemy-a1c971",
+        "enemy-a1c9115"
       ]
     },
     {
@@ -300,10 +305,10 @@
         "gacha-6",
         "gacha-7",
         "gacha-8",
-        "gacha-206",
-        "gacha-207",
         "gacha-208",
-        "gacha-209"
+        "gacha-209",
+        "gacha-210",
+        "gacha-211"
       ]
     },
     {
@@ -476,7 +481,9 @@
         "skill-enemy-wp5",
         "skill-enemy-a1c971",
         "skill-abnormality-a1c971",
-        "skill-abnormality-a1c971-s"
+        "skill-abnormality-a1c971-s",
+        "skill-abnormality-a1c9115",
+        "skill-enemy-a1c9115"
       ]
     },
     {
@@ -507,7 +514,8 @@
         "storybattle-a1c7p3",
         "storybattle-a1c9112",
         "storybattle-wp5",
-        "storybattle-a1c9114"
+        "storybattle-a1c9114",
+        "storybattle-a1c9115"
       ]
     },
     {
@@ -524,7 +532,8 @@
         "dungeonbattle-ycgd",
         "dungeonbattle-tkt",
         "dungeonbattle-a1c7p3",
-        "dungeonbattle-a1c9114"
+        "dungeonbattle-a1c9114",
+        "dungeonbattle-a1c9115"
       ]
     },
     {
@@ -541,7 +550,8 @@
         "abbattle-ycgd",
         "abbattle-tkt",
         "abbattle-a1c7p3",
-        "abbattle-a1c9114"
+        "abbattle-a1c9114",
+        "abbattle-a1c9115"
       ]
     },
     {
@@ -589,7 +599,8 @@
         "stagenodereward-a1c7p3",
         "stagenodereward91-12",
         "stagenodereward91-13",
-        "stagenodereward91-14"
+        "stagenodereward91-14",
+        "stagenodereward91-15"
       ]
     },
     {
@@ -810,7 +821,8 @@
         "announcer-wp3",
         "announcer-wp4",
         "announcer-a1c7p3",
-        "announcer-wp5"
+        "announcer-wp5",
+        "announcer-ycgd-renewal"
       ]
     },
     {
@@ -1099,6 +1111,7 @@
       "fileList": [
         "hells-chicken-dungeon",
         "ycgd-dungeon",
+        "ycgd-dungeon-2",
         "tkt-dungeon"
       ]
     },
@@ -1107,6 +1120,7 @@
       "fileList": [
         "hells-chicken-dungeon-acquire-cost-in-battle",
         "ycgd-dungeon-acquire-cost-in-battle",
+        "ycgd-dungeon-acquire-cost-in-battle-2",
         "tkt-dungeon-acquire-cost-in-battle"
       ]
     },
@@ -1121,6 +1135,7 @@
       "fileList": [
         "hells-chicken-dungeon-egogift-droppool",
         "ycgd-dungeon-egogift-droppool",
+        "ycgd-dungeon-egogift-droppool-2",
         "tkt-dungeon-egogift-droppool"
       ]
     },
@@ -1132,7 +1147,9 @@
         "hells-chicken-dungeon-generatenodepool-event-1-1",
         "hells-chicken-dungeon-generatenodepool-event-1-2",
         "ycgd-dungeon-generatenodepool-1-1",
+        "ycgd-dungeon-generatenodepool-1-2",
         "ycgd-dungeon-generatenodepool-event-1-1",
+        "ycgd-dungeon-generatenodepool-event-1-2",
         "tkt-dungeon-generatenodepool-1-1",
         "tkt-dungeon-generatenodepool-event-1-1"
       ]
@@ -1142,6 +1159,7 @@
       "fileList": [
         "hells-chicken-dungeon-encounterinfos-01",
         "ycgd-dungeon-encounterinfos-01",
+        "ycgd-dungeon-encounterinfos-02",
         "tkt-dungeon-encounterinfos-01"
       ]
     },
@@ -1233,9 +1251,8 @@
       "fileList": [
         "returninguser-event",
         "newuser-event",
-        "miracleofdistrict20-returns-event",
-        "walpu5-event-data",
-        "lcbcheckup-event"
+        "lcbcheckup-event",
+        "ycgd-returns-event"
       ]
     },
     {

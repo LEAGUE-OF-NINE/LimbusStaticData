@@ -292,6 +292,7 @@
     },
     {
       "id": 70181,
+      "sdPortrait": 90181,
       "nameID": 90181,
       "appearance": "90181_Lobotomy_Employees_AAppearance",
       "unitKeywordList": [ "SMALL" ],
@@ -438,6 +439,7 @@
     },
     {
       "id": 70182,
+      "sdPortrait": 90182,
       "nameID": 90182,
       "appearance": "90182_Lobotomy_Employees_BAppearance",
       "unitKeywordList": [ "SMALL" ],
