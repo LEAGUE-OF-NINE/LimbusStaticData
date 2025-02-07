@@ -1,0 +1,53 @@
+{
+  "list": [
+    {
+      "id": "Bullet",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "destroyableOnZero": false,
+      "destroyableOnRetreat": false,
+      "list": [
+
+      ],
+      "categoryKeywordList": [
+        "RESOURCE",
+        "BULLET"
+      ]
+    },
+    {
+      "id": "BulletLament",
+      "buffClass": "CountableBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "destroyableOnZero": false,
+      "destroyableOnZeroTurn": false,
+      "maxStack": 20,
+      "maxTurn": 20,
+      "list": [
+
+      ],
+      "categoryKeywordList": [
+        "RESOURCE",
+        "BULLET"
+      ]
+    },
+    {
+      "id": "Bullet_LogicAtelier",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "destroyableOnZero": false,
+      "destroyableOnRetreat": false,
+      "maxStack": 1,
+      "list": [
+
+      ],
+      "categoryKeywordList": [
+        "RESOURCE",
+        "BULLET",
+        "CAN_GET_ONLY_BY_SYSTEM"
+      ]
+    }
+  ]
+}

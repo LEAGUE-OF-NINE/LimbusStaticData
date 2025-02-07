@@ -1,0 +1,276 @@
+{
+  "list": [
+    {
+      "dungeonId": 2,
+      "maxchip" : 6000,
+      "buffs": [
+        {
+          "id": 1,
+          "iconType": "COST",
+          "required": [],
+          "cost": 100,
+          "localizeId": "mirror_dungeon_buffs_title_1",
+          "effects": [
+            {
+              "type": "ADDITIONAL_COST_START",
+              "value": 50,
+              "isTypoExist": false, "typoName": "mirror_dungeon_buffs_title_1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "iconType": "ATTACK",
+          "required": [ 1 ],
+          "cost": 150,
+          "localizeId": "mirror_dungeon_buffs_title_2",
+          "effects": [
+            {
+              "type": "AttackLevelAdder",
+              "value": 1,
+              "isTypoExist": false, "typoName": "mirror_dungeon_buffs_title_2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "iconType": "ATTACK",
+          "required": [ 2 ],
+          "cost": 200,
+          "localizeId": "mirror_dungeon_buffs_title_3",
+          "effects": [
+            {
+              "type": "AttackDamageMultiply",
+              "value": 4,
+              "isTypoExist": false, "typoName": "mirror_dungeon_buffs_title_3"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "iconType": "ATTACK",
+          "required": [ 3 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_buffs_title_4",
+          "effects": [
+            {
+              "type": "AttackLevelAdder",
+              "value": 2,
+              "isTypoExist": false, "typoName": "mirror_dungeon_buffs_title_4"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "iconType": "ATTACK",
+          "required": [ 4 ],
+          "cost": 400,
+          "localizeId": "mirror_dungeon_buffs_title_5",
+          "effects": [
+            {
+              "type": "AttackDamageMultiply",
+              "value": 8,
+              "isTypoExist": false, "typoName": "mirror_dungeon_buffs_title_5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "iconType": "HEAL_HP",
+          "required": [ 1 ],
+          "cost": 150,
+          "localizeId": "mirror_dungeon_buffs_title_6",
+          "effects": [
+            {
+              "type": "MaxHpMultiply",
+              "value": 5,
+              "isTypoExist": false, "typoName": "mirror_dungeon_buffs_title_6"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "iconType": "HEAL_MP",
+          "required": [ 6 ],
+          "cost": 200,
+          "localizeId": "mirror_dungeon_buffs_title_7",
+          "effects": [
+            {
+              "type": "MP_RECOVER_NUMBER_AFTER_EVENT_ENCOUNTER",
+              "value": 5,
+              "isTypoExist": false, "typoName": "mirror_dungeon_buffs_title_7"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "iconType": "HEAL_HP",
+          "required": [ 7 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_buffs_title_8",
+          "effects": [
+            {
+              "type": "MaxHpMultiply",
+              "value": 10,
+              "isTypoExist": false, "typoName": "mirror_dungeon_buffs_title_8"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "iconType": "HEAL_HP",
+          "required": [ 8 ],
+          "cost": 500,
+          "localizeId": "mirror_dungeon_buffs_title_9",
+          "effects": [
+            {
+              "type": "HP_RECOVER_RATE_AFTER_WIN_BATTLE",
+              "value": 10,
+              "isTypoExist": false, "typoName": "mirror_dungeon_buffs_title_9"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "iconType": "SPECIAL",
+          "required": [ 5, 9 ],
+          "cost": 750,
+          "localizeId": "mirror_dungeon_buffs_title_10",
+          "effects": [
+            {
+              "type": "StickCoinHeadAndTailToMaxPer",
+              "value": 3,
+              "isTypoExist": true, "typoName": "mirror_dungeon_buffs_title_10"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "iconType": "EGO_RESOUCE",
+          "required": [ 1 ],
+          "cost": 150,
+          "localizeId": "mirror_dungeon_buffs_title_11",
+          "effects": [
+            {
+              "type": "EGO_RESOURCE",
+              "value": 1,
+              "isTypoExist": false, "typoName": "mirror_dungeon_buffs_title_11"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "iconType": "COST",
+          "required": [ 11 ],
+          "cost": 200,
+          "localizeId": "mirror_dungeon_buffs_title_12",
+          "effects": [
+            {
+              "type": "ADDITIONAL_COST_START",
+              "value": 50,
+              "isTypoExist": false, "typoName": "mirror_dungeon_buffs_title_12"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "iconType": "COST",
+          "required": [ 12 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_buffs_title_13",
+          "effects": [
+            {
+              "type": "ADDITIONAL_COST_AFTER_WIN_BATTLE",
+              "value": 10,
+              "isTypoExist": false, "typoName": "mirror_dungeon_buffs_title_13"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "iconType": "EGO_RESOUCE",
+          "required": [ 13 ],
+          "cost": 400,
+          "localizeId": "mirror_dungeon_buffs_title_14",
+          "effects": [
+            {
+              "type": "EGO_RESOURCE_FORMATION",
+              "value": 1,
+              "isTypoExist": false, "typoName": "mirror_dungeon_buffs_title_14"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "iconType": "DEFENSE",
+          "required": [ 1 ],
+          "cost": 150,
+          "localizeId": "mirror_dungeon_buffs_title_15",
+          "effects": [
+            {
+              "type": "DefenseLevelAdder",
+              "value": 2,
+              "isTypoExist": false, "typoName": "mirror_dungeon_buffs_title_15"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "iconType": "SPEED",
+          "required": [ 15 ],
+          "cost": 200,
+          "localizeId": "mirror_dungeon_buffs_title_16",
+          "effects": [
+            {
+              "type": "MaxSpeedUpAdder",
+              "value": 1,
+              "isTypoExist": false, "typoName": "mirror_dungeon_buffs_title_16"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "iconType": "SPEED",
+          "required": [ 16 ],
+          "cost": 300,
+          "localizeId": "mirror_dungeon_buffs_title_17",
+          "effects": [
+            {
+              "type": "MaxSpeedUpAdder",
+              "value": 1,
+              "isTypoExist": false, "typoName": "mirror_dungeon_buffs_title_17"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "iconType": "DEFENSE",
+          "required": [ 17 ],
+          "cost": 500,
+          "localizeId": "mirror_dungeon_buffs_title_18",
+          "effects": [
+            {
+              "type": "TakeAttackDamageMultipliedReducer",
+              "value": 10,
+              "isTypoExist": false, "typoName": "mirror_dungeon_buffs_title_18"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "iconType": "SPECIAL",
+          "required": [ 14, 18 ],
+          "cost": 750,
+          "localizeId": "mirror_dungeon_buffs_title_19",
+          "effects": [
+            {
+              "type": "RemoveBreakSection",
+              "value": 0,
+              "isTypoExist": true, "typoName": "mirror_dungeon_buffs_title_19"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

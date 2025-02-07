@@ -1,0 +1,53 @@
+{
+    "list": [
+        {
+            "id": 10702,
+            "stageLevel": 1,
+            "stageType": "Abnormality",
+            "participantInfo": {
+                "min": 6,
+                "max": 6
+            },
+            "waveList": [
+                {
+                    "battleMapInfo": {
+                        "mapName": "Cp7_DonquixoteMansion",
+                        "mapSize": 28.0
+                    },
+                    "unitList": [
+                        {
+                            "unitID": 8379,
+                            "unitCount": 1,
+                            "unitLevel": 39
+                        }
+                    ],
+                    "bgmList": [
+                        "Battle_Cp1_Ally_1",
+                        "Battle_Cp1_Enemy_1"
+                    ],
+                    "enemyPositionID": 16
+                }
+            ],
+            "staminaCost": 8,
+            "recommendedLevel": 1,
+            "turnLimit": 99,
+            "questlist": [
+                {
+                    "args": [
+                        "10"
+                    ],
+                    "localizeId": 1
+                }
+            ],
+            "rewardList": [],
+            "stageScriptList": [
+                "AbnormalityEvent"
+            ],
+            "eventScriptName": "8379",
+            "abnormalityEventList": [
+                837901,
+                837902
+            ]
+        }
+    ]
+}

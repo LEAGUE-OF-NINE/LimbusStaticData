@@ -1,0 +1,344 @@
+{
+  "list": [
+    {
+      "dungeonId": 5,
+      "buffPoint": {
+        "basePoint": 60,
+        "personalityBonusPoint": {
+          "minRankBonus": [
+          ],
+          "maxGacksungBonus" : [
+          ]
+        },
+        "remainPointToCostMultiplier": 5
+      },
+      "buffs": [
+        {
+          "id": 100,
+          "required": [
+            {
+              "type": "NeedsHeldBuffPoints",
+              "value": 10
+            }
+          ],
+          "cost": 10,
+          "localizeId": "mirror_dungeon_5_buffs_title_100",
+          "effects": [
+            {
+              "type": "ADDITIONAL_START_COST",
+              "value": 150,
+              "isTypoExist": false
+            },
+            {
+              "type": "ADDITIONAL_FLOOR_THEME_SLOT",
+              "value": 1,
+              "isTypoExist": false
+            },
+            {
+              "type": "ADDITIONAL_SHOP_EGO_GIFT_SLOT",
+              "value": 1,
+              "isTypoExist": false
+            },
+            {
+              "type": "FREE_SHOP_REFRESH_EGO_GIFT_ONCE",
+              "value": 1,
+              "isTypoExist": false
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "iconSpriteId": "StartBuffIcon_100"
+          }
+        },
+        {
+          "id": 101,
+          "required": [
+            {
+              "type": "NeedsHeldBuffPoints",
+              "value": 10
+            }
+          ],
+          "cost": 10,
+          "localizeId": "mirror_dungeon_5_buffs_title_101",
+          "effects": [
+            {
+              "type": "ADDITIONAL_COST_RATE_ON_CLEAR_FLOOR",
+              "value": 10,
+              "isTypoExist": false
+            },
+            {
+              "type": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_ONCE",
+              "value": 50,
+              "isTypoExist": false
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "iconSpriteId": "StartBuffIcon_101"
+          }
+        },
+        {
+          "id": 102,
+          "required": [
+            {
+              "type": "NeedsHeldBuffPoints",
+              "value": 20
+            }
+          ],
+          "cost": 20,
+          "localizeId": "mirror_dungeon_5_buffs_title_102",
+          "effects": [
+            {
+              "type": "ADDITIONAL_FLOOR_THEME_SLOT",
+              "value": 1,
+              "isTypoExist": false
+            },
+            {
+              "type": "ADDITIONAL_FLOOR_THEME_REFRESH",
+              "value": 2,
+              "isTypoExist": false
+            },
+            {
+              "type": "ADDITIONAL_PERSONALITY_LEVEL_ON_SELECT_NEW_FLOOR_THEME",
+              "value": 3,
+              "isTypoExist": false
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "iconSpriteId": "StartBuffIcon_102"
+          }
+        },
+        {
+          "id": 103,
+          "required": [
+            {
+              "type": "NeedsHeldBuffPoints",
+              "value": 20
+            }
+          ],
+          "cost": 20,
+          "localizeId": "mirror_dungeon_5_buffs_title_103",
+          "effects": [
+            {
+              "type": "ADDITIONAL_START_COST",
+              "value": 400,
+              "isTypoExist": false
+            },
+            {
+              "type": "ADDITIONAL_START_EGO_GIFT_SELECT",
+              "value": 1,
+              "isTypoExist": false
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "iconSpriteId": "StartBuffIcon_103"
+          }
+        },
+        {
+          "id": 104,
+          "required": [
+            {
+              "type": "NeedsHeldBuffPoints",
+              "value": 30
+            }
+          ],
+          "cost": 30,
+          "localizeId": "mirror_dungeon_5_buffs_title_104",
+          "effects": [
+            {
+              "type": "ADDITIONAL_SHOP_EGO_GIFT_SLOT",
+              "value": 1,
+              "isTypoExist": false
+            },
+            {
+              "type": "ADDITIONAL_COST_AFTER_WIN_BATTLE",
+              "value": 20,
+              "isTypoExist": false
+            },
+            {
+              "type": "ADDITIONAL_SHOP_HIGH_TIER_EGO_GIFT_CHANCE",
+              "value": 1,
+              "isTypoExist": false
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "iconSpriteId": "StartBuffIcon_104"
+          }
+        },
+        {
+          "id": 105,
+          "required": [
+            {
+              "type": "NeedsHeldBuffPoints",
+              "value": 30
+            }
+          ],
+          "cost": 30,
+          "localizeId": "mirror_dungeon_5_buffs_title_105",
+          "effects": [
+            {
+              "type": "FREE_SHOP_KEYWORD_REFRESH_EGO_GIFT_ONCE",
+              "value": 1,
+              "isTypoExist": false
+            },
+            {
+              "type": "ACQUIRE_1_TIER_RANDOM_EGO_GIFT_ON_ENTER_1ST_FLOOR",
+              "value": 1,
+              "isTypoExist": false
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "iconSpriteId": "StartBuffIcon_105"
+          }
+        },
+        {
+          "id": 106,
+          "required": [
+            {
+              "type": "NeedsHeldBuffPoints",
+              "value": 40
+            }
+          ],
+          "cost": 40,
+          "localizeId": "mirror_dungeon_5_buffs_title_106",
+          "effects": [
+            {
+              "type": "ADDITIONAL_PERSONALITY_LEVEL_ON_ENTER_1ST_FLOOR",
+              "value": 3,
+              "isTypoExist": false
+            },
+            {
+              "type": "ADDITIONAL_PERSONALITY_LEVEL_ON_CLEAR_FLOOR",
+              "value": 1,
+              "isTypoExist": false
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "iconSpriteId": "StartBuffIcon_106"
+          }
+        },
+        {
+          "id": 107,
+          "required": [
+            {
+              "type": "NeedsHeldBuffPoints",
+              "value": 40
+            }
+          ],
+          "cost": 40,
+          "localizeId": "mirror_dungeon_5_buffs_title_107",
+          "effects": [
+            {
+              "type": "MaxSpeedUpAdder",
+              "value": 2,
+              "isTypoExist": false
+            },
+            {
+              "type": "GiveBuffOnRoundStart",
+              "referenceData": {
+                "buffKeyword": "ParryingResultUp",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              },
+              "isTypoExist": false
+            },
+            {
+              "type": "GiveBuffOnRoundStart",
+              "referenceData": {
+                "buffKeyword": "AttackDmgUp",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              },
+              "isTypoExist": false
+            },
+            {
+              "type": "GiveBuffOnRoundStart",
+              "referenceData": {
+                "buffKeyword": "Protection",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              },
+              "isTypoExist": false
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "iconSpriteId": "StartBuffIcon_107"
+          }
+        },
+        {
+          "id": 108,
+          "required": [
+            {
+              "type": "NeedsHeldBuffPoints",
+              "value": 50
+            }
+          ],
+          "cost": 50,
+          "localizeId": "mirror_dungeon_5_buffs_title_108",
+          "effects": [
+            {
+              "type": "ACQUIRE_3_TIER_RANDOM_MATERIAL_EGO_GIFT_ON_ENTER_SHOP",
+              "value": 1,
+              "isTypoExist": false
+            },
+            {
+              "type": "ACQUIRE_3_TIER_RANDOM_EGO_GIFT_ON_ENTER_3RD_FLOOR",
+              "value": 1,
+              "isTypoExist": false
+            },
+            {
+              "type": "ACQUIRE_LOWER_TIER_RANDOM_EGO_GIFT_ON_COMBINE",
+              "value": 1,
+              "isTypoExist": false
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "iconSpriteId": "StartBuffIcon_108"
+          }
+        },
+        {
+          "id": 109,
+          "required": [
+            {
+              "type": "NeedsHeldBuffPoints",
+              "value": 60
+            }
+          ],
+          "cost": 60,
+          "localizeId": "mirror_dungeon_5_buffs_title_109",
+          "effects": [
+            {
+              "type": "ADDITIONAL_FLOOR_THEME_SLOT",
+              "value": 1,
+              "isTypoExist": false
+            },
+            {
+              "type": "ADDITIONAL_START_EGO_GIFT_SELECT",
+              "value": 1,
+              "isTypoExist": false
+            },
+            {
+              "type": "ACQUIRE_3_TIER_RANDOM_KEYWORD_EGO_GIFT_ON_ENTER_1ST_FLOOR",
+              "value": 1,
+              "isTypoExist": false
+            }
+          ],
+          "nodeType": "Main",
+          "uiConfig": {
+            "iconSpriteId": "StartBuffIcon_109"
+          }
+        }
+      ]
+    }
+  ]
+}

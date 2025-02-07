@@ -1,0 +1,154 @@
+{
+  "list": [
+    {
+      "id": 910901,
+      "requireEnkephalinModule": 2,
+      "isHardMode": false,
+      "hasStartEgoGift": false,
+      "useMapGenSequence":true,
+      "startCost": 0,
+      "gradeList": [ 5 ],
+      "levelList": [ 45 ],
+      "floors": [
+        {
+          "count": 0,
+          "roomCount": 3,
+          "sectorCount": 9,
+          "hardBattlePercentage": 0.05,
+          "abnormalityBattlePercentage": 0.10,
+          "eventNodePercentage": 0.25,
+          "fixedEncounters":[
+            {"targetSector":1, "e":3, "eid":10516},
+            {"targetSector":2, "e":10, "eid":0},
+            {"targetSector":-3, "e":10, "eid":0},
+            {"targetSector":-2, "e":11, "eid":0}
+          ]
+        }
+      ],
+      "startSelectCount": 5,
+      "globalBattlePercentage": 0.5,
+      "globalEventPercentage": 1,
+      "globalBossPercentage": 0.5,
+      "specialBattleAppearedFloor": 1,
+      "openCondition": {
+        "chapterCleared": {
+          "mainChapterId": 91,
+          "subChapterId": 9107,
+          "nodeId": 910712,
+          "unlockCode": 9107
+        },
+        "dungeonCleared": {
+          "isConditionExist": false
+        }
+      },
+      "restingEvent": {
+        "heal": [
+          {
+            "index": 0,
+            "price": 100,
+            "isForAll": false,
+            "isHealHpPercentage": true,
+            "healHpAmount": 0.5,
+            "isHealMpPercentage": false,
+            "healMpAmount": 45
+          },
+          {
+            "index": 1,
+            "price": 100,
+            "isForAll": true,
+            "isHealHpPercentage": true,
+            "healHpAmount": 0.2,
+            "isHealMpPercentage": false,
+            "healMpAmount": 15
+          }
+        ],
+        "changeFormation": {
+          "price": 100,
+          "changeableCount": 3
+        },
+        "egoGiftUpgrade": {
+          "isActive": true
+        },
+        "egoGiftComposite": {
+          "isActive": true
+        }
+      },
+      "shop": {
+        "heal": [
+          {
+            "index": 0,
+            "price": 100,
+            "isForAll": false,
+            "isHealHpPercentage": true,
+            "healHpAmount": 0.5,
+            "isHealMpPercentage": false,
+            "healMpAmount": 45
+          },
+          {
+            "index": 1,
+            "price": 100,
+            "isForAll": true,
+            "isHealHpPercentage": true,
+            "healHpAmount": 0.2,
+            "isHealMpPercentage": false,
+            "healMpAmount": 15
+          }
+        ],
+        "upgradePersonality": [
+          {
+            "index": 0,
+            "fromSkill": 0,
+            "toSkill": 1,
+            "price": 75
+          },
+          {
+            "index": 1,
+            "fromSkill": 1,
+            "toSkill": 2,
+            "price": 125
+          },
+          {
+            "index": 2,
+            "fromSkill": 0,
+            "toSkill": 2,
+            "price": 200
+          }
+        ],
+        "changeFormation": {
+          "price": 100,
+          "changeableCount": 3
+        },
+        "egoGiftSell": {
+          "isActive": true
+        },
+        "refreshShop": {
+          "isActive": true,
+          "shopKeywordRefreshCostAdder": 125
+        }
+      },
+      "mapGenSequence":[
+        {
+          "type": "CREATE_EMPTY_STORYMIRRORDUNGEON",
+          "numberList": [
+            7,
+            3,
+            1
+          ],
+          "numberValue":910901
+        },
+        {
+          "type": "FILL_MAP_BY_STORYMIRRORDUNGEON",
+          "numberValue": 910901
+        },
+        {
+          "type": "SET_MIN_SECTOR_OF_START_EVENT_NODE",
+          "numberList": [ 2, 3 ]
+        }
+      ],
+      "uiConfig": {
+        "floorBackgroundXPos": 1,
+        "maskImageWidth": 100
+      }
+    }
+  ]
+}

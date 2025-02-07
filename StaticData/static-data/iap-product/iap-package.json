@@ -1,0 +1,726 @@
+{
+  "list": [
+    {
+      "id": 101,
+      "category": "PACKAGE",
+      "returnpolicytype": "PACKAGE_C",
+      "productId": "extraction_package_monthly_1",
+      "priceTier": 10,
+      "chanceId": 1101,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 1,
+          "num": 650
+        },
+        {
+          "type": "ITEM",
+          "id": 102,
+          "num": 1
+        }
+      ],
+      "priorityForUI": 89
+    },
+    {
+      "id": 102,
+      "category": "PACKAGE",
+      "returnpolicytype": "GROWTH_A",
+      "productId": "growth_package_monthly_1",
+      "priceTier": 31,
+      "chanceId": 1102,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 1,
+          "num": 1690
+        },
+        {
+          "type": "ITEM",
+          "id": 102,
+          "num": 2
+        },
+        {
+          "type": "ITEM",
+          "id": 222,
+          "num": 1
+        },
+        {
+          "type": "ITEM",
+          "id": 221,
+          "num": 2
+        },
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 10
+        },
+        {
+          "type": "ITEM",
+          "id": 212,
+          "num": 30
+        }
+      ],
+      "priorityForUI": 99
+    },
+    {
+      "id": 103,
+      "category": "PACKAGE",
+      "returnpolicytype": "GROWTH_A",
+      "productId": "growth_package_monthly_2",
+      "priceTier": 31,
+      "chanceId": 1103,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 1,
+          "num": 1690
+        },
+        {
+          "type": "ITEM",
+          "id": 102,
+          "num": 2
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 120
+        }
+      ],
+      "priorityForUI": 98
+    },
+    {
+      "id": 104,
+      "category": "PACKAGE",
+      "returnpolicytype": "GROWTH_A",
+      "productId": "exp_package_monthly_1",
+      "isDisabled": true,
+      "priceTier": 19,
+      "chanceId": 1104,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 224,
+          "num": 2
+        },
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 20
+        },
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 20
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "category": "PACKAGE",
+      "returnpolicytype": "GROWTH_A",
+      "productId": "thread_package_monthly_1",
+      "isDisabled": true,
+      "priceTier": 19,
+      "chanceId": 1105,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 300
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "category": "PACKAGE",
+      "returnpolicytype": "PACKAGE_C",
+      "productId": "start_package_assured_extraction_1",
+      "priceTier": 22,
+      "chanceId": 1111,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 103,
+          "num": 1
+        },
+        {
+          "type": "ITEM",
+          "id": 102,
+          "num": 1
+        }
+      ],
+      "priorityForUI": 999
+    },
+    {
+      "id": 121,
+      "category": "PACKAGE",
+      "productId": "settlement_package_season_1st",
+      "isDisabled": true,
+      "priceTier": 52,
+      "chanceId": 1121,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 1,
+          "num": 5040
+        },
+        {
+          "type": "ITEM",
+          "id": 102,
+          "num": 3
+        },
+        {
+          "type": "ITEM",
+          "id": 223,
+          "num": 1
+        },
+        {
+          "type": "ITEM",
+          "id": 212,
+          "num": 40
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 80
+        },
+        {
+          "type": "ITEM",
+          "id": 1201,
+          "num": 40
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "category": "PACKAGE",
+      "productId": "settlement_package_season_2nd",
+      "isDisabled": true,
+      "priceTier": 54,
+      "chanceId": 1122,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 1,
+          "num": 5040
+        },
+        {
+          "type": "ITEM",
+          "id": 102,
+          "num": 3
+        },
+        {
+          "type": "ITEM",
+          "id": 223,
+          "num": 1
+        },
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 30
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 80
+        },
+        {
+          "type": "ITEM",
+          "id": 1202,
+          "num": 40
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "category": "PACKAGE",
+      "returnpolicytype": "PACKAGE_B",
+      "productId": "settlement_package_season_3rd",
+      "isDisabled": true,
+      "priceTier": 54,
+      "chanceId": 1123,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 1,
+          "num": 5040
+        },
+        {
+          "type": "ITEM",
+          "id": 102,
+          "num": 3
+        },
+        {
+          "type": "ITEM",
+          "id": 223,
+          "num": 1
+        },
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 30
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 80
+        },
+        {
+          "type": "ITEM",
+          "id": 1203,
+          "num": 40
+        }
+      ],
+      "priorityForUI": 998
+    },
+    {
+      "id": 124,
+      "category": "PACKAGE",
+      "returnpolicytype": "PACKAGE_B",
+      "productId": "start_package_season_4th",
+      "priceTier": 11,
+      "chanceId": 1124,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 1,
+          "num": 1300
+        }
+      ],
+      "priorityForUI": 998
+    },
+    {
+      "id": 125,
+      "category": "PACKAGE",
+      "returnpolicytype": "PACKAGE_B",
+      "productId": "settlement_package_season_4th",
+      "priceTier": 54,
+      "chanceId": 1125,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 1,
+          "num": 5040
+        },
+        {
+          "type": "ITEM",
+          "id": 102,
+          "num": 3
+        },
+        {
+          "type": "ITEM",
+          "id": 223,
+          "num": 1
+        },
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 30
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 80
+        },
+        {
+          "type": "ITEM",
+          "id": 1204,
+          "num": 40
+        }
+      ],
+      "priorityForUI": 997
+    },
+    {
+      "id": 131,
+      "category": "PACKAGE",
+      "returnpolicytype": "PACKAGE_C",
+      "productId": "extraction_package_weekly_1",
+      "priceTier": 7,
+      "chanceId": 1131,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 1,
+          "num": 273
+        },
+        {
+          "type": "ITEM",
+          "id": 101,
+          "num": 5
+        }
+      ],
+      "priorityForUI": 9
+    },
+    {
+      "id": 133,
+      "category": "PACKAGE",
+      "productId": "thread_package_weekly_1",
+      "isDisabled": true,
+      "priceTier": 7,
+      "chanceId": 1133,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 75
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "category": "PACKAGE",
+      "returnpolicytype": "PACKAGE_C",
+      "productId": "enkephalin_package_weekly_1",
+      "priceTier": 7,
+      "chanceId": 1134,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 301,
+          "num": 20
+        }
+      ],
+      "priorityForUI": 7
+    },
+    {
+      "id": 135,
+      "category": "PACKAGE",
+      "returnpolicytype": "GROWTH_A",
+      "productId": "exp_package_weekly_1",
+      "isDisabled": true,
+      "priceTier": 7,
+      "chanceId": 1135,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 223,
+          "num": 1
+        },
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 12
+        },
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 20
+        }
+      ],
+      "additionalStickerId": 135,
+      "priorityForUI": 6
+    },
+    {
+      "id": 136,
+      "category": "PACKAGE",
+      "returnpolicytype": "GROWTH_A",
+      "productId": "thread_package_weekly_1_adjust",
+      "priceTier": 7,
+      "chanceId": 1136,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 100
+        }
+      ],
+      "priorityForUI": 5
+    },
+    {
+      "id": 141,
+      "category": "PACKAGE",
+      "returnpolicytype": "PACKAGE_C",
+      "productId": "extraction_ticket_package_monthly_1st",
+      "priceTier": 19,
+      "chanceId": 1141,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 102,
+          "num": 3
+        }
+      ],
+      "priorityForUI": 88
+    },
+    {
+      "id": 142,
+      "category": "PACKAGE",
+      "returnpolicytype": "PACKAGE_C",
+      "productId": "extraction_ticket_package_monthly_2nd",
+      "priceTier": 33,
+      "chanceId": 1142,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 102,
+          "num": 5
+        }
+      ],
+      "priorityForUI": 87
+    },
+    {
+      "id": 143,
+      "category": "PACKAGE",
+      "returnpolicytype": "PACKAGE_C",
+      "productId": "extraction_ticket_package_weekly_1st",
+      "priceTier": 7,
+      "chanceId": 1143,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 101,
+          "num": 10
+        }
+      ],
+      "priorityForUI": 8
+    },
+    {
+      "id": 144,
+      "category": "PACKAGE",
+      "returnpolicytype": "GROWTH_A",
+      "productId": "exp_package_monthly_1st",
+      "isDisabled": true,
+      "priceTier": 19,
+      "chanceId": 1144,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 224,
+          "num": 2
+        },
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 20
+        },
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 20
+        }
+      ],
+      "additionalStickerId": 144,
+      "priorityForUI": 79
+    },
+    {
+      "id": 145,
+      "category": "PACKAGE",
+      "returnpolicytype": "GROWTH_A",
+      "productId": "exp_package_monthly_2nd",
+      "isDisabled": true,
+      "priceTier": 33,
+      "chanceId": 1145,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 224,
+          "num": 4
+        },
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 20
+        },
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 20
+        }
+      ],
+      "additionalStickerId": 145,
+      "priorityForUI": 78
+    },
+    {
+      "id": 146,
+      "category": "PACKAGE",
+      "returnpolicytype": "GROWTH_A",
+      "productId": "exp_package_monthly_3rd",
+      "isDisabled": true,
+      "priceTier": 53,
+      "chanceId": 1146,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 224,
+          "num": 8
+        },
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 40
+        },
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 40
+        }
+      ],
+      "additionalStickerId": 146,
+      "priorityForUI": 77
+    },
+    {
+      "id": 147,
+      "category": "PACKAGE",
+      "returnpolicytype": "GROWTH_A",
+      "productId": "thread_package_monthly_1st",
+      "priceTier": 19,
+      "chanceId": 1147,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 300
+        }
+      ],
+      "priorityForUI": 69
+    },
+    {
+      "id": 148,
+      "category": "PACKAGE",
+      "returnpolicytype": "GROWTH_A",
+      "productId": "thread_package_monthly_2nd",
+      "priceTier": 33,
+      "chanceId": 1148,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 500
+        }
+      ],
+      "priorityForUI": 68
+    },
+    {
+      "id": 149,
+      "category": "PACKAGE",
+      "returnpolicytype": "GROWTH_A",
+      "productId": "thread_package_monthly_3rd",
+      "priceTier": 53,
+      "chanceId": 1149,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 1000
+        }
+      ],
+      "priorityForUI": 67
+    },
+    {
+      "id": 150,
+      "category": "PACKAGE",
+      "returnpolicytype": "GROWTH_A",
+      "productId": "exp_package_weekly_1_fixed_240613",
+      "priceTier": 7,
+      "chanceId": 1150,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 25
+        },
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 18
+        }
+      ],
+      "priorityForUI": 6
+    },
+    {
+      "id": 151,
+      "category": "PACKAGE",
+      "returnpolicytype": "GROWTH_A",
+      "productId": "exp_package_monthly_1st_fixed_240613",
+      "priceTier": 19,
+      "chanceId": 1151,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 72
+        },
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 48
+        }
+      ],
+      "priorityForUI": 79
+    },
+    {
+      "id": 152,
+      "category": "PACKAGE",
+      "returnpolicytype": "GROWTH_A",
+      "productId": "exp_package_monthly_2nd_fixed_240613",
+      "priceTier": 33,
+      "chanceId": 1152,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 125
+        },
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 72
+        }
+      ],
+      "priorityForUI": 78
+    },
+    {
+      "id": 153,
+      "category": "PACKAGE",
+      "returnpolicytype": "GROWTH_A",
+      "productId": "exp_package_monthly_3rd_fixed_240613",
+      "priceTier": 53,
+      "chanceId": 1153,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 250
+        },
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 144
+        }
+      ],
+      "priorityForUI": 77
+    },
+    
+    
+    
+    {
+      "id": 401,
+      "category": "PACKAGE",
+      "returnpolicytype": "PACKAGE_C",
+      "productId": "special_pack_for_return_user_1st",
+      "priceTier": 7,
+      "chanceId": 1401,
+      "unlockCondition": {
+        "unlockCode": 90002
+      },
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 101,
+          "num": 5
+        },
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 45
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 100
+        }
+      ],
+      "priorityForUI": 100
+    }
+  ]
+}

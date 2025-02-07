@@ -1,0 +1,45 @@
+{
+  "subchapterDetailList": [
+    {
+      "partId": 1,
+      "subchapterId": 104,
+      "stageGroups": [
+        {
+          "lastNodeIndex": 26
+        },
+        {
+          "lastNodeIndex": 47,
+          "openDate": "2023-06-08T03:00:00.000Z",
+          "lockedNodePosX": 21647,
+          "lockedNodePosY": 401
+        },
+        {
+          "lastNodeIndex": 53,
+          "openDate": "2023-06-15T03:00:00.000Z",
+          "lockedNodePosX": 28193,
+          "lockedNodePosY": 7554
+        }
+      ]
+    },
+    {
+      "partId": 91,
+      "subchapterId": 9103,
+      "bgmTypeByUIPanel": "HELL_CHICKEN",
+      "stageGroups": [
+        {
+          "lastNodeIndex": 0
+        }
+      ]
+    },
+    {
+      "partId": 91,
+      "subchapterId": 9104,
+      "bgmTypeByUIPanel": "EVENT_UMIDA_MAIN",
+      "stageGroups": [
+        {
+          "lastNodeIndex": 0
+        }
+      ]
+    }
+  ]
+}

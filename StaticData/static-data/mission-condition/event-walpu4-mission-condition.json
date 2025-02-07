@@ -1,0 +1,344 @@
+{
+  "list": [
+    {
+      "id": 10026,
+      "type": "CLEAR",
+      "valueType": "ACCUMULATED",
+      "targetList1": [
+        10558
+      ],
+      "targetList2": [],
+      "targetList3": []
+    },
+    {
+      "id": 10027,
+      "type": "CLEAR_WITHIN_TURN",
+      "valueType": "ACCUMULATED",
+      "targetList1": [
+        10558
+      ],
+      "targetList2": [
+        8
+      ],
+      "targetList3": []
+    },
+    {
+      "id": 10028,
+      "type": "ENEMY_KILLED_BY_PLAYER_WITH_BUFF",
+      "valueType": "PEAK",
+      "targetList1": [
+        10558
+      ],
+      "targetList2": [
+        8363,
+        8364,
+        8365
+      ],
+      "targetList3": [
+        579
+      ]
+    },
+    {
+      "id": 10029,
+      "type": "ENEMY_SKILL_NOTUSED",
+      "valueType": "ACCUMULATED",
+      "targetList1": [
+        10558
+      ],
+      "targetList2": [
+        0
+      ],
+      "targetList3": [
+        836305
+      ]
+    },
+    {
+      "id": 10030,
+      "type": "ENEMY_DAMAGED_COUNT_BY_NEGATIVE_SINBUFF",
+      "valueType": "PEAK",
+      "targetList1": [
+        10558
+      ],
+      "targetList2": [
+        0
+      ],
+      "targetList3": []
+    },
+    {
+      "id": 10031,
+      "type": "CLEAR_ALIVE_ALL",
+      "valueType": "ACCUMULATED",
+      "targetList1": [
+        10558
+      ],
+      "targetList2": [
+        0
+      ],
+      "targetList3": [
+        0
+      ]
+    },
+    {
+      "id": 10032,
+      "type": "CLEAR_EQUANNIMITY_ALL",
+      "valueType": "ACCUMULATED",
+      "targetList1": [
+        10558
+      ],
+      "targetList2": [
+        0
+      ],
+      "targetList3": [
+        0
+      ]
+    },
+    {
+      "id": 10033,
+      "type": "ENEMY_KILLED_BY_ONE_SKILL_HP_RATIO_80",
+      "valueType": "PEAK",
+      "targetList1": [
+        10558
+      ],
+      "targetList2": [
+        8363,
+        8364,
+        8365
+      ],
+      "targetList3": []
+    },
+    {
+      "id": 10034,
+      "type": "TL_DAMAGE_ATTACK_SKILL",
+      "valueType": "ACCUMULATED",
+      "targetList1": [
+        10558
+      ],
+      "targetList2": [
+        10
+      ],
+      "targetList3": [
+        1
+      ]
+    },
+    {
+      "id": 10036,
+      "type": "ENEMY_MULTIKILLED_ONE_TURN",
+      "valueType": "PEAK",
+      "targetList1": [
+        10558
+      ],
+      "targetList2": [
+        8363,
+        8364,
+        8365
+      ],
+      "targetList3": []
+    },
+    {
+      "id": 20026,
+      "type": "CLEAR",
+      "valueType": "ACCUMULATED",
+      "targetList1": [
+        10559
+      ],
+      "targetList2": [],
+      "targetList3": []
+    },
+    {
+      "id": 20027,
+      "type": "CLEAR_WITHIN_TURN",
+      "valueType": "ACCUMULATED",
+      "targetList1": [
+        10559
+      ],
+      "targetList2": [
+        13
+      ],
+      "targetList3": []
+    },
+    {
+      "id": 20028,
+      "type": "ENEMY_KILLED_BY_PLAYER_WITH_BUFF",
+      "valueType": "PEAK",
+      "targetList1": [
+        10559
+      ],
+      "targetList2": [
+        8363,
+        8364,
+        8365
+      ],
+      "targetList3": [
+        579
+      ]
+    },
+    {
+      "id": 20029,
+      "type": "ENEMY_SKILL_NOTUSED",
+      "valueType": "ACCUMULATED",
+      "targetList1": [
+        10559
+      ],
+      "targetList2": [
+        0
+      ],
+      "targetList3": [
+        836305
+      ]
+    },
+    {
+      "id": 20030,
+      "type": "ENEMY_DAMAGED_COUNT_BY_NEGATIVE_SINBUFF",
+      "valueType": "PEAK",
+      "targetList1": [
+        10559
+      ],
+      "targetList2": [
+        0
+      ],
+      "targetList3": []
+    },
+    {
+      "id": 20031,
+      "type": "CLEAR_ALIVE_ALL",
+      "valueType": "ACCUMULATED",
+      "targetList1": [
+        10559
+      ],
+      "targetList2": [
+        0
+      ],
+      "targetList3": [
+        0
+      ]
+    },
+    {
+      "id": 20032,
+      "type": "CLEAR_EQUANNIMITY_ALL",
+      "valueType": "ACCUMULATED",
+      "targetList1": [
+        10559
+      ],
+      "targetList2": [
+        0
+      ],
+      "targetList3": [
+        0
+      ]
+    },
+    {
+      "id": 20033,
+      "type": "ENEMY_KILLED_BY_ONE_SKILL_HP_RATIO_80",
+      "valueType": "PEAK",
+      "targetList1": [
+        10559
+      ],
+      "targetList2": [
+        8363,
+        8364,
+        8365,
+        8366
+      ],
+      "targetList3": []
+    },
+    {
+      "id": 20034,
+      "type": "TL_DAMAGE_ATTACK_SKILL",
+      "valueType": "ACCUMULATED",
+      "targetList1": [
+        10559
+      ],
+      "targetList2": [
+        5
+      ],
+      "targetList3": [
+        1
+      ]
+    },
+    {
+      "id": 20035,
+      "type": "ENEMY_NEGATIVE_BUFFED_ONE_TURN",
+      "valueType": "PEAK",
+      "targetList1": [
+        10559
+      ],
+      "targetList2": [
+        0
+      ],
+      "targetList3": []
+    },
+    {
+      "id": 20036,
+      "type": "ENEMY_MULTIKILLED_ONE_TURN",
+      "valueType": "PEAK",
+      "targetList1": [
+        10559
+      ],
+      "targetList2": [
+        8363,
+        8364,
+        8365
+      ],
+      "targetList3": []
+    },
+    {
+      "id": 20037,
+      "type": "ENEMY_KILLED_ALL",
+      "valueType": "ACCUMULATED",
+      "targetList1": [
+        10559
+      ],
+      "targetList2": [
+        836602,
+        836603
+      ],
+      "targetList3": []
+    },
+    {
+      "id": 20038,
+      "type": "ENEMY_KILLED_BY_PLAYER_WITH_BUFF",
+      "valueType": "ACCUMULATED",
+      "targetList1": [
+        10559
+      ],
+      "targetList2": [
+        8366
+      ],
+      "targetList3": [
+        579
+      ]
+    },
+    {
+      "id": 30003,
+      "type": "MISSION_ALL_CLEAR",
+      "valueType": "ACCUMULATED",
+      "targetList1": [
+        10026,
+        10027,
+        10028,
+        10029,
+        10030,
+        10031,
+        10032,
+        10033,
+        10034,
+        10036,
+        20026,
+        20027,
+        20028,
+        20029,
+        20030,
+        20031,
+        20032,
+        20033,
+        20034,
+        20035,
+        20036,
+        20037,
+        20038
+      ],
+      "targetList2": [],
+      "targetList3": []
+    }
+  ]
+}

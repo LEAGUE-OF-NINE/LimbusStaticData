@@ -1,0 +1,41 @@
+{
+  "list": [
+    {
+      "subChapterId": 107,
+      "stageMapPosZ": 0,
+      "stageNodeZoomAnimationPivotX": 0.31,
+      "upperStageNodeZoomAnimationPivotY": 0.55,
+      "lowerStageNodeZoomAnimationPivotY": 0.4,
+      "zoomInScale": 1.7,
+      "stageIconSlotScale": 0.55,
+      "selectedIconScale": 1.05,
+      "isUseEffectPositionData": true,
+      "effectPosition": {
+        "positionX": 2000,
+        "positionY": 2028
+      },
+      "boundarySetting": {
+        "yAxisBoundaryList": [
+          {
+            "range": {
+              "from": 0,
+              "to": 3
+            },
+            "min": -11000,
+            "max": -7000
+          }
+        ],
+        "xAxisBoundaryList": [
+          {
+            "range": {
+              "from": 0,
+              "to": 2
+            },
+            "min": -22000,
+            "max": -8113
+          }
+        ]
+      }
+    }
+  ]
+}

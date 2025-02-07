@@ -1,0 +1,208 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "characterlist": "후디히스:5",
+      "feeling": "smile",
+      "emotion": "Fun",
+      "bg": "story_LCE research facility",
+      "bgm": "Examiner",
+      "soundeffect": "SFX_Walk_Iron"
+    },
+    {
+      "id": 1,
+      "characterlist": "ALL:-1,이스마엘:3,료슈:7",
+      "feeling": "surprise",
+      "soundeffect": "SFX_Jean_Crumble_Light"
+    },
+    {
+      "id": 2,
+      "feeling": "idle",
+      "soundeffect": "SFX_Cigarette_Fire"
+    },
+    {
+      "id": 3,
+      "feeling": "surprise",
+      "soundeffect": "SFX_Leather_Crumble_Light"
+    },
+    {
+      "id": 4,
+      "characterlist": "싱클레어:9",
+      "feeling": "angry",
+      "soundeffect": "SFX_Walk_Wood_2StepOnly"
+    },
+    {
+      "id": 5,
+      "feeling": "sigh",
+      "emotion": "Serious",
+      "soundeffect": "SFX_Jean_Crumble_Hard"
+    },
+    {
+      "id": 6,
+      "feeling": "angry3",
+      "soundeffect": "SFX_Cloth_Crumble"
+    },
+    {
+      "id": 7,
+      "soundeffect": "SFX_Cigarette_Fire"
+    },
+    {
+      "id": 8,
+      "characterlist": "단테:5",
+      "voice": "D_Click"
+    },
+    {
+      "id": 9,
+      "feeling": "smile",
+      "soundeffect": "SFX_Jean_Crumble_Light"
+    },
+    {
+      "id": 10,
+      "characterlist": "ALL:-1,돈키호테:3",
+      "feeling": "nervous",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 11,
+      "characterlist": "ALL:-1,후디히스:5",
+      "feeling": "shork",
+      "soundeffect": "SFX_Leather_Crumble_Light"
+    },
+    {
+      "id": 12,
+      "characterlist": "호엔하임:8",
+      "feeling": "angry",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 13,
+      "feeling": "angry3",
+      "soundeffect": "SFX_Walk_Iron_Once"
+    },
+    {
+      "id": 14,
+      "characterlist": "료슈:2",
+      "feeling": "angry3",
+      "soundeffect": "SFX_Walk_Iron"
+    },
+    {
+      "id": 15,
+      "characterlist": "후디히스:-1,이스마엘:8,료슈:2",
+      "feeling": "idle",
+      "soundeffect": "SFX_Walk_Wood"
+    },
+    {
+      "id": 16,
+      "feeling": "angry",
+      "soundeffect": "SFX_Jean_Crumble_Light"
+    },
+    {
+      "id": 17,
+      "feeling": "angry3",
+      "soundeffect": "SFX_Cigarette_Fire"
+    },
+    {
+      "id": 18,
+      "feeling": "idle",
+      "soundeffect": "SFX_Zippo_Open"
+    },
+    {
+      "id": 19,
+      "characterlist": "ALL:-1,후디히스:5",
+      "feeling": "angry2",
+      "effect": "CustomCamShake:[20][8][0.7]",
+      "soundeffect": "SFX_Table_Hit"
+    },
+    {
+      "id": 20,
+      "characterlist": "호엔하임:5",
+      "feeling": "idle2",
+      "soundeffect": "siren_smaller"
+    },
+    {
+      "id": 21
+    },
+    {
+      "id": 22,
+      "feeling": "idle",
+      "soundeffect": "SFX_Jean_Crumble_Light"
+    },
+    {
+      "id": 23,
+      "characterlist": "파우스트:2",
+      "feeling": "idle4",
+      "soundeffect": "SFX_Cloth_Rubbed_Move"
+    },
+    {
+      "id": 24,
+      "characterlist": "이스마엘:8",
+      "feeling": "idle",
+      "soundeffect": "SFX_Leather_Crumble_Light"
+    },
+    {
+      "id": 25,
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 26,
+      "soundeffect": "SFX_Jean_Crumble_Light"
+    },
+    {
+      "id": 27,
+      "feeling": "glasses",
+      "effect": "CustomCamShake:[10][2][0.5]",
+      "soundeffect": "siren_smaller, SFX_Glasses_Dalkak"
+    },
+    {
+      "id": 28,
+      "characterlist": "ALL:-1,단테:5",
+      "voice": "D_Normal"
+    },
+    {
+      "id": 29,
+      "characterlist": "호엔하임:5",
+      "feeling": "idle2",
+      "soundeffect": "SFX_Paper_Multi_2"
+    },
+    {
+      "id": 30,
+      "feeling": "idle",
+      "soundeffect": "SFX_Leather_Crumble_Light"
+    },
+    {
+      "id": 31,
+      "characterlist": "이상:3",
+      "feeling": "idle3",
+      "soundeffect": "SFX_Cloth_Crumble"
+    },
+    {
+      "id": 32,
+      "feeling": "smile",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 33,
+      "characterlist": "후디히스:8",
+      "feeling": "idle3",
+      "soundeffect": "SFX_Cloth_Crumble"
+    },
+    {
+      "id": 34,
+      "characterlist": "ALL:-1,이스마엘:8,료슈:2",
+      "feeling": "smile2",
+      "soundeffect": "SFX_Jean_Crumble_Light"
+    },
+    {
+      "id": 35,
+      "feeling": "smile",
+      "soundeffect": "SFX_Cigarette_Fire"
+    },
+    {
+      "id": 36,
+      "characterlist": "ALL:-1,후디히스:5",
+      "feeling": "serious",
+      "effect": "Shake:standing:strength=5:vibrato=20:randomness=50:standingIndexes=[5]",
+      "soundeffect": "SFX_Stretch_HardGrab, SFX_Walk_Stone, SFX_Walk_Iron:delay=0.2"
+    }
+  ]
+}

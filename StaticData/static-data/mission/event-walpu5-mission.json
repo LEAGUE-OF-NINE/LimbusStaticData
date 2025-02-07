@@ -1,0 +1,496 @@
+{
+  "list": [
+    {
+      "id": 10037,
+      "category": "EVENT_WALPU5_NORMAL",
+      "startDate": "2025-01-09T01:00:00.000Z",
+      "startDateForUI": "2025-01-09T01:00:00.000Z",
+      "endDate": "2025-01-23T01:00:00.000Z",
+      "requiredCondition": {
+        "id": 10037,
+        "value": 10
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 101,
+          "num": 2
+        }
+      ]
+    },
+    {
+      "id": 10038,
+      "category": "EVENT_WALPU5_NORMAL",
+      "startDate": "2025-01-09T01:00:00.000Z",
+      "endDate": "2025-01-23T01:00:00.000Z",
+      "requiredCondition": {
+        "id": 10038,
+        "value": 18
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 14
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 15
+        }
+      ]
+    },
+    {
+      "id": 10039,
+      "category": "EVENT_WALPU5_NORMAL",
+      "startDate": "2025-01-09T01:00:00.000Z",
+      "endDate": "2025-01-23T01:00:00.000Z",
+      "requiredCondition": {
+        "id": 10039,
+        "value": 30
+      },
+      "rewards": [
+        {
+          "type": "USERBANNER",
+          "id": 48,
+          "num": 1
+        }
+      ]
+    },
+    {
+      "id": 10040,
+      "category": "EVENT_WALPU5_NORMAL",
+      "startDate": "2025-01-09T01:00:00.000Z",
+      "endDate": "2025-01-23T01:00:00.000Z",
+      "requiredCondition": {
+        "id": 10040,
+        "value": 2
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 14
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 15
+        }
+      ]
+    },
+    {
+      "id": 10041,
+      "category": "EVENT_WALPU5_NORMAL",
+      "startDate": "2025-01-09T01:00:00.000Z",
+      "endDate": "2025-01-23T01:00:00.000Z",
+      "requiredCondition": {
+        "id": 10041,
+        "value": 1
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 14
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 15
+        }
+      ]
+    },
+    {
+      "id": 10042,
+      "category": "EVENT_WALPU5_NORMAL",
+      "startDate": "2025-01-09T01:00:00.000Z",
+      "endDate": "2025-01-23T01:00:00.000Z",
+      "requiredCondition": {
+        "id": 10042,
+        "value": 1
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 101,
+          "num": 2
+        }
+      ]
+    },
+    {
+      "id": 10043,
+      "category": "EVENT_WALPU5_NORMAL",
+      "startDate": "2025-01-09T01:00:00.000Z",
+      "endDate": "2025-01-23T01:00:00.000Z",
+      "requiredCondition": {
+        "id": 10043,
+        "value": 8
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 101,
+          "num": 2
+        }
+      ]
+    },
+    {
+      "id": 10044,
+      "category": "EVENT_WALPU5_NORMAL",
+      "startDate": "2025-01-09T01:00:00.000Z",
+      "endDate": "2025-01-23T01:00:00.000Z",
+      "requiredCondition": {
+        "id": 10044,
+        "value": 1
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 6
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 20
+        }
+      ]
+    },
+    {
+      "id": 10045,
+      "category": "EVENT_WALPU5_NORMAL",
+      "startDate": "2025-01-09T01:00:00.000Z",
+      "endDate": "2025-01-23T01:00:00.000Z",
+      "requiredCondition": {
+        "id": 10045,
+        "value": 1
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 6
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 20
+        }
+      ]
+    },
+    {
+      "id": 10046,
+      "category": "EVENT_WALPU5_NORMAL",
+      "startDate": "2025-01-09T01:00:00.000Z",
+      "endDate": "2025-01-23T01:00:00.000Z",
+      "requiredCondition": {
+        "id": 10046,
+        "value": 1
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 6
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 20
+        }
+      ]
+    },
+    {
+      "id": 20039,
+      "category": "EVENT_WALPU5_HARD",
+      "startDate": "2025-01-09T01:00:00.000Z",
+      "endDate": "2025-01-23T01:00:00.000Z",
+      "requiredCondition": {
+        "id": 20039,
+        "value": 30
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 101,
+          "num": 3
+        }
+      ]
+    },
+    {
+      "id": 20040,
+      "category": "EVENT_WALPU5_HARD",
+      "startDate": "2025-01-09T01:00:00.000Z",
+      "endDate": "2025-01-23T01:00:00.000Z",
+      "requiredCondition": {
+        "id": 20040,
+        "value": 53
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 6
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 35
+        }
+      ]
+    },
+    {
+      "id": 20041,
+      "category": "EVENT_WALPU5_HARD",
+      "startDate": "2025-01-09T01:00:00.000Z",
+      "endDate": "2025-01-23T01:00:00.000Z",
+      "requiredCondition": {
+        "id": 20041,
+        "value": 77
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 2,
+          "num": 500
+        }
+      ]
+    },
+    {
+      "id": 20042,
+      "category": "EVENT_WALPU5_HARD",
+      "startDate": "2025-01-09T01:00:00.000Z",
+      "endDate": "2025-01-23T01:00:00.000Z",
+      "requiredCondition": {
+        "id": 20042,
+        "value": 8
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 6
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 35
+        }
+      ]
+    },
+    {
+      "id": 20043,
+      "category": "EVENT_WALPU5_HARD",
+      "startDate": "2025-01-09T01:00:00.000Z",
+      "endDate": "2025-01-23T01:00:00.000Z",
+      "requiredCondition": {
+        "id": 20043,
+        "value": 1
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 6
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 35
+        }
+      ]
+    },
+    {
+      "id": 20044,
+      "category": "EVENT_WALPU5_HARD",
+      "startDate": "2025-01-09T01:00:00.000Z",
+      "endDate": "2025-01-23T01:00:00.000Z",
+      "requiredCondition": {
+        "id": 20044,
+        "value": 1
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 101,
+          "num": 3
+        }
+      ]
+    },
+    {
+      "id": 20045,
+      "category": "EVENT_WALPU5_HARD",
+      "startDate": "2025-01-09T01:00:00.000Z",
+      "endDate": "2025-01-23T01:00:00.000Z",
+      "requiredCondition": {
+        "id": 20045,
+        "value": 1
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 6
+        },
+        {
+          "type": "ITEM",
+          "id": 1105,
+          "num": 5
+        }
+      ]
+    },
+    {
+      "id": 20046,
+      "category": "EVENT_WALPU5_HARD",
+      "startDate": "2025-01-09T01:00:00.000Z",
+      "endDate": "2025-01-23T01:00:00.000Z",
+      "requiredCondition": {
+        "id": 20046,
+        "value": 15
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 101,
+          "num": 4
+        }
+      ]
+    },
+    {
+      "id": 20047,
+      "category": "EVENT_WALPU5_HARD",
+      "startDate": "2025-01-09T01:00:00.000Z",
+      "endDate": "2025-01-23T01:00:00.000Z",
+      "requiredCondition": {
+        "id": 20047,
+        "value": 30
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 4
+        },
+        {
+          "type": "ITEM",
+          "id": 1105,
+          "num": 5
+        }
+      ]
+    },
+    {
+      "id": 20048,
+      "category": "EVENT_WALPU5_HARD",
+      "startDate": "2025-01-09T01:00:00.000Z",
+      "endDate": "2025-01-23T01:00:00.000Z",
+      "requiredCondition": {
+        "id": 20048,
+        "value": 1
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 6
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 35
+        }
+      ]
+    },
+    {
+      "id": 20049,
+      "category": "EVENT_WALPU5_HARD",
+      "startDate": "2025-01-09T01:00:00.000Z",
+      "endDate": "2025-01-23T01:00:00.000Z",
+      "requiredCondition": {
+        "id": 20049,
+        "value": 1
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 4
+        },
+        {
+          "type": "ITEM",
+          "id": 1205,
+          "num": 5
+        }
+      ]
+    },
+    {
+      "id": 20050,
+      "category": "EVENT_WALPU5_HARD",
+      "startDate": "2025-01-09T01:00:00.000Z",
+      "endDate": "2025-01-23T01:00:00.000Z",
+      "requiredCondition": {
+        "id": 20050,
+        "value": 1
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 4
+        },
+        {
+          "type": "ITEM",
+          "id": 1205,
+          "num": 5
+        }
+      ]
+    },
+    {
+      "id": 20051,
+      "category": "EVENT_WALPU5_HARD",
+      "startDate": "2025-01-09T01:00:00.000Z",
+      "endDate": "2025-01-23T01:00:00.000Z",
+      "requiredCondition": {
+        "id": 20051,
+        "value": 1
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 4
+        },
+        {
+          "type": "ITEM",
+          "id": 1205,
+          "num": 5
+        }
+      ]
+    },
+    {
+      "id": 30004,
+      "category": "EVENT_WALPU5_COMMON",
+      "requiredCondition": {
+        "id": 30004,
+        "value": 23
+      },
+      "rewards": [
+        {
+          "type": "USER_TICKET_DECO_LEFT",
+          "id": 41,
+          "num": 1
+        },
+        {
+          "type": "USER_TICKET_DECO_RIGHT",
+          "id": 41,
+          "num": 1
+        },
+        {
+          "type": "USER_TICKET_DECO_EGOBG",
+          "id": 41,
+          "num": 1
+        }
+      ]
+    }
+  ]
+}

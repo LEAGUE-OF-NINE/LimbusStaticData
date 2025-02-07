@@ -1,0 +1,196 @@
+{
+  "list": [
+    {
+      "id": 103001001,
+      "type": "STAGE_CLEAR",
+      "valueType": "ACCUMULATED",
+      "targetList1": [ 102, 9101 ],
+      "targetList1Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "value" ]
+      }
+    },
+
+
+
+    {
+      "id": 103002001,
+      "type": "EXP_DUNGEON_CLEAR",
+      "valueType": "ACCUMULATED",
+      "uiConfig": {
+        "textTags": [ "value" ]
+      }
+    },
+
+
+
+    {
+      "id": 103003001,
+      "type": "THREAD_DUNGEON_CLEAR",
+      "valueType": "ACCUMULATED",
+      "uiConfig": {
+        "textTags": [ "value" ]
+      }
+    },
+
+
+
+    {
+      "id": 103004001,
+      "type": "MIRROR_DUNGEON_CLEAR_NODE",
+      "valueType": "ACCUMULATED",
+      "uiConfig": {
+        "textTags": [ "value" ]
+      }
+    },
+    {
+      "id": 103004002,
+      "type": "MIRROR_DUNGEON_CLEAR",
+      "valueType": "ACCUMULATED",
+      "targetList2": [ 1 ],
+      "targetList2Op": "GREATER_THAN_OR_EQUAL",
+      "targetList3": [ 1727312400000 ],
+      "targetList3Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "targetList2" ]
+      }
+    },
+    {
+      "id": 103004003,
+      "type": "MIRROR_DUNGEON_CLEAR",
+      "valueType": "ACCUMULATED",
+      "targetList2": [ 3 ],
+      "targetList2Op": "GREATER_THAN_OR_EQUAL",
+      "targetList3": [ 1727312400000 ],
+      "targetList3Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "targetList2" ]
+      }
+    },
+    {
+      "id": 103004004,
+      "type": "MIRROR_DUNGEON_CLEAR",
+      "valueType": "ACCUMULATED",
+      "targetList1": [ 0 ],
+      "targetList1Op": "GREATER_THAN_OR_EQUAL",
+      "targetList3": [ 1727312400000 ],
+      "targetList3Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "value" ]
+      }
+    },
+
+
+    {
+      "id": 103005001,
+      "type": "PERSONALITY_LEVEL_UP",
+      "valueType": "ACCUMULATED",
+      "targetList2": [ 40 ],
+      "targetList2Op": "GREATER_THAN_OR_EQUAL",
+      "targetList3": [ 40 ],
+      "targetList3Op": "LESS_THAN",
+      "uiConfig": {
+        "textTags": [ "value", "targetList2" ]
+      }
+    },
+    {
+      "id": 103005002,
+      "type": "PERSONALITY_GACKSUNG",
+      "valueType": "ACCUMULATED",
+      "targetList2": [ 3 ],
+      "targetList2Op": "GREATER_THAN_OR_EQUAL",
+      "targetList3": [ 3 ],
+      "targetList3Op": "LESS_THAN",
+      "uiConfig": {
+        "textTags": [ "value", "targetList2" ]
+      }
+    },
+    {
+      "id": 103005003,
+      "type": "PERSONALITY_GACKSUNG",
+      "valueType": "ACCUMULATED",
+      "targetList2": [ 4 ],
+      "targetList2Op": "GREATER_THAN_OR_EQUAL",
+      "targetList3": [ 4 ],
+      "targetList3Op": "LESS_THAN",
+      "uiConfig": {
+        "textTags": [ "value", "targetList2" ]
+      }
+    },
+    {
+      "id": 103005004,
+      "type": "EGO_GACKSUNG",
+      "valueType": "ACCUMULATED",
+      "targetList1": [20101, 20201, 20301, 20401, 20501, 20601, 20701, 20801, 20901, 21001, 21101, 21201],
+      "targetList1Op": "NOT_EQUAL",
+      "targetList2": [ 3 ],
+      "targetList2Op": "GREATER_THAN_OR_EQUAL",
+      "targetList3": [ 3 ],
+      "targetList3Op": "LESS_THAN",
+      "uiConfig": {
+        "textTags": [ "value", "targetList2" ]
+      }
+    },
+
+
+
+    {
+      "id": 103006001,
+      "type": "BATTLE_PASS_MISSION_CLEAR",
+      "valueType": "ACCUMULATED",
+      "targetList1": [ 0 ],
+      "uiConfig": {
+        "textTags": [ "value" ]
+      }
+    },
+    {
+      "id": 103006002,
+      "type": "BATTLE_PASS_MISSION_CLEAR",
+      "valueType": "ACCUMULATED",
+      "targetList1": [ 1 ],
+      "uiConfig": {
+        "textTags": [ "value" ]
+      }
+    },
+
+
+
+    {
+      "id": 103009001,
+      "type": "MISSION_ALL_CLEAR",
+      "valueType": "ACCUMULATED",
+      "targetList1": [
+        103001001,
+        103001002,
+        103001003,
+        103001004,
+        103001005,
+        103002001,
+        103002002,
+        103002003,
+        103002004,
+        103002005,
+        103003001,
+        103003002,
+        103003003,
+        103003004,
+        103003005,
+        103004001,
+        103004002,
+        103004003,
+        103004004,
+        103004005,
+        103005001,
+        103005002,
+        103005003,
+        103005004,
+        103005005,
+        103006001,
+        103006002,
+        103006003,
+        103006004,
+        103006005
+      ]
+    }
+  ]
+}

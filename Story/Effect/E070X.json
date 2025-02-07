@@ -1,0 +1,495 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "characterlist": "파우스트 : 7, 단테 : 3",
+      "feeling": "idle2",
+      "bg": "story_private_room",
+      "bgm": "BusInside",
+      "soundeffect": "SFX_Cloth_Rubbed_Move"
+    },
+    {
+      "id": 1,
+      "voice": "D_Normal"
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3,
+      "characterlist": "ALL:-1"
+    },
+    {
+      "id": 4,
+      "characterlist": "파우스트 : 7, 단테 : 3",
+      "voice": "D_Click"
+    },
+    {
+      "id": 5,
+      "feeling": "idle",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 6,
+      "feeling": "smile",
+      "soundeffect": "SFX_Cloth_Rubbed_Move"
+    },
+    {
+      "id": 7,
+      "voice": "D_Tick"
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10,
+      "feeling": "idle2",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 11,
+      "soundeffect": "SFX_Paper_Multi_2"
+    },
+    {
+      "id": 12,
+      "emotion": "Fun",
+      "voice": "D_Normal"
+    },
+    {
+      "id": 13,
+      "feeling": "idle4",
+      "soundeffect": "SFX_Cloth_Crumble"
+    },
+    {
+      "id": 14,
+      "voice": "D_FastTickTok"
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16,
+      "feeling": "close",
+      "soundeffect": "SFX_Cloth_Rubbed_Move"
+    },
+    {
+      "id": 17,
+      "feeling": "smile",
+      "soundeffect": "SFX_Paper_Multi_3"
+    },
+    {
+      "id": 18,
+      "emotion": "Sweat",
+      "voice": "D_Tok"
+    },
+    {
+      "id": 19,
+      "voice": "D_Normal"
+    },
+    {
+      "id": 20,
+      "soundeffect": "SFX_Cloth_Rubbed_Move"
+    },
+    {
+      "id": 21,
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 22,
+      "feeling": "surprise",
+      "bgm": "BusInside:0",
+      "soundeffect": "siren_smaller:loop, SFX_Bus_Alarm"
+    },
+    {
+      "id": 23
+    },
+    {
+      "id": 24,
+      "emotion": "Question",
+      "bgm": "BusInside:100",
+      "voice": "D_Normal"
+    },
+    {
+      "id": 25,
+      "feeling": "close",
+      "soundeffect": "SFX_Chair_Hard"
+    },
+    {
+      "id": 26,
+      "emotion": "Fun",
+      "voice": "D_Click"
+    },
+    {
+      "id": 27,
+      "characterlist": "파우스트 : -1 :mode=FADE_OUT",
+      "feeling": "idle",
+      "bgm": "BusInside:70",
+      "soundeffect": "SFX_Wood_Door_Open, SFX_Run_Wood_B:delay=0.6"
+    },
+    {
+      "id": 28,
+      "cg": "black:FadeIn",
+      "bgm": "BusInside:35"
+    },
+    {
+      "id": 29,
+      "characterlist": "ALL:-1",
+      "cg": "BlackScreen:FadeIn",
+      "bgm": "BusInside:0",
+      "soundeffect": "siren_smaller:end"
+    },
+    {
+      "id": 30,
+      "characterlist": "로쟈 : 7",
+      "feeling": "smile4",
+      "bg": "E071X_Cog_Corridor",
+      "cg": "BlackScreen:FadeOut,black:FadeOut",
+      "bgm": "BackStreet",
+      "soundeffect": "SFX_Walk_Stone"
+    },
+    {
+      "id": 31,
+      "characterlist": "그레고르 : 5",
+      "feeling": "idle",
+      "soundeffect": "SFX_Jean_Crumble_Light"
+    },
+    {
+      "id": 32,
+      "characterlist": "이스마엘 : 3",
+      "feeling": "smile",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 33,
+      "characterlist": "단테 : 1",
+      "voice": "D_Normal"
+    },
+    {
+      "id": 34,
+      "feeling": "surprise",
+      "soundeffect": "SFX_Leather_Crumble_Light"
+    },
+    {
+      "id": 35,
+      "characterlist": "ALL : -1, 단테 : 5",
+      "voice": "D_Click"
+    },
+    {
+      "id": 36,
+      "voice": "D_Normal"
+    },
+    {
+      "id": 37,
+      "characterlist": "파우스트 : 3",
+      "feeling": "close",
+      "soundeffect": "SFX_Cloth_Rubbed_Move"
+    },
+    {
+      "id": 38,
+      "characterlist": "히스클리프 : 1",
+      "feeling": "idle3",
+      "soundeffect": "SFX_Hair_Care_2"
+    },
+    {
+      "id": 39,
+      "characterlist": "오티스 : 2",
+      "feeling": "angry2",
+      "soundeffect": "SFX_Sweat_Crumble_Light"
+    },
+    {
+      "id": 40,
+      "characterlist": "오티스 : -1",
+      "feeling": "close",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 41,
+      "feeling": "idle2",
+      "soundeffect": "SFX_Cloth_Crumble"
+    },
+    {
+      "id": 42,
+      "feeling": "surprise",
+      "emotion": "Question",
+      "soundeffect": "SFX_Jean_Crumble_Light"
+    },
+    {
+      "id": 43,
+      "characterlist": "오티스 : 7",
+      "feeling": "idle",
+      "bgm": "BackStreet:50",
+      "soundeffect": "SFX_Leather_Crumble_Hard"
+    },
+    {
+      "id": 44,
+      "bgm": "BackStreet:25",
+      "soundeffect": "SFX_Walk_Drag"
+    },
+    {
+      "id": 45,
+      "characterlist": "ALL : -1",
+      "bgm": "BackStreet:0"
+    },
+    {
+      "id": 46,
+      "characterlist": "파우스트 : 3 : mode=FADE_IN",
+      "feeling": "close",
+      "bgm": "LOR_StoryNervous",
+      "soundeffect": "SFX_Cloth_Rubbed_Move"
+    },
+    {
+      "id": 47,
+      "characterlist": "싱클레어 :1",
+      "feeling": "surprise",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 48,
+      "characterlist": "로쟈 : 2",
+      "feeling": "surprise",
+      "soundeffect": "SFX_Leather_Crumble_Light"
+    },
+    {
+      "id": 49,
+      "feeling": "idle",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 50,
+      "characterlist": "ALL : -1, 파우스트 : 5"
+    },
+    {
+      "id": 51,
+      "feeling": "idle4",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 52,
+      "feeling": "idle2"
+    },
+    {
+      "id": 53,
+      "feeling": "close",
+      "soundeffect": "SFX_Cloth_Rubbed_Move"
+    },
+    {
+      "id": 54
+    },
+    {
+      "id": 55,
+      "characterlist": "로쟈 : 3",
+      "feeling": "smile",
+      "soundeffect": "SFX_Jean_Crumble_Light"
+    },
+    {
+      "id": 56,
+      "feeling": "idle",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 57,
+      "feeling": "idle4",
+      "soundeffect": "SFX_Cloth_Rubbed_Move"
+    },
+    {
+      "id": 58,
+      "feeling": "shock 3",
+      "soundeffect": "SFX_Leather_Crumble_Hard"
+    },
+    {
+      "id": 59,
+      "feeling": "sigh",
+      "emotion": "Serious"
+    },
+    {
+      "id": 60
+    },
+    {
+      "id": 61,
+      "characterlist": "히스클리프 : 3",
+      "feeling": "idle",
+      "soundeffect": "SFX_Leather_Crumble_Light"
+    },
+    {
+      "id": 62,
+      "feeling": "smile",
+      "soundeffect": "SFX_Stretch_HardGrab"
+    },
+    {
+      "id": 63,
+      "feeling": "idle",
+      "soundeffect": "SFX_Cloth_Rubbed_Move"
+    },
+    {
+      "id": 64,
+      "feeling": "close"
+    },
+    {
+      "id": 65,
+      "feeling": "idle2",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 66,
+      "characterlist": "이상 : 7",
+      "feeling": "shock2",
+      "emotion": "Exclame",
+      "soundeffect": "SFX_Jean_Crumble_Light"
+    },
+    {
+      "id": 67
+    },
+    {
+      "id": 68,
+      "feeling": "surprise",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 69,
+      "characterlist": "히스클리프 : -1:mode=FADE_OUT",
+      "feeling": "close"
+    },
+    {
+      "id": 70,
+      "feeling": "idle3",
+      "soundeffect": "SFX_Cloth_Crumble"
+    },
+    {
+      "id": 71,
+      "feeling": "close",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 72,
+      "characterlist": "돈키호테 : 3",
+      "feeling": "surprise",
+      "soundeffect": "SFX_Leather_Crumble_Light"
+    },
+    {
+      "id": 73,
+      "feeling": "smile",
+      "soundeffect": "SFX_Cloth_Rubbed_Move"
+    },
+    {
+      "id": 74,
+      "characterlist": "싱클레어 :7, 오티스 : 9",
+      "feeling": "sad4",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 75,
+      "feeling": "angry",
+      "emotion": "Angry",
+      "soundeffect": "SFX_Walk_Wood_2StepOnly"
+    },
+    {
+      "id": 76,
+      "feeling": "surprise",
+      "soundeffect": "SFX_Leather_Crumble_Hard"
+    },
+    {
+      "id": 77,
+      "feeling": "idle2",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 78,
+      "feeling": "angry",
+      "soundeffect": "SFX_Cloth_Crumble"
+    },
+    {
+      "id": 79,
+      "characterlist": "ALL : -1",
+      "effect": "CustomCamShake:[10][2][0.5]",
+      "soundeffect": "SFX_Transcevier_Open"
+    },
+    {
+      "id": 80
+    },
+    {
+      "id": 81,
+      "characterlist": "이스마엘 : 4",
+      "feeling": "surprise",
+      "soundeffect": "SFX_Leather_Crumble_Hard"
+    },
+    {
+      "id": 82,
+      "characterlist": "그레고르 : 2",
+      "feeling": "surprise",
+      "soundeffect": "SFX_Small_Metal_Click"
+    },
+    {
+      "id": 83
+    },
+    {
+      "id": 84,
+      "characterlist": "ALL : -1",
+      "effect": "CustomCamShake:[10][2][0.5]",
+      "soundeffect": "SFX_Transcevier_Open"
+    },
+    {
+      "id": 85
+    },
+    {
+      "id": 86,
+      "soundeffect": "SFX_Cloth_Crumble_Filtered"
+    },
+    {
+      "id": 87,
+      "characterlist": "파우스트 : 5",
+      "feeling": "smile",
+      "soundeffect": "SFX_Cloth_Rubbed_Move"
+    },
+    {
+      "id": 88,
+      "soundeffect": "SFX_Transcevier_Open"
+    },
+    {
+      "id": 89,
+      "soundeffect": "SFX_Cotton_Crumble_Light_Filtered"
+    },
+    {
+      "id": 90
+    },
+    {
+      "id": 91,
+      "characterlist": "오티스 : 1",
+      "feeling": "angry3",
+      "soundeffect": "SFX_Jean_Crumble_Light"
+    },
+    {
+      "id": 92,
+      "soundeffect": "SFX_Transcevier_Open"
+    },
+    {
+      "id": 93
+    },
+    {
+      "id": 94,
+      "feeling": "serious",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 95,
+      "soundeffect": "SFX_Transcevier_Open"
+    },
+    {
+      "id": 96,
+      "characterlist": "뫼르소 : 5",
+      "soundeffect": "SFX_ClothNCoin_Crumble"
+    },
+    {
+      "id": 97,
+      "characterlist": "단테 : 3",
+      "voice": "D_Tick"
+    },
+    {
+      "id": 98,
+      "characterlist": "ALL : -1",
+      "soundeffect": "SFX_Run_For_Attack"
+    }
+  ]
+}
