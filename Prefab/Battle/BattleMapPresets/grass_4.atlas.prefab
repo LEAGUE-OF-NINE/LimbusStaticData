@@ -1,0 +1,6 @@
+grass_4.png
+size:2000,525
+filter:Linear,Linear
+pma:true
+tex/floor_grass04
+bounds:0,0,2000,525

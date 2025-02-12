@@ -1,0 +1,14 @@
+josephine_outis.png
+size:631,131
+filter:Linear,Linear
+pma:true
+scale:0.207
+body
+bounds:2,2,127,334
+rotate:90
+head
+bounds:507,2,127,122
+rotate:90
+sugun
+bounds:338,27,102,167
+rotate:90

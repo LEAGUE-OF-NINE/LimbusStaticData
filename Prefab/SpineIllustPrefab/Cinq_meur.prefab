@@ -1,0 +1,154 @@
+{
+  "skeleton": {
+    "hash": "VsMchXYwazk",
+    "spine": "4.0.64",
+    "x": -0.33,
+    "y": -1080.28,
+    "width": 1920.47,
+    "height": 1080.61,
+    "images": "./images/",
+    "audio": "I:/공유 드라이브/ProjectMoon/LimbusCompany/영상/4. 스파인/1_일러스트/54_섕크 뫼르소"
+  },
+  "bones": [
+    {
+      "name": "root",
+      "scaleX": 0.3333,
+      "scaleY": 0.3333
+    }
+  ],
+  "slots": [
+    {
+      "name": "fx5",
+      "bone": "root",
+      "color": "ffffff95",
+      "attachment": "fx5",
+      "blend": "additive"
+    },
+    {
+      "name": "fx6",
+      "bone": "root",
+      "color": "ffffff95",
+      "attachment": "fx5"
+    },
+    {
+      "name": "fx4",
+      "bone": "root",
+      "attachment": "fx4",
+      "blend": "screen"
+    },
+    {
+      "name": "fx3",
+      "bone": "root",
+      "attachment": "fx3",
+      "blend": "additive"
+    },
+    {
+      "name": "fx2",
+      "bone": "root",
+      "attachment": "fx2",
+      "blend": "screen"
+    },
+    {
+      "name": "fx1",
+      "bone": "root",
+      "attachment": "fx1",
+      "blend": "multiply"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "fx1": {
+          "fx1": {
+            "x": 2880,
+            "y": -1620,
+            "width": 5762,
+            "height": 3242
+          }
+        },
+        "fx2": {
+          "fx2": {
+            "x": 5227,
+            "y": -1813,
+            "width": 1056,
+            "height": 1474
+          }
+        },
+        "fx3": {
+          "fx3": {
+            "x": 2880.29,
+            "y": -1620.16,
+            "width": 5751,
+            "height": 3242
+          }
+        },
+        "fx4": {
+          "fx4": {
+            "x": 5022.5,
+            "y": -1958,
+            "width": 1077,
+            "height": 2322
+          }
+        },
+        "fx5": {
+          "fx5": {
+            "x": 892.5,
+            "y": -1276,
+            "width": 1405,
+            "height": 2358
+          }
+        },
+        "fx6": {
+          "fx5": {
+            "type": "mesh",
+            "uvs": [
+              0.42272,
+              0.30629,
+              0.4121,
+              0.28596,
+              0.42836,
+              0.2607,
+              0.46973,
+              0.28299
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              0,
+              1,
+              3
+            ],
+            "vertices": [
+              783.92,
+              -819.23,
+              769,
+              -771.3,
+              791.85,
+              -711.73,
+              849.97,
+              -764.3
+            ],
+            "hull": 4,
+            "edges": [
+              0,
+              2,
+              2,
+              4,
+              4,
+              6,
+              0,
+              6
+            ],
+            "width": 1405,
+            "height": 2358
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  }
+}

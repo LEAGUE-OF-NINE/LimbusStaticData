@@ -1,0 +1,10 @@
+scoundrel_boss.png
+size:1554,532
+filter:Linear,Linear
+pma:true
+scale:0.414
+idle
+bounds:10,161,361,938
+rotate:90
+idle 복사
+bounds:958,10,586,512

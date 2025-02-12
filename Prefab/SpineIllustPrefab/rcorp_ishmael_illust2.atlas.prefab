@@ -1,0 +1,12 @@
+rcorp_ishmael_illust2.png
+size:3593,1853
+filter:Linear,Linear
+pma:true
+effect
+bounds:1936,189,1654,1647
+rotate:90
+fx
+bounds:1936,178,1,1
+weapon
+bounds:10,10,1833,1916
+rotate:90

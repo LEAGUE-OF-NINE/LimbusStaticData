@@ -1,0 +1,69 @@
+{
+  "skeleton": {
+    "hash": "RzclwA0FJVw",
+    "spine": "4.0.64",
+    "x": -321.81,
+    "y": -2230.54,
+    "width": 4290,
+    "height": 2416,
+    "images": "./images/",
+    "audio": ""
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "Background",
+      "bone": "root",
+      "attachment": "Background"
+    },
+    {
+      "name": "Background_effect",
+      "bone": "root",
+      "attachment": "Background_effect",
+      "blend": "multiply"
+    },
+    {
+      "name": "effect_back",
+      "bone": "root",
+      "attachment": "effect_back"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "Background": {
+          "Background": {
+            "x": 1823.19,
+            "y": -1022.54,
+            "width": 3642,
+            "height": 2050
+          }
+        },
+        "Background_effect": {
+          "Background_effect": {
+            "x": 1823.19,
+            "y": -1022.54,
+            "width": 4290,
+            "height": 2416
+          }
+        },
+        "effect_back": {
+          "effect_back": {
+            "x": 2894.19,
+            "y": -341.54,
+            "width": 1500,
+            "height": 688
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "idle": {}
+  }
+}

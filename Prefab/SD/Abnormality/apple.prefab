@@ -1,0 +1,81 @@
+{
+  "skeleton": {
+    "hash": "u95ISCHpLQI",
+    "spine": "4.0.64",
+    "x": -909,
+    "y": -26,
+    "width": 1921,
+    "height": 2084,
+    "images": "./images/",
+    "audio": "C:/Users/user/Desktop/2 Limbus company/spine/monster/apple"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "레이어 1",
+      "parent": "root",
+      "length": 826.03,
+      "rotation": 89.34,
+      "x": 0.12,
+      "y": 24.85
+    }
+  ],
+  "slots": [
+    {
+      "name": "레이어 1",
+      "bone": "레이어 1",
+      "attachment": "레이어 1"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "레이어 1": {
+          "레이어 1": {
+            "x": 991.68,
+            "y": -39.98,
+            "rotation": -89.34,
+            "width": 1921,
+            "height": 2084
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {
+      "bones": {
+        "레이어 1": {
+          "rotate": [
+            {
+              "value": 10.8,
+              "curve": [
+                0.444,
+                10.8,
+                0.556,
+                -11.01
+              ]
+            },
+            {
+              "time": 1,
+              "value": -11.01,
+              "curve": [
+                1.444,
+                -11.01,
+                1.667,
+                10.8
+              ]
+            },
+            {
+              "time": 2,
+              "value": 10.8
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "skeleton": {
+    "hash": "rVleNRISook",
+    "spine": "4.0.64",
+    "x": -249.76,
+    "y": -2125.51,
+    "width": 4012,
+    "height": 2298,
+    "images": "./images/",
+    "audio": ""
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "background",
+      "bone": "root",
+      "attachment": "background"
+    },
+    {
+      "name": "back_obj",
+      "bone": "root",
+      "attachment": "back_obj"
+    },
+    {
+      "name": "back_eft_1",
+      "bone": "root",
+      "attachment": "back_eft_1"
+    },
+    {
+      "name": "back_eft_2",
+      "bone": "root",
+      "attachment": "back_eft_2"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "background": {
+          "background": {
+            "x": 1820.24,
+            "y": -1023.51,
+            "width": 3642,
+            "height": 2050
+          }
+        },
+        "back_eft_1": {
+          "back_eft_1": {
+            "x": 1815.24,
+            "y": -938.01,
+            "width": 3746,
+            "height": 2221
+          }
+        },
+        "back_eft_2": {
+          "back_eft_2": {
+            "x": 1674.24,
+            "y": -1023.51,
+            "width": 2042,
+            "height": 2050
+          }
+        },
+        "back_obj": {
+          "back_obj": {
+            "x": 1756.24,
+            "y": -986.01,
+            "width": 4012,
+            "height": 2279
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "idle": {}
+  }
+}

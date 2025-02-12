@@ -1,0 +1,50 @@
+faust-robotfixer_idle.png
+size:1866,565
+filter:Linear,Linear
+pma:true
+scale:0.414
+머리
+bounds:1472,199,258,289
+rotate:90
+몸통
+bounds:2,22,171,455
+rotate:90
+무기1
+bounds:2,380,183,953
+rotate:90
+무기2
+bounds:2,195,183,953
+rotate:90
+오른쪽 다리
+bounds:861,7,142,249
+rotate:90
+오른쪽 옷
+bounds:957,337,89,495
+rotate:90
+오른쪽 팔1
+bounds:1651,19,178,213
+rotate:90
+오른쪽 팔2
+bounds:1352,5,54,164
+왼쪽 다리
+bounds:1112,45,104,220
+rotate:90
+왼쪽 옷
+bounds:957,428,135,513
+rotate:90
+왼쪽팔1
+bounds:1435,2,195,214
+rotate:90
+왼쪽팔2
+bounds:1472,459,104,349
+rotate:90
+줄1
+bounds:459,16,177,400
+rotate:90
+줄2
+bounds:957,151,184,393
+rotate:90
+줄3
+bounds:1352,171,81,164
+줄4
+bounds:1763,296,68,161

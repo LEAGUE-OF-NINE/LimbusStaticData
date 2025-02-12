@@ -48283,6 +48283,405 @@
         108202,
         108203
       ]
+    },
+    {
+      "id": 2067716,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_YongjinTower_3~5F"
+          },
+          "unitList": [
+            {
+              "unitID": 8066,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8151,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 8066,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8066,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8066,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8151,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill_Abnormality"
+      ]
+    },
+    {
+      "id": 2067717,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_YongjinTower_3~5F"
+          },
+          "unitList": [
+            {
+              "unitID": 8066,
+              "unitCount": 2,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8152,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8151,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 8066,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8066,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8152,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8151,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill_Abnormality"
+      ]
+    },
+    {
+      "id": 2067718,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_YongjinTower_3~5F"
+          },
+          "unitList": [
+            {
+              "unitID": 8066,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8152,
+              "unitCount": 2,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8151,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 8066,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8152,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8152,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8151,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill_Abnormality"
+      ]
+    },
+    {
+      "id": 2067719,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_YongjinTower_3~5F"
+          },
+          "unitList": [
+            {
+              "unitID": 8152,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8151,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 8152,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8152,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8152,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8151,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill_Abnormality"
+      ]
+    },
+    {
+      "id": 2067720,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_YongjinTower_3~5F"
+          },
+          "unitList": [
+            {
+              "unitID": 8066,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8152,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 8066,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8066,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8066,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 8152,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill_Abnormality"
+      ]
+    },
+    {
+      "id": 2067726,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp5.5_SCorpImagery"
+          },
+          "unitList": [
+            {
+              "unitID": 1123,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [],
+          "bgmList": [
+            "Battle_Cp5_5_YCGD_Boss"
+          ],
+          "enemyPositionID": 13
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "AbnormalityEvent"
+      ]
     }
   ]
 }

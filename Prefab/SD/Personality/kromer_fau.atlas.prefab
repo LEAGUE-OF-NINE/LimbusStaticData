@@ -1,0 +1,74 @@
+kromer_fau.png
+size:1752,606
+filter:Linear,Linear
+pma:true
+scale:0.414
+arm_L
+bounds:1544,276,74,119
+rotate:90
+arm_R
+bounds:1369,325,116,178
+body
+bounds:1111,91,198,223
+calf_L
+bounds:1319,98,120,216
+calf_R
+bounds:1158,6,75,207
+rotate:90
+cape_R
+bounds:526,0,60,512
+rotate:90
+cape_b
+bounds:480,70,536,621
+rotate:90
+foot_L
+bounds:1369,515,91,55
+rotate:90
+foot_R
+bounds:1657,28,131,66
+rotate:90
+forearm_L
+bounds:1375,0,88,160
+rotate:90
+hand_L
+bounds:1449,513,82,93
+head
+bounds:1111,324,248,282
+insignia
+bounds:1498,125,67,135
+knee pad_L
+bounds:1048,0,60,100
+rotate:90
+knee pad_R
+bounds:0,6,44,92
+rotate:90
+pelvis
+bounds:1545,360,187,105
+sealing
+bounds:102,7,43,125
+rotate:90
+sealing _L1
+bounds:1495,393,40,110
+sealing _R1
+bounds:1449,221,35,94
+sealing _R2
+bounds:1449,101,39,110
+sealing2
+bounds:381,10,40,135
+rotate:90
+sealing_L2
+bounds:237,9,41,134
+rotate:90
+sealing_L3
+bounds:1495,270,39,113
+shoulder pad_L
+bounds:1545,11,102,104
+thigh_L
+bounds:1545,475,131,196
+rotate:90
+thigh_R
+bounds:1575,169,97,177
+rotate:90
+weapon
+bounds:0,60,546,470
+rotate:90

@@ -1,0 +1,17 @@
+stone 1.png
+size:234,224
+filter:Linear,Linear
+pma:true
+floor_stone01
+bounds:95,10,105,64
+floor_stone02
+bounds:10,95,104,57
+floor_stone03
+bounds:10,16,69,75
+rotate:90
+floor_stone04
+bounds:149,152,75,62
+floor_stone05
+bounds:10,162,129,52
+floor_stone06
+bounds:124,84,98,58

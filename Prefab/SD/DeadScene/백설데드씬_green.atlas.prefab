@@ -1,0 +1,181 @@
+백설데드씬_green.png
+size:2022,654
+filter:Linear,Linear
+pma:true
+scale:0.414
+L arm
+bounds:1712,110,61,136
+rotate:90
+L arm 2
+bounds:711,10,67,145
+rotate:90
+L arm 2s
+bounds:866,10,67,145
+rotate:90
+L arms
+bounds:1858,107,61,136
+rotate:90
+L hand
+bounds:1836,30,67,67
+L leg
+bounds:1712,181,90,230
+Lleg2
+bounds:711,87,120,285
+rotate:90
+R arm 1
+bounds:1021,25,71,140
+rotate:90
+R arm1 s
+bounds:1686,29,71,140
+rotate:90
+R arm2
+bounds:1280,51,71,148
+rotate:90
+R arm2 s
+bounds:1438,51,71,146
+rotate:90
+R hand
+bounds:1910,178,79,69
+R leg 1
+bounds:1812,217,88,195
+R leg 2
+bounds:1619,117,83,294
+apple dead_apple 1
+bounds:715,435,586,209
+apple dead_apple 2
+bounds:10,22,414,186
+apple dead_apple 3
+bounds:715,217,345,208
+apple dead_apple 4
+bounds:1280,132,329,279
+apple dead_apple 5
+bounds:1171,22,74,84
+rotate:90
+apple dead_apple 6
+bounds:1594,35,72,82
+rotate:90
+apple dead_apple 7
+bounds:1913,35,62,69
+rotate:90
+apple dead_root 1
+bounds:1311,421,223,463
+rotate:90
+apple dead_root 4
+bounds:10,218,695,426
+bottom
+bounds:1910,257,155,102
+rotate:90
+front head
+bounds:1784,422,212,222
+top
+bounds:1070,106,200,319
+top S
+bounds:434,27,181,267
+rotate:90
+
+백설데드씬_green_2.png
+size:1585,1107
+filter:Linear,Linear
+pma:true
+scale:0.414
+Hair/Grgr hair
+bounds:1056,816,251,281
+Hair/HL hair
+bounds:1297,344,234,271
+rotate:90
+Hair/HL_backhair
+bounds:479,135,342,479
+rotate:90
+Hair/Heath hair
+bounds:816,806,291,230
+rotate:90
+Hair/Ro hair
+bounds:554,763,252,334
+Hair/Ro_back hair
+bounds:10,10,467,459
+rotate:90
+Hair/Sinc hair
+bounds:1317,845,258,252
+Hair/Yi hair
+bounds:968,18,228,206
+Hair/donQ hair
+bounds:1317,588,247,253
+rotate:90
+Hair/fa_hair
+bounds:837,513,262,283
+Hair/is_backhair
+bounds:10,487,534,610
+Hair/is_hair
+bounds:554,488,273,265
+Hair/mrs hair
+bounds:1109,575,231,178
+rotate:90
+Hair/ots_hair
+bounds:968,234,269,269
+Hair/rs_hair
+bounds:1247,65,269,269
+
+백설데드씬_green_3.png
+size:1178,560
+filter:Linear,Linear
+pma:true
+scale:0.414
+images/L arm
+bounds:731,40,61,136
+images/L arm 2
+bounds:1023,99,67,145
+rotate:90
+images/L arm 2s
+bounds:583,15,64,145
+images/L arm 2s_green
+bounds:657,31,64,145
+images/L arms
+bounds:802,87,61,136
+rotate:90
+images/L hand
+bounds:802,10,67,67
+images/L leg
+bounds:440,118,90,230
+images/Lleg2
+bounds:873,430,120,285
+rotate:90
+images/R arm 1
+bounds:433,37,71,140
+rotate:90
+images/R arm1 s
+bounds:1024,176,71,140
+rotate:90
+images/R arm2
+bounds:1024,257,71,144
+rotate:90
+images/R arm2 s
+bounds:867,158,71,146
+rotate:90
+images/R arm2 s blood
+bounds:540,170,65,178
+images/R arm2 s blood_Green
+bounds:710,186,65,178
+images/R hand
+bounds:948,20,79,69
+images/R leg 1
+bounds:220,31,86,203
+rotate:90
+images/R leg 2
+bounds:873,338,82,294
+rotate:90
+images/bottom
+bounds:867,239,147,89
+images/front head
+bounds:220,127,210,221
+images/gokiburi
+bounds:10,358,192,590
+rotate:90
+images/mrshand
+bounds:615,191,85,173
+images/necktie
+bounds:785,218,72,146
+images/top
+bounds:10,29,200,319
+images/top S
+bounds:610,374,176,253
+rotate:90

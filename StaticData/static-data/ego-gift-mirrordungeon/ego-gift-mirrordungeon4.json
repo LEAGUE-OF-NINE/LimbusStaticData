@@ -1186,8 +1186,7 @@
           "localizeID": 9142,
           "abilityIDList": [
             9142,
-            91421,
-            91422
+            91421
           ]
         }
       ],
@@ -1351,8 +1350,7 @@
           "localizeID": 9147,
           "abilityIDList": [
             9147,
-            91471,
-            91472
+            91471
           ]
         }
       ],
@@ -1516,8 +1514,7 @@
           "localizeID": 9152,
           "abilityIDList": [
             9152,
-            91521,
-            91522
+            91521
           ]
         }
       ],
@@ -1917,6 +1914,7 @@
       "tag": [
         "TIER_3"
       ],
+      "keyword": "Vibration",
       "lockType": false,
       "price": 404
     },

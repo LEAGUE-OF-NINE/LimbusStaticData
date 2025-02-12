@@ -16,13 +16,15 @@
       "characterlist": "이상 : 1",
       "feeling": "shock",
       "effect": "CustomCamShake:[40][11][0.3]",
-      "soundeffect": "SFX_Chair_Hard"
+      "soundeffect": "SFX_Chair_Hard",
+      "voice": "MS007V-003"
     },
     {
       "id": 3,
       "feeling": "sick",
       "emotion": "Silence",
-      "effect": "CustomCamShake:[5][40][1]"
+      "effect": "CustomCamShake:[5][40][1]",
+      "voice": "MS007V-004"
     },
     {
       "id": 4,
@@ -33,7 +35,8 @@
       "id": 5,
       "characterlist": "파우스트 : 5",
       "feeling": "idle3",
-      "soundeffect": "SFX_Walk_Wood_2StepOnly"
+      "soundeffect": "SFX_Walk_Wood_2StepOnly",
+      "voice": "MS007V-006"
     },
     {
       "id": 6,
@@ -47,24 +50,28 @@
     },
     {
       "id": 8,
-      "feeling": "idle4"
+      "feeling": "idle4",
+      "voice": "MS007V-009"
     },
     {
       "id": 9,
       "characterlist": "로쟈 : 3",
       "feeling": "sigh",
       "emotion": "Serious",
-      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew",
+      "voice": "MS007V-010"
     },
     {
       "id": 10,
       "characterlist": "로쟈 : -1",
-      "feeling": "idle2"
+      "feeling": "idle2",
+      "voice": "MS007V-011"
     },
     {
       "id": 11,
       "feeling": "idle",
-      "soundeffect": "SFX_Jean_Crumble_Light"
+      "soundeffect": "SFX_Jean_Crumble_Light",
+      "voice": "MS007V-012"
     },
     {
       "id": 12
@@ -75,12 +82,14 @@
     },
     {
       "id": 14,
-      "feeling": "idle4"
+      "feeling": "idle4",
+      "voice": "MS007V-015"
     },
     {
       "id": 15,
       "feeling": "idle3",
-      "soundeffect": "SFX_Cloth_Crumble"
+      "soundeffect": "SFX_Cloth_Crumble",
+      "voice": "MS007V-016"
     },
     {
       "id": 16,
@@ -96,7 +105,8 @@
     {
       "id": 19,
       "characterlist": "파우스트 : 1",
-      "feeling": "close"
+      "feeling": "close",
+      "voice": "MS007V-020"
     },
     {
       "id": 20,
@@ -108,22 +118,26 @@
       "characterlist": "돈키호테 : 3",
       "feeling": "happy",
       "emotion": "Star",
-      "soundeffect": "SFX_Leather_Crumble_Light"
+      "soundeffect": "SFX_Leather_Crumble_Light",
+      "voice": "MS007V-022"
     },
     {
       "id": 22,
       "characterlist": "이스마엘 : 4",
       "feeling": "sigh",
-      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew",
+      "voice": "MS007V-023"
     },
     {
       "id": 23,
       "feeling": "smile",
-      "soundeffect": "SFX_Jean_Crumble_Light"
+      "soundeffect": "SFX_Jean_Crumble_Light",
+      "voice": "MS007V-024"
     },
     {
       "id": 24,
-      "feeling": "idle3"
+      "feeling": "idle3",
+      "voice": "MS007V-025"
     },
     {
       "id": 25,
@@ -141,7 +155,8 @@
       "feeling": "idle4",
       "bg": "story_corridor_2",
       "cg": "black:FadeOut",
-      "bgm": "StoryNervous"
+      "bgm": "StoryNervous",
+      "voice": "MS007V-028"
     },
     {
       "id": 28,
@@ -150,7 +165,8 @@
     {
       "id": 29,
       "feeling": "idle3",
-      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew",
+      "voice": "MS007V-030"
     },
     {
       "id": 30,
@@ -163,44 +179,53 @@
     {
       "id": 32,
       "characterlist": "이스마엘 : 3",
-      "feeling": "idle_R"
+      "feeling": "idle_R",
+      "voice": "MS007V-033"
     },
     {
       "id": 33,
       "feeling": "smile2",
-      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew",
+      "voice": "MS007V-034"
     },
     {
       "id": 34,
       "characterlist": "히스클리프 : 6",
       "feeling": "surprise",
       "emotion": "Angry",
-      "soundeffect": "SFX_Jean_Crumble_Hard"
+      "soundeffect": "SFX_Jean_Crumble_Hard",
+      "voice": "MS007V-035"
     },
     {
       "id": 35,
       "characterlist": "오티스 : 1",
       "feeling": "angry2",
-      "soundeffect": "\n"
+      "soundeffect": "\n",
+      "voice": "MS007V-036"
     },
     {
       "id": 36,
-      "feeling": "smile"
+      "feeling": "smile",
+      "voice": "MS007V-037"
     },
     {
       "id": 37,
-      "feeling": "serious"
+      "feeling": "serious",
+      "voice": "MS007V-038"
     },
     {
       "id": 38,
       "characterlist": "돈키호테 : 9",
-      "feeling": "nervous",
-      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+      "feeling": "smile",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew",
+      "voice": "MS007V-039"
     },
     {
       "id": 39,
       "feeling": "angry",
-      "soundeffect": "SFX_Leather_Crumble_Hard"
+      "effect": "CustomCamShake:[30][7][0.4]",
+      "soundeffect": "SFX_Leather_Crumble_Hard",
+      "voice": "MS007V-040"
     },
     {
       "id": 40,
@@ -215,11 +240,13 @@
     {
       "id": 42,
       "bg": "blackbg",
-      "cg": "black:FadeOut, E051X_1:FadeIn"
+      "cg": "black:FadeOut, E051X_1:FadeIn",
+      "voice": "MS007V-043"
     },
     {
       "id": 43,
-      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew",
+      "voice": "MS007V-044"
     },
     {
       "id": 44,
@@ -234,14 +261,17 @@
     },
     {
       "id": 47,
-      "soundeffect": "SFX_Leather_Crumble_Light"
+      "soundeffect": "SFX_Leather_Crumble_Light",
+      "voice": "MS007V-048"
     },
     {
-      "id": 48
+      "id": 48,
+      "voice": "MS007V-049"
     },
     {
       "id": 49,
-      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew",
+      "voice": "MS007V-050"
     },
     {
       "id": 50,
@@ -258,40 +288,47 @@
       "id": 52,
       "characterlist": "히스클리프 : 7",
       "feeling": "surprise",
-      "soundeffect": "SFX_Walk_Iron"
+      "soundeffect": "SFX_Walk_Iron",
+      "voice": "MS007V-053"
     },
     {
       "id": 53
     },
     {
       "id": 54,
-      "feeling": "idle"
+      "feeling": "idle",
+      "voice": "MS007V-055"
     },
     {
       "id": 55,
       "characterlist": "파우스트 : 9",
       "feeling": "close",
-      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew",
+      "voice": "MS007V-056"
     },
     {
       "id": 56,
-      "feeling": "idle2"
+      "feeling": "idle2",
+      "voice": "MS007V-057"
     },
     {
       "id": 57,
       "characterlist": "오티스 : 5",
-      "feeling": "idle"
+      "feeling": "idle",
+      "voice": "MS007V-058"
     },
     {
       "id": 58,
       "feeling": "surprise",
-      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew",
+      "voice": "MS007V-059"
     },
     {
       "id": 59,
       "characterlist": "로쟈 : 5",
       "feeling": "smile3",
-      "soundeffect": "SFX_Jean_Crumble_Light"
+      "soundeffect": "SFX_Jean_Crumble_Light",
+      "voice": "MS007V-060"
     },
     {
       "id": 60
@@ -299,30 +336,36 @@
     {
       "id": 61,
       "characterlist": "로쟈 : -1",
-      "feeling": "idle3"
+      "feeling": "idle3",
+      "voice": "MS007V-062"
     },
     {
       "id": 62,
       "characterlist": "파우스트 : 1",
       "feeling": "idle4",
-      "soundeffect": "SFX_Walk_Iron"
+      "soundeffect": "SFX_Walk_Iron",
+      "voice": "MS007V-063"
     },
     {
       "id": 63,
-      "feeling": "close"
+      "feeling": "close",
+      "voice": "MS007V-064"
     },
     {
       "id": 64,
       "feeling": "idle",
-      "soundeffect": "SFX_Leather_Crumble_Light"
+      "soundeffect": "SFX_Leather_Crumble_Light",
+      "voice": "MS007V-065"
     },
     {
-      "id": 65
+      "id": 65,
+      "voice": "MS007V-066"
     },
     {
       "id": 66,
       "characterlist": "ALL : -1, 파우스트 : 5",
-      "feeling": "idle2"
+      "feeling": "idle2",
+      "voice": "MS007V-067"
     },
     {
       "id": 67,
@@ -343,7 +386,8 @@
       "characterlist": "파우스트 : 5",
       "feeling": "idle3",
       "bgm": "Anxiety:0",
-      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew",
+      "voice": "MS007V-071"
     },
     {
       "id": 71,
@@ -358,29 +402,34 @@
       "id": 73,
       "characterlist": "파우스트 : 5",
       "feeling": "idle4",
-      "soundeffect": "SFX_Walk_Iron"
+      "soundeffect": "SFX_Walk_Iron",
+      "voice": "MS007V-074"
     },
     {
       "id": 74,
       "characterlist": "이스마엘 : 9",
       "feeling": "shock",
-      "soundeffect": "SFX_Leather_Crumble_Hard"
+      "soundeffect": "SFX_Leather_Crumble_Hard",
+      "voice": "MS007V-075"
     },
     {
       "id": 75,
-      "feeling": "surprise"
+      "feeling": "surprise",
+      "voice": "MS007V-076"
     },
     {
       "id": 76,
       "characterlist": "싱클레어 : 7",
       "feeling": "sad",
-      "soundeffect": "SFX_Cloth_Crumble"
+      "soundeffect": "SFX_Cloth_Crumble",
+      "voice": "MS007V-077"
     },
     {
       "id": 77,
       "characterlist": "ALL : -1, 파우스트 : 5",
       "feeling": "idle2",
-      "bgm": "Corporation_NoFilter"
+      "bgm": "Corporation_NoFilter",
+      "voice": "MS007V-078"
     },
     {
       "id": 78,
@@ -396,7 +445,8 @@
       "id": 81,
       "characterlist": "파우스트 : 3",
       "feeling": "idle",
-      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew",
+      "voice": "MS007V-082"
     },
     {
       "id": 82
@@ -411,12 +461,14 @@
     },
     {
       "id": 85,
-      "feeling": "idle3"
+      "feeling": "idle3",
+      "voice": "MS007V-086"
     },
     {
       "id": 86,
       "feeling": "idle4",
-      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew",
+      "voice": "MS007V-087"
     },
     {
       "id": 87,
@@ -429,26 +481,31 @@
     {
       "id": 88,
       "feeling": "idle",
-      "bgm": "First_Warning_NoFilter"
+      "bgm": "First_Warning_NoFilter",
+      "voice": "MS007V-089"
     },
     {
       "id": 89,
       "characterlist": "돈키호테 : 9",
-      "feeling": "surprise"
+      "feeling": "surprise",
+      "voice": "MS007V-090"
     },
     {
       "id": 90,
-      "feeling": "idle2"
+      "feeling": "idle2",
+      "voice": "MS007V-091"
     },
     {
       "id": 91,
       "characterlist": "그레고르 : 9",
-      "feeling": "serious"
+      "feeling": "serious",
+      "voice": "MS007V-092"
     },
     {
       "id": 92,
       "feeling": "idle",
-      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew",
+      "voice": "MS007V-093"
     },
     {
       "id": 93
@@ -460,7 +517,8 @@
     {
       "id": 95,
       "feeling": "surprise",
-      "soundeffect": "SFX_Leather_Crumble_Light"
+      "soundeffect": "SFX_Leather_Crumble_Light",
+      "voice": "MS007V-096"
     },
     {
       "id": 96,
@@ -468,18 +526,21 @@
     },
     {
       "id": 97,
-      "feeling": "idle"
+      "feeling": "idle",
+      "voice": "MS007V-098"
     },
     {
       "id": 98,
       "characterlist": "오티스 : 5",
       "feeling": "angry",
-      "soundeffect": "SFX_Metal_Shring"
+      "soundeffect": "SFX_Metal_Shring",
+      "voice": "MS007V-099"
     },
     {
       "id": 99,
       "feeling": "serious",
-      "soundeffect": "SFX_PoolCue_Swing"
+      "soundeffect": "SFX_PoolCue_Swing",
+      "voice": "MS007V-100"
     },
     {
       "id": 100,
@@ -489,7 +550,8 @@
       "id": 101,
       "characterlist": "단테 : 9, 히스클리프 : 7",
       "feeling": "idle",
-      "soundeffect": "SFX_Stretch_HardGrab"
+      "soundeffect": "SFX_Stretch_HardGrab",
+      "voice": "MS007V-102"
     },
     {
       "id": 102,
@@ -505,7 +567,8 @@
     {
       "id": 105,
       "characterlist": "파우스트 : 5",
-      "feeling": "idle3"
+      "feeling": "idle3",
+      "voice": "MS007V-106"
     }
   ]
 }

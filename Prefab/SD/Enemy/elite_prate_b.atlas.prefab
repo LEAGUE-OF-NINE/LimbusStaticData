@@ -1,0 +1,26 @@
+elite_prate_b.png
+size:1978,1022
+filter:Linear,Linear
+pma:true
+scale:0.414
+arm
+bounds:850,70,507,313
+back
+bounds:608,51,240,332
+clothesL
+bounds:2,382,248,638
+clothesR
+bounds:1359,214,169,617
+rotate:90
+head
+bounds:1450,462,489,558
+legL
+bounds:1359,3,209,435
+rotate:90
+legR
+bounds:2,2,378,604
+rotate:90
+weapon
+bounds:851,385,597,635
+weapon 복사
+bounds:252,385,597,635

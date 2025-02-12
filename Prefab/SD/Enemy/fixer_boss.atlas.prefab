@@ -1,0 +1,34 @@
+fixer_boss.png
+size:1535,812
+filter:Linear,Linear
+pma:true
+scale:0.414
+WEAPON
+bounds:10,357,445,1000
+rotate:90
+head
+bounds:593,30,317,253
+rotate:90
+레이어 1
+bounds:1020,19,292,437
+레이어 10
+bounds:1020,466,336,505
+rotate:90
+레이어 12
+bounds:943,138,27,209
+레이어 13
+bounds:10,125,222,573
+rotate:90
+레이어 14
+bounds:10,14,101,125
+rotate:90
+레이어 17
+bounds:145,27,88,77
+rotate:90
+레이어 2
+bounds:1322,32,183,135
+rotate:90
+레이어 3
+bounds:1322,225,203,231
+레이어 8
+bounds:856,10,77,337

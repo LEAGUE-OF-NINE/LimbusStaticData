@@ -15,6 +15,9 @@
         {
           "ability": "LoseAllStackOnDie"
         }
+      ],
+      "categoryKeywordList": [
+        "DUEL_DECLARATION"
       ]
     },
     {
@@ -35,7 +38,10 @@
       "buffType": "Positive",
       "canBeDespelled": false,
       "maxStack": 3,
-      "list": []
+      "list": [],
+      "categoryKeywordList": [
+        "CONCENTRATED_ATTACK"
+      ]
     },
     {
       "id": "BloodScissor",

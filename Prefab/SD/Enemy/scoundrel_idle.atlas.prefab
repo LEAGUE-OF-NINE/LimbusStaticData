@@ -1,0 +1,155 @@
+scoundrel_idle.png
+size:1754,1317
+filter:Linear,Linear
+pma:true
+scale:0.414
+1_arm L
+bounds:749,516,140,160
+rotate:90
+1_arm R
+bounds:1652,1153,92,154
+1_belt
+bounds:919,525,125,160
+rotate:90
+1_calf L
+bounds:1604,695,132,210
+2_calf L
+bounds:1604,695,132,210
+3_calf L
+bounds:1604,695,132,210
+1_calf R
+bounds:749,666,160,215
+3_calf R
+bounds:749,666,160,215
+1_foot L
+bounds:789,14,116,117
+1_foot R
+bounds:1601,285,141,106
+rotate:90
+2_foot R
+bounds:1601,285,141,106
+rotate:90
+3_foot R
+bounds:1601,285,141,106
+rotate:90
+1_forearm L
+bounds:1287,44,92,126
+1_forearm R
+bounds:1143,62,134,108
+1_fronthair1
+bounds:950,337,178,164
+rotate:90
+1_hand L
+bounds:656,10,101,123
+rotate:90
+1_hand R
+bounds:640,1122,452,185
+1_head
+bounds:10,13,240,236
+1_hood
+bounds:10,551,271,282
+1_hood back
+bounds:291,263,252,278
+2_hood back
+bounds:291,263,252,278
+3_hood back
+bounds:291,263,252,278
+1_jacket L
+bounds:1102,1140,167,265
+rotate:90
+1_jacket R
+bounds:1604,436,87,249
+1_pelvis
+bounds:260,71,178,101
+rotate:90
+3_pelvis
+bounds:260,71,178,101
+rotate:90
+1_scarf
+bounds:919,660,202,213
+rotate:90
+1_thigh L
+bounds:490,843,195,193
+rotate:90
+1_thigh R
+bounds:902,142,117,159
+3_thigh R
+bounds:902,142,117,159
+1_torso
+bounds:940,872,188,240
+2_arm L
+bounds:1329,310,140,160
+rotate:90
+2_arm R
+bounds:1499,296,92,154
+2_belt
+bounds:521,93,125,160
+2_calf R
+bounds:1574,915,160,215
+2_foot L
+bounds:915,15,116,117
+2_forearm L
+bounds:1618,149,92,126
+2_forearm R
+bounds:1329,192,134,108
+2_hand L
+bounds:1507,152,101,123
+2_hand R
+bounds:10,843,470,195
+2_head
+bounds:1138,906,208,224
+2_hood
+bounds:10,259,271,282
+2_jacket L
+bounds:1377,1140,167,265
+rotate:90
+2_jacket R
+bounds:553,292,87,249
+2_pelvis
+bounds:656,121,178,101
+rotate:90
+2_scarf
+bounds:1392,683,202,213
+2_thigh L
+bounds:747,311,195,193
+rotate:90
+2_thigh R
+bounds:1029,180,117,159
+rotate:90
+2_torso
+bounds:1142,708,188,240
+rotate:90
+3_arm L
+bounds:371,93,140,160
+3_arm R
+bounds:1041,16,92,154
+3_belt
+bounds:767,141,125,160
+3_foot L
+bounds:1198,180,116,117
+3_forearm L
+bounds:1618,13,92,126
+3_forearm R
+bounds:1389,48,134,108
+rotate:90
+3_hair
+bounds:693,891,237,221
+3_hand L
+bounds:1507,19,101,123
+3_hand R
+bounds:10,1048,620,259
+3_head
+bounds:1356,906,208,224
+3_hood
+bounds:291,551,271,282
+3_jacket L
+bounds:572,568,167,265
+3_jacket R
+bounds:650,309,87,249
+3_scarf
+bounds:1392,460,202,213
+3_thigh L
+bounds:1124,307,195,193
+3_torso
+bounds:1142,510,188,240
+rotate:90

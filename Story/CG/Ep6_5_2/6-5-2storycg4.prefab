@@ -1,0 +1,40 @@
+{
+  "skeleton": {
+    "hash": "1addX0I+K4w",
+    "spine": "4.0.64",
+    "images": "./json/images/",
+    "audio": "./json/"
+  },
+  "bones": [
+    {
+      "name": "root",
+      "scaleX": 0.24,
+      "scaleY": 0.24
+    }
+  ],
+  "slots": [
+    {
+      "name": "1",
+      "bone": "root",
+      "attachment": "1"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "1": {
+          "1": {
+            "x": 4005,
+            "y": -2253.5,
+            "width": 8012,
+            "height": 4509
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  }
+}

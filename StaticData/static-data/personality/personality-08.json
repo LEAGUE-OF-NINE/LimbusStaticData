@@ -1058,6 +1058,113 @@
           "number": 1
         }
       ]
+    },
+    {
+      "id": 10811,
+      "appearance": "10811_Ishmael_kurokumoAppearance",
+      "unitKeywordList": [
+        "CLAN",
+        "SMALL"
+      ],
+      "associationList": [
+        "BLACK_CLOUD"
+      ],
+      "characterId": 8,
+      "unitScriptID": "10811",
+      "panicType": 9999,
+      "season": 5,
+      "additionalAttachment": "EVENT",
+      "rank": 3,
+      "hp": {
+        "defaultStat": 93,
+        "incrementByLevel": 2.28
+      },
+      "defCorrection": 3,
+      "minSpeedList": [
+        3,
+        3,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        4,
+        5,
+        6,
+        6
+      ],
+      "defenseSkillIDList": [
+        1081104
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "uniqueAttribute": "VIOLET",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          70,
+          40,
+          20
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1081101,
+          "number": 3
+        },
+        {
+          "skillId": 1081102,
+          "number": 2
+        },
+        {
+          "skillId": 1081103,
+          "number": 1
+        }
+      ]
     }
   ]
 }

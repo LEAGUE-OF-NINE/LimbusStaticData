@@ -1,0 +1,15 @@
+bound_king.png
+size:1987,1496
+filter:Linear,Linear
+pma:true
+scale:0.414
+body
+bounds:887,10,599,894
+rotate:90
+chair
+bounds:10,396,867,1090
+chair_d
+bounds:887,619,867,1090
+rotate:90
+head
+bounds:10,213,94,173

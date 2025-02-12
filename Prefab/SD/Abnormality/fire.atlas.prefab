@@ -1,0 +1,26 @@
+fire.png
+size:1938,1707
+filter:Linear,Linear
+pma:true
+scale:0.414
+Larm
+bounds:1622,1119,306,578
+Ramr
+bounds:10,171,448,557
+body
+bounds:924,10,876,761
+fire
+bounds:815,781,916,797
+rotate:90
+fire horn back
+bounds:468,173,156,72
+fire horn front
+bounds:405,66,166,95
+glow
+bounds:10,738,959,795
+rotate:90
+head
+bounds:468,255,473,446
+rotate:90
+horn
+bounds:10,28,385,133

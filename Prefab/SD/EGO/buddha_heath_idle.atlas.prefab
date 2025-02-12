@@ -1,0 +1,27 @@
+buddha_heath_idle.png
+size:1382,1036
+filter:Linear,Linear
+pma:true
+scale:0.414
+body
+bounds:480,2,513,479
+rotate:90
+hand l
+bounds:1130,135,179,117
+hand r
+bounds:1085,254,143,223
+rotate:90
+head
+bounds:1091,399,279,251
+scarf
+bounds:2,21,1013,476
+rotate:90
+머리장식 빨간줄
+bounds:1091,652,289,382
+받침대
+bounds:480,517,609,517
+받침대2
+bounds:961,14,203,167
+rotate:90
+옷자락
+bounds:961,219,122,296

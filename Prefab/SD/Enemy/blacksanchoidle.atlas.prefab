@@ -1,0 +1,44 @@
+blacksanchoidle.png
+size:2007,1064
+filter:Linear,Linear
+pma:true
+scale:0.4
+8
+bounds:1562,303,77,320
+8-1
+bounds:1649,290,64,265
+rotate:90
+acc1
+bounds:1271,258,281,365
+acc2
+bounds:10,170,619,453
+arm L
+bounds:719,10,166,342
+rotate:90
+arm L-1
+bounds:210,69,91,316
+rotate:90
+black
+bounds:1490,30,218,267
+rotate:90
+black-1
+bounds:536,69,91,173
+rotate:90
+body
+bounds:10,11,149,190
+rotate:90
+coat
+bounds:639,186,324,437
+coat_back
+bounds:1767,15,159,265
+head
+bounds:1649,364,303,259
+leg L
+bounds:973,216,288,407
+leg r
+bounds:1144,19,187,336
+rotate:90
+tie
+bounds:1071,16,63,190
+weapon
+bounds:10,633,1987,421

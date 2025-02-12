@@ -1,0 +1,41 @@
+garibi_rodya_idle.png
+size:1946,1266
+filter:Linear,Linear
+pma:true
+scale:0.414
+레이어 2
+bounds:1495,1002,449,262
+레이어 3
+bounds:494,772,281,460
+rotate:90
+레이어 4
+bounds:2,1086,300,178
+맨뒤다리2
+bounds:1099,1035,394,229
+맨뒤다리１
+bounds:2,806,277,490
+rotate:90
+무기팔１
+bounds:304,1085,363,179
+무기팔２
+bounds:875,2,698,1059
+rotate:90
+앞팔１
+bounds:956,749,284,296
+rotate:90
+앞팔２
+bounds:2,421,349,871
+rotate:90
+중간다리
+bounds:1254,702,298,430
+rotate:90
+중간다리1
+bounds:669,1055,428,209
+
+garibi_rodya_idle_2.png
+size:1479,1350
+filter:Linear,Linear
+pma:true
+scale:0.414
+몸통
+bounds:2,2,1475,1346

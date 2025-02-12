@@ -1,0 +1,33 @@
+linton_greg_idle.png
+size:807,529
+filter:Linear,Linear
+pma:true
+scale:0.414
+머리
+bounds:489,9,242,247
+rotate:90
+머리카락
+bounds:316,2,72,63
+몸통
+bounds:488,253,151,265
+rotate:90
+무기
+bounds:2,406,121,647
+rotate:90
+오른쪽 다리
+bounds:2,232,172,484
+rotate:90
+오른쪽팔
+bounds:651,423,104,154
+rotate:90
+옷1
+bounds:2,67,74,472
+rotate:90
+옷2
+bounds:2,143,87,485
+rotate:90
+옷자락
+bounds:2,3,62,312
+rotate:90
+왼쪽 팔
+bounds:738,59,67,192

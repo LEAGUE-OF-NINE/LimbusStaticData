@@ -1,0 +1,38 @@
+blood-wcorp-spear-idle.png
+size:1963,449
+filter:Linear,Linear
+pma:true
+scale:0.414
+Layer 43
+bounds:1726,9,142,141
+head
+bounds:1282,198,249,249
+그룹 1
+bounds:2,144,303,1278
+rotate:90
+다리L
+bounds:1726,152,235,295
+다리R
+bounds:1533,11,191,436
+레이어 11
+bounds:944,33,109,150
+rotate:90
+레이어 12
+bounds:1282,2,194,240
+rotate:90
+레이어 14
+bounds:2,4,138,353
+rotate:90
+레이어 15
+bounds:1870,41,84,109
+레이어 3
+bounds:1096,65,88,77
+레이어 4
+bounds:793,26,116,149
+rotate:90
+레이어 5
+bounds:618,16,126,173
+rotate:90
+레이어 9
+bounds:357,13,129,259
+rotate:90

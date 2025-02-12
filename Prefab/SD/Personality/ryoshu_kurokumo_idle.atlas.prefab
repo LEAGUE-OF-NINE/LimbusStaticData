@@ -1,0 +1,24 @@
+ryoshu_kurokumo_idle.png
+size:1335,1034
+filter:Linear,Linear
+pma:true
+scale:0.414
+acc1
+bounds:10,213,403,684
+rotate:90
+acc2
+bounds:10,626,698,398
+arm1
+bounds:704,138,329,243
+chest
+bounds:718,612,607,412
+hand
+bounds:439,150,63,53
+head
+bounds:1043,117,259,264
+leg2
+bounds:10,10,193,419
+rotate:90
+레이어 1
+bounds:704,391,211,484
+rotate:90

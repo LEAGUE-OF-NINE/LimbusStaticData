@@ -1,0 +1,26 @@
+contempt_ryoshu_idle.png
+size:1995,1754
+filter:Linear,Linear
+pma:true
+scale:0.414
+레이어 1
+bounds:2,2,1404,1750
+머리
+bounds:1408,177,350,585
+rotate:90
+머리장식
+bounds:1747,904,243,252
+머리카락
+bounds:1747,566,107,213
+rotate:90
+몸통1
+bounds:1747,675,187,227
+오른쪽 팔 , 검1
+bounds:1408,1158,594,488
+rotate:90
+왼쪽 팔
+bounds:1408,529,627,337
+rotate:90
+피
+bounds:1408,13,162,467
+rotate:90

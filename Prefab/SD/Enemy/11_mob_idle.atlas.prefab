@@ -1,0 +1,21 @@
+11_mob_idle.png
+size:2023,481
+filter:Linear,Linear
+pma:true
+scale:0.414
+Group 1
+bounds:695,75,320,691
+rotate:90
+Group 1 - 복사본
+bounds:2,75,320,691
+rotate:90
+Layer 15
+bounds:1388,2,177,174
+Layer 632
+bounds:2,397,82,1386
+rotate:90
+머리_a
+bounds:1390,178,328,301
+머리_b
+bounds:1720,151,328,301
+rotate:90

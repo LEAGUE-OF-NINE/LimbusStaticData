@@ -1,0 +1,14 @@
+idle_murderer_meur.png
+size:1029,682
+filter:Linear,Linear
+pma:true
+scale:0.414
+머리
+bounds:2,2,678,777
+rotate:90
+몸통1
+bounds:781,21,270,243
+rotate:90
+몸통2
+bounds:781,293,387,246
+rotate:90

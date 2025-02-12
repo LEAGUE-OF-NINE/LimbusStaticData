@@ -1,0 +1,40 @@
+redeye_ryoshu.png
+size:1575,1541
+filter:Linear,Linear
+pma:true
+scale:0.414
+Group 14 copy
+bounds:1287,773,391,268
+rotate:90
+Group 14 copy 2
+bounds:623,189,356,253
+Group 14 copy 3
+bounds:1282,468,295,276
+rotate:90
+Group 14 copy 4
+bounds:10,29,499,243
+Group 15
+bounds:989,170,264,272
+Layer 100 copy
+bounds:623,452,403,365
+Layer 100 copy 2
+bounds:1261,1174,304,357
+Layer 100 copy 3
+bounds:1263,108,217,337
+Layer 100 copy 4
+bounds:1036,455,362,236
+rotate:90
+Layer 122 copy
+bounds:10,282,603,608
+Layer 123
+bounds:519,62,223,117
+Layer 124
+bounds:822,1169,429,362
+Layer 125
+bounds:822,827,455,332
+Layer 126
+bounds:752,28,177,151
+Layer 127
+bounds:939,10,166,150
+weapon
+bounds:10,900,802,631

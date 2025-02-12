@@ -1,0 +1,19 @@
+default_sinc.png
+size:764,1068
+filter:Linear,Linear
+pma:true
+scale:0.414
+arm L
+bounds:463,10,142,271
+rotate:90
+arm R
+bounds:10,64,85,214
+rotate:90
+body
+bounds:463,430,291,628
+head
+bounds:463,162,258,250
+rotate:90
+weapon
+bounds:10,159,899,443
+rotate:90

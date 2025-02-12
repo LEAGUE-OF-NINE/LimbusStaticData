@@ -1,0 +1,19 @@
+fish.png
+size:1897,1579
+filter:Linear,Linear
+pma:true
+scale:0.414
+arm
+bounds:935,250,503,498
+rotate:90
+arm_00
+bounds:1443,267,486,444
+rotate:90
+body
+bounds:935,763,806,895
+rotate:90
+idle (3) copy
+bounds:10,72,1497,915
+rotate:90
+tail
+bounds:935,10,722,230

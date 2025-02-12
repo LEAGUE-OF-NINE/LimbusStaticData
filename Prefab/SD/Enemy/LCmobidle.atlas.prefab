@@ -1,0 +1,19 @@
+LCmobidle.png
+size:704,1049
+filter:Linear,Linear
+pma:true
+scale:0.414
+Larm
+bounds:545,44,114,297
+heada
+bounds:300,351,317,261
+headb
+bounds:300,55,286,235
+rotate:90
+레이어 2
+bounds:10,10,280,602
+레이어 3
+bounds:627,531,81,67
+rotate:90
+레이어 4
+bounds:10,622,657,417

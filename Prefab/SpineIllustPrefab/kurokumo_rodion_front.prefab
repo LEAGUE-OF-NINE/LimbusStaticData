@@ -1,0 +1,94 @@
+{
+  "skeleton": {
+    "hash": "BOxlpZKaVok",
+    "spine": "4.0.64",
+    "x": 0.04,
+    "y": -2049.04,
+    "width": 3642,
+    "height": 2050,
+    "images": "./images/",
+    "audio": ""
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "fx2",
+      "bone": "root",
+      "attachment": "fx2"
+    },
+    {
+      "name": "Effect_rain",
+      "bone": "root",
+      "attachment": "Effect_rain"
+    },
+    {
+      "name": "Effect_fog",
+      "bone": "root",
+      "attachment": "Effect_fog"
+    },
+    {
+      "name": "front",
+      "bone": "root",
+      "attachment": "front"
+    },
+    {
+      "name": "Effect",
+      "bone": "root",
+      "attachment": "Effect"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "Effect": {
+          "Effect": {
+            "x": 1743.04,
+            "y": -900.54,
+            "width": 3408,
+            "height": 1715
+          }
+        },
+        "Effect_fog": {
+          "Effect_fog": {
+            "x": 1821.04,
+            "y": -1346.04,
+            "width": 3642,
+            "height": 1406
+          }
+        },
+        "Effect_rain": {
+          "Effect_rain": {
+            "x": 1821.04,
+            "y": -1024.04,
+            "width": 3642,
+            "height": 2050
+          }
+        },
+        "front": {
+          "front": {
+            "x": 1821.04,
+            "y": -1024.04,
+            "width": 3642,
+            "height": 2050
+          }
+        },
+        "fx2": {
+          "fx2": {
+            "x": 1821.04,
+            "y": -1112.04,
+            "width": 3642,
+            "height": 1874
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "idle": {}
+  }
+}

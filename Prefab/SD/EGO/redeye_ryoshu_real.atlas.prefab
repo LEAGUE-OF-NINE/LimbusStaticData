@@ -1,0 +1,59 @@
+redeye_ryoshu_real.png
+size:2010,1545
+filter:Linear,Linear
+pma:true
+scale:0.414
+arm1
+bounds:1586,370,124,361
+back_hair
+bounds:1430,380,146,351
+blade
+bounds:10,22,1060,653
+body
+bounds:10,685,844,850
+head
+bounds:864,754,271,467
+rotate:90
+leg
+bounds:864,1035,1113,500
+legs2
+bounds:1753,609,164,416
+레이어 102 복사
+bounds:1430,91,279,126
+rotate:90
+레이어 103 복사
+bounds:1879,50,105,162
+레이어 108 복사
+bounds:1714,222,120,286
+rotate:90
+레이어 109 복사
+bounds:1605,10,169,264
+rotate:90
+레이어 1164
+bounds:1341,741,284,402
+rotate:90
+레이어 1168
+bounds:1912,357,88,138
+레이어 1169
+bounds:1566,189,138,171
+레이어 1170
+bounds:1080,37,276,166
+rotate:90
+레이어 1171
+bounds:1927,505,62,207
+레이어 1173
+bounds:864,696,142,48
+레이어 1174
+bounds:1427,19,168,62
+레이어 1175
+bounds:1720,352,247,182
+rotate:90
+레이어 118 복사
+bounds:1080,323,340,352
+레이어 1248
+bounds:1256,43,161,270
+레이어 1250
+bounds:1927,722,63,303
+레이어 1264
+bounds:1016,685,59,74
+rotate:90

@@ -1,0 +1,37 @@
+christmasgreg-idle.png
+size:1472,1540
+filter:Linear,Linear
+pma:true
+scale:0.4
+bed 1
+bounds:2,818,1438,720
+bed 2
+bounds:2,446,918,370
+bed b
+bounds:1250,448,368,171
+rotate:90
+bed frame b
+bounds:2,42,402,497
+rotate:90
+bed frame f
+bounds:501,18,426,449
+rotate:90
+bell
+bounds:1234,9,85,102
+rotate:90
+candle
+bounds:1234,96,124,236
+rotate:90
+deco1
+bounds:1338,23,89,71
+deco2
+bounds:922,475,326,341
+deco3
+bounds:1224,222,153,224
+doll
+bounds:952,5,185,280
+rotate:90
+fire
+bounds:2,2,17,38
+hair
+bounds:952,192,270,281

@@ -1,0 +1,63 @@
+lcorp-redeyes-ryoshu idle.png
+size:2033,1086
+filter:Linear,Linear
+pma:true
+scale:0.4444
+HEAD
+bounds:1757,807,274,277
+뒤
+bounds:1757,630,162,175
+몸통
+bounds:1618,324,180,298
+몸통a
+bounds:1800,330,180,298
+몸통b
+bounds:1497,142,180,298
+rotate:90
+무기1
+bounds:1024,855,229,731
+rotate:90
+무기1a
+bounds:1024,624,229,731
+rotate:90
+무기1b
+bounds:406,360,229,731
+rotate:90
+무기2
+bounds:406,591,616,493
+무기3
+bounds:2,299,402,785
+오른쪽 다리
+bounds:2,125,172,424
+rotate:90
+오른쪽 코트
+bounds:2,2,121,448
+rotate:90
+오른쪽 팔
+bounds:1493,46,94,324
+rotate:90
+오른쪽 팔a
+bounds:1819,4,94,324
+오른쪽 팔b
+bounds:1915,4,94,324
+왼쪽 다리
+bounds:1139,366,256,477
+rotate:90
+왼쪽코트
+bounds:452,13,147,356
+rotate:90
+왼쪽코트a
+bounds:810,13,147,356
+rotate:90
+왼쪽코트b
+bounds:1139,217,147,356
+rotate:90
+왼쪽팔
+bounds:428,162,196,323
+rotate:90
+왼쪽팔a
+bounds:753,162,196,323
+rotate:90
+왼쪽팔b
+bounds:1168,19,196,323
+rotate:90

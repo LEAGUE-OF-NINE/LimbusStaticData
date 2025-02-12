@@ -1,0 +1,26 @@
+vip_c.png
+size:952,1035
+filter:Linear,Linear
+pma:true
+scale:0.414
+VIP_C copy
+bounds:10,652,373,932
+rotate:90
+arm_L
+bounds:664,16,143,179
+rotate:90
+body
+bounds:198,314,328,681
+rotate:90
+body_back
+bounds:664,169,135,186
+rotate:90
+hand
+bounds:860,233,82,71
+head
+bounds:421,53,233,251
+head_acc
+bounds:198,10,294,213
+rotate:90
+weapon
+bounds:10,24,178,618

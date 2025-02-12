@@ -1,0 +1,213 @@
+{
+  "skeleton": {
+    "hash": "FtGNNJuPvm4",
+    "spine": "4.0.64",
+    "x": 2.08,
+    "y": -2043.99,
+    "width": 3642,
+    "height": 2050,
+    "images": "./images/",
+    "audio": ""
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "bone",
+      "parent": "root",
+      "x": 2537.08,
+      "y": -1777.65
+    },
+    {
+      "name": "bone2",
+      "parent": "root",
+      "x": 3299.61,
+      "y": -1727.26
+    },
+    {
+      "name": "bone3",
+      "parent": "root",
+      "x": 528.29,
+      "y": -1666.79
+    }
+  ],
+  "slots": [
+    {
+      "name": "background_2",
+      "bone": "root",
+      "attachment": "background_2"
+    },
+    {
+      "name": "enermy_1",
+      "bone": "bone",
+      "attachment": "enermy_1"
+    },
+    {
+      "name": "enermy_2",
+      "bone": "bone2",
+      "attachment": "enermy_2"
+    },
+    {
+      "name": "enermy_3",
+      "bone": "bone3",
+      "attachment": "enermy_3"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "background_2": {
+          "background_2": {
+            "x": 1823.08,
+            "y": -1018.99,
+            "width": 3642,
+            "height": 2050
+          }
+        },
+        "enermy_1": {
+          "enermy_1": {
+            "x": 704.51,
+            "y": 637.16,
+            "width": 805,
+            "height": 1301
+          }
+        },
+        "enermy_2": {
+          "enermy_2": {
+            "x": -759.53,
+            "y": 485.27,
+            "width": 560,
+            "height": 1036
+          }
+        },
+        "enermy_3": {
+          "enermy_3": {
+            "x": 5.79,
+            "y": 622.31,
+            "width": 884,
+            "height": 1105
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "idle": {
+      "bones": {
+        "bone": {
+          "translate": [
+            {},
+            {
+              "time": 0.5333,
+              "y": -10
+            },
+            {
+              "time": 1
+            },
+            {
+              "time": 1.5333,
+              "y": -10
+            },
+            {
+              "time": 2
+            },
+            {
+              "time": 2.5333,
+              "y": -10
+            },
+            {
+              "time": 3
+            },
+            {
+              "time": 3.5333,
+              "y": -10
+            },
+            {
+              "time": 4
+            }
+          ]
+        },
+        "bone2": {
+          "translate": [
+            {
+              "y": -5.83
+            },
+            {
+              "time": 0.2667
+            },
+            {
+              "time": 0.8,
+              "y": -10
+            },
+            {
+              "time": 1.2667
+            },
+            {
+              "time": 1.8,
+              "y": -10
+            },
+            {
+              "time": 2.2667
+            },
+            {
+              "time": 2.8,
+              "y": -10
+            },
+            {
+              "time": 3.2667
+            },
+            {
+              "time": 3.8,
+              "y": -10
+            },
+            {
+              "time": 4,
+              "y": -5.83
+            }
+          ]
+        },
+        "bone3": {
+          "translate": [
+            {
+              "y": -7.69
+            },
+            {
+              "time": 0.1333,
+              "y": -10
+            },
+            {
+              "time": 0.6
+            },
+            {
+              "time": 1.1333,
+              "y": -10
+            },
+            {
+              "time": 1.6
+            },
+            {
+              "time": 2.1333,
+              "y": -10
+            },
+            {
+              "time": 2.6
+            },
+            {
+              "time": 3.1333,
+              "y": -10
+            },
+            {
+              "time": 3.6
+            },
+            {
+              "time": 4,
+              "y": -7.69
+            }
+          ]
+        }
+      }
+    }
+  }
+}

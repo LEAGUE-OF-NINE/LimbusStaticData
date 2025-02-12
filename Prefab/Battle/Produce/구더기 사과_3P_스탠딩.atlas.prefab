@@ -1,0 +1,21 @@
+구더기 사과_3P_스탠딩.png
+size:1950,885
+filter:Linear,Linear
+pma:true
+scale:0.414
+branch
+bounds:1224,50,825,385
+rotate:90
+face
+bounds:1619,127,194,149
+hair_L
+bounds:1619,48,69,303
+rotate:90
+hair_R
+bounds:1877,221,63,255
+hair_back
+bounds:1619,486,281,389
+hair_front
+bounds:1619,286,248,190
+사과
+bounds:10,10,1204,865

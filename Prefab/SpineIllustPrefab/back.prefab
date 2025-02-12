@@ -1,0 +1,42 @@
+{
+  "skeleton": {
+    "hash": "F9xKnxWv6DY",
+    "spine": "4.0.64",
+    "x": 0.66,
+    "y": -2047,
+    "width": 3643,
+    "height": 2050,
+    "images": "./images/",
+    "audio": ""
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "background",
+      "bone": "root",
+      "attachment": "background"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "background": {
+          "background": {
+            "x": 1822.16,
+            "y": -1022,
+            "width": 3643,
+            "height": 2050
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "idle": {}
+  }
+}

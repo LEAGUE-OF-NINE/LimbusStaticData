@@ -1,0 +1,65 @@
+dulrodyaidle.png
+size:1950,1421
+filter:Linear,Linear
+pma:true
+scale:0.3333
+arm1_lv1
+bounds:903,14,108,161
+arm1_lv2
+bounds:1013,14,108,161
+arm1_lv3
+bounds:1048,205,108,161
+arm2_lv1
+bounds:730,139,189,157
+rotate:90
+arm2_lv3
+bounds:889,177,189,157
+rotate:90
+body
+bounds:730,17,120,171
+rotate:90
+hairb
+bounds:2,232,371,374
+head
+bounds:2,17,213,292
+rotate:90
+head dress
+bounds:375,258,331,348
+mask_lv3
+bounds:296,17,213,144
+rotate:90
+shoulder
+bounds:503,609,65,54
+rotate:90
+skirt
+bounds:2,608,811,499
+rotate:90
+ub deco1
+bounds:708,330,75,344
+ub deco2
+bounds:785,599,75,344
+rotate:90
+ub deco3
+bounds:785,599,75,344
+rotate:90
+ub deco6
+bounds:785,599,75,344
+rotate:90
+ub deco4
+bounds:785,522,75,344
+rotate:90
+ub deco5
+bounds:785,445,75,344
+rotate:90
+ub deco7
+bounds:785,368,75,344
+rotate:90
+ubr_handle
+bounds:442,2,286,254
+ubr_lv1
+bounds:503,676,743,700
+rotate:90
+ubr_lv2
+bounds:1205,719,743,700
+ubr_lv3
+bounds:1205,17,743,700

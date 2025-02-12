@@ -1,0 +1,300 @@
+{
+  "skeleton": {
+    "hash": "CpGhqQgGp04",
+    "spine": "4.0.64",
+    "x": -1210.87,
+    "y": -151.18,
+    "width": 1862,
+    "height": 2276,
+    "images": "./images/",
+    "audio": "G:/공유 드라이브/ProjectMoon/LimbusCompany/아트 리소스 폴더/1.전투 리소스/1.최종 SD파일/13. 적 SD/6장 데드레빗츠/안광 데드레빗츠 조직원 B/idle 스파인"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "bone",
+      "parent": "root",
+      "x": -27.32,
+      "y": 827.32
+    },
+    {
+      "name": "bone2",
+      "parent": "bone",
+      "length": 234.09,
+      "rotation": -76.7,
+      "x": 231.95,
+      "y": 492.9
+    },
+    {
+      "name": "bone3",
+      "parent": "bone2",
+      "length": 340.05,
+      "rotation": -10.51,
+      "x": 234.09
+    }
+  ],
+  "slots": [
+    {
+      "name": "legR",
+      "bone": "root",
+      "attachment": "legR"
+    },
+    {
+      "name": "legL",
+      "bone": "root",
+      "attachment": "legL"
+    },
+    {
+      "name": "armR",
+      "bone": "bone",
+      "attachment": "armR"
+    },
+    {
+      "name": "body",
+      "bone": "bone",
+      "attachment": "body"
+    },
+    {
+      "name": "weapon",
+      "bone": "bone3",
+      "attachment": "weapon"
+    },
+    {
+      "name": "armL2",
+      "bone": "bone2",
+      "attachment": "armL2"
+    },
+    {
+      "name": "armL1",
+      "bone": "bone3",
+      "attachment": "armL1"
+    },
+    {
+      "name": "head",
+      "bone": "bone",
+      "attachment": "head2"
+    },
+    {
+      "name": "ear2",
+      "bone": "bone",
+      "attachment": "ear2"
+    },
+    {
+      "name": "ear1",
+      "bone": "bone",
+      "attachment": "ear1"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "armL1": {
+          "armL1": {
+            "x": 216.76,
+            "y": -32.44,
+            "rotation": 87.21,
+            "width": 229,
+            "height": 561
+          }
+        },
+        "armL2": {
+          "armL2": {
+            "x": 117.54,
+            "y": -0.04,
+            "rotation": 76.7,
+            "width": 191,
+            "height": 378
+          }
+        },
+        "armR": {
+          "armR": {
+            "x": -194.05,
+            "y": 208.5,
+            "width": 219,
+            "height": 736
+          }
+        },
+        "body": {
+          "body": {
+            "x": 17.95,
+            "y": 197.5,
+            "width": 523,
+            "height": 882
+          }
+        },
+        "ear1": {
+          "ear1": {
+            "x": -244.55,
+            "y": 1122.5,
+            "width": 240,
+            "height": 350
+          }
+        },
+        "ear2": {
+          "ear2": {
+            "x": 242.95,
+            "y": 930.5,
+            "width": 257,
+            "height": 452
+          }
+        },
+        "legL": {
+          "legL": {
+            "x": 79.13,
+            "y": 338.82,
+            "width": 198,
+            "height": 752
+          }
+        },
+        "legR": {
+          "legR": {
+            "x": -64.87,
+            "y": 350.32,
+            "width": 280,
+            "height": 713
+          }
+        },
+        "weapon": {
+          "weapon": {
+            "x": 656.05,
+            "y": -570.99,
+            "rotation": 87.21,
+            "width": 1862,
+            "height": 1121
+          }
+        }
+      }
+    },
+    {
+      "name": "eye_off",
+      "attachments": {
+        "head": {
+          "head2": {
+            "name": "head",
+            "x": 8.95,
+            "y": 949,
+            "width": 541,
+            "height": 677
+          }
+        }
+      }
+    },
+    {
+      "name": "eye_on",
+      "attachments": {
+        "head": {
+          "head2": {
+            "name": "head_eyeon",
+            "x": 8.95,
+            "y": 949,
+            "width": 541,
+            "height": 677
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {
+      "bones": {
+        "bone": {
+          "translate": [
+            {
+              "curve": [
+                0.333,
+                0,
+                0.667,
+                0,
+                0.333,
+                0,
+                0.667,
+                -24.77
+              ]
+            },
+            {
+              "time": 1,
+              "y": -24.77,
+              "curve": [
+                1.333,
+                0,
+                1.667,
+                0,
+                1.333,
+                -24.77,
+                1.667,
+                0
+              ]
+            },
+            {
+              "time": 2
+            }
+          ]
+        },
+        "bone2": {
+          "rotate": [
+            {
+              "curve": [
+                0.333,
+                0,
+                0.667,
+                2.24
+              ]
+            },
+            {
+              "time": 1,
+              "value": 2.24,
+              "curve": [
+                1.333,
+                2.24,
+                1.667,
+                0
+              ]
+            },
+            {
+              "time": 2
+            }
+          ]
+        },
+        "bone3": {
+          "rotate": [
+            {
+              "value": 1.12,
+              "curve": [
+                0.169,
+                0.56,
+                0.334,
+                0
+              ]
+            },
+            {
+              "time": 0.5,
+              "curve": [
+                0.833,
+                0,
+                1.167,
+                2.24
+              ]
+            },
+            {
+              "time": 1.5,
+              "value": 2.24,
+              "curve": [
+                1.668,
+                2.24,
+                1.836,
+                1.68
+              ]
+            },
+            {
+              "time": 2,
+              "value": 1.12
+            }
+          ]
+        }
+      }
+    }
+  }
+}

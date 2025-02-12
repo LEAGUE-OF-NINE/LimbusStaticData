@@ -1,0 +1,42 @@
+{
+  "skeleton": {
+    "hash": "RScbYZ0MmoQ",
+    "spine": "4.0.64",
+    "x": 2.19,
+    "y": -2047.54,
+    "width": 3642,
+    "height": 2050,
+    "images": "./images/",
+    "audio": ""
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "effect_front",
+      "bone": "root",
+      "attachment": "effect_front"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "effect_front": {
+          "effect_front": {
+            "x": 1823.19,
+            "y": -1022.54,
+            "width": 3642,
+            "height": 2050
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "idle": {}
+  }
+}

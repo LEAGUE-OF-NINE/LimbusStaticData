@@ -1,0 +1,12 @@
+steel_crime.png
+size:1406,748
+filter:Linear,Linear
+pma:true
+scale:0.414
+acc
+bounds:728,86,668,652
+body
+bounds:10,10,728,708
+rotate:90
+eye
+bounds:728,11,64,65

@@ -1,0 +1,38 @@
+friend-Shield.png
+size:2029,734
+filter:Linear,Linear
+pma:true
+scale:0.2397
+A 1
+bounds:1063,7,144,156
+A 2
+bounds:788,6,273,157
+D
+bounds:2,10,784,722
+H 1
+bounds:1283,2,46,48
+H 2
+bounds:1209,17,66,41
+rotate:90
+H 3
+bounds:1249,104,59,44
+rotate:90
+H 4
+bounds:1252,44,58,29
+rotate:90
+H 5
+bounds:1283,52,50,48
+rotate:90
+H 6
+bounds:1209,85,38,78
+M 1
+bounds:1346,471,261,493
+rotate:90
+M 2
+bounds:1642,71,398,385
+rotate:90
+M 3
+bounds:1346,14,294,455
+W
+bounds:788,165,567,556
+rotate:90

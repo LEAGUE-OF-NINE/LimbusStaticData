@@ -1,0 +1,13 @@
+day_yisang_idle.png
+size:1432,1195
+filter:Linear,Linear
+pma:true
+scale:0.414
+armb
+bounds:932,2,498,378
+armf
+bounds:932,382,811,440
+rotate:90
+tie
+bounds:2,141,1052,928
+rotate:90

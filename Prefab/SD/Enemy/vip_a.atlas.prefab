@@ -1,0 +1,15 @@
+vip_a.png
+size:1109,384
+filter:Linear,Linear
+pma:true
+scale:0.414
+arm_R
+bounds:1004,141,95,233
+body
+bounds:10,46,328,681
+rotate:90
+head
+bounds:701,101,293,273
+weapon
+bounds:701,10,81,363
+rotate:90

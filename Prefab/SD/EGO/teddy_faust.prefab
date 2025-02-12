@@ -1,0 +1,324 @@
+{
+  "skeleton": {
+    "hash": "6aNkH3mwIIs",
+    "spine": "4.0.64",
+    "x": -1009,
+    "y": -214,
+    "width": 2236,
+    "height": 2588,
+    "images": "./images/",
+    "audio": "G:/공유 드라이브/ProjectMoon/LimbusCompany/영상/4. 스파인/스탠딩/0704 이후/EGO 스파인/테디 파우스트/2"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "bone",
+      "parent": "root",
+      "length": 1054.43,
+      "rotation": 86.02,
+      "x": -66.7,
+      "y": 408.69
+    },
+    {
+      "name": "bone2",
+      "parent": "bone",
+      "length": 588.03,
+      "rotation": 19.31,
+      "x": 1054.43
+    },
+    {
+      "name": "bone3",
+      "parent": "bone",
+      "length": 1090.37,
+      "rotation": 169.65,
+      "x": 689.28,
+      "y": 240.5
+    },
+    {
+      "name": "bone4",
+      "parent": "bone",
+      "length": 1094.74,
+      "rotation": -154.71,
+      "x": 749.34,
+      "y": -227.52
+    }
+  ],
+  "slots": [
+    {
+      "name": "hand_L",
+      "bone": "bone4",
+      "attachment": "hand_L"
+    },
+    {
+      "name": "leg_R",
+      "bone": "root",
+      "attachment": "leg_R"
+    },
+    {
+      "name": "leg_L",
+      "bone": "root",
+      "attachment": "leg_L"
+    },
+    {
+      "name": "acc_back",
+      "bone": "bone",
+      "attachment": "acc_back"
+    },
+    {
+      "name": "body",
+      "bone": "bone",
+      "attachment": "body"
+    },
+    {
+      "name": "hand_R",
+      "bone": "bone3",
+      "attachment": "hand_R"
+    },
+    {
+      "name": "head",
+      "bone": "bone2",
+      "attachment": "head"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "acc_back": {
+          "acc_back": {
+            "x": 931.4,
+            "y": 434.49,
+            "rotation": -86.02,
+            "width": 523,
+            "height": 442
+          }
+        },
+        "body": {
+          "body": {
+            "x": 363.15,
+            "y": -57.13,
+            "rotation": -86.02,
+            "width": 1349,
+            "height": 1564
+          }
+        },
+        "hand_L": {
+          "hand_L": {
+            "x": 486.42,
+            "y": 92.77,
+            "rotation": 68.69,
+            "width": 969,
+            "height": 1538
+          }
+        },
+        "hand_R": {
+          "hand_R": {
+            "x": 423.98,
+            "y": 459.49,
+            "rotation": 104.33,
+            "width": 2181,
+            "height": 1605
+          }
+        },
+        "head": {
+          "head": {
+            "x": 284.53,
+            "y": -287.49,
+            "rotation": -105.33,
+            "width": 2037,
+            "height": 1126
+          }
+        },
+        "leg_L": {
+          "leg_L": {
+            "x": 222.5,
+            "y": 163.5,
+            "width": 443,
+            "height": 477
+          }
+        },
+        "leg_R": {
+          "leg_R": {
+            "x": -249.5,
+            "y": 167,
+            "width": 427,
+            "height": 578
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {
+      "bones": {
+        "bone": {
+          "rotate": [
+            {
+              "curve": [
+                0.333,
+                0,
+                0.667,
+                -1.2
+              ]
+            },
+            {
+              "time": 1,
+              "value": -1.2,
+              "curve": [
+                1.333,
+                -1.2,
+                1.667,
+                0
+              ]
+            },
+            {
+              "time": 2
+            }
+          ],
+          "translate": [
+            {
+              "curve": [
+                0.333,
+                0,
+                0.667,
+                0,
+                0.333,
+                0,
+                0.667,
+                -30
+              ]
+            },
+            {
+              "time": 1,
+              "y": -30,
+              "curve": [
+                1.333,
+                0,
+                1.667,
+                0,
+                1.333,
+                -30,
+                1.667,
+                0
+              ]
+            },
+            {
+              "time": 2
+            }
+          ]
+        },
+        "bone3": {
+          "rotate": [
+            {
+              "value": -0.94,
+              "curve": [
+                0.113,
+                -0.42,
+                0.223,
+                0
+              ]
+            },
+            {
+              "time": 0.3333,
+              "curve": [
+                0.667,
+                0,
+                1,
+                -3.6
+              ]
+            },
+            {
+              "time": 1.3333,
+              "value": -3.6,
+              "curve": [
+                1.557,
+                -3.6,
+                1.78,
+                -2.01
+              ]
+            },
+            {
+              "time": 2,
+              "value": -0.94
+            }
+          ]
+        },
+        "bone4": {
+          "rotate": [
+            {
+              "value": 0.94,
+              "curve": [
+                0.113,
+                0.42,
+                0.223,
+                0
+              ]
+            },
+            {
+              "time": 0.3333,
+              "curve": [
+                0.667,
+                0,
+                1,
+                3.6
+              ]
+            },
+            {
+              "time": 1.3333,
+              "value": 3.6,
+              "curve": [
+                1.557,
+                3.6,
+                1.78,
+                2.01
+              ]
+            },
+            {
+              "time": 2,
+              "value": 0.94
+            }
+          ]
+        },
+        "bone2": {
+          "rotate": [
+            {
+              "value": -2.03,
+              "curve": [
+                0.224,
+                -0.25,
+                0.446,
+                2.4
+              ]
+            },
+            {
+              "time": 0.6667,
+              "value": 2.4,
+              "curve": [
+                0.779,
+                2.4,
+                1.333,
+                -3.6
+              ]
+            },
+            {
+              "time": 1.6667,
+              "value": -3.6,
+              "curve": [
+                1.779,
+                -3.6,
+                1.891,
+                -2.93
+              ]
+            },
+            {
+              "time": 2,
+              "value": -2.03
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+kurokumo_a2_idle.png
+size:1921,503
+filter:Linear,Linear
+pma:true
+scale:0.414
+다리1
+bounds:1338,78,301,423
+다리2
+bounds:2,5,496,506
+rotate:90
+머리
+bounds:1641,2,240,242
+몸통
+bounds:1641,246,255,278
+rotate:90
+오른팔 1
+bounds:1152,162,103,111
+rotate:90
+오른팔2
+bounds:510,22,640,243
+왼팔 1
+bounds:1152,27,85,133
+왼팔2
+bounds:510,267,826,234

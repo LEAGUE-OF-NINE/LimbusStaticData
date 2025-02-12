@@ -99,6 +99,11 @@
       "id": 9114,
       "unlockcodeType": "SUBCHAPTER_CLEAR",
       "desc": "LCB Checkup "
+    },
+    {
+      "id": 9115,
+      "unlockcodeType": "SUBCHAPTER_CLEAR",
+      "desc": "5.5-ycgd returns"
     }
   ]
 }

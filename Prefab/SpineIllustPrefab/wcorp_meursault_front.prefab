@@ -1,0 +1,108 @@
+{
+  "skeleton": {
+    "hash": "YwPCAliaSEA",
+    "spine": "4.0.64",
+    "x": -13.14,
+    "y": -2079.95,
+    "width": 3660.5,
+    "height": 2082,
+    "images": "./images/",
+    "audio": "G:/공유 드라이브/ProjectMoon/LimbusCompany/영상/2022/1_스파인/1_일러스트/9_w사 뫼르소"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "bone",
+      "parent": "root",
+      "x": 1791.45,
+      "y": -1044.52
+    },
+    {
+      "name": "bone2",
+      "parent": "root",
+      "x": 3055.41,
+      "y": -935.9
+    }
+  ],
+  "slots": [
+    {
+      "name": "Effect_1",
+      "bone": "root",
+      "attachment": "Effect_1"
+    },
+    {
+      "name": "ene_3",
+      "bone": "bone2",
+      "attachment": "ene_3"
+    },
+    {
+      "name": "back_effect_1",
+      "bone": "root"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "Effect_1": {
+          "Effect_1": {
+            "x": 1808.36,
+            "y": -1267.45,
+            "width": 3643,
+            "height": 1561
+          }
+        },
+        "ene_3": {
+          "ene_3": {
+            "x": 63.45,
+            "y": -103.05,
+            "width": 1057,
+            "height": 2082
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "idle": {
+      "bones": {
+        "bone2": {
+          "scale": [
+            {
+              "curve": [
+                0.667,
+                1,
+                1.333,
+                1.03,
+                0.667,
+                1,
+                1.333,
+                1.03
+              ]
+            },
+            {
+              "time": 2,
+              "x": 1.03,
+              "y": 1.03,
+              "curve": [
+                2.667,
+                1.03,
+                3.333,
+                1,
+                2.667,
+                1.03,
+                3.333,
+                1
+              ]
+            },
+            {
+              "time": 4
+            }
+          ]
+        }
+      }
+    }
+  }
+}

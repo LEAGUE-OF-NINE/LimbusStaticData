@@ -1,0 +1,43 @@
+fairy_ism_idle.png
+size:1984,1651
+filter:Linear,Linear
+pma:true
+scale:0.414
+날개1
+bounds:1063,1456,193,603
+rotate:90
+날개2
+bounds:2,1267,271,415
+rotate:90
+날개3
+bounds:534,1484,527,165
+날개4
+bounds:1362,838,604,428
+머리
+bounds:946,1164,290,414
+rotate:90
+머리카락1
+bounds:1019,2,697,912
+rotate:90
+머리카락2
+bounds:2,1540,109,530
+rotate:90
+오른쪽 팔1
+bounds:1668,1268,381,314
+rotate:90
+오른쪽 팔2
+bounds:2,136,563,1015
+rotate:90
+왼쪽 팔 1
+bounds:419,1206,525,276
+왼쪽 팔 2
+bounds:2,701,461,1165
+rotate:90
+
+fairy_ism_idle_2.png
+size:1650,1102
+filter:Linear,Linear
+pma:true
+scale:0.414
+레이어 4
+bounds:2,2,1646,1098

@@ -1,0 +1,453 @@
+{
+  "skeleton": {
+    "hash": "uA++NCj6fl4",
+    "spine": "4.0.64",
+    "x": -361.69,
+    "y": -28.09,
+    "width": 779,
+    "height": 2286,
+    "images": "./images/",
+    "audio": "G:/공유 드라이브/ProjectMoon/LimbusCompany/영상/2022/1_스파인/스탠딩/0704 이후/인격 스파인/기본 뫼르소"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "bone",
+      "parent": "root",
+      "x": 11.4,
+      "y": 1164.7
+    },
+    {
+      "name": "bone2",
+      "parent": "bone",
+      "length": 470.36,
+      "rotation": 93.93,
+      "y": 23.46
+    },
+    {
+      "name": "bone3",
+      "parent": "bone",
+      "length": 1094.01,
+      "rotation": -99.41,
+      "x": -55.72,
+      "y": -43.99
+    },
+    {
+      "name": "bone4",
+      "parent": "bone",
+      "length": 1049.72,
+      "rotation": -84.07,
+      "x": 82.12,
+      "y": -55.72
+    },
+    {
+      "name": "target",
+      "parent": "root",
+      "x": 202.03,
+      "y": 64.89,
+      "color": "ff3f00ff"
+    },
+    {
+      "name": "target2",
+      "parent": "root",
+      "x": -223.23,
+      "y": 41.42,
+      "color": "ff3f00ff"
+    },
+    {
+      "name": "bone5",
+      "parent": "bone2",
+      "length": 301.41,
+      "rotation": 165.41,
+      "x": 404.84,
+      "y": 201.47
+    },
+    {
+      "name": "bone6",
+      "parent": "bone5",
+      "length": 326.76,
+      "rotation": 129.06,
+      "x": 301.41
+    }
+  ],
+  "slots": [
+    {
+      "name": "leg2",
+      "bone": "root",
+      "attachment": "leg2"
+    },
+    {
+      "name": "legs",
+      "bone": "root",
+      "attachment": "legs"
+    },
+    {
+      "name": "body",
+      "bone": "bone2",
+      "attachment": "body"
+    },
+    {
+      "name": "arm_R",
+      "bone": "bone5",
+      "attachment": "arm_R"
+    },
+    {
+      "name": "forearm_R",
+      "bone": "bone6",
+      "attachment": "forearm_R"
+    },
+    {
+      "name": "head",
+      "bone": "bone2",
+      "attachment": "head"
+    }
+  ],
+  "ik": [
+    {
+      "name": "target",
+      "bones": [
+        "bone4"
+      ],
+      "target": "target",
+      "compress": true
+    },
+    {
+      "name": "target2",
+      "order": 1,
+      "bones": [
+        "bone3"
+      ],
+      "target": "target2",
+      "compress": true
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "arm_R": {
+          "arm_R": {
+            "x": 148.09,
+            "y": -6.57,
+            "rotation": 100.65,
+            "width": 219,
+            "height": 370
+          }
+        },
+        "body": {
+          "body": {
+            "x": 198.76,
+            "y": -72.21,
+            "rotation": -93.93,
+            "width": 635,
+            "height": 691
+          }
+        },
+        "forearm_R": {
+          "forearm_R": {
+            "x": 165.87,
+            "y": 7.38,
+            "rotation": -28.41,
+            "width": 462,
+            "height": 331
+          }
+        },
+        "head": {
+          "head": {
+            "x": 764.69,
+            "y": -48.97,
+            "rotation": -93.93,
+            "width": 559,
+            "height": 607
+          }
+        },
+        "leg2": {
+          "leg2": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.88043,
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.89867,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              0,
+              3,
+              4,
+              1,
+              3,
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              0
+            ],
+            "vertices": [
+              1,
+              5,
+              215.27,
+              58.66,
+              1,
+              1,
+              5,
+              215.27,
+              -75.97,
+              1,
+              1,
+              5,
+              -196.73,
+              -75.97,
+              1,
+              1,
+              5,
+              -196.73,
+              38.13,
+              1,
+              1,
+              4,
+              -15.02,
+              -87.13,
+              1,
+              1,
+              4,
+              27.57,
+              322.67,
+              1
+            ],
+            "hull": 6,
+            "edges": [
+              2,
+              4,
+              8,
+              10,
+              4,
+              6,
+              6,
+              8,
+              2,
+              0,
+              0,
+              10,
+              6,
+              0
+            ],
+            "width": 412,
+            "height": 1126
+          }
+        },
+        "legs": {
+          "legs": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.1319,
+              0.41708,
+              0.86152,
+              0.41206,
+              1,
+              0,
+              1,
+              0,
+              0.83991,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              4,
+              0,
+              3,
+              4,
+              1,
+              2,
+              3,
+              1,
+              5,
+              6,
+              0,
+              4,
+              5,
+              0
+            ],
+            "vertices": [
+              1,
+              3,
+              39.76,
+              298.15,
+              1,
+              1,
+              6,
+              126.11,
+              99.72,
+              1,
+              1,
+              6,
+              123.18,
+              -69.51,
+              1,
+              1,
+              6,
+              -117.46,
+              -69.51,
+              1,
+              1,
+              6,
+              -117.46,
+              126.11,
+              1,
+              1,
+              3,
+              -23.75,
+              -304.35,
+              1,
+              1,
+              3,
+              -119.25,
+              271.79,
+              1
+            ],
+            "hull": 7,
+            "edges": [
+              10,
+              12,
+              6,
+              8,
+              8,
+              10,
+              8,
+              2,
+              4,
+              6,
+              2,
+              4,
+              0,
+              12,
+              2,
+              0
+            ],
+            "width": 584,
+            "height": 1222
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "idle": {
+      "bones": {
+        "bone": {
+          "translate": [
+            {
+              "curve": [
+                0.333,
+                0,
+                0.667,
+                3.75,
+                0.333,
+                0,
+                0.667,
+                -56.31
+              ]
+            },
+            {
+              "time": 1,
+              "x": 3.75,
+              "y": -56.31,
+              "curve": [
+                1.333,
+                3.75,
+                1.667,
+                0,
+                1.333,
+                -56.31,
+                1.667,
+                0
+              ]
+            },
+            {
+              "time": 2
+            }
+          ]
+        },
+        "bone5": {
+          "rotate": [
+            {
+              "value": 0.35,
+              "curve": [
+                0.169,
+                2.02,
+                0.334,
+                3.73
+              ]
+            },
+            {
+              "time": 0.5,
+              "value": 3.73,
+              "curve": [
+                0.668,
+                3.73,
+                1.334,
+                -3.03
+              ]
+            },
+            {
+              "time": 1.5,
+              "value": -3.03,
+              "curve": [
+                1.668,
+                -3.03,
+                1.836,
+                -1.36
+              ]
+            },
+            {
+              "time": 2,
+              "value": 0.35
+            }
+          ]
+        },
+        "bone6": {
+          "rotate": [
+            {
+              "value": 3.73,
+              "curve": [
+                0.333,
+                3.73,
+                0.667,
+                -3.03
+              ]
+            },
+            {
+              "time": 1,
+              "value": -3.03,
+              "curve": [
+                1.333,
+                -3.03,
+                1.667,
+                3.73
+              ]
+            },
+            {
+              "time": 2,
+              "value": 3.73
+            }
+          ]
+        }
+      }
+    }
+  }
+}

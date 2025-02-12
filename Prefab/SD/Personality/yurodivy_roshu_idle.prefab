@@ -1,0 +1,414 @@
+{
+  "skeleton": {
+    "hash": "h+FXzTndE3w",
+    "spine": "4.0.64",
+    "x": -906,
+    "y": -30,
+    "width": 1683,
+    "height": 2212,
+    "images": "./images/",
+    "audio": "I:/공유 드라이브/ProjectMoon/LimbusCompany/아트 리소스 폴더/1.전투 리소스/1.최종 SD파일/04.료슈/유로지비 료슈/idle 스파인"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "bone",
+      "parent": "root",
+      "x": 24.98,
+      "y": 1009.71
+    },
+    {
+      "name": "bone2",
+      "parent": "bone",
+      "length": 770.09,
+      "rotation": -91.21,
+      "y": -71.47
+    },
+    {
+      "name": "target",
+      "parent": "root",
+      "x": 8.74,
+      "y": 168.32,
+      "color": "ff3f00ff"
+    },
+    {
+      "name": "target2",
+      "parent": "target",
+      "length": 617.24,
+      "rotation": 0.3,
+      "x": -311.87,
+      "y": -136.44,
+      "color": "ff3f00ff"
+    },
+    {
+      "name": "bone3",
+      "parent": "bone",
+      "length": 206.22,
+      "rotation": -134.19,
+      "x": -214.69,
+      "y": 318.1
+    },
+    {
+      "name": "bone4",
+      "parent": "bone3",
+      "length": 290.55,
+      "rotation": -92.53,
+      "x": 206.22
+    }
+  ],
+  "slots": [
+    {
+      "name": "weapon2",
+      "bone": "bone",
+      "attachment": "weapon2"
+    },
+    {
+      "name": "weapon",
+      "bone": "bone4",
+      "attachment": "weapon"
+    },
+    {
+      "name": "legL",
+      "bone": "root",
+      "attachment": "legL"
+    },
+    {
+      "name": "armL2",
+      "bone": "bone",
+      "attachment": "armL2"
+    },
+    {
+      "name": "body",
+      "bone": "bone",
+      "attachment": "body"
+    },
+    {
+      "name": "clothesL",
+      "bone": "bone",
+      "attachment": "clothesL"
+    },
+    {
+      "name": "clothesR",
+      "bone": "bone",
+      "attachment": "clothesR"
+    },
+    {
+      "name": "string",
+      "bone": "bone",
+      "attachment": "string"
+    },
+    {
+      "name": "armL1",
+      "bone": "bone",
+      "attachment": "armL1"
+    },
+    {
+      "name": "armR2",
+      "bone": "bone3",
+      "attachment": "armR2"
+    },
+    {
+      "name": "armR1",
+      "bone": "bone4",
+      "attachment": "armR1"
+    },
+    {
+      "name": "head",
+      "bone": "bone",
+      "attachment": "head"
+    }
+  ],
+  "ik": [
+    {
+      "name": "target",
+      "bones": [
+        "bone2"
+      ],
+      "target": "target"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "armL1": {
+          "armL1": {
+            "x": 245.52,
+            "y": 88.29,
+            "width": 307,
+            "height": 296
+          }
+        },
+        "armL2": {
+          "armL2": {
+            "x": 218.02,
+            "y": 285.79,
+            "width": 140,
+            "height": 281
+          }
+        },
+        "armR1": {
+          "armR1": {
+            "x": 146.1,
+            "y": 1.19,
+            "rotation": -133.28,
+            "width": 481,
+            "height": 469
+          }
+        },
+        "armR2": {
+          "armR2": {
+            "x": 124.65,
+            "y": -41.69,
+            "rotation": 134.19,
+            "width": 293,
+            "height": 373
+          }
+        },
+        "body": {
+          "body": {
+            "x": -13.98,
+            "y": 204.79,
+            "width": 378,
+            "height": 615
+          }
+        },
+        "clothesL": {
+          "clothesL": {
+            "x": 156.52,
+            "y": 135.29,
+            "width": 201,
+            "height": 682
+          }
+        },
+        "clothesR": {
+          "clothesR": {
+            "x": -187.48,
+            "y": 148.79,
+            "width": 201,
+            "height": 721
+          }
+        },
+        "head": {
+          "head": {
+            "x": -18.48,
+            "y": 740.79,
+            "width": 745,
+            "height": 863
+          }
+        },
+        "legL": {
+          "legL": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              0.87604,
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.89078,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              3,
+              4,
+              0,
+              1,
+              2,
+              3,
+              1,
+              3,
+              0,
+              4,
+              5,
+              0
+            ],
+            "vertices": [
+              1,
+              4,
+              691.51,
+              71.08,
+              1,
+              1,
+              4,
+              690.79,
+              -65.52,
+              1,
+              1,
+              4,
+              -62.2,
+              -61.56,
+              1,
+              1,
+              4,
+              -61.56,
+              58.8,
+              1,
+              1,
+              2,
+              -125.5,
+              -392.71,
+              1,
+              1,
+              2,
+              -141.38,
+              360.12,
+              1
+            ],
+            "hull": 6,
+            "edges": [
+              2,
+              4,
+              8,
+              10,
+              4,
+              6,
+              6,
+              8,
+              2,
+              0,
+              0,
+              10,
+              6,
+              0
+            ],
+            "width": 753,
+            "height": 1102
+          }
+        },
+        "string": {
+          "string": {
+            "x": -60.48,
+            "y": 262.79,
+            "width": 395,
+            "height": 421
+          }
+        },
+        "weapon": {
+          "weapon": {
+            "x": 151.97,
+            "y": -512.58,
+            "rotation": -133.28,
+            "width": 1683,
+            "height": 898
+          }
+        },
+        "weapon2": {
+          "weapon2": {
+            "x": -232.48,
+            "y": -82.21,
+            "width": 817,
+            "height": 1681
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {
+      "bones": {
+        "bone": {
+          "translate": [
+            {
+              "curve": [
+                0.333,
+                0,
+                0.667,
+                0,
+                0.333,
+                0,
+                0.667,
+                -22.59
+              ]
+            },
+            {
+              "time": 1,
+              "y": -22.59,
+              "curve": [
+                1.333,
+                0,
+                1.667,
+                0,
+                1.333,
+                -22.59,
+                1.667,
+                0
+              ]
+            },
+            {
+              "time": 2
+            }
+          ]
+        },
+        "bone3": {
+          "rotate": [
+            {
+              "curve": [
+                0.333,
+                0,
+                0.667,
+                -1.32
+              ]
+            },
+            {
+              "time": 1,
+              "value": -1.32,
+              "curve": [
+                1.333,
+                -1.32,
+                1.667,
+                0
+              ]
+            },
+            {
+              "time": 2
+            }
+          ]
+        },
+        "bone4": {
+          "rotate": [
+            {
+              "value": -0.73,
+              "curve": [
+                0.18,
+                -0.38,
+                0.357,
+                0
+              ]
+            },
+            {
+              "time": 0.5333,
+              "curve": [
+                0.867,
+                0,
+                1.2,
+                -1.32
+              ]
+            },
+            {
+              "time": 1.5333,
+              "value": -1.32,
+              "curve": [
+                1.69,
+                -1.32,
+                1.847,
+                -1.03
+              ]
+            },
+            {
+              "time": 2,
+              "value": -0.73
+            }
+          ]
+        }
+      }
+    }
+  }
+}

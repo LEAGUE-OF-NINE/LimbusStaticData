@@ -1,0 +1,104 @@
+rosesign_deadscene.png
+size:455,538
+filter:Linear,Linear
+pma:true
+scale:0.333
+rose
+bounds:294,128,145,136
+rotate:90
+rose_00
+bounds:283,383,138,145
+stem_1
+bounds:10,211,263,317
+stem_2
+bounds:10,14,187,274
+rotate:90
+stem_3
+bounds:294,10,133,108
+stem_4
+bounds:283,283,162,90
+
+rosesign_deadscene_2.png
+size:1346,899
+filter:Linear,Linear
+pma:true
+scale:0.333
+Hair/Grgr_hair
+bounds:1116,663,202,226
+Hair/HL_backhair
+bounds:511,228,275,385
+rotate:90
+Hair/HL_hair
+bounds:1118,251,188,218
+rotate:90
+Hair/Heath_hair
+bounds:906,46,234,185
+Hair/Ro_back hair
+bounds:511,513,376,369
+rotate:90
+Hair/Ro_hair
+bounds:906,241,202,269
+Hair/Sinc_hair
+bounds:240,22,207,203
+rotate:90
+Hair/Yi_hair
+bounds:1150,58,183,166
+rotate:90
+Hair/donQ_hair
+bounds:1118,449,199,204
+Hair/fa_hair
+bounds:236,239,210,228
+rotate:90
+Hair/is_backhair
+bounds:10,459,430,491
+rotate:90
+Hair/is_hair
+bounds:10,10,220,213
+Hair/mrs_hair
+bounds:890,520,186,143
+Hair/ots_hair
+bounds:890,673,216,216
+Hair/rs_hair
+bounds:10,233,216,216
+
+rosesign_deadscene_3.png
+size:1097,302
+filter:Linear,Linear
+pma:true
+scale:0.333
+images/L arm 2s
+bounds:779,11,52,117
+images/L arms
+bounds:908,19,49,109
+images/L hand
+bounds:1033,74,54,54
+images/L leg
+bounds:345,107,72,185
+images/Lleg2
+bounds:86,63,97,229
+images/R arm1 s
+bounds:841,15,57,113
+images/R arm2 s
+bounds:712,11,57,117
+images/R hand
+bounds:967,64,64,56
+rotate:90
+images/R leg 1
+bounds:193,10,69,163
+rotate:90
+images/R leg 2
+bounds:10,56,66,236
+images/bottom
+bounds:366,25,118,72
+images/front head
+bounds:427,114,169,178
+images/gokiburi
+bounds:606,138,154,475
+rotate:90
+images/mrshand
+bounds:494,36,68,140
+rotate:90
+images/necktie
+bounds:644,11,58,117
+images/top S
+bounds:193,89,142,203

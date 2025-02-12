@@ -1,0 +1,26 @@
+idle_wcorp_honglu.png
+size:1800,761
+filter:Linear,Linear
+pma:true
+scale:0.414
+acc
+bounds:10,10,1010,741
+arm1
+bounds:1688,60,116,82
+rotate:90
+head
+bounds:1030,11,252,280
+골반 2
+bounds:1383,282,237,469
+뒷머리
+bounds:1030,301,343,450
+몸
+bounds:1292,43,178,229
+오른팔-1
+bounds:1688,186,90,147
+오른팔-2
+bounds:1586,77,92,195
+왼다리-2
+bounds:1630,343,160,408
+왼팔-2
+bounds:1480,72,96,200

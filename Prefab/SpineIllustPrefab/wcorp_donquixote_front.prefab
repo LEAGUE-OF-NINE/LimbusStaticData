@@ -1,0 +1,137 @@
+{
+  "skeleton": {
+    "hash": "8lJjkY5F3kk",
+    "spine": "4.0.64",
+    "x": 2.08,
+    "y": -2043.99,
+    "width": 3824,
+    "height": 2083,
+    "images": "./images/",
+    "audio": ""
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "bone",
+      "parent": "root",
+      "x": 1787.98,
+      "y": -991.6
+    }
+  ],
+  "slots": [
+    {
+      "name": "effect",
+      "bone": "bone",
+      "attachment": "effect"
+    },
+    {
+      "name": "effect2",
+      "bone": "root",
+      "attachment": "effect2"
+    },
+    {
+      "name": "blood",
+      "bone": "root",
+      "attachment": "blood"
+    },
+    {
+      "name": "front",
+      "bone": "root",
+      "attachment": "front"
+    },
+    {
+      "name": "vignette",
+      "bone": "root",
+      "attachment": "vignette"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "blood": {
+          "blood": {
+            "x": 1924.08,
+            "y": -965.99,
+            "width": 3590,
+            "height": 1938
+          }
+        },
+        "effect": {
+          "effect": {
+            "x": 126.1,
+            "y": -10.88,
+            "width": 3824,
+            "height": 2083
+          }
+        },
+        "effect2": {
+          "effect2": {
+            "x": 1772.08,
+            "y": -1018.99,
+            "width": 3540,
+            "height": 2050
+          }
+        },
+        "front": {
+          "front": {
+            "x": 2374.08,
+            "y": -1658.99,
+            "width": 2540,
+            "height": 768
+          }
+        },
+        "vignette": {
+          "vignette": {
+            "x": 1823.08,
+            "y": -1018.99,
+            "width": 3642,
+            "height": 2050
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "idle": {
+      "bones": {
+        "bone": {
+          "scale": [
+            {
+              "curve": [
+                0.667,
+                1,
+                1.333,
+                1.014,
+                0.667,
+                1,
+                1.333,
+                1.014
+              ]
+            },
+            {
+              "time": 2,
+              "x": 1.014,
+              "y": 1.014,
+              "curve": [
+                2.667,
+                1.014,
+                3.333,
+                1,
+                2.667,
+                1.014,
+                3.333,
+                1
+              ]
+            },
+            {
+              "time": 4
+            }
+          ]
+        }
+      }
+    }
+  }
+}

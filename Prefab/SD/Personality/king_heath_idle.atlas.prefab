@@ -1,0 +1,78 @@
+king_heath_idle.png
+size:1835,1448
+filter:Linear,Linear
+pma:true
+scale:0.414
+1
+bounds:2,254,577,420
+Layer 10
+bounds:298,1305,141,158
+rotate:90
+Layer 11
+bounds:1494,1210,236,339
+rotate:90
+Layer 18
+bounds:2,1395,149,51
+Layer 19
+bounds:153,1349,143,97
+Layer 27
+bounds:856,1256,190,374
+rotate:90
+Layer 5
+bounds:1232,1214,232,260
+rotate:90
+Layer 8
+bounds:2,676,352,579
+rotate:90
+뒷다리b
+bounds:583,563,367,531
+rotate:90
+뒷다리f
+bounds:581,2,528,730
+rotate:90
+레이어 999
+bounds:1116,532,390,549
+rotate:90
+머리
+bounds:909,932,322,321
+rotate:90
+사슬
+bounds:2,1030,224,905
+rotate:90
+앞다리b
+bounds:1232,924,284,451
+rotate:90
+팔
+bounds:458,1298,148,396
+rotate:90
+
+king_heath_idle_2.png
+size:1890,1656
+filter:Linear,Linear
+pma:true
+scale:0.414
+tail
+bounds:2,48,929,841
+레이어 1000
+bounds:1100,871,783,788
+rotate:90
+몸통
+bounds:2,891,1096,763
+앞다리f
+bounds:933,2,883,867
+
+king_heath_idle_3.png
+size:1219,1081
+filter:Linear,Linear
+pma:true
+scale:0.414
+weapon
+bounds:2,2,1215,1077
+
+king_heath_idle_4.png
+size:1299,1229
+filter:Linear,Linear
+pma:true
+scale:0.414
+원본
+bounds:2,2,1295,1225

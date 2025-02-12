@@ -1,0 +1,34 @@
+outis_apple_idle.png
+size:1930,1710
+filter:Linear,Linear
+pma:true
+scale:0.414
+Larm1
+bounds:1181,12,277,350
+rotate:90
+Larm2
+bounds:1541,382,320,316
+R arm
+bounds:399,38,202,197
+rotate:90
+Rhand
+bounds:1181,299,272,399
+back
+bounds:1181,708,992,739
+rotate:90
+jewel
+bounds:911,123,117,107
+rotate:90
+rob
+bounds:606,40,295,200
+레이어 1
+bounds:10,10,230,379
+rotate:90
+레이어 2
+bounds:1028,126,113,114
+레이어 22 복사
+bounds:10,250,1450,1161
+rotate:90
+레이어 7 복사
+bounds:1541,105,267,246
+rotate:90

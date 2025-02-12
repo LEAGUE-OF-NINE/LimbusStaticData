@@ -732,6 +732,42 @@
           9778,
           9779
         ]
+      },
+      {
+        "aEgoGiftId": 2029,
+        "bEgoGiftId": 9782,
+        "resultEgoGiftId": 9783,
+        "requiredEgoGiftIds": [
+          2029,
+          9782
+        ]
+      },
+      {
+        "aEgoGiftId": 2030,
+        "bEgoGiftId": 9782,
+        "resultEgoGiftId": 9784,
+        "requiredEgoGiftIds": [
+          2030,
+          9782
+        ]
+      },
+      {
+        "aEgoGiftId": 9714,
+        "bEgoGiftId": 9782,
+        "resultEgoGiftId": 9783,
+        "requiredEgoGiftIds": [
+          9714,
+          9782
+        ]
+      },
+      {
+        "aEgoGiftId": 9715,
+        "bEgoGiftId": 9782,
+        "resultEgoGiftId": 9784,
+        "requiredEgoGiftIds": [
+          9715,
+          9782
+        ]
       }
     ],
     "combineMixed": [
@@ -887,6 +923,39 @@
               2051939
             ],
             "typeName": "ycgd_battle"
+          },
+          {
+            "idArray": [
+              911501,
+              911502,
+              911503,
+              911504,
+              911505,
+              911506,
+              911507,
+              911508,
+              911509,
+              911510,
+              911511,
+              911512,
+              911513,
+              911514,
+              911515,
+              911516,
+              911517,
+              911518,
+              911519,
+              911520,
+              911521,
+              911522,
+              911523,
+              911524,
+              911525,
+              911526,
+              911527,
+              911528
+            ],
+            "typeName": "ycgd_battle"
           }
         ]
       },
@@ -987,6 +1056,21 @@
               2052765
             ],
             "typeName": "ycgd_battle"
+          },
+          {
+            "idArray": [
+              911529,
+              911530,
+              911531,
+              911532,
+              911533,
+              911534,
+              911535,
+              911536,
+              911537,
+              911538
+            ],
+            "typeName": "ycgd_battle"
           }
         ]
       },
@@ -1033,6 +1117,23 @@
               2053718
             ],
             "typeName": "ycgd_hard_battle"
+          },
+          {
+            "idArray": [
+              911539,
+              911540,
+              911541,
+              911542,
+              911543,
+              911544,
+              911545,
+              911546,
+              911547,
+              911548,
+              911549,
+              911550
+            ],
+            "typeName": "ycgd_hard_battle"
           }
         ]
       },
@@ -1046,6 +1147,18 @@
               10508,
               10509,
               10510
+            ],
+            "typeName": "ycgd_battle"
+          },
+          {
+            "idArray": [
+              10506,
+              10507,
+              10508,
+              10509,
+              10510,
+              971049,
+              971050
             ],
             "typeName": "ycgd_battle"
           }
@@ -1069,6 +1182,12 @@
           {
             "idArray": [
               2054411
+            ],
+            "typeName": "ycgd_boss"
+          },
+          {
+            "idArray": [
+              911551
             ],
             "typeName": "ycgd_boss"
           }

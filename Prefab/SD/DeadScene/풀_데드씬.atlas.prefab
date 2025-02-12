@@ -1,0 +1,282 @@
+풀_데드씬.png
+size:4060,1565
+filter:Linear,Linear
+pma:true
+L arm 2s
+bounds:3682,603,152,348
+offsets:2,1,155,350
+L arms
+bounds:742,95,145,325
+offsets:1,2,148,328
+rotate:90
+L hand
+bounds:3839,80,159,159
+offsets:2,1,162,162
+L leg
+bounds:2141,380,213,552
+offsets:2,2,217,555
+rotate:90
+Lleg2
+bounds:3250,416,284,686
+offsets:5,1,290,689
+R arm1 s
+bounds:2087,2,166,337
+offsets:1,1,172,339
+rotate:90
+R arm2 s blood
+bounds:3680,39,157,429
+R hand
+bounds:2426,7,190,161
+offsets:1,1,192,167
+R leg 1
+bounds:2133,170,208,490
+rotate:90
+R leg 2
+bounds:3839,241,199,710
+blood1
+bounds:1835,478,472,304
+rotate:90
+blood2
+bounds:3234,28,444,386
+blood3
+bounds:1424,148,802,409
+rotate:90
+blood4
+bounds:3536,470,481,144
+rotate:90
+blood5
+bounds:1835,21,455,116
+rotate:90
+blood6
+bounds:2742,539,563,506
+rotate:90
+blood7
+bounds:2695,314,537,223
+blood8
+bounds:1424,952,611,780
+rotate:90
+blood9
+bounds:2,242,1321,1420
+rotate:90
+bottom
+bounds:2625,96,354,216
+front head
+bounds:2206,595,507,534
+rotate:90
+gg
+bounds:1953,281,195,178
+rotate:90
+gg2
+bounds:1069,100,140,146
+rotate:90
+gg3
+bounds:1217,85,155,136
+rotate:90
+gg4
+bounds:3682,496,105,131
+rotate:90
+gokiburi
+bounds:2206,1104,459,1424
+offsets:3,1,463,1426
+rotate:90
+guts
+bounds:1953,15,132,264
+offsets:1,1,134,266
+guts2
+bounds:2981,5,307,195
+rotate:90
+mrshand
+bounds:2,39,201,416
+offsets:1,1,205,419
+rotate:90
+necktie
+bounds:420,71,169,320
+offsets:5,3,175,352
+rotate:90
+top S
+bounds:3632,953,426,610
+
+풀_데드씬_2.png
+size:4031,1907
+filter:Linear,Linear
+pma:true
+Hair/Grgr hair
+bounds:2563,148,601,672
+offsets:1,5,607,678
+rotate:90
+Hair/HL_backhair
+bounds:2606,751,822,1154
+offsets:2,2,826,1157
+Hair/Heath hair
+bounds:3237,50,699,552
+offsets:3,1,704,555
+rotate:90
+Hair/Ro hair
+bounds:616,7,606,785
+offsets:1,21,608,807
+rotate:90
+Hair/Ro_back hair
+bounds:1477,799,1127,1106
+offsets:1,1,1129,1108
+Hair/fa_hair
+bounds:3430,1226,599,679
+offsets:11,4,632,684
+Hair/is_backhair
+bounds:2,615,1290,1473
+rotate:90
+Hair/is_hair
+bounds:1477,156,660,641
+Hair/mrs hair
+bounds:2139,259,538,422
+offsets:1,6,559,429
+rotate:90
+Hair/rs_hair
+bounds:2,2,611,612
+offsets:19,19,650,650
+rotate:90
+
+풀_데드씬_3.png
+size:2863,624
+filter:Linear,Linear
+pma:true
+Hair/HL hair
+bounds:2,59,563,652
+offsets:1,2,565,655
+rotate:90
+Hair/Sinc hair
+bounds:1826,2,620,539
+offsets:1,69,622,609
+rotate:90
+Hair/Yi hair
+bounds:2367,74,548,494
+offsets:1,2,550,498
+rotate:90
+Hair/donQ hair
+bounds:656,13,594,609
+offsets:1,2,597,612
+Hair/ots_hair
+bounds:1252,13,609,572
+offsets:16,33,650,650
+rotate:90
+
+풀_데드씬_4.png
+size:2100,939
+filter:Linear,Linear
+pma:true
+body
+bounds:2,2,935,1059
+rotate:90
+head
+bounds:1063,146,629,791
+leaf1
+bounds:1745,236,187,294
+rotate:90
+leaf2
+bounds:1745,588,230,326
+rotate:90
+leaf3
+bounds:1745,50,292,184
+leaf4
+bounds:1745,425,295,161
+leaf5
+bounds:1430,41,313,103
+vessel1
+bounds:1063,27,117,365
+rotate:90
+vessel2
+bounds:1694,820,117,404
+rotate:90
+
+풀_데드씬_5.png
+size:3748,1197
+filter:Linear,Linear
+pma:true
+chr/L arm 2s
+bounds:2635,2,152,348
+offsets:2,1,155,350
+rotate:90
+chr/L arms
+bounds:3173,283,145,325
+offsets:1,2,148,328
+rotate:90
+chr/L hand
+bounds:3435,32,159,159
+offsets:2,1,162,162
+chr/L leg
+bounds:1422,214,213,552
+offsets:2,2,217,555
+rotate:90
+chr/Lleg2
+bounds:2033,389,284,686
+offsets:5,1,290,689
+rotate:90
+chr/R arm1 s
+bounds:3173,430,166,337
+offsets:1,1,172,339
+rotate:90
+chr/R arm2 s blood
+bounds:2686,156,150,425
+offsets:3,2,157,429
+rotate:90
+chr/R hand
+bounds:3500,193,190,161
+offsets:1,1,192,167
+chr/R leg 1
+bounds:1398,7,205,488
+offsets:1,1,208,490
+rotate:90
+chr/R leg 2
+bounds:1976,190,197,708
+offsets:1,1,199,710
+rotate:90
+chr/blood1
+bounds:2721,424,450,301
+offsets:21,2,472,304
+chr/blood2
+bounds:3083,813,442,382
+offsets:1,2,444,386
+chr/blood3
+bounds:2,9,800,406
+offsets:1,2,802,409
+chr/blood4
+bounds:1888,46,479,142
+offsets:1,1,481,144
+chr/blood5
+bounds:2721,308,447,114
+offsets:7,1,455,116
+chr/blood6
+bounds:2538,727,543,468
+offsets:18,32,563,506
+chr/blood7
+bounds:3527,662,533,219
+offsets:2,3,537,223
+rotate:90
+chr/blood8
+bounds:1422,429,609,766
+offsets:1,2,611,780
+chr/blood9
+bounds:2,417,778,1418
+offsets:542,1,1321,1420
+rotate:90
+chr/bottom
+bounds:3173,598,352,213
+offsets:1,1,354,216
+chr/front head
+bounds:2033,675,503,520
+offsets:2,1,507,534
+chr/guts
+bounds:2369,56,132,264
+offsets:1,1,134,266
+rotate:90
+chr/guts2
+bounds:3527,356,304,192
+offsets:2,1,307,195
+rotate:90
+chr/necktie
+bounds:3113,112,169,320
+offsets:5,3,175,352
+rotate:90
+chr/top S
+bounds:804,39,376,592
+offsets:43,17,426,610
+rotate:90

@@ -1,0 +1,32 @@
+ahab_ism.png
+size:1516,862
+filter:Linear,Linear
+pma:true
+scale:0.414
+머리
+bounds:499,18,319,296
+머리1
+bounds:2,6,308,495
+rotate:90
+머리2
+bounds:982,381,396,479
+무기
+bounds:2,316,544,978
+rotate:90
+상체
+bounds:820,44,116,270
+오른쪽 다리
+bounds:1380,424,134,436
+오른쪽 손
+bounds:1291,10,127,188
+옷 1
+bounds:938,88,110,351
+rotate:90
+옷 2
+bounds:938,2,84,279
+rotate:90
+왼쪽 다리
+bounds:982,200,179,432
+rotate:90
+왼쪽 팔
+bounds:1416,239,96,183

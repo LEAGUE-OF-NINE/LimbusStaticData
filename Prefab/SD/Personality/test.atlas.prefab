@@ -1,0 +1,16 @@
+test.png
+size:1017,746
+filter:Linear,Linear
+pma:true
+scale:0.414
+armL
+bounds:10,14,416,480
+rotate:90
+armR
+bounds:500,10,420,507
+rotate:90
+body
+bounds:292,440,296,635
+rotate:90
+head
+bounds:10,464,272,272

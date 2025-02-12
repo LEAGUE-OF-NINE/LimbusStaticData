@@ -9,39 +9,46 @@
       "effect": "CustomCamShake:[15][3][3]",
       "bgm": "Clear_Wind",
       "soundeffect": "SFX_Cloth_Rubbed_Move, SFX_Walk_Stair",
+      "voice": "S552V-429",
       "effectv2": "{\"cadj\": {\"isActive\":\"true\",\"ctrl\":\"true\", \"sat\":-50}}"
     },
     {
       "id": 1,
       "characterlist": "로쟈 : 8",
       "feeling": "smile2",
-      "soundeffect": "SFX_Cotton_Crumble_Light"
+      "soundeffect": "SFX_Cotton_Crumble_Light",
+      "voice": "S552V-430"
     },
     {
       "id": 2,
       "characterlist": "ALL : -1, 앵두 : 1",
-      "feeling": "angry"
+      "feeling": "angry",
+      "voice": "S552V-431"
     },
     {
       "id": 3,
       "characterlist": "히스클리프 : 5",
       "feeling": "surprise",
       "emotion": "Question",
-      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew",
+      "voice": "S552V-432"
     },
     {
       "id": 4,
       "feeling": "idle",
-      "soundeffect": "SFX_Leather_Crumble_Light"
+      "soundeffect": "SFX_Leather_Crumble_Light",
+      "voice": "S552V-433"
     },
     {
-      "id": 5
+      "id": 5,
+      "voice": "S552V-434"
     },
     {
       "id": 6,
       "feeling": "surprise",
       "bgm": "StoryNervous",
-      "soundeffect": "SFX_Leather_Crumble_Hard"
+      "soundeffect": "SFX_Leather_Crumble_Hard",
+      "voice": "S552V-435"
     },
     {
       "id": 7,
@@ -54,7 +61,8 @@
       "id": 9,
       "characterlist": "돈키호테 : 3",
       "feeling": "nervous",
-      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew",
+      "voice": "S552V-438"
     },
     {
       "id": 10
@@ -62,12 +70,14 @@
     {
       "id": 11,
       "feeling": "sad",
-      "soundeffect": "SFX_Cloth_Rubbed_Move"
+      "soundeffect": "SFX_Cloth_Rubbed_Move",
+      "voice": "S552V-440"
     },
     {
       "id": 12,
       "characterlist": "싱클레어 : 3",
-      "feeling": "sad4"
+      "feeling": "sad4",
+      "voice": "S552V-441"
     },
     {
       "id": 13,
@@ -78,34 +88,41 @@
       "id": 14,
       "characterlist": "앵두 : 5",
       "feeling": "idle",
-      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew",
+      "voice": "S552V-443"
     },
     {
-      "id": 15
+      "id": 15,
+      "voice": "S552V-444"
     },
     {
       "id": 16,
       "feeling": "angry",
-      "soundeffect": "SFX_Cloth_Rubbed_Move"
+      "soundeffect": "SFX_Cloth_Rubbed_Move",
+      "voice": "S552V-445"
     },
     {
       "id": 17,
-      "feeling": "idle"
+      "feeling": "idle",
+      "voice": "S552V-446"
     },
     {
       "id": 18,
       "feeling": "sad",
-      "soundeffect": "SFX_Sweat_Crumble_Light"
+      "soundeffect": "SFX_Sweat_Crumble_Light",
+      "voice": "S552V-447"
     },
     {
       "id": 19,
-      "soundeffect": "SFX_Cloth_Crumble"
+      "soundeffect": "SFX_Cloth_Crumble",
+      "voice": "S552V-448"
     },
     {
       "id": 20,
       "characterlist": "싱클레어 : 7",
       "feeling": "sad4",
-      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew",
+      "voice": "S552V-449"
     },
     {
       "id": 21,
@@ -119,7 +136,8 @@
       "characterlist": "앵두 : 9",
       "feeling": "idle",
       "bgm": "Clear_Wind",
-      "soundeffect": "SFX_Jean_Crumble_Light"
+      "soundeffect": "SFX_Jean_Crumble_Light",
+      "voice": "S552V-452"
     },
     {
       "id": 24

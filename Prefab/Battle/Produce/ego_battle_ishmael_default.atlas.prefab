@@ -1,0 +1,13 @@
+ego_battle_ishmael_default.png
+size:1820,834
+filter:Linear,Linear
+pma:true
+ego_back_heart01
+bounds:2,2,686,830
+ego_back_heart02
+bounds:1351,271,435,561
+ego_back_heart03
+bounds:690,35,659,797
+ego_back_heart04
+bounds:1351,198,71,467
+rotate:90

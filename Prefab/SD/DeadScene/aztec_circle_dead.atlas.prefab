@@ -1,0 +1,212 @@
+aztec_circle_dead.png
+size:316,115
+filter:Linear,Linear
+pma:true
+scale:0.33
+aztec_circle_dead_export/aztec_circle_dead
+bounds:284,32,73,22
+rotate:90
+aztec_circle_dead_export/aztec_circle_dead_2
+bounds:10,10,95,102
+rotate:90
+aztec_circle_dead_export/aztec_circle_dead_3
+bounds:122,18,36,125
+rotate:90
+aztec_circle_dead_export/aztec_circle_dead_4
+bounds:122,64,41,152
+rotate:90
+
+aztec_circle_dead_2.png
+size:787,220
+filter:Linear,Linear
+pma:true
+scale:0.33
+fx/eye,-mouth
+bounds:724,156,53,54
+fx/fire_01
+bounds:10,10,200,347
+rotate:90
+fx/fire_02
+bounds:367,10,200,347
+rotate:90
+fx/glow
+bounds:724,113,33,33
+
+aztec_circle_dead_3.png
+size:1071,1093
+filter:Linear,Linear
+pma:true
+scale:0.33
+Hair/Grgr hair
+bounds:729,647,200,224
+rotate:90
+Hair/HL hair
+bounds:688,451,186,216
+rotate:90
+Hair/HL_backhair
+bounds:446,701,273,382
+Hair/Heath hair
+bounds:446,508,232,183
+Hair/Ro hair
+bounds:10,10,201,266
+rotate:90
+Hair/Ro_back hair
+bounds:10,221,373,366
+Hair/Sinc hair
+bounds:286,10,205,201
+Hair/Yi hair
+bounds:860,52,182,164
+Hair/donQ hair
+bounds:501,14,197,202
+Hair/fa_hair
+bounds:729,857,209,226
+Hair/is_backhair
+bounds:10,597,426,486
+Hair/is_hair
+bounds:393,286,218,212
+Hair/mrs hair
+bounds:708,32,184,142
+rotate:90
+Hair/ots_hair
+bounds:621,226,215,215
+Hair/rs_hair
+bounds:846,226,215,215
+
+aztec_circle_dead_4.png
+size:1450,300
+filter:Linear,Linear
+pma:true
+scale:0.33
+images/L arm
+bounds:1329,89,49,108
+rotate:90
+images/L arm 2
+bounds:943,11,54,116
+images/L arm 2s
+bounds:1007,11,51,116
+images/L arm 2s_green
+bounds:1068,11,51,116
+images/L arms
+bounds:1329,30,49,108
+rotate:90
+images/L hand
+bounds:1377,172,53,53
+images/L leg
+bounds:513,107,72,183
+images/Lleg2
+bounds:256,63,96,227
+images/R arm 1
+bounds:1195,15,57,112
+images/R arm1 s
+bounds:1262,26,57,112
+images/R arm2
+bounds:1129,12,56,115
+images/R arm2 s
+bounds:877,11,56,116
+images/R arm2 s blood
+bounds:1253,148,52,142
+images/R arm2 s blood_Green
+bounds:1315,148,52,142
+images/R hand
+bounds:1377,235,63,55
+images/R leg 1
+bounds:362,10,69,162
+rotate:90
+images/R leg 2
+bounds:180,56,66,234
+images/bottom
+bounds:534,26,117,71
+images/front head
+bounds:595,114,167,176
+images/gokiburi
+bounds:772,137,153,471
+rotate:90
+images/mrshand
+bounds:661,36,68,138
+rotate:90
+images/necktie
+bounds:809,11,58,116
+images/top
+bounds:10,36,160,254
+images/top S
+bounds:362,89,141,201
+
+aztec_circle_dead_5.png
+size:552,1039
+filter:Linear,Linear
+pma:true
+scale:0.33
+images_02/L arm
+bounds:321,352,49,108
+rotate:90
+images_02/L arm 2
+bounds:380,161,54,116
+rotate:90
+images_02/L arm 2s
+bounds:355,100,51,116
+rotate:90
+images_02/L arm 2s_green
+bounds:344,39,51,116
+rotate:90
+images_02/L arms
+bounds:461,281,49,108
+images_02/L hand
+bounds:481,98,53,53
+images_02/L leg
+bounds:466,846,72,183
+images_02/Lleg2
+bounds:97,77,96,227
+images_02/R arm 1
+bounds:97,10,57,112
+rotate:90
+images_02/R arm1 s
+bounds:484,472,57,112
+images_02/R arm2
+bounds:219,38,56,115
+rotate:90
+images_02/R arm2 s
+bounds:484,594,56,116
+images_02/R arm2 s blood
+bounds:203,104,52,142
+rotate:90
+images_02/R arm2 s blood_Green
+bounds:330,411,52,142
+rotate:90
+images_02/R hand
+bounds:482,399,63,55
+rotate:90
+images_02/R leg 1
+bounds:296,696,69,162
+rotate:90
+images_02/R leg 2
+bounds:97,314,66,234
+images_02/bottom
+bounds:380,225,117,71
+rotate:90
+images_02/bottom_bg
+bounds:10,54,494,77
+rotate:90
+images_02/bouble
+bounds:461,241,42,30
+images_02/front head
+bounds:203,166,167,176
+images_02/fx_01
+bounds:470,56,40,32
+images_02/fx_02
+bounds:10,10,34,50
+rotate:90
+images_02/gokiburi
+bounds:10,558,153,471
+images_02/gokiburi_02
+bounds:173,654,113,375
+images_02/line01_01
+bounds:173,430,147,214
+images_02/mrshand
+bounds:173,352,68,138
+rotate:90
+images_02/necktie
+bounds:484,720,58,116
+images_02/top
+bounds:296,775,160,254
+images_02/top S
+bounds:330,473,144,213

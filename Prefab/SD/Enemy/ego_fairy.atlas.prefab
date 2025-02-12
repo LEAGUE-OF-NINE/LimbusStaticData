@@ -1,0 +1,35 @@
+ego_fairy.png
+size:839,1032
+filter:Linear,Linear
+pma:true
+scale:0.414
+레이어 10
+bounds:715,123,84,76
+rotate:90
+레이어 104 복사
+bounds:371,217,458,202
+레이어 11
+bounds:706,759,111,263
+레이어 12
+bounds:715,31,76,82
+레이어 13
+bounds:446,749,273,250
+rotate:90
+레이어 4
+bounds:10,429,593,426
+rotate:90
+레이어 5
+bounds:446,452,116,277
+rotate:90
+레이어 6
+bounds:10,92,327,351
+rotate:90
+레이어 7
+bounds:371,46,161,334
+rotate:90
+레이어 8
+bounds:446,578,161,334
+rotate:90
+레이어 9
+bounds:10,10,72,82
+rotate:90

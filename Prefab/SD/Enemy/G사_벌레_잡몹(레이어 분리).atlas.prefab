@@ -1,0 +1,14 @@
+G사_벌레_잡몹(레이어 분리).png
+size:1403,742
+filter:Linear,Linear
+pma:true
+scale:0.414
+arm_L
+bounds:1165,41,140,363
+arm_R
+bounds:898,63,257,669
+body
+bounds:10,10,722,878
+rotate:90
+head3
+bounds:1165,414,228,318

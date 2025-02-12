@@ -1,0 +1,15 @@
+bulletheathidle.png
+size:1294,685
+filter:Linear,Linear
+pma:true
+scale:0.414
+acc
+bounds:1179,52,88,238
+cover
+bounds:2,23,660,864
+rotate:90
+head
+bounds:868,2,309,288
+inside
+bounds:868,292,391,424
+rotate:90

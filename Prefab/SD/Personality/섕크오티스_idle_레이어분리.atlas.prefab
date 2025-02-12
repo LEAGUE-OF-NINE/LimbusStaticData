@@ -1,0 +1,30 @@
+섕크오티스_idle_레이어분리.png
+size:1015,548
+filter:Linear,Linear
+pma:true
+scale:0.414
+검집
+bounds:473,124,219,332
+rotate:90
+망토1
+bounds:897,298,248,116
+rotate:90
+망토뒤
+bounds:2,2,271,369
+rotate:90
+머리
+bounds:2,275,469,271
+몸
+bounds:807,20,198,276
+무기
+bounds:373,12,104,136
+rotate:90
+손
+bounds:577,55,77,67
+오른쪽 다리
+bounds:473,345,201,422
+rotate:90
+왼쪽 팔 1
+bounds:511,37,64,85
+왼쪽 팔 2
+bounds:373,118,62,155

@@ -1,0 +1,15 @@
+day_greg_idle.png
+size:1939,1266
+filter:Linear,Linear
+pma:true
+scale:0.414
+armb
+bounds:944,2,677,518
+armf
+bounds:944,522,986,742
+body
+bounds:2,5,1259,940
+rotate:90
+wing
+bounds:1623,209,311,314
+rotate:90

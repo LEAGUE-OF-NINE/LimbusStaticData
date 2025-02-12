@@ -1,0 +1,31 @@
+fixer_mob_hammer.png
+size:949,802
+filter:Linear,Linear
+pma:true
+scale:0.414
+arm1
+bounds:143,23,86,135
+rotate:90
+arm2
+bounds:457,1,121,266
+rotate:90
+belt
+bounds:733,36,203,152
+hammer
+bounds:0,433,949,369
+hand
+bounds:288,30,77,79
+hand2
+bounds:375,27,82,72
+rotate:90
+legs
+bounds:0,119,304,435
+rotate:90
+upper
+bounds:445,132,226,291
+그룹 7 복사
+bounds:681,198,225,231
+rotate:90
+레이어 121
+bounds:0,0,109,133
+rotate:90

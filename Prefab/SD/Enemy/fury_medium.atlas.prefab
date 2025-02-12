@@ -1,0 +1,12 @@
+fury_medium.png
+size:2040,1298
+filter:Linear,Linear
+pma:true
+scale:0.4
+arm_back
+bounds:10,886,529,402
+arm_front
+bounds:549,828,460,515
+rotate:90
+body
+bounds:10,10,2020,808

@@ -1,0 +1,10 @@
+산돌프_히스_idle.png
+size:320,168
+filter:Linear,Linear
+pma:true
+scale:0.414
+box
+bounds:2,2,208,164
+rib
+bounds:212,2,164,106
+rotate:90

@@ -1,0 +1,26 @@
+rock_large.png
+size:1875,1719
+filter:Linear,Linear
+pma:true
+scale:0.2
+body
+bounds:10,10,1486,798
+eye
+bounds:1780,1099,48,55
+eyeball
+bounds:1506,22,113,112
+idle (8) copy
+bounds:10,818,1506,891
+line_01
+bounds:1669,188,169,139
+line_02
+bounds:1526,1164,291,545
+line_03
+bounds:1506,339,180,385
+line_04
+bounds:1696,337,169,387
+line_05
+bounds:1526,734,244,420
+line_06
+bounds:1506,144,185,153
+rotate:90

@@ -1,0 +1,14 @@
+wcorp_meursault_back.png
+size:4944,2215
+filter:Linear,Linear
+pma:true
+Background
+bounds:2,110,3640,2103
+offsets:1,1,3642,2105
+ene_1
+bounds:3644,2,968,1078
+offsets:7,1,977,1080
+rotate:90
+ene_2
+bounds:3644,972,1298,1241
+offsets:1,8,1303,1250

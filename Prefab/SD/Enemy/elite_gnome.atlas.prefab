@@ -1,0 +1,15 @@
+elite_gnome.png
+size:1055,1164
+filter:Linear,Linear
+pma:true
+scale:0.414
+arm
+bounds:10,10,566,664
+rotate:90
+arm_L
+bounds:684,67,361,509
+body
+bounds:10,586,568,722
+rotate:90
+mustache
+bounds:742,808,299,346

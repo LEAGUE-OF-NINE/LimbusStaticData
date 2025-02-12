@@ -1,0 +1,13 @@
+wcorp ryoshu-bladefx.png
+size:1206,653
+filter:Linear,Linear
+pma:true
+scale:0.33333
+fx1
+bounds:10,318,706,325
+fx2
+bounds:10,10,599,298
+fx3
+bounds:619,73,577,235
+fx4
+bounds:726,385,466,258

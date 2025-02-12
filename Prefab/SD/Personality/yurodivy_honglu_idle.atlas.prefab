@@ -1,0 +1,30 @@
+yurodivy_honglu_idle.png
+size:1364,581
+filter:Linear,Linear
+pma:true
+scale:0.414
+hair_tail
+bounds:1173,81,185,357
+머리
+bounds:822,165,349,414
+몸통
+bounds:304,2,110,270
+rotate:90
+무기
+bounds:304,114,197,465
+시계,줄
+bounds:659,41,82,169
+rotate:90
+오른쪽 다리
+bounds:503,125,317,454
+오른쪽 코트
+bounds:189,14,113,565
+오른쪽 팔
+bounds:1173,440,189,139
+왼쪽 코트
+bounds:2,11,185,568
+왼쪽 팔
+bounds:576,20,81,103
+코트 뒤
+bounds:830,22,141,254
+rotate:90

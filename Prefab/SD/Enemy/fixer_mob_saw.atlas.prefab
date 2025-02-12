@@ -1,0 +1,25 @@
+fixer_mob_saw.png
+size:1179,621
+filter:Linear,Linear
+pma:true
+scale:0.414
+레이어 58
+bounds:0,116,693,505
+레이어 60
+bounds:703,316,305,437
+rotate:90
+레이어 62
+bounds:954,15,225,291
+레이어 65
+bounds:0,0,106,246
+rotate:90
+레이어 66
+bounds:512,20,77,86
+레이어 69
+bounds:599,26,80,78
+rotate:90
+레이어 70
+bounds:256,1,105,246
+rotate:90
+레이어 78
+bounds:703,34,241,272

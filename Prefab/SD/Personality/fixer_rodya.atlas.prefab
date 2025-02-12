@@ -1,0 +1,47 @@
+fixer_rodya.png
+size:946,1536
+filter:Linear,Linear
+pma:true
+scale:0.414
+WEAPON 2
+bounds:0,20,445,1000
+그룹 4(병합)
+bounds:515,1041,200,230
+rotate:90
+그룹 4(병합) 복사
+bounds:0,1030,336,505
+rotate:90
+레이어 12
+bounds:917,1327,29,209
+레이어 14
+bounds:755,1035,101,125
+rotate:90
+레이어 15
+bounds:809,104,171,100
+rotate:90
+레이어 16
+bounds:455,88,77,337
+rotate:90
+레이어 18
+bounds:455,561,467,459
+레이어 26
+bounds:755,1146,95,185
+rotate:90
+레이어 28
+bounds:809,285,119,155
+레이어 33
+bounds:809,450,125,101
+레이어 36
+bounds:0,1376,160,526
+rotate:90
+레이어 38
+bounds:455,175,99,340
+rotate:90
+레이어 40
+bounds:802,0,90,94
+레이어 43
+bounds:455,284,267,344
+rotate:90
+레이어 7
+bounds:536,1251,285,371
+rotate:90

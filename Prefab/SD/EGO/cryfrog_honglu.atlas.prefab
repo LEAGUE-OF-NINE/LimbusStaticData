@@ -1,0 +1,27 @@
+cryfrog_honglu.png
+size:787,1094
+filter:Linear,Linear
+pma:true
+scale:0.414
+arm_L
+bounds:483,166,177,323
+arm_R
+bounds:662,2,116,224
+body2 복사
+bounds:2,123,361,485
+hair
+bounds:2,610,507,482
+head
+bounds:511,786,250,306
+head_deco
+bounds:662,228,123,261
+leg_L
+bounds:387,14,150,259
+rotate:90
+leg_R
+bounds:511,491,229,293
+scarf
+bounds:2,17,104,383
+rotate:90
+tongue
+bounds:365,193,116,415

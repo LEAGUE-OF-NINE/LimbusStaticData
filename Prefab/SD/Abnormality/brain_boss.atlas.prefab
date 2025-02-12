@@ -1,0 +1,26 @@
+brain_boss.png
+size:1580,1150
+filter:Linear,Linear
+pma:true
+scale:0.414
+arm
+bounds:1331,530,239,610
+arm_main
+bounds:756,364,156,643
+rotate:90
+back_
+bounds:1135,10,255,344
+body
+bounds:10,171,356,736
+rotate:90
+head
+bounds:756,42,312,369
+rotate:90
+leg_01
+bounds:1409,16,147,504
+leg_02
+bounds:10,36,125,380
+rotate:90
+유리뇌 골렘 보스 idle copy
+bounds:10,537,603,1311
+rotate:90

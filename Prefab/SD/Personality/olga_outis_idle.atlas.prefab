@@ -1,0 +1,29 @@
+olga_outis_idle.png
+size:969,536
+filter:Linear,Linear
+pma:true
+scale:0.414
+머리
+bounds:589,281,253,241
+offsets:1,0,254,241
+rotate:90
+상체
+bounds:721,10,167,168
+오른쪽 다리
+bounds:2,19,250,515
+오른쪽 팔1
+bounds:832,385,149,135
+rotate:90
+오른쪽 팔2
+bounds:832,271,112,130
+rotate:90
+왼쪽 다리
+bounds:254,2,146,465
+rotate:90
+왼쪽 팔1
+bounds:254,150,384,333
+offsets:8,2,394,335
+rotate:90
+왼쪽 팔2
+bounds:589,180,99,176
+rotate:90

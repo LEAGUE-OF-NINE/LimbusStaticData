@@ -1,0 +1,27 @@
+rock_donq.png
+size:1942,1387
+filter:Linear,Linear
+pma:true
+scale:0.414
+acc
+bounds:1496,872,95,330
+rotate:90
+arm_L
+bounds:2,13,584,596
+arm_L2
+bounds:2,611,402,774
+arm_R
+bounds:1496,969,416,430
+rotate:90
+arm_R2
+bounds:1039,675,455,710
+body
+bounds:588,10,708,645
+head
+bounds:1298,2,309,377
+rotate:90
+rock
+bounds:1298,313,642,360
+레이어 53
+bounds:406,657,728,631
+rotate:90

@@ -1,0 +1,34 @@
+linton_idle.png
+size:1735,288
+filter:Linear,Linear
+pma:true
+scale:0.414
+light1
+bounds:699,109,106,37
+light2
+bounds:1712,194,84,13
+rotate:90
+머리
+bounds:1451,35,251,243
+몸통
+bounds:10,107,171,679
+rotate:90
+무기
+bounds:699,156,122,742
+rotate:90
+오른쪽 팔
+bounds:1019,19,60,196
+rotate:90
+옷1
+bounds:525,10,87,484
+rotate:90
+옷2
+bounds:10,12,85,505
+rotate:90
+옷자락
+bounds:1019,89,57,243
+rotate:90
+왼쪽 팔 1
+bounds:1363,17,51,129
+왼쪽 팔 2
+bounds:1272,47,81,99

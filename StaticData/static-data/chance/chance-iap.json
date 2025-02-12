@@ -261,6 +261,16 @@
       "resetTimeType": "PERMANENT"
     },
     {
+      "id": 1412,
+      "max": 1,
+      "resetTimeType": "PERMANENT"
+    },
+    {
+      "id": 1413,
+      "max": 2,
+      "resetTimeType": "PERMANENT"
+    },
+    {
       "id": 1998,
       "max": 1,
       "resetTimeType": "SEASONAL"

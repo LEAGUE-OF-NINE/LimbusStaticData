@@ -4,6 +4,7 @@
       "id": 0,
       "bg": "Bus_t_backstreet_L",
       "bgm": "BusInside",
+      "voice": "S552V-341",
       "effectv2": "{\"cadj\": {\"isActive\":\"true\",\"ctrl\":\"true\", \"sat\":-50}}"
     },
     {
@@ -26,14 +27,16 @@
     {
       "id": 5,
       "feeling": "close",
-      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew",
+      "voice": "S552V-346"
     },
     {
       "id": 6,
       "characterlist": "오티스 : 9",
       "feeling": "angry_R",
       "emotion": "Angry",
-      "soundeffect": "SFX_Cotton_Crumble_Hard"
+      "soundeffect": "SFX_Cotton_Crumble_Hard",
+      "voice": "S552V-347"
     },
     {
       "id": 7,
@@ -48,25 +51,30 @@
       "characterlist": "베르길리우스 : 9",
       "feeling": "idle",
       "cg": "black:FadeOut_Long",
-      "soundeffect": "SFX_Paper_Multi_2"
+      "soundeffect": "SFX_Paper_Multi_2",
+      "voice": "S552V-350"
     },
     {
       "id": 10,
-      "feeling": "smile"
+      "feeling": "smile",
+      "voice": "S552V-351"
     },
     {
       "id": 11,
       "feeling": "idle",
-      "soundeffect": "SFX_Cloth_Rubbed_Move"
+      "soundeffect": "SFX_Cloth_Rubbed_Move",
+      "voice": "S552V-352"
     },
     {
       "id": 12,
-      "feeling": "angry"
+      "feeling": "angry",
+      "voice": "S552V-353"
     },
     {
       "id": 13,
       "feeling": "idle",
-      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew",
+      "voice": "S552V-354"
     },
     {
       "id": 14,
@@ -77,7 +85,8 @@
     {
       "id": 15,
       "feeling": "smile",
-      "soundeffect": "SFX_Leather_Crumble_Light"
+      "soundeffect": "SFX_Leather_Crumble_Light",
+      "voice": "S552V-356"
     },
     {
       "id": 16
@@ -88,11 +97,13 @@
     {
       "id": 18,
       "feeling": "idle",
-      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew",
+      "voice": "S552V-359"
     },
     {
       "id": 19,
-      "soundeffect": "SFX_Paper_Multi_3"
+      "soundeffect": "SFX_Paper_Multi_3",
+      "voice": "S552V-360"
     },
     {
       "id": 20,
@@ -102,7 +113,8 @@
       "id": 21,
       "characterlist": "이상 : 3, 단테 : -1",
       "feeling": "close",
-      "soundeffect": "SFX_Yisang_Walk"
+      "soundeffect": "SFX_Yisang_Walk",
+      "voice": "S552V-362"
     },
     {
       "id": 22
@@ -123,14 +135,16 @@
       "id": 26,
       "characterlist": "앵두 : 10",
       "feeling": "surprise",
-      "soundeffect": "SFX_Sweat_Crumble_Light"
+      "soundeffect": "SFX_Sweat_Crumble_Light",
+      "voice": "S552V-367"
     },
     {
       "id": 27,
       "feeling": "angry",
       "emotion": "Angry",
       "bgm": "Clear_Wind",
-      "soundeffect": "SFX_Chair_Hard"
+      "soundeffect": "SFX_Chair_Hard",
+      "voice": "S552V-368"
     },
     {
       "id": 28
@@ -138,13 +152,15 @@
     {
       "id": 29,
       "characterlist": "앵두 : -1:mode=FADE_OUT",
-      "soundeffect": "SFX_Run_Wood_A"
+      "soundeffect": "SFX_Run_Wood_A",
+      "voice": "S552V-370"
     },
     {
       "id": 30,
       "characterlist": "파우스트 : 5",
       "feeling": "idle4",
-      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew",
+      "voice": "S552V-371"
     },
     {
       "id": 31,

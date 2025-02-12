@@ -1,0 +1,27 @@
+realdonqidle.png
+size:1868,567
+filter:Linear,Linear
+pma:true
+scale:0.414
+arm l
+bounds:1696,47,170,518
+arm r
+bounds:1176,355,210,518
+rotate:90
+body
+bounds:644,26,299,414
+rotate:90
+coat l
+bounds:2,22,201,640
+rotate:90
+coat r
+bounds:589,327,238,585
+rotate:90
+collar
+bounds:1434,48,173,305
+head
+bounds:1060,2,323,372
+rotate:90
+leg r
+bounds:2,225,340,585
+rotate:90

@@ -252,6 +252,27 @@
               }
             }
           ]
+        },
+        {
+          "personalityId": 10712,
+          "releaseDay": 20250206,
+          "cv_Id": "",
+          "personalityStoryList": [
+            {
+              "storyId": "P10712",
+              "lockCondition": [
+                {
+                  "condition": "gacksung"
+                }
+              ],
+              "order": 1,
+              "reward": {
+                "type": "ITEM",
+                "id": 2,
+                "num": 40
+              }
+            }
+          ]
         }
       ]
     }

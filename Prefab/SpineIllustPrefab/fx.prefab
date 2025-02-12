@@ -1,0 +1,72 @@
+{
+  "skeleton": {
+    "hash": "Ic9gxyy9BAU",
+    "spine": "4.0.64",
+    "x": -267.92,
+    "y": -1860.09,
+    "width": 3845.7,
+    "height": 1863.43,
+    "images": "./images/",
+    "audio": ""
+  },
+  "bones": [
+    {
+      "name": "root",
+      "scaleX": 0.6321,
+      "scaleY": 0.6321
+    }
+  ],
+  "slots": [
+    {
+      "name": "fx3",
+      "bone": "root",
+      "attachment": "fx3",
+      "blend": "additive"
+    },
+    {
+      "name": "fx2",
+      "bone": "root",
+      "attachment": "fx2",
+      "blend": "additive"
+    },
+    {
+      "name": "fx1",
+      "bone": "root",
+      "attachment": "fx1"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "fx1": {
+          "fx1": {
+            "x": 2495.15,
+            "y": -925.21,
+            "width": 5838,
+            "height": 1861
+          }
+        },
+        "fx2": {
+          "fx2": {
+            "x": 3268.65,
+            "y": -1723.71,
+            "width": 1881,
+            "height": 2438
+          }
+        },
+        "fx3": {
+          "fx3": {
+            "x": 2776.65,
+            "y": -1397.71,
+            "width": 5767,
+            "height": 328
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "idle": {}
+  }
+}

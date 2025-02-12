@@ -1,0 +1,17 @@
+brasscow_meur.png
+size:554,1156
+filter:Linear,Linear
+pma:true
+scale:0.414
+arm_L
+bounds:454,82,89,307
+arm_R
+bounds:333,10,111,379
+body
+bounds:10,426,359,720
+cape_back
+bounds:379,740,165,406
+cape_front
+bounds:379,399,153,331
+head
+bounds:10,23,313,393

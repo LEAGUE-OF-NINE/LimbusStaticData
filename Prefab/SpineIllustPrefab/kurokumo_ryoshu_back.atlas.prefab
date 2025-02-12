@@ -1,0 +1,15 @@
+kurokumo_ryoshu_back.png
+size:4468,4298
+filter:Linear,Linear
+pma:true
+Background
+bounds:2418,656,3640,2048
+offsets:1,1,3642,2050
+rotate:90
+Background_effect
+bounds:2,8,4288,2414
+offsets:1,1,4290,2416
+rotate:90
+effect_back
+bounds:2418,2,1493,652
+offsets:6,35,1500,688

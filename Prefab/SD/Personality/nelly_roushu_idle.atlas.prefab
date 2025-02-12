@@ -1,0 +1,31 @@
+nelly_roushu_idle.png
+size:909,1076
+filter:Linear,Linear
+pma:true
+scale:0.414
+가방
+bounds:652,626,448,219
+rotate:90
+가방끈
+bounds:515,195,54,122
+rotate:90
+검
+bounds:2,596,478,648
+rotate:90
+머리
+bounds:652,345,255,279
+머리카락
+bounds:646,141,202,260
+rotate:90
+발
+bounds:358,16,338,123
+오른쪽 팔1
+bounds:698,31,108,166
+rotate:90
+오른쪽 팔2
+bounds:358,143,106,155
+rotate:90
+왼쪽팔
+bounds:358,251,286,343
+하체
+bounds:2,2,354,592

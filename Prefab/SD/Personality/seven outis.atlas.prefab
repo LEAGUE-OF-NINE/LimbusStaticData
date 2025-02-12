@@ -1,0 +1,31 @@
+seven outis.png
+size:1926,351
+filter:Linear,Linear
+pma:true
+scale:0.414
+7
+bounds:1358,142,209,310
+rotate:90
+arm_L
+bounds:613,17,84,154
+rotate:90
+arm_R
+bounds:1678,213,138,214
+rotate:90
+forearm_L
+bounds:1811,85,118,115
+rotate:90
+hand+cane_R
+bounds:1358,7,125,443
+rotate:90
+head
+bounds:613,111,251,240
+legs
+bounds:874,123,228,474
+rotate:90
+legs 복사
+bounds:874,0,113,415
+rotate:90
+weapon
+bounds:0,3,348,603
+rotate:90

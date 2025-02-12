@@ -1,0 +1,17 @@
+ishmael_firefly.png
+size:1892,1955
+filter:Linear,Linear
+pma:true
+scale:0.414
+body
+bounds:10,663,750,1282
+fx
+bounds:770,962,664,983
+head
+bounds:1444,1501,444,379
+rotate:90
+wing1
+bounds:1210,10,672,942
+wing2
+bounds:10,64,589,1190
+rotate:90

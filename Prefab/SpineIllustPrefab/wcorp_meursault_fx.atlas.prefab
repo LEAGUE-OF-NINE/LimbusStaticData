@@ -1,0 +1,16 @@
+wcorp_meursault_fx.png
+size:3417,1098
+filter:Linear,Linear
+pma:true
+arm_effect2
+bounds:2686,51,1045,729
+offsets:18,92,1150,822
+rotate:90
+back_effect_1
+bounds:2,2,1094,1839
+offsets:0,0,1096,1839
+rotate:90
+back_effect_2
+bounds:1843,81,1015,841
+offsets:26,5,1048,847
+rotate:90

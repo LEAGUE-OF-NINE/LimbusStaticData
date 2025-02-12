@@ -1,0 +1,13 @@
+04_seven_ryoshu.png
+size:1673,379
+filter:Linear,Linear
+pma:true
+scale:0.414
+arm
+bounds:1520,136,233,143
+rotate:90
+body
+bounds:10,38,331,871
+rotate:90
+weapon
+bounds:891,10,619,359

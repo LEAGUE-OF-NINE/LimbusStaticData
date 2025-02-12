@@ -1,0 +1,16 @@
+Dulcineamobidle.png
+size:1086,546
+filter:Linear,Linear
+pma:true
+scale:0.414
+body
+bounds:2,2,350,637
+rotate:90
+hand
+bounds:825,457,65,87
+hat
+bounds:641,47,305,443
+rotate:90
+wep
+bounds:2,354,190,821
+rotate:90

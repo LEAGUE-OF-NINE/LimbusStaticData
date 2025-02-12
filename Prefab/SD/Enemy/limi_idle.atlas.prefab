@@ -1,0 +1,26 @@
+limi_idle.png
+size:1532,489
+filter:Linear,Linear
+pma:true
+scale:0.414
+armL1
+bounds:715,131,313,356
+armL2
+bounds:715,45,84,132
+rotate:90
+body
+bounds:1363,32,157,164
+rotate:90
+head
+bounds:2,56,431,546
+rotate:90
+leg L
+bounds:1030,191,296,500
+rotate:90
+leg R
+bounds:550,61,163,426
+poket
+bounds:2,8,46,142
+rotate:90
+weapon
+bounds:1030,2,331,187

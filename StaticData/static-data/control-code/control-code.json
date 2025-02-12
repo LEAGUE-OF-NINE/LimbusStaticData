@@ -89,6 +89,12 @@
         40,
         20
       ]
+    },
+    {
+      "targetId": 10712,
+      "targetIntegers": [
+        2
+      ]
     }
   ],
   "isSendblog": true,

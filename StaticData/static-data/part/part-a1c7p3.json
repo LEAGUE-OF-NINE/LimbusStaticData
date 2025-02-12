@@ -3284,6 +3284,148 @@
               "upper": 1,
               "stageNodeType": "DUNGEON"
             }
+          ],
+          "nextMainchapterid": -1,
+          "nextSubchapterid": -1,
+          "lastnodeid": -1
+        },
+        {
+          "id": 9115,
+          "illustSprName": "9107",
+          "region": "t",
+          "sprName": "chapter5.5_ycgd",
+          "subChapterNumber": "5.5",
+          "nodeIllustPath": "Assets/Resources_moved/Sprite/StageNodeCG/MainChapter91/SubChapter9107",
+          "mapIllustId": "9107",
+          "mapSizeRow": 2,
+          "mapSizeColoumn": 4,
+          "unlockCondition": {
+            "unlockCode": 106
+          },
+          "subchapterFeatureList": [
+            "HARD"
+          ],
+          "stageNodeList": [
+            {
+              "nodeId": 911501,
+              "stageId": 910701,
+              "posx": 481,
+              "posy": 850,
+              "upper": 1,
+              "stageNodeType": "STORY",
+              "nodeInfoId": 910701,
+              "nodeIllustIdString": "910701"
+            },
+            {
+              "nodeId": 911502,
+              "stageId": 911502,
+              "posx": 2043,
+              "posy": 743,
+              "upper": 1,
+              "stageNodeType": "NORMAL",
+              "nodeInfoId": 910702,
+              "nodeIllustIdString": "910702"
+            },
+            {
+              "nodeId": 911503,
+              "stageId": 911503,
+              "posx": 3163,
+              "posy": 630,
+              "upper": 1,
+              "stageNodeType": "NORMAL",
+              "nodeInfoId": 910703,
+              "nodeIllustIdString": "910703"
+            },
+            {
+              "nodeId": 911504,
+              "stageId": 911504,
+              "posx": 3804,
+              "posy": 638,
+              "upper": 1,
+              "stageNodeType": "NORMAL",
+              "nodeInfoId": 910704,
+              "nodeIllustIdString": "910704"
+            },
+            {
+              "nodeId": 911505,
+              "stageId": 911505,
+              "posx": 4372,
+              "posy": 558,
+              "upper": 1,
+              "stageNodeType": "NORMAL",
+              "nodeInfoId": 910705,
+              "nodeIllustIdString": "910705"
+            },
+            {
+              "nodeId": 911506,
+              "stageId": 911506,
+              "posx": 5291,
+              "posy": 558,
+              "upper": 1,
+              "stageNodeType": "NORMAL",
+              "nodeInfoId": 910706,
+              "nodeIllustIdString": "910706"
+            },
+            {
+              "nodeId": 911507,
+              "stageId": 911507,
+              "posx": 6841,
+              "posy": 611,
+              "upper": 1,
+              "stageNodeType": "NORMAL",
+              "nodeInfoId": 910707,
+              "nodeIllustIdString": "910707"
+            },
+            {
+              "nodeId": 911508,
+              "stageId": 911508,
+              "posx": 7461,
+              "posy": 1113,
+              "upper": 1,
+              "stageNodeType": "NORMAL",
+              "nodeInfoId": 910708,
+              "nodeIllustIdString": "910708"
+            },
+            {
+              "nodeId": 911509,
+              "stageId": 911509,
+              "posx": 6090,
+              "posy": 1982,
+              "upper": 1,
+              "stageNodeType": "NORMAL",
+              "nodeInfoId": 910709,
+              "nodeIllustIdString": "910709"
+            },
+            {
+              "nodeId": 911510,
+              "stageId": 911510,
+              "posx": 5896,
+              "posy": 2912,
+              "upper": 1,
+              "stageNodeType": "NORMAL",
+              "nodeInfoId": 910710,
+              "nodeIllustIdString": "910710"
+            },
+            {
+              "nodeId": 911511,
+              "stageId": 911511,
+              "posx": 6595,
+              "posy": 2912,
+              "upper": 1,
+              "stageNodeType": "NORMAL",
+              "nodeInfoId": 910711,
+              "nodeIllustIdString": "910711"
+            },
+            {
+              "nodeId": 911512,
+              "stageId": 911501,
+              "posx": 7478,
+              "posy": 2912,
+              "upper": 1,
+              "stageNodeType": "DUNGEON",
+              "nodeInfoId": 910701,
+              "nodeIllustIdString": "910701"
+            }
           ]
         }
       ]

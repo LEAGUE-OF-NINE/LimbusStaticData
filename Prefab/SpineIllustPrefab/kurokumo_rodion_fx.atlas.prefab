@@ -1,0 +1,10 @@
+kurokumo_rodion_fx.png
+size:1075,809
+filter:Linear,Linear
+pma:true
+Effect_wep
+bounds:2,2,940,805
+offsets:244,3,2039,857
+fx
+bounds:944,678,129,129
+offsets:11,10,149,149

@@ -7,6 +7,13 @@
       ],
       "bannerSpriteId": "banner_NoonOfViolet",
       "isBannerVisible": true
+    },
+    {
+      "eventId": "Walpu5",
+      "mainUIPhaseTypeList": [
+        "Stage"
+      ],
+      "isBannerVisible": true
     }
   ]
 }

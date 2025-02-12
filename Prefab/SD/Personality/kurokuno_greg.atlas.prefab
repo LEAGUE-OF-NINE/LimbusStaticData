@@ -1,0 +1,32 @@
+kurokuno_greg.png
+size:1617,739
+filter:Linear,Linear
+pma:true
+scale:0.414
+머리
+bounds:873,2,269,248
+몸통
+bounds:477,22,94,157
+무기
+bounds:2,25,712,473
+rotate:90
+오른쪽 다리 1
+bounds:573,25,154,262
+rotate:90
+오른쪽 다리 2
+bounds:1337,6,220,217
+rotate:90
+옷1
+bounds:1177,465,272,438
+rotate:90
+옷자락2
+bounds:873,252,302,485
+왼쪽다리
+bounds:1337,228,235,271
+rotate:90
+칼자루
+bounds:477,181,556,394
+rotate:90
+팔
+bounds:1144,10,240,191
+rotate:90

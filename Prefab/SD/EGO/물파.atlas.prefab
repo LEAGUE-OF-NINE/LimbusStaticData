@@ -1,0 +1,22 @@
+물파.png
+size:2012,807
+filter:Linear,Linear
+pma:true
+scale:0.414
+GGori
+bounds:10,51,830,356
+a1
+bounds:850,13,394,674
+rotate:90
+a2
+bounds:1534,155,468,642
+body 복사 2
+bounds:10,417,380,930
+rotate:90
+head 2
+bounds:950,442,296,355
+l1
+bounds:1534,10,135,324
+rotate:90
+l2
+bounds:1256,500,125,297

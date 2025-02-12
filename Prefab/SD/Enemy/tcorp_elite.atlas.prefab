@@ -1,0 +1,15 @@
+tcorp_elite.png
+size:1616,1186
+filter:Linear,Linear
+pma:true
+scale:0.414
+arm_L
+bounds:1031,375,344,809
+body
+bounds:1377,606,237,578
+leg_R
+bounds:1031,16,357,467
+rotate:90
+wire_R
+bounds:2,2,1182,1027
+rotate:90

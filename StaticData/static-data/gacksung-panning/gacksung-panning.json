@@ -2087,6 +2087,42 @@
         "rootX": 0.16599999368190765,
         "rootY": 0.1019260510802269
       }
+    },
+    {
+      "id": 10712,
+      "root1Data": {
+        "panningDirection": "RIGHT",
+        "rootX": -0.3228400945663452,
+        "rootY": -0.037028297781944275
+      },
+      "root2Data": {
+        "panningDirection": "UP",
+        "rootX": 0.2686862647533417,
+        "rootY": 0.047396220266819
+      },
+      "root3Data": {
+        "panningDirection": "LEFT",
+        "rootX": 0.08331356942653656,
+        "rootY": 0.2806744873523712
+      }
+    },
+    {
+      "id": 10811,
+      "root1Data": {
+        "panningDirection": "UP",
+        "rootX": 0.23119515180587769,
+        "rootY": -0.2510518729686737
+      },
+      "root2Data": {
+        "panningDirection": "LEFT",
+        "rootX": -0.12497035413980484,
+        "rootY": 0.00518396170809865
+      },
+      "root3Data": {
+        "panningDirection": "RIGHT",
+        "rootX": -0.003749110735952854,
+        "rootY": 0.312518835067749
+      }
     }
   ],
   "standardScreen": [
@@ -4176,6 +4212,42 @@
         "panningDirection": "UP",
         "rootX": 0.16600000858306885,
         "rootY": 0.11851867288351059
+      }
+    },
+    {
+      "id": 10712,
+      "root1Data": {
+        "panningDirection": "RIGHT",
+        "rootX": -0.3228400945663452,
+        "rootY": -0.037028297781944275
+      },
+      "root2Data": {
+        "panningDirection": "UP",
+        "rootX": 0.2686862647533417,
+        "rootY": 0.047396220266819
+      },
+      "root3Data": {
+        "panningDirection": "LEFT",
+        "rootX": 0.08331356942653656,
+        "rootY": 0.2806744873523712
+      }
+    },
+    {
+      "id": 10811,
+      "root1Data": {
+        "panningDirection": "UP",
+        "rootX": 0.23119515180587769,
+        "rootY": -0.2510518729686737
+      },
+      "root2Data": {
+        "panningDirection": "LEFT",
+        "rootX": -0.12497035413980484,
+        "rootY": 0.00518396170809865
+      },
+      "root3Data": {
+        "panningDirection": "RIGHT",
+        "rootX": -0.003749110968783498,
+        "rootY": 0.312518835067749
       }
     }
   ]

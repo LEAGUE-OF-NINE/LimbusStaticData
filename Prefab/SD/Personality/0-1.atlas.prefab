@@ -1,0 +1,14 @@
+0-1.png
+size:1122,739
+filter:Linear,Linear
+pma:true
+scale:0.414
+arm_L
+bounds:10,60,516,399
+arm_R
+bounds:912,401,158,328
+body
+bounds:10,469,260,892
+rotate:90
+w
+bounds:536,10,576,381

@@ -6,6 +6,7 @@
       "bg": "story_yongjin_office",
       "bgm": "StorySerious",
       "soundeffect": "SFX_Cow_Fall",
+      "voice": "S552V-633",
       "effectv2": "{\"cadj\": {\"isActive\":\"true\",\"ctrl\":\"true\", \"sat\":-50}}"
     },
     {
@@ -15,31 +16,37 @@
     {
       "id": 2,
       "characterlist": "파우스트 : 5",
-      "feeling": "idle4"
+      "feeling": "idle4",
+      "voice": "S552V-635"
     },
     {
       "id": 3,
       "characterlist": "그레고르 : 9",
-      "feeling": "serious"
+      "feeling": "serious",
+      "voice": "S552V-636"
     },
     {
       "id": 4,
       "characterlist": "싱클레어 : 7",
-      "feeling": "surprise"
+      "feeling": "surprise",
+      "voice": "S552V-637"
     },
     {
       "id": 5,
       "characterlist": "ALL : -1, 김삿갓 : 5",
-      "soundeffect": "SFX_Cotton_Crumble_Hard"
+      "soundeffect": "SFX_Cotton_Crumble_Hard",
+      "voice": "S552V-638"
     },
     {
       "id": 6,
-      "characterlist": "김삿갓 : -1 : mode=FADE_OUT, 뫼르소 : 9"
+      "characterlist": "김삿갓 : -1 : mode=FADE_OUT, 뫼르소 : 9",
+      "voice": "S552V-639"
     },
     {
       "id": 7,
       "characterlist": "히스클리프 : 7",
-      "soundeffect": "SFX_Leather_Crumble_Light"
+      "soundeffect": "SFX_Leather_Crumble_Light",
+      "voice": "S552V-640"
     },
     {
       "id": 8,
@@ -58,7 +65,8 @@
       "id": 11,
       "characterlist": "앵두 : 5",
       "feeling": "sad",
-      "soundeffect": "SFX_Cloth_Rubbed_Move"
+      "soundeffect": "SFX_Cloth_Rubbed_Move",
+      "voice": "S552V-644"
     },
     {
       "id": 12
@@ -67,7 +75,8 @@
       "id": 13,
       "cg": "black:FadeIn",
       "bgm": "StorySerious:0",
-      "soundeffect": "SFX_Walk_Echo"
+      "soundeffect": "SFX_Walk_Echo",
+      "voice": "S552V-646"
     },
     {
       "id": 14,
@@ -76,30 +85,37 @@
       "cg": "black:FadeOut, E505_2_3:FadeIn",
       "bgm": "Flesh_And_Bone",
       "soundeffect": "SFX_Portal:end, SFX_Walk_Dirt",
+      "voice": "S552V-647",
       "effectv2": "{\"cadj\": {\"isActive\":\"false\",\"ctrl\":\"true\", \"sat\":0}}"
     },
     {
       "id": 15,
-      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew",
+      "voice": "S552V-648"
     },
     {
-      "id": 16
+      "id": 16,
+      "voice": "S552V-649"
     },
     {
       "id": 17,
-      "soundeffect": "SFX_Cloth_Crumble"
+      "soundeffect": "SFX_Cloth_Crumble",
+      "voice": "S552V-650"
     },
     {
-      "id": 18
+      "id": 18,
+      "voice": "S552V-651"
     },
     {
       "id": 19,
-      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew",
+      "voice": "S552V-652"
     },
     {
       "id": 20,
       "cg": "black:FadeIn, E505_2_3:FadeOut",
-      "soundeffect": "SFX_Jean_Crumble_Light"
+      "soundeffect": "SFX_Jean_Crumble_Light",
+      "voice": "S552V-653"
     },
     {
       "id": 21
@@ -107,43 +123,54 @@
     {
       "id": 22,
       "cg": "black:FadeOut, E505_2_4_1:FadeIn",
-      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew",
+      "voice": "S552V-655"
     },
     {
-      "id": 23
+      "id": 23,
+      "voice": "S552V-656"
     },
     {
-      "id": 24
+      "id": 24,
+      "voice": "S552V-657"
     },
     {
       "id": 25,
-      "soundeffect": "SFX_Cloth_Rubbed_Move"
+      "soundeffect": "SFX_Cloth_Rubbed_Move",
+      "voice": "S552V-658"
     },
     {
       "id": 26,
-      "cg": "E505_2_4_1:FadeOut, E505_2_4_2:FadeIn"
+      "cg": "E505_2_4_1:FadeOut, E505_2_4_2:FadeIn",
+      "voice": "S552V-659"
     },
     {
-      "id": 27
+      "id": 27,
+      "voice": "S552V-660"
     },
     {
       "id": 28,
-      "soundeffect": "SFX_Leather_Crumble_Light"
+      "soundeffect": "SFX_Leather_Crumble_Light",
+      "voice": "S552V-661"
     },
     {
-      "id": 29
+      "id": 29,
+      "voice": "S552V-662"
     },
     {
       "id": 30,
       "cg": "ALL : FadeOut, E505_2_3:FadeIn",
-      "soundeffect": "SFX_Cloth_Crumble"
+      "soundeffect": "SFX_Cloth_Crumble",
+      "voice": "S552V-663"
     },
     {
-      "id": 31
+      "id": 31,
+      "voice": "S552V-664"
     },
     {
       "id": 32,
-      "soundeffect": "SFX_Stretch_HardGrab"
+      "soundeffect": "SFX_Stretch_HardGrab",
+      "voice": "S552V-665"
     },
     {
       "id": 33,

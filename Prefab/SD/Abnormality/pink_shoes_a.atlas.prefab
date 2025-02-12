@@ -1,0 +1,16 @@
+pink_shoes_a.png
+size:878,660
+filter:Linear,Linear
+pma:true
+scale:0.414
+arm
+bounds:296,44,124,545
+rotate:90
+body
+bounds:543,178,472,325
+rotate:90
+head
+bounds:10,10,234,276
+rotate:90
+leg
+bounds:10,254,523,396

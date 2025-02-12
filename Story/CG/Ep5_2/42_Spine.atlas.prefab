@@ -1,0 +1,16 @@
+42_Spine.png
+size:1132,1004
+filter:Linear,Linear
+pma:true
+scale:0.25
+qlc
+bounds:2,2,1000,1128
+rotate:90
+
+42_Spine_2.png
+size:2007,1132
+filter:Linear,Linear
+pma:true
+scale:0.25
+be
+bounds:2,2,2003,1128

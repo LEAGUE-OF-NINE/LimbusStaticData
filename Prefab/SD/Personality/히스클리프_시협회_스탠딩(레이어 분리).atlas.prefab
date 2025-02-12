@@ -1,0 +1,14 @@
+히스클리프_시협회_스탠딩(레이어 분리).png
+size:1197,904
+filter:Linear,Linear
+pma:true
+scale:0.414
+arm L
+bounds:10,28,766,570
+arm R
+bounds:918,661,168,233
+body
+bounds:10,608,286,898
+rotate:90
+sheath
+bounds:786,10,401,588

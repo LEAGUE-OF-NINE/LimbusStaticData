@@ -1,0 +1,17 @@
+gregor_apple_idle.png
+size:774,1113
+filter:Linear,Linear
+pma:true
+scale:0.414
+arm1
+bounds:10,34,438,413
+rotate:90
+arm2
+bounds:433,10,133,183
+rotate:90
+body
+bounds:10,482,621,717
+rotate:90
+head
+bounds:433,153,319,331
+rotate:90

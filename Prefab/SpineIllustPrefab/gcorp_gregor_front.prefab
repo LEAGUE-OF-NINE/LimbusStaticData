@@ -1,0 +1,133 @@
+{
+  "skeleton": {
+    "hash": "JR21uSDiuIo",
+    "spine": "4.0.64",
+    "x": 1.44,
+    "y": -2259,
+    "width": 3958,
+    "height": 2262,
+    "images": "./images/",
+    "audio": ""
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "front_eff_1",
+      "bone": "root",
+      "attachment": "front_eff_1"
+    },
+    {
+      "name": "front_eff_2",
+      "bone": "root",
+      "attachment": "front_eff_2"
+    },
+    {
+      "name": "front_eff_3",
+      "bone": "root",
+      "attachment": "front_eff_3"
+    },
+    {
+      "name": "front_obj",
+      "bone": "root",
+      "attachment": "front_obj"
+    },
+    {
+      "name": "front_eff_5",
+      "bone": "root",
+      "attachment": "front_eff_5"
+    },
+    {
+      "name": "front_eff_6",
+      "bone": "root",
+      "attachment": "front_eff_6"
+    },
+    {
+      "name": "front_eff_7",
+      "bone": "root",
+      "attachment": "front_eff_7"
+    },
+    {
+      "name": "front_eff_8",
+      "bone": "root",
+      "attachment": "front_eff_8"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "front_eff_1": {
+          "front_eff_1": {
+            "x": 1726.44,
+            "y": -850,
+            "width": 3450,
+            "height": 1706
+          }
+        },
+        "front_eff_2": {
+          "front_eff_2": {
+            "x": 1611.44,
+            "y": -1004.5,
+            "width": 3220,
+            "height": 2015
+          }
+        },
+        "front_eff_3": {
+          "front_eff_3": {
+            "x": 1806.94,
+            "y": -1719.5,
+            "width": 1713,
+            "height": 655
+          }
+        },
+        "front_eff_5": {
+          "front_eff_5": {
+            "x": 1822.44,
+            "y": -1022,
+            "width": 3642,
+            "height": 2050
+          }
+        },
+        "front_eff_6": {
+          "front_eff_6": {
+            "x": 1866.44,
+            "y": -1259.5,
+            "width": 3730,
+            "height": 1575
+          }
+        },
+        "front_eff_7": {
+          "front_eff_7": {
+            "x": 1822.44,
+            "y": -1022,
+            "width": 3642,
+            "height": 2050
+          }
+        },
+        "front_eff_8": {
+          "front_eff_8": {
+            "x": 1822.44,
+            "y": -1022,
+            "width": 3642,
+            "height": 2050
+          }
+        },
+        "front_obj": {
+          "front_obj": {
+            "x": 2427.44,
+            "y": -1310.5,
+            "width": 3064,
+            "height": 1897
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "idle": {}
+  }
+}

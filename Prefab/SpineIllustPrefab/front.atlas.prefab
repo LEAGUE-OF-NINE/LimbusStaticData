@@ -1,0 +1,10 @@
+front.png
+size:5676,1579
+filter:Linear,Linear
+pma:true
+Front_enermy_L
+bounds:10,20,1549,3242
+rotate:90
+Front_enermy_R
+bounds:3262,10,1559,2404
+rotate:90

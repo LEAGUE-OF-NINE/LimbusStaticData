@@ -1,0 +1,32 @@
+yurodivy_elite.png
+size:2031,399
+filter:Linear,Linear
+pma:true
+scale:0.414
+끈
+bounds:2,12,57,69
+머리
+bounds:438,31,320,366
+몸통
+bounds:1330,249,148,325
+rotate:90
+무기
+bounds:760,2,197,465
+rotate:90
+오른쪽 코트
+bounds:760,201,196,568
+rotate:90
+오른쪽 팔
+bounds:1781,18,119,227
+rotate:90
+왼쪽 다리
+bounds:2,83,314,434
+rotate:90
+왼쪽 팔
+bounds:1657,213,184,113
+rotate:90
+코트 뒤
+bounds:1781,139,248,258
+코트 왼쪽
+bounds:1227,57,142,552
+rotate:90

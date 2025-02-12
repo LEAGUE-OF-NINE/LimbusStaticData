@@ -1,0 +1,27 @@
+foxrain_outis.png
+size:2005,861
+filter:Linear,Linear
+pma:true
+scale:0.414
+arm_L
+bounds:1662,350,125,263
+rotate:90
+arm_R
+bounds:1688,118,222,287
+rotate:90
+body
+bounds:790,310,374,541
+head
+bounds:1301,21,290,377
+rotate:90
+leg
+bounds:790,10,501,290
+tail
+bounds:1174,321,478,530
+umbr_back
+bounds:10,77,770,774
+umbr_front
+bounds:1662,485,333,366
+레이어 1
+bounds:10,16,51,108
+rotate:90

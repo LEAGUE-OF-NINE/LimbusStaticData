@@ -1,0 +1,71 @@
+snow white princess.png
+size:868,526
+filter:Linear,Linear
+pma:true
+scale:0.08
+L arm
+bounds:539,259,27,62
+rotate:90
+L arm 3
+bounds:539,343,59,40
+rotate:90
+L cape
+bounds:10,66,207,264
+rotate:90
+Larm2
+bounds:476,130,69,47
+rotate:90
+R arm
+bounds:349,10,33,65
+rotate:90
+R arm 2
+bounds:592,394,35,68
+R arm 3
+bounds:539,412,50,43
+rotate:90
+R cape
+bounds:659,259,141,257
+belt
+bounds:284,239,34,20
+rotate:90
+belt 2
+bounds:476,10,23,110
+body
+bounds:284,130,49,69
+body 2
+bounds:320,209,253,209
+rotate:90
+body dead
+bounds:789,34,49,69
+rotate:90
+body dead 2
+bounds:539,40,240,209
+btm
+bounds:810,187,329,44
+rotate:90
+btm dead
+bounds:320,472,329,44
+cape back
+bounds:10,283,300,233
+cape1
+bounds:789,93,84,62
+rotate:90
+foot dead
+bounds:10,12,329,44
+head
+bounds:589,348,36,37
+rotate:90
+head dead
+bounds:539,296,44,37
+jewel
+bounds:424,12,37,31
+leaf
+bounds:349,53,146,117
+rotate:90
+mouth
+bounds:284,211,18,18
+mouth 2
+bounds:284,78,42,51
+rotate:90
+neck
+bounds:789,227,11,22

@@ -1,0 +1,24 @@
+donquixote_fish_idle.png
+size:1887,973
+filter:Linear,Linear
+pma:true
+scale:0.414
+GGori
+bounds:700,607,830,356
+a 2
+bounds:10,288,675,680
+rotate:90
+a 3
+bounds:700,63,534,751
+rotate:90
+body 2
+bounds:1540,171,337,792
+head 2
+bounds:10,10,268,342
+rotate:90
+l 2
+bounds:362,153,125,297
+rotate:90
+l 3
+bounds:1461,26,135,324
+rotate:90

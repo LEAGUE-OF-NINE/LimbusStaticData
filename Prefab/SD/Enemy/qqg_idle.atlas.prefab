@@ -1,0 +1,15 @@
+qqg_idle.png
+size:1029,1129
+filter:Linear,Linear
+pma:true
+scale:0.414
+backhair
+bounds:461,2,375,410
+rotate:90
+body
+bounds:2,322,457,805
+head
+bounds:2,47,273,413
+rotate:90
+weapon
+bounds:461,379,566,748

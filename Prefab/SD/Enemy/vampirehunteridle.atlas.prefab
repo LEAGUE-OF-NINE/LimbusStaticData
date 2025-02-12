@@ -1,0 +1,31 @@
+vampirehunteridle.png
+size:1490,1099
+filter:Linear,Linear
+pma:true
+scale:0.414
+Layer 73
+bounds:1085,460,149,403
+rotate:90
+Layer 74
+bounds:1204,32,93,282
+Layer 75
+bounds:1085,316,142,341
+rotate:90
+arma
+bounds:2,313,698,784
+armb
+bounds:702,611,486,786
+rotate:90
+body_a copy
+bounds:2,2,309,687
+rotate:90
+hairb
+bounds:702,259,350,381
+rotate:90
+head_a
+bounds:960,4,242,253
+head_b
+bounds:691,19,238,267
+rotate:90
+레이어 1
+bounds:1299,130,151,184

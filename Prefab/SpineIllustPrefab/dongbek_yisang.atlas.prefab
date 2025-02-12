@@ -1,0 +1,57 @@
+dongbek_yisang.png
+size:1876,2036
+filter:Linear,Linear
+pma:true
+scale:0.3333
+2
+bounds:10,10,603,826
+rotate:90
+21
+bounds:1356,1665,361,510
+rotate:90
+22
+bounds:540,1724,435,302
+4
+bounds:787,623,1076,527
+5
+bounds:10,702,767,610
+6-1
+bounds:296,1944,114,82
+6-2
+bounds:10,1568,371,366
+6-3
+bounds:985,1686,340,361
+rotate:90
+7
+bounds:836,1197,491,479
+8
+bounds:1337,1160,495,501
+rotate:90
+head
+bounds:391,1322,435,392
+head 1
+bounds:420,1942,110,84
+head 2
+bounds:10,2020,37,6
+head 3
+bounds:151,1956,70,135
+rotate:90
+head 4
+bounds:57,1980,46,84
+rotate:90
+
+dongbek_yisang_2.png
+size:1326,1031
+filter:Linear,Linear
+pma:true
+scale:0.3333
+3
+bounds:10,10,1306,1011
+
+dongbek_yisang_3.png
+size:1667,1072
+filter:Linear,Linear
+pma:true
+scale:0.3333
+61
+bounds:10,10,1647,1052

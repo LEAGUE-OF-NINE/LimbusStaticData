@@ -1,0 +1,33 @@
+리우로쟈 idle.png
+size:909,1057
+filter:Linear,Linear
+pma:true
+scale:0.414
+string
+bounds:346,16,30,123
+rotate:90
+레이어 13
+bounds:159,308,271,174
+머리
+bounds:346,48,252,331
+rotate:90
+머리카락1
+bounds:2,794,261,469
+rotate:90
+머리카락2
+bounds:2,484,308,450
+rotate:90
+몸통
+bounds:2,2,298,342
+rotate:90
+오른쪽다리
+bounds:454,302,349,434
+rotate:90
+옷1
+bounds:2,302,180,155
+rotate:90
+왼쪽다리
+bounds:473,653,402,434
+rotate:90
+왼쪽팔
+bounds:679,67,202,233

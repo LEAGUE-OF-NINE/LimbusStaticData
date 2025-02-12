@@ -1,0 +1,17 @@
+forgotdayismidle.png
+size:1733,1631
+filter:Linear,Linear
+pma:true
+scale:0.414
+arm
+bounds:1568,14,163,493
+armL
+bounds:2,7,566,500
+armR
+bounds:570,2,455,505
+body
+bounds:2,509,1699,1120
+handL
+bounds:1027,269,539,238
+handR
+bounds:1027,45,527,222

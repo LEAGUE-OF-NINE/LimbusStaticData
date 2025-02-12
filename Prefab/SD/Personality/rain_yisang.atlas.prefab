@@ -1,0 +1,32 @@
+rain_yisang.png
+size:1621,807
+filter:Linear,Linear
+pma:true
+scale:0.414
+color
+bounds:1317,323,286,474
+color 복사
+bounds:1485,174,126,139
+머리
+bounds:10,12,228,242
+rotate:90
+무기
+bounds:10,250,1297,547
+상체 2
+bounds:1317,48,158,265
+팔
+bounds:1485,10,104,154
+팔 복사
+bounds:943,20,76,71
+rotate:90
+팔 복사 2
+bounds:739,62,120,178
+팔 복사 3
+bounds:869,18,78,64
+rotate:90
+하체 2
+bounds:262,47,193,467
+rotate:90
+하체 2 복사
+bounds:869,106,134,435
+rotate:90

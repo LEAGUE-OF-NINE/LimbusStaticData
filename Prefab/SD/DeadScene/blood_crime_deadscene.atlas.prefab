@@ -1,0 +1,113 @@
+blood_crime_deadscene.png
+size:1585,1107
+filter:Linear,Linear
+pma:true
+scale:0.414
+Hair/Grgr hair
+bounds:1056,816,251,281
+Hair/HL hair
+bounds:1297,344,234,271
+rotate:90
+Hair/HL_backhair
+bounds:479,135,342,479
+rotate:90
+Hair/Heath hair
+bounds:816,806,291,230
+rotate:90
+Hair/Ro hair
+bounds:554,763,252,334
+Hair/Ro_back hair
+bounds:10,10,467,459
+rotate:90
+Hair/Sinc hair
+bounds:1317,845,258,252
+Hair/Yi hair
+bounds:968,18,228,206
+Hair/donQ hair
+bounds:1317,588,247,253
+rotate:90
+Hair/fa_hair
+bounds:837,513,262,283
+Hair/is_backhair
+bounds:10,487,534,610
+Hair/is_hair
+bounds:554,488,273,265
+Hair/mrs hair
+bounds:1109,575,231,178
+rotate:90
+Hair/ots_hair
+bounds:968,234,269,269
+Hair/rs_hair
+bounds:1247,65,269,269
+
+blood_crime_deadscene_2.png
+size:550,1051
+filter:Linear,Linear
+pma:true
+scale:0.414
+images/L arm
+bounds:366,20,61,136
+images/L arm 2
+bounds:395,396,67,145
+rotate:90
+images/L arm 2s
+bounds:395,322,64,145
+rotate:90
+images/L arm 2s_green
+bounds:368,166,64,145
+rotate:90
+images/L arms
+bounds:212,58,61,136
+rotate:90
+images/L hand
+bounds:437,10,67,67
+images/L leg
+bounds:305,731,90,230
+rotate:90
+images/Lleg2
+bounds:10,829,120,285
+rotate:90
+images/R arm 1
+bounds:400,554,71,140
+rotate:90
+images/R arm1 s
+bounds:400,473,71,140
+rotate:90
+images/R arm2
+bounds:212,129,71,144
+rotate:90
+images/R arm2 s
+bounds:212,210,71,146
+rotate:90
+images/R arm2 s blood
+bounds:212,560,65,178
+rotate:90
+images/R arm2 s blood_Green
+bounds:212,485,65,178
+rotate:90
+images/R hand
+bounds:437,87,79,69
+images/R leg 1
+bounds:273,635,86,203
+rotate:90
+images/R leg 2
+bounds:10,959,82,294
+rotate:90
+images/atk
+bounds:486,653,52,68
+images/bottom
+bounds:212,291,147,89
+images/front head
+bounds:314,831,210,221
+rotate:90
+images/gokiburi
+bounds:10,43,192,590
+images/mrshand
+bounds:212,390,85,173
+rotate:90
+images/necktie
+bounds:369,240,72,146
+rotate:90
+images/top S
+bounds:10,643,176,253
+rotate:90

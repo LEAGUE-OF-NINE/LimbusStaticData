@@ -1,0 +1,32 @@
+kurokumo-ism-idle.png
+size:1794,584
+filter:Linear,Linear
+pma:true
+scale:0.414
+armL
+bounds:1163,15,259,284
+rotate:90
+armR
+bounds:1072,44,89,294
+body
+bounds:733,340,242,559
+rotate:90
+handR
+bounds:2,28,729,554
+head
+bounds:733,13,337,325
+레이어 1
+bounds:1449,72,117,202
+레이어 2
+bounds:1633,197,113,385
+레이어 3
+bounds:1568,93,102,167
+rotate:90
+레이어 5
+bounds:1568,7,84,117
+rotate:90
+레이어 6
+bounds:1687,2,89,105
+rotate:90
+레이어 7
+bounds:1294,276,337,306
