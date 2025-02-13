@@ -47,6 +47,11 @@
         },
         {
           "type": "PERSONALITY",
+          "id": 10903,
+          "num": 1
+        },
+        {
+          "type": "PERSONALITY",
           "id": 10904,
           "num": 1
         },
@@ -58,6 +63,11 @@
         {
           "type": "PERSONALITY",
           "id": 11005,
+          "num": 1
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 11103,
           "num": 1
         },
         {

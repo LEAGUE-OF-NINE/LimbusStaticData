@@ -4670,7 +4670,7 @@
           "exclusiveValue": 16,
           "judgementDataList": [
             {
-              "attributeType": "VIOLET"
+              "attributeType": "AZURE"
             },
             {
               "attributeType": "AMBER"
@@ -8053,7 +8053,7 @@
         "judgement": {
           "upDownType": 1,
           "inclusiveValue": 14,
-          "exclusiveValue": 14,
+          "exclusiveValue": 28,
           "judgementDataList": [
             {
               "attributeType": "INDIGO"
@@ -8134,7 +8134,7 @@
         "judgement": {
           "upDownType": 1,
           "inclusiveValue": 14,
-          "exclusiveValue": 14,
+          "exclusiveValue": 28,
           "judgementDataList": [
             {
               "attributeType": "INDIGO"
