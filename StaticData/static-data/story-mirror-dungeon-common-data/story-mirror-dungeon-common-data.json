@@ -293,6 +293,33 @@
 				"aEgoGiftId": 9737,
 				"bEgoGiftId": 9739,
 				"resultEgoGiftId": 9743
+			},
+
+
+
+			{
+				"aEgoGiftId": 2029,
+				"bEgoGiftId": 9782,
+				"resultEgoGiftId": 9783,
+				"requiredEgoGiftIds": [2029,9782]
+			},
+			{
+				"aEgoGiftId": 2030,
+				"bEgoGiftId": 9782,
+				"resultEgoGiftId": 9784,
+				"requiredEgoGiftIds": [2030,9782]
+			},
+			{
+				"aEgoGiftId": 9714,
+				"bEgoGiftId": 9782,
+				"resultEgoGiftId": 9783,
+				"requiredEgoGiftIds": [9714,9782]
+			},
+			{
+				"aEgoGiftId": 9715,
+				"bEgoGiftId": 9782,
+				"resultEgoGiftId": 9784,
+				"requiredEgoGiftIds": [9715,9782]
 			}
 		]
 	},
