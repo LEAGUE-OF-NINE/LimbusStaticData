@@ -1,6 +1,21 @@
 {
   "list": [
     {
+      "eventId": "LimbusAnniversaryOneTime",
+      "mainUIPhaseTypeList": [
+        "Lobby"
+      ],
+      "isBannerVisible": false
+    },
+    {
+      "eventId": "RailwayDungeonBanner",
+      "mainUIPhaseTypeList": [
+        "Lobby"
+      ],
+      "bannerSpriteId": "banner_RailwayLine5",
+      "isBannerVisible": true
+    },
+    {
       "eventId": "YCGD",
       "mainUIPhaseTypeList": [
         "Lobby",
@@ -56,14 +71,7 @@
       "bannerSpriteId": "banner_MirrorDungeon5",
       "isBannerVisible": true
     },
-    {
-      "eventId": "RailwayDungeonBanner",
-      "mainUIPhaseTypeList": [
-        "Lobby"
-      ],
-      "bannerSpriteId": "banner_RailwayLine4",
-      "isBannerVisible": true
-    },
+
 
     {
       "eventId": "RemainMembership",

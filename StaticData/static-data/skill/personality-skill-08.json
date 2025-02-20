@@ -1409,7 +1409,10 @@
               "actionIndex": 2,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack[necessary:Bullet:1]",
+                  "scriptName": "UseBullt[necessary:Bullet:1]"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "Vibration",
                     "target": "Target",
@@ -1427,7 +1430,10 @@
               "actionIndex": 3,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack[necessary:Bullet:1]",
+                  "scriptName": "UseBullt[necessary:Bullet:1]"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "Vibration",
                     "target": "Target",
@@ -1468,7 +1474,10 @@
               "actionIndex": 2,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack[necessary:Bullet:1]",
+                  "scriptName": "UseBullet[necessary:Bullet:1]"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "Vibration",
                     "target": "Target",
@@ -1486,7 +1495,10 @@
               "actionIndex": 3,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack[necessary:Bullet:1]",
+                  "scriptName": "UseBullet[necessary:Bullet:1]"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "Vibration",
                     "target": "Target",
@@ -1529,7 +1541,10 @@
               "actionIndex": 2,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack[necessary:Bullet:1]",
+                  "scriptName": "UseBullet[necessary:Bullet:1]"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "Vibration",
                     "target": "Target",
@@ -1547,7 +1562,10 @@
               "actionIndex": 3,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack[necessary:Bullet:1]",
+                  "scriptName": "UseBullet[necessary:Bullet:1]"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "Vibration",
                     "target": "Target",
@@ -1605,7 +1623,10 @@
               "actionIndex": 2,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack[necessary:Bullet:1]",
+                  "scriptName": "UseBullet[necessary:Bullet:1]"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "Burst",
                     "target": "Target",
@@ -1623,7 +1644,10 @@
               "actionIndex": 3,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack[necessary:Bullet:1]",
+                  "scriptName": "UseBullet[necessary:Bullet:1]"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "Burst",
                     "target": "Target",
@@ -1642,7 +1666,10 @@
               "cutsceneStart": true,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack[necessary:Bullet:1]",
+                  "scriptName": "UseBullet[necessary:Bullet:1]"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "Vulnerable",
                     "target": "Target",
@@ -5396,7 +5423,12 @@
               "operatorType": "ADD",
               "grade": 2,
               "color": "GREY",
-              "scale": 8
+              "scale": 8,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                }
+              ]
             }
           ]
         },
@@ -5436,7 +5468,12 @@
               "operatorType": "ADD",
               "grade": 2,
               "color": "GREY",
-              "scale": 12
+              "scale": 12,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                }
+              ]
             }
           ]
         }

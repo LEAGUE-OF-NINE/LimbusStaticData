@@ -995,6 +995,30 @@
       "requireIDList": [
         "CheckAwakenLevel4"
       ]
+    },
+    {
+      "id": 1011211,
+      "attributeStockCondition": [
+        {
+          "type": "CRIMSON",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel4"
+      ]
+    },
+    {
+      "id": 1011231,
+      "attributeResonanceCondition": [
+        {
+          "type": "CRIMSON",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel4"
+      ]
     }
   ]
 }

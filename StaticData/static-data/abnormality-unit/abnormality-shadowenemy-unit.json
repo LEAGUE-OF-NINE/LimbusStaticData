@@ -2117,6 +2117,1342 @@
           "egoLevel": 4
         }
       ]
+    },
+
+    {
+      "id": 8653,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerHighest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        865301
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          828004,
+          860506
+        ]
+      },
+      "overridePersonalityId": 10611,
+      "egoList": [
+        {
+          "egoID": 20601,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20607,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20605,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8654,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerHighest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        865401
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506
+        ]
+      },
+      "overridePersonalityId": 10110,
+      "egoList": [
+        {
+          "egoID": 20101,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20103,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20104,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8655,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerLowest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        865501
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506
+        ]
+      },
+      "overridePersonalityId": 11207,
+      "egoList": [
+        {
+          "egoID": 21201,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 21206,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 21207,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8656,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerHighest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        865601
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506
+        ]
+      },
+      "overridePersonalityId": 10406,
+      "egoList": [
+        {
+          "egoID": 20401,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20406,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20408,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8657,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerHighest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        865701
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506
+        ]
+      },
+      "overridePersonalityId": 10804,
+      "egoList": [
+        {
+          "egoID": 20801,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20807,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20808,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20805,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8658,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerLowest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        865801
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506
+        ]
+      },
+      "overridePersonalityId": 10711,
+      "egoList": [
+        {
+          "egoID": 20701,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20707,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20704,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8659,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerHighest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        865901
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506,
+          828008
+        ]
+      },
+      "overridePersonalityId": 10910,
+      "egoList": [
+        {
+          "egoID": 20901,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8660,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerHighest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        866001
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506,
+          828008
+        ]
+      },
+      "overridePersonalityId": 11011,
+      "egoList": [
+        {
+          "egoID": 21001,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8661,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerHighest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        866101
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506,
+          828008
+        ]
+      },
+      "overridePersonalityId": 11110,
+      "egoList": [
+        {
+          "egoID": 21101,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8662,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerHighest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        866201
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506,
+          828008
+        ]
+      },
+      "overridePersonalityId": 10302,
+      "egoList": [
+        {
+          "egoID": 20301,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8663,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerHighest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        866301
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506,
+          828008
+        ]
+      },
+      "overridePersonalityId": 10511,
+      "egoList": [
+        {
+          "egoID": 20501,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8664,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerHighest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        866401
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506,
+          828008
+        ]
+      },
+      "overridePersonalityId": 10206,
+      "egoList": [
+        {
+          "egoID": 20201,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8665,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerHighest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        866501
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506,
+          828008
+        ]
+      },
+      "overridePersonalityId": 10811,
+      "egoList": [
+        {
+          "egoID": 20801,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20802,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20806,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20805,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8666,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerHighest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        866601
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506,
+          828008
+        ]
+      },
+      "overridePersonalityId": 10712,
+      "egoList": [
+        {
+          "egoID": 20701,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20703,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20704,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8667,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerHighest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        866701
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506,
+          828008
+        ]
+      },
+      "overridePersonalityId": 10403,
+      "egoList": [
+        {
+          "egoID": 20401,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20403,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20408,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20407,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8668,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerLowest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        866801
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506,
+          828008
+        ]
+      },
+      "overridePersonalityId": 10602,
+      "egoList": [
+        {
+          "egoID": 20601,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20602,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20603,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8669,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerHighest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        866901
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506,
+          828008
+        ]
+      },
+      "overridePersonalityId": 11208,
+      "egoList": [
+        {
+          "egoID": 21202,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 21206,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 21208,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 21205,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8670,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerHighest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        867001
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506,
+          828008
+        ]
+      },
+      "overridePersonalityId": 10902,
+      "egoList": [
+        {
+          "egoID": 20901,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20903,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20907,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20906,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8671,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerHighest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        867101
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506,
+          828005
+        ]
+      },
+      "overridePersonalityId": 11107,
+      "egoList": [
+        {
+          "egoID": 21101,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 21104,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 21108,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8672,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerHighest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        867201
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506,
+          828005
+        ]
+      },
+      "overridePersonalityId": 10211,
+      "egoList": [
+        {
+          "egoID": 20201,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20203,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20202,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8673,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerHighest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        867301
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506,
+          828005
+        ]
+      },
+      "overridePersonalityId": 11009,
+      "egoList": [
+        {
+          "egoID": 21006,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 21003,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 21005,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8674,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerLowest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        867401
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506,
+          828005
+        ]
+      },
+      "overridePersonalityId": 10111,
+      "egoList": [
+        {
+          "egoID": 20101,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20102,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20107,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8675,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerHighest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        867501
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506,
+          828005
+        ]
+      },
+      "overridePersonalityId": 10306,
+      "egoList": [
+        {
+          "egoID": 20301,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20306,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20303,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8676,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerHighest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        867601
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506,
+          828005
+        ]
+      },
+      "overridePersonalityId": 10507,
+      "egoList": [
+        {
+          "egoID": 20501,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20506,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20504,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8677,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerHighest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        867701
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506,
+          828005
+        ]
+      },
+      "overridePersonalityId": 10310,
+      "egoList": [
+        {
+          "egoID": 20301,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20305,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20302,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20307,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8678,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerHighest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        867801
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506,
+          828005
+        ]
+      },
+      "overridePersonalityId": 10911,
+      "egoList": [
+        {
+          "egoID": 20901,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20903,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20907,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20906,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8679,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerHighest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        867901
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506,
+          828005
+        ]
+      },
+      "overridePersonalityId": 11111,
+      "egoList": [
+        {
+          "egoID": 21101,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 21103,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 21102,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8680,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerHighest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        868001
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506,
+          828005
+        ]
+      },
+      "overridePersonalityId": 11210,
+      "egoList": [
+        {
+          "egoID": 21202,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 21203,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 21208,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 21205,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8681,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerHighest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        868101
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506,
+          828005
+        ]
+      },
+      "overridePersonalityId": 10410,
+      "egoList": [
+        {
+          "egoID": 20401,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20403,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20404,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20407,
+          "egoLevel": 4
+        }
+      ]
+    },
+    {
+      "id": 8682,
+      "nameID": 8292,
+      "storyID": 8292,
+      "unitScriptID": "ShadowAbnormality_Jealousy",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "VIOLET",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "lowMorale": -46,
+      "panic": -46,
+      "patternID": "PickLikeAPlayerHighest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        868201
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          
+          828004,
+          860506,
+          828005
+        ]
+      },
+      "overridePersonalityId": 10506,
+      "egoList": [
+        {
+          "egoID": 20501,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20505,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20503,
+          "egoLevel": 4
+        },
+        {
+          "egoID": 20507,
+          "egoLevel": 4
+        }
+      ]
     }
   ]
 }

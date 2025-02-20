@@ -242,7 +242,7 @@
         },
         {
           "voicetype": "AllyAdv",
-          "path": "announcer_ally_adv",
+          "path": "announcer_ally_advex",
           "priority": 12,
           "index": 1
         },

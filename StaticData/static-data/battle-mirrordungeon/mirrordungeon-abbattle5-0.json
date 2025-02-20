@@ -47883,7 +47883,14 @@
           "localizeId": 1
         }
       ],
-      "rewardList": [],
+      "rewardList": [
+        {
+          "type": "EGO_GIFT",
+          "rewardId": 993005,
+          "num": 1,
+          "prob": 1
+        }
+      ],
       "isBatonPassOn": "TRUE",
       "stageScriptList": ["1078_Mirror"]
     },

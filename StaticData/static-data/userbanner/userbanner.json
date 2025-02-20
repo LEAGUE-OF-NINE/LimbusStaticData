@@ -248,6 +248,15 @@
     {
       "id": 50,
       "effectId": 11
+    },
+    {
+      "id": 51,
+      "valueAssetName": "MMR5"
+    },
+    {
+      "id": 52,
+      "effectId": 12,
+      "valueAssetName": "MMR5"
     }
   ]
 }

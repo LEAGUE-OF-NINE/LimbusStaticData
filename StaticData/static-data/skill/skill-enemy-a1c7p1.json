@@ -1340,6 +1340,9 @@
               "scale": 3,
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "Laceration",
@@ -1741,6 +1744,9 @@
               "scale": 4,
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "Laceration",
@@ -1887,6 +1893,9 @@
                 "activeRound": 0,
                 "value": 0.1
               }
+            },
+            {
+              "scriptName": "EmptyBody"
             }
           ],
           "coinList": [
@@ -1951,6 +1960,9 @@
                 "activeRound": 0,
                 "value": 1
               }
+            },
+            {
+              "scriptName": "EmptyBody"
             }
           ],
           "coinList": [
@@ -2031,6 +2043,9 @@
                 "turn": 0,
                 "activeRound": 0
               }
+            },
+            {
+              "scriptName": "EmptyBody"
             }
           ],
           "coinList": [
@@ -2114,6 +2129,9 @@
           "abilityScriptList": [
             {
               "scriptName": "HemostasisGuard"
+            },
+            {
+              "scriptName": "EmptyBody"
             }
           ],
           "coinList": [
@@ -2156,6 +2174,9 @@
                 "activeRound": 0,
                 "value": 0.1
               }
+            },
+            {
+              "scriptName": "EmptyBody"
             }
           ],
           "coinList": [
@@ -2220,6 +2241,9 @@
                 "activeRound": 0,
                 "value": 1
               }
+            },
+            {
+              "scriptName": "EmptyBody"
             }
           ],
           "coinList": [
@@ -2300,6 +2324,9 @@
                 "turn": 0,
                 "activeRound": 0
               }
+            },
+            {
+              "scriptName": "EmptyBody"
             }
           ],
           "coinList": [
@@ -2383,6 +2410,9 @@
           "abilityScriptList": [
             {
               "scriptName": "HemostasisGuard"
+            },
+            {
+              "scriptName": "EmptyBody"
             }
           ],
           "coinList": [

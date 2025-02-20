@@ -864,6 +864,46 @@
           "lineDirection": "LEFT"
         }
       ]
+    },
+    {
+      "id": 8633,
+      "partPositionDatas": [
+        {
+          "id": 863301,
+          "offsetX": 200.0,
+          "offsetY": 0.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 863302,
+          "offsetX": 200.0,
+          "offsetY": 0.0,
+          "lineDirection": "RIGHT"
+        }
+      ]
+    },
+    {
+      "id": 8632,
+      "partPositionDatas": [
+        {
+          "id": 863201,
+          "offsetX": 200.0,
+          "offsetY": 0.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 863202,
+          "offsetX": -200.0,
+          "offsetY": 0.0,
+          "lineDirection": "LEFT"
+        },
+        {
+          "id": 863203,
+          "offsetX": 200.0,
+          "offsetY": 0.0,
+          "lineDirection": "RIGHT"
+        }
+      ]
     }
   ]
 }

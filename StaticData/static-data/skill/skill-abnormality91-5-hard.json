@@ -279,6 +279,9 @@
               "color":"GREY",
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "Breath",
@@ -308,6 +311,9 @@
               "grade": 2,
               "color":"GREY",
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "GiveAdditionalBuffStackDmgOnSuccessAttack",
                   "buffData": {
@@ -350,6 +356,9 @@
               "grade": 2,
               "color":"GREY",
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "81130431"
                 },
