@@ -1,0 +1,35 @@
+{
+	"list": [
+		{
+			"id": 22,
+			"startDate": "2025-02-26T15:00:00.000Z",
+			"startDateForUI": "2025-02-26T15:00:00.000Z",
+			"endDate": "2025-03-27T01:00:00.000Z",
+			"endDateForUI": "2025-03-27T01:00:00.000Z",
+			"eventRewardDatas": [
+				{
+					"rewardId": 1,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20027,
+						"num": 1
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id": 103,
+							"num": 1
+						}
+					],
+					"limitCount": 1
+				}
+			],
+			"dailyLoginRewardItem":
+			{
+				"type": "ITEM",
+				"id": 20027,
+				"num": 1
+			}
+		}
+	]
+}

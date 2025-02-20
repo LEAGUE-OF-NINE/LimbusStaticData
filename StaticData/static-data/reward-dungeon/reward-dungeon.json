@@ -10,7 +10,7 @@
   "threadDungeonIds": [ 1, 2, 3, 4, 5, 6, 7 ],
   "expDungeonBonusChanceId": 10003,
   "threadDungeonBonusChanceId": 10004,
-  "railwayDungeonIds": [ 4 ],
+  "railwayDungeonIds": [ 5 ],
   "isRailwayDungeonOpened": true,
 
   "expDungeonBuffReward": {

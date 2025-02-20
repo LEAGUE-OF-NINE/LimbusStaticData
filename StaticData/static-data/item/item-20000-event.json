@@ -177,6 +177,10 @@
       "ignoreExcess": true,
 
       "spriteStr": "lcb_checkup_event_item_2"
+    },
+    {
+      "id": 20027,
+      "ignoreExcess": true
     }
   ]
 }

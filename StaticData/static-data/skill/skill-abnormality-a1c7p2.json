@@ -175,6 +175,9 @@
               "color": "GREY",
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "GiveBuffOnSucceedAttackAfterWinDuel",
                   "buffData": {
                     "buffKeyword": "Laceration",
@@ -260,6 +263,9 @@
               "actionIndex ": 2,
               "color": "GREY",
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "83810402",
                   "buffData": {
@@ -352,6 +358,9 @@
               "actionIndex ":  3,
               "color": "GREY",
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "83810503"
                 },
@@ -509,6 +518,9 @@
               "color": "GREY",
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "Laceration",
@@ -527,6 +539,9 @@
               "color": "GREY",
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "GiveBuffOnSucceedAttackAfterWinDuel",
                   "buffData": {
                     "buffKeyword": "Burst",
@@ -544,6 +559,9 @@
               "grade": 2,
               "color": "GREY",
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "83810504"
                 }
@@ -728,7 +746,12 @@
               "operatorType": "ADD",
               "scale": 11,
               "grade": 2,
-              "color": "GREY"
+              "color": "GREY",
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                }
+              ]
             },
             {
               "operatorType": "ADD",
@@ -780,7 +803,12 @@
               "operatorType": "ADD",
               "scale": 10,
               "grade": 2,
-              "color": "GREY"
+              "color": "GREY",
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                }
+              ]
             },
             {
               "operatorType": "ADD",
@@ -963,7 +991,12 @@
               "operatorType": "ADD",
               "scale": 15,
               "grade": 2,
-              "color": "GREY"
+              "color": "GREY",
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                }
+              ]
             }
           ]
         }

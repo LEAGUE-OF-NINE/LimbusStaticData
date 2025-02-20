@@ -447,6 +447,9 @@
               "color": "GREY",
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "DmgUpByBuff",
                   "buffData": {
                     "buffKeyword": "ThornNoose",
@@ -520,6 +523,9 @@
               "grade": 2,
               "color": "GREY",
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
@@ -619,6 +625,9 @@
               "grade": 2,
               "color": "GREY",
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
@@ -2164,6 +2173,9 @@
               "color": "GREY",
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "Laceration",
@@ -2237,7 +2249,7 @@
               "scriptName": "EmptyBody"
             },
             {
-              "scriptName": "GiveBuffOnUseWithBloodDinner[50:1000:50]",
+              "scriptName": "GiveBuffOnUseWithBloodDinner[10:50:10]",
               "buffData": {
                 "buffKeyword": "BloodyHand",
                 "target": "Self",
@@ -2311,10 +2323,10 @@
               "scriptName": "EmptyBody"
             },
             {
-              "scriptName": "CoinScaleAdderViaBuffCheck",
+              "scriptName": "CoinScaleAdderOnStartTurnViaBuffCheck",
               "buffData": {
                 "buffKeyword": "Laceration",
-                "buffOwner": "Self",
+                "buffOwner": "Target",
                 "stack": 6,
                 "turn": 0,
                 "value": 1
@@ -2341,6 +2353,9 @@
               "grade": 2,
               "color": "GREY",
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
@@ -2538,6 +2553,9 @@
               "grade": 2,
               "color": "GREY",
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
@@ -2781,6 +2799,9 @@
               "color": "GREY",
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "AffectionTeddyConvertOnSucceedAttack_limit4"
                 },
                 {
@@ -2835,6 +2856,9 @@
               "grade": 2,
               "color":"GREY",
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "AttackDmgUpByRatio100IfTargetHasNotNegativeBuff"
                 },
@@ -2926,6 +2950,9 @@
               "color":"GREY",
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "HealMpMaxTargetOnSucceedAttack"
                 }
               ]
@@ -2986,6 +3013,9 @@
               "grade": 2,
               "color": "GREY",
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
@@ -3557,23 +3587,8 @@
               "color": "GREY",
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
-                    "buffKeyword": "Laceration",
-                    "target": "Target",
-                    "stack": 5,
-                    "turn": 2,
-                    "activeRound": 0
-                  }
-                }
-              ]
-            },
-            {
-              "operatorType": "ADD",
-              "scale": 3,
-              "grade": 2,
-              "color": "GREY",
-              "abilityScriptList": [
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
@@ -3592,6 +3607,30 @@
               "grade": 2,
               "color": "GREY",
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "stack": 5,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "grade": 2,
+              "color": "GREY",
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                }
               ]
             }
           ]
@@ -3835,6 +3874,9 @@
               "grade": 2,
               "color": "GREY",
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                }
               ]
             },
             {
@@ -3843,6 +3885,9 @@
               "grade": 2,
               "color": "GREY",
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                }
               ]
             },
             {
@@ -3851,6 +3896,9 @@
               "grade": 2,
               "color": "GREY",
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                }
               ]
             },
             {
@@ -3859,6 +3907,9 @@
               "grade": 2,
               "color": "GREY",
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
@@ -4126,6 +4177,9 @@
               "color": "GREY",
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "GiveBuffOnSucceedAttackHead",
                   "buffData": {
                     "buffKeyword": "Laceration",
@@ -4192,6 +4246,9 @@
               "grade": 2,
               "color": "GREY",
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "DmgUpByBuffStack",
                   "buffData": {
@@ -4549,6 +4606,9 @@
               "color": "GREY",
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "Laceration",
@@ -4584,6 +4644,9 @@
               "grade": 2,
               "color": "GREY",
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
@@ -4669,23 +4732,8 @@
               "color": "GREY",
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
-                    "buffKeyword": "Laceration",
-                    "target": "Target",
-                    "stack": 0,
-                    "turn": 1,
-                    "activeRound": 0
-                  }
-                }
-              ]
-            },
-            {
-              "operatorType": "ADD",
-              "scale": 5,
-              "grade": 2,
-              "color": "GREY",
-              "abilityScriptList": [
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
@@ -4705,6 +4753,9 @@
               "color": "GREY",
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "Laceration",
@@ -4722,6 +4773,30 @@
               "grade": 2,
               "color": "GREY",
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "grade": 2,
+              "color": "GREY",
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
@@ -4780,7 +4855,12 @@
               "operatorType": "ADD",
               "scale": 7,
               "grade": 2,
-              "color": "GREY"
+              "color": "GREY",
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                }
+              ]
             }
           ]
         }
@@ -4845,6 +4925,9 @@
               "grade": 2,
               "color": "GREY",
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
@@ -4927,7 +5010,12 @@
               "operatorType": "ADD",
               "scale": 10,
               "grade": 2,
-              "color": "GREY"
+              "color": "GREY",
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                }
+              ]
             }
           ]
         }
@@ -5157,6 +5245,9 @@
               "actionIndex": 3,
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "84101101"
                 },
                 {
@@ -5263,13 +5354,23 @@
               "operatorType": "ADD",
               "scale": 2,
               "grade": 2,
-              "color": "GREY"
+              "color": "GREY",
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                }
+              ]
             },
             {
               "operatorType": "ADD",
               "scale": 2,
               "grade": 2,
-              "color": "GREY"
+              "color": "GREY",
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                }
+              ]
             }
           ]
         }

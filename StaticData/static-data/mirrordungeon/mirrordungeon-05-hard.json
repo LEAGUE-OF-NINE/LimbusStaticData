@@ -246,7 +246,7 @@
               "eid":0
             }
           ],
-          "enemyBuffPool": []
+          "enemyBuffPool": [ ]
         }
       ],
       "clientConfig": {

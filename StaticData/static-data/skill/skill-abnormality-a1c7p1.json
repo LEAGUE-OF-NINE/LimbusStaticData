@@ -781,6 +781,9 @@
               "color": "GREY",
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "BloodScissorScars",
@@ -855,6 +858,9 @@
               "grade": 2,
               "color": "GREY",
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
@@ -933,6 +939,9 @@
               "color": "GREY",
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "Laceration",
@@ -954,6 +963,9 @@
               "color": "GREY",
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "Laceration",
@@ -974,6 +986,9 @@
               "grade": 2,
               "color": "GREY",
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {

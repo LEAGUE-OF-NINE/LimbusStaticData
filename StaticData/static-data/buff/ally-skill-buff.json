@@ -1964,6 +1964,32 @@
           "ability": "CloudWall"
         }
       ]
+    },
+    {
+      "id": "NebulizerExhale",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": false,
+      "destroyableOnDie": true,
+      "destroyableOnRetreat": false,
+      "maxStack": 5,
+      "list": [
+        {
+          "ability": "NebulizerExhale"
+        }
+      ]
+    },
+    {
+      "id": "ReleaseBreath",
+      "buffClass": "VolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": true,
+      "maxStack": 1,
+      "list": [
+        {
+          "ability": "ReleaseBreath"
+        }
+      ]
     }
   ]
 }
