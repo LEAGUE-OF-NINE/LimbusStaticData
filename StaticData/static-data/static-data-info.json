@@ -140,6 +140,7 @@
         "mirror-dungeon-floor-buff",
         "mirror-dungeon-4-floor-buff",
         "mirror-dungeon-5-floor-buff",
+        "mirror-dungeon-5-infinite-floor-buff",
         "negative-sin-buff",
         "negative-volatile-buff",
         "neutral-nonvolatile-buff",
@@ -717,21 +718,24 @@
       "dataClass": "mirrordungeon",
       "fileList": [
         "mirrordungeon-05",
-        "mirrordungeon-05-hard"
+        "mirrordungeon-05-hard",
+        "mirrordungeon-05-infinite"
       ]
     },
     {
       "dataClass": "mirrordungeon-encounterinfo",
       "fileList": [
         "mirrordungeon-encounterinfos-05-normal",
-        "mirrordungeon-encounterinfos-05-hard"
+        "mirrordungeon-encounterinfos-05-hard",
+        "mirrordungeon-encounterinfos-05-infinite"
       ]
     },
     {
       "dataClass": "mirrordungeon-global-encounterinfo",
       "fileList": [
         "mirrordungeon-global-encounterinfos-5-0",
-        "mirrordungeon-global-encounterinfos-5-1"
+        "mirrordungeon-global-encounterinfos-5-1",
+        "mirrordungeon-global-encounterinfos-5-2"
       ]
     },
     {
@@ -830,7 +834,8 @@
         "announcer-wp4",
         "announcer-a1c7p3",
         "announcer-wp5",
-        "announcer-ycgd-renewal"
+        "announcer-ycgd-renewal",
+        "announcer-limbus2ndAnniversary"
       ]
     },
     {
@@ -845,7 +850,8 @@
         "mirrordungeon-egogift-droppool-3",
         "mirrordungeon-egogift-droppool-4",
         "mirrordungeon-egogift-droppool-5",
-        "mirrordungeon-egogift-droppool-5-1"
+        "mirrordungeon-egogift-droppool-5-1",
+        "mirrordungeon-egogift-droppool-5-2"
       ]
     },
     {
@@ -1253,7 +1259,8 @@
         "mirrordungeon-acquire-cost-in-battle-3-0",
         "mirrordungeon-acquire-cost-in-battle-3-1",
         "mirrordungeon-acquire-cost-in-battle-5-0",
-        "mirrordungeon-acquire-cost-in-battle-5-1"
+        "mirrordungeon-acquire-cost-in-battle-5-1",
+        "mirrordungeon-acquire-cost-in-battle-5-2"
       ]
     },
     {
@@ -1263,7 +1270,9 @@
         "newuser-event",
         "lcbcheckup-event",
         "ycgd-returns-event",
-        "Limbus2ndAnniversary-onetime-event"
+        "Limbus2ndAnniversary-onetime-event",
+        "mirrordungeon5-mission-event",
+        "Limbus2ndAnniversary-attendance-event"
       ]
     },
     {
@@ -1327,14 +1336,17 @@
     {
       "dataClass": "event-mission",
       "fileList": [
-        "event-walpu5"
+        "event-walpu5",
+        "event-mirrordungeon5-mission"
       ]
     },
     {
       "dataClass": "mission",
       "fileList": [
         "return-mission-a1c7",
-        "event-walpu5-mission"
+        "event-walpu5-mission",
+        "mirrordungeon5-mission-collection",
+        "mirrordungeon5-mission-clear"
       ]
     },
     {
@@ -1342,7 +1354,8 @@
       "fileList": [
         "return-mission-condition",
         "return-mission-open-condition",
-        "event-walpu5-mission-condition"
+        "event-walpu5-mission-condition",
+        "mirrordungeon5-mission-condition"
       ]
     },
     {

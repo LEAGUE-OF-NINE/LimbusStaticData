@@ -1,0 +1,278 @@
+{
+	"list": [
+		{
+			"id": 23,
+			"startDate": "2025-02-27T01:00:00.000Z",
+			"startDateForUI": "2025-02-27T03:00:00.000Z",
+			"endDate": "2025-03-27T01:00:00.000Z",
+			"endDateForUI": "2025-03-27T01:00:00.000Z",
+			"gracePeriod": "2025-03-27T01:00:00.000Z",
+			"eventRewardDatas": [
+				{
+					"rewardId": 1,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20028,
+						"num": 1
+					},
+					"rewardItemList": [
+						{
+							"type": "USERBANNER",
+							"id": 53,
+							"num": 1
+						},
+						{
+							"type": "ITEM",
+							"id": 501,
+							"num": 1
+						}
+					],
+					"limitCount": 1
+				},
+				{
+					"rewardId": 2,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20028,
+						"num": 2
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id": 101,
+							"num": 1
+						}
+					],
+					"limitCount": 1
+				},
+				{
+					"rewardId": 3,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20028,
+						"num": 3
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id": 101,
+							"num": 1
+						}
+					],
+					"limitCount": 1
+				},
+				{
+					"rewardId": 4,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20028,
+						"num": 4
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id": 232,
+							"num": 1
+						}
+					],
+					"limitCount": 1
+				},
+				{
+					"rewardId": 5,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20028,
+						"num": 5
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id": 101,
+							"num": 1
+						}
+					],
+					"limitCount": 1
+				},
+				{
+					"rewardId": 6,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20028,
+						"num": 6
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id": 101,
+							"num": 1
+						}
+					],
+					"limitCount": 1
+				},
+				{
+					"rewardId": 7,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20028,
+						"num": 7
+					},
+					"rewardItemList": [
+						{
+							"type": "USER_TICKET_DECO_LEFT",
+							"id": 48,
+							"num": 1
+						},
+						{
+							"type": "USER_TICKET_DECO_RIGHT",
+							"id": 48,
+							"num": 1
+						},
+						{
+							"type": "USER_TICKET_DECO_EGOBG",
+							"id": 48,
+							"num": 1
+						}
+					],
+					"limitCount": 1
+				},
+				{
+					"rewardId": 8,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20028,
+						"num": 8
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id": 502,
+							"num": 1
+						}
+					],
+					"limitCount": 1
+				},
+				{
+					"rewardId": 9,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20028,
+						"num": 9
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id": 101,
+							"num": 1
+						}
+					],
+					"limitCount": 1
+				},
+				{
+					"rewardId": 10,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20028,
+						"num": 10
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id": 101,
+							"num": 1
+						}
+					],
+					"limitCount": 1
+				},
+				{
+					"rewardId": 11,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20028,
+						"num": 11
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id": 233,
+							"num": 1
+						}
+					],
+					"limitCount": 1
+				},
+				{
+					"rewardId": 12,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20028,
+						"num": 12
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id": 101,
+							"num": 1
+						}
+					],
+					"limitCount": 1
+				},
+				{
+					"rewardId": 13,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20028,
+						"num": 13
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id": 101,
+							"num": 1
+						}
+					],
+					"limitCount": 1
+				},
+				{
+					"rewardId": 14,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20028,
+						"num": 14
+					},
+					"rewardItemList": [
+						{
+							"type": "ANNOUNCER",
+							"id": 28,
+							"num": 1
+						},
+						{
+							"type": "USERBANNER",
+							"id": 54,
+							"num": 1
+						},
+						{
+							"type": "USER_TICKET_DECO_LEFT",
+							"id": 49,
+							"num": 1
+						},
+						{
+							"type": "USER_TICKET_DECO_RIGHT",
+							"id": 49,
+							"num": 1
+						},
+						{
+							"type": "USER_TICKET_DECO_EGOBG",
+							"id": 49,
+							"num": 1
+						}
+					],
+					"limitCount": 1
+				}
+			],
+			"dailyLoginRewardItem": {
+				"type": "ITEM",
+				"id": 20028,
+				"num": 1
+			}
+		}
+	]
+}

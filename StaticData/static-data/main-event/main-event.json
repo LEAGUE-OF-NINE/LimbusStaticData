@@ -8,6 +8,14 @@
       "isBannerVisible": false
     },
     {
+      "eventId": "LimbusAnniversaryAttendance",
+      "mainUIPhaseTypeList": [
+        "Lobby"
+      ],
+      "bannerSpriteId": "banner_Limbus2ndAnniversaryAttendance",
+      "isBannerVisible": true
+    },
+    {
       "eventId": "RailwayDungeonBanner",
       "mainUIPhaseTypeList": [
         "Lobby"

@@ -181,6 +181,15 @@
     {
       "id": 20027,
       "ignoreExcess": true
+    },
+    {
+      "id": 20026,
+      "ignoreExcess": true,
+      "spriteStr": "md5_achievement_exp_item"
+    },
+    {
+      "id": 20028,
+      "ignoreExcess": true
     }
   ]
 }

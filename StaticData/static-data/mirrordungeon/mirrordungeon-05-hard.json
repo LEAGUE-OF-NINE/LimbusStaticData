@@ -171,7 +171,7 @@
       },
 
       "acquireEgoGiftByFloorForUI": [ 0, 0, 0, 0, 0 ],
-
+      "winFloorIdx": 4,
       "floors": [
         {
           "count": 0,
@@ -246,7 +246,7 @@
               "eid":0
             }
           ],
-          "enemyBuffPool": [ ]
+          "enemyBuffPool": [ 992241, 992242, 992243, 992244, 992245, 992246, 992247, 992248 ]
         }
       ],
       "clientConfig": {

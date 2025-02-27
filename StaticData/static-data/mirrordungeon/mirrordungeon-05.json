@@ -156,6 +156,7 @@
         }
       },
       "acquireEgoGiftByFloorForUI": [ 0, 0, 0, 0, 0 ],
+      "winFloorIdx": 4,
       "floors": [
         {
           "count": 0,

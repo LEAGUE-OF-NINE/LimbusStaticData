@@ -71,7 +71,7 @@
           "index": 1
         },
         {
-          "voicetype": "AllyAdv",
+          "voicetype": "AllyAdvEx",
           "path": "announcer_ally_advex",
           "priority": 12,
           "index": 1
@@ -242,7 +242,7 @@
           "index": 1
         },
         {
-          "voicetype": "AllyAdv",
+          "voicetype": "AllyAdvEx",
           "path": "announcer_ally_advex",
           "priority": 12,
           "index": 1
