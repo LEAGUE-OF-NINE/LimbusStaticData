@@ -1,5 +1,10 @@
 {
 	"currentDungeonId": 5,
+	"currentEventId": 21,
+	"currentMissionCategory": [
+		"MIRROR_DUNGEON5_COLLECTION",
+		"MIRROR_DUNGEON5_CLEAR"
+	],
 	"egoGiftUpgradeCostTable": {
 		"table": [
 			{

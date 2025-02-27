@@ -257,6 +257,30 @@
       "id": 52,
       "effectId": 12,
       "valueAssetName": "MMR5"
+    },
+    {
+      "id": 53,
+      "value1Text": {
+        "prefix": "<material=\"ExcelsiorSans/ExcelsiorSans SDF UserBanner MirrorDungeon5 Achievement\"><color=#fff287>"
+      },
+      "value1Max": 999,
+      "positionType": "MIDDLE_BOTTOM"
+    },
+    {
+      "id": 54,
+      "value1Text": {
+        "prefix": "<material=\"ExcelsiorSans/ExcelsiorSans SDF UserBanner MirrorDungeon5 Achievement\"><color=#fff287>"
+      },
+      "value1Max": 999,
+      "positionType": "MIDDLE_BOTTOM",
+      "effectId": 13
+    },
+    {
+      "id": 55
+    },
+    {
+      "id": 56,
+      "effectId": 14
     }
   ]
 }

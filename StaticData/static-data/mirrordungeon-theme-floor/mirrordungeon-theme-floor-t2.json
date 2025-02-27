@@ -3113,8 +3113,8 @@
     },
     {
       "id": 1115,
-      "relatedEventId": 19,
       "unlockCondition": {
+        "unlockCode": 9114
       },
       "desc": "LCB 정기검진",
       "exceptionConditions": [

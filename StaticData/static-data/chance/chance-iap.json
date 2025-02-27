@@ -216,6 +216,11 @@
       "max": 1,
       "resetTimeType": "PERMANENT"
     },
+    {
+      "id": 1205,
+      "max": 1,
+      "resetTimeType": "PERMANENT"
+    },
 
 
     {
@@ -290,6 +295,16 @@
     },
     {
       "id": 1415,
+      "max": 1,
+      "resetTimeType": "PERMANENT"
+    },
+    {
+      "id": 1416,
+      "max": 1,
+      "resetTimeType": "PERMANENT"
+    },
+    {
+      "id": 1417,
       "max": 1,
       "resetTimeType": "PERMANENT"
     },

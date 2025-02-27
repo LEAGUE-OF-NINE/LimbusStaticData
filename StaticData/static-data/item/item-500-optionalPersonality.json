@@ -88,6 +88,80 @@
       "uiConfig": {
         "tags": [ "Season1" ]
       }
+    },
+    {
+      "id": 502,
+      "contentsOpenType": "PACKAGE_OPTIONAL",
+      "contents": [
+        {
+          "type": "PERSONALITY",
+          "id": 10104,
+          "num": 1
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 10105,
+          "num": 1
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 10505,
+          "num": 1
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 10605,
+          "num": 1
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 10705,
+          "num": 1
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 10805,
+          "num": 1
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 10807,
+          "num": 1
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 10905,
+          "num": 1
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 11006,
+          "num": 1
+        },
+
+        {
+          "type": "PERSONALITY",
+          "id": 11007,
+          "num": 1
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 11105,
+          "num": 1
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 11205,
+          "num": 1
+        }
+      ],
+
+      "category": "CONSUMABLE",
+      "itemUseType": "ACQUIRE_PERSONALITY",
+      "spriteStr": "acquire_personality_season_2",
+      "uiConfig": {
+        "tags": [ "Season2" ]
+      }
     }
   ]
 }
