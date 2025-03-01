@@ -2193,11 +2193,11 @@
         {
           "chapterId": 91,
           "subchapterId": 9114,
-          "relatedEventId": "LCBCheckup",
           "type": "SUB",
           "uiConfig": {
             "timeLine": "984-12"
-          }
+          },
+          "relatedEventId": "LCBCheckup"
         }
       ]
     },

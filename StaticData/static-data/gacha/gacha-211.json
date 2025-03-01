@@ -2,17 +2,17 @@
   "list": [
     {
       "id": 211,
-      "startDate": "2023-11-16T03:00:00.000Z",
-      "endDate": "2025-02-20T01:00:00.000Z",
+      "startDate": "2023-11-16T03:00:00Z",
+      "endDate": "2025-02-20T01:00:00Z",
       "bannerInfo": {
-        "endDate": "2025-02-20T01:00:00.000Z",
+        "endDate": "2025-02-20T01:00:00Z",
         "bannerType": "TEMPORARY_MAIN",
         "priority": 100,
         "pickupIdList": [
           10811
         ],
         "vendingAvailableDate": [
-          "2025-02-13T03:00:00.000Z"
+          "2025-02-13T03:00:00Z"
         ],
         "illustList": [
           "gacha_211_illust"
@@ -332,7 +332,7 @@
         }
       ],
       "pitySystem": {
-        "endDate": "2025-02-20T01:00:00.000Z",
+        "endDate": "2025-02-20T01:00:00Z",
         "catalog": [
           {
             "element": {

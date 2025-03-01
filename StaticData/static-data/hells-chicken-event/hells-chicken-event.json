@@ -1,7 +1,7 @@
 {
-  "startDate": "2023-04-20T03:00:00.000Z",
-  "endDate": "2023-05-18T00:59:59.000Z",
-  "endDateToGettingRewards": "2023-05-18T00:59:59.000Z",
+  "startDate": "2023-04-20T03:00:00Z",
+  "endDate": "2023-05-18T00:59:59Z",
+  "endDateToGettingRewards": "2023-05-18T00:59:59Z",
   "eventRewardDatas": [
     {
       "rewardId": 1,

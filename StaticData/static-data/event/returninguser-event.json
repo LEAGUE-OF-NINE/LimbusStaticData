@@ -2,11 +2,11 @@
   "list": [
     {
       "id": 16,
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "startDateForUI": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-11-13T21:00:00.000Z",
-      "endDateForUI": "2024-10-31T20:59:59.000Z",
-      "gracePeriod": "2024-11-13T21:00:00.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "startDateForUI": "2024-09-26T03:00:00Z",
+      "endDate": "2024-11-13T21:00:00Z",
+      "endDateForUI": "2024-10-31T20:59:59Z",
+      "gracePeriod": "2024-11-13T21:00:00Z",
       "canBeReset": false,
       "unlockCondition": {
         "unlockCode": 90002

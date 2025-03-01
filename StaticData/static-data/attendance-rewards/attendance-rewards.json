@@ -2,8 +2,8 @@
   "list": [
     {
       "partId": 1,
-      "startDate": "2023-03-23T03:00:00.000Z",
-      "endDate": "2023-04-06T00:59:59.000Z",
+      "startDate": "2023-03-23T03:00:00Z",
+      "endDate": "2023-04-06T00:59:59Z",
       "attendanceRewards": [
         {
           "rewardId": 1,
@@ -130,8 +130,8 @@
     },
     {
       "partId": 2,
-      "startDate": "2023-03-31T15:00:00.000Z",
-      "endDate": "2023-04-06T00:59:59.000Z",
+      "startDate": "2023-03-31T15:00:00Z",
+      "endDate": "2023-04-06T00:59:59Z",
       "attendanceRewards": [
         {
           "rewardId": 12,

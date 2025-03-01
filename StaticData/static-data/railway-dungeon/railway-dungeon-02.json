@@ -26,10 +26,10 @@
       "hasRestHeal": false,
       "isResetMPAtRestNode": false,
       "isResetAfterLose": true,
-      "startDate": "2023-07-24T00:00:00.000Z",
-      "startDateForUI": "2023-09-14T03:00:00.000Z",
-      "endDate": "2025-11-09T00:59:59.000Z",
-      "endDateForUI": "2025-11-09T00:59:59.000Z",
+      "startDate": "2023-07-24T00:00:00Z",
+      "startDateForUI": "2023-09-14T03:00:00Z",
+      "endDate": "2025-11-09T00:59:59Z",
+      "endDateForUI": "2025-11-09T00:59:59Z",
       "bannerRewards": [
         {
           "isMinValue": true,
@@ -39,7 +39,7 @@
               "count": 3
             }
           ],
-          "endDate": "2024-02-01T00:59:59.000Z",
+          "endDate": "2024-02-01T00:59:59Z",
           "reward": {
             "type": "USERBANNER",
             "id": 13,
@@ -54,7 +54,7 @@
               "count": 5
             }
           ],
-          "endDate": "2024-02-01T00:59:59.000Z",
+          "endDate": "2024-02-01T00:59:59Z",
           "reward": {
             "type": "USERBANNER",
             "id": 14,
@@ -74,8 +74,8 @@
               "count": 200
             }
           ],
-          "startDateForUI": "2023-09-14T03:00:00.000Z",
-          "endDate": "2024-02-01T00:59:59.000Z",
+          "startDateForUI": "2023-09-14T03:00:00Z",
+          "endDate": "2024-02-01T00:59:59Z",
           "reward": {
             "type": "USERBANNER",
             "id": 15,
@@ -91,8 +91,8 @@
               "count": 3
             }
           ],
-          "startDateForUI": "2023-09-14T03:00:00.000Z",
-          "endDate": "2023-11-16T00:59:59.000Z",
+          "startDateForUI": "2023-09-14T03:00:00Z",
+          "endDate": "2023-11-16T00:59:59Z",
           "reward": {
             "type": "USERBANNER",
             "id": 16,
@@ -108,8 +108,8 @@
               "count": 5
             }
           ],
-          "startDateForUI": "2023-09-14T03:00:00.000Z",
-          "endDate": "2023-11-16T00:59:59.000Z",
+          "startDateForUI": "2023-09-14T03:00:00Z",
+          "endDate": "2023-11-16T00:59:59Z",
           "reward": {
             "type": "USERBANNER",
             "id": 17,
@@ -129,8 +129,8 @@
               "count": 200
             }
           ],
-          "startDateForUI": "2023-09-14T03:00:00.000Z",
-          "endDate": "2023-11-16T00:59:59.000Z",
+          "startDateForUI": "2023-09-14T03:00:00Z",
+          "endDate": "2023-11-16T00:59:59Z",
           "reward": {
             "type": "USERBANNER",
             "id": 18,
@@ -150,9 +150,9 @@
               "count": 150
             }
           ],
-          "startDateForUI": "2023-09-15T11:15:00.000Z",
-          "startDate": "2023-09-15T11:15:00.000Z",
-          "endDate": "2023-11-16T00:59:59.000Z",
+          "startDateForUI": "2023-09-15T11:15:00Z",
+          "startDate": "2023-09-15T11:15:00Z",
+          "endDate": "2023-11-16T00:59:59Z",
           "reward": {
             "type": "USERBANNER",
             "id": 19,
@@ -289,8 +289,8 @@
               "count": 9
             }
           ],
-          "startDateForUI": "2023-09-14T03:00:00.000Z",
-          "endDate": "2023-11-16T00:59:59.000Z",
+          "startDateForUI": "2023-09-14T03:00:00Z",
+          "endDate": "2023-11-16T00:59:59Z",
           "rewards": [
             {
               "type": "USER_TICKET_DECO_LEFT",
@@ -459,9 +459,9 @@
               "count": 9
             }
           ],
-          "startDateForUI": "2023-09-15T11:15:00.000Z",
-          "startDate": "2023-09-15T11:15:00.000Z",
-          "endDate": "2023-11-16T00:59:59.000Z",
+          "startDateForUI": "2023-09-15T11:15:00Z",
+          "startDate": "2023-09-15T11:15:00Z",
+          "endDate": "2023-11-16T00:59:59Z",
           "rewards": [
             {
               "type": "USER_TICKET_DECO_LEFT",

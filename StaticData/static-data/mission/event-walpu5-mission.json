@@ -3,9 +3,9 @@
     {
       "id": 10037,
       "category": "EVENT_WALPU5_NORMAL",
-      "startDate": "2025-01-09T01:00:00.000Z",
-      "startDateForUI": "2025-01-09T01:00:00.000Z",
-      "endDate": "2025-01-23T01:00:00.000Z",
+      "startDate": "2025-01-09T01:00:00Z",
+      "startDateForUI": "2025-01-09T01:00:00Z",
+      "endDate": "2025-01-23T01:00:00Z",
       "requiredCondition": {
         "id": 10037,
         "value": 10
@@ -21,8 +21,8 @@
     {
       "id": 10038,
       "category": "EVENT_WALPU5_NORMAL",
-      "startDate": "2025-01-09T01:00:00.000Z",
-      "endDate": "2025-01-23T01:00:00.000Z",
+      "startDate": "2025-01-09T01:00:00Z",
+      "endDate": "2025-01-23T01:00:00Z",
       "requiredCondition": {
         "id": 10038,
         "value": 18
@@ -43,8 +43,8 @@
     {
       "id": 10039,
       "category": "EVENT_WALPU5_NORMAL",
-      "startDate": "2025-01-09T01:00:00.000Z",
-      "endDate": "2025-01-23T01:00:00.000Z",
+      "startDate": "2025-01-09T01:00:00Z",
+      "endDate": "2025-01-23T01:00:00Z",
       "requiredCondition": {
         "id": 10039,
         "value": 30
@@ -60,8 +60,8 @@
     {
       "id": 10040,
       "category": "EVENT_WALPU5_NORMAL",
-      "startDate": "2025-01-09T01:00:00.000Z",
-      "endDate": "2025-01-23T01:00:00.000Z",
+      "startDate": "2025-01-09T01:00:00Z",
+      "endDate": "2025-01-23T01:00:00Z",
       "requiredCondition": {
         "id": 10040,
         "value": 2
@@ -82,8 +82,8 @@
     {
       "id": 10041,
       "category": "EVENT_WALPU5_NORMAL",
-      "startDate": "2025-01-09T01:00:00.000Z",
-      "endDate": "2025-01-23T01:00:00.000Z",
+      "startDate": "2025-01-09T01:00:00Z",
+      "endDate": "2025-01-23T01:00:00Z",
       "requiredCondition": {
         "id": 10041,
         "value": 1
@@ -104,8 +104,8 @@
     {
       "id": 10042,
       "category": "EVENT_WALPU5_NORMAL",
-      "startDate": "2025-01-09T01:00:00.000Z",
-      "endDate": "2025-01-23T01:00:00.000Z",
+      "startDate": "2025-01-09T01:00:00Z",
+      "endDate": "2025-01-23T01:00:00Z",
       "requiredCondition": {
         "id": 10042,
         "value": 1
@@ -121,8 +121,8 @@
     {
       "id": 10043,
       "category": "EVENT_WALPU5_NORMAL",
-      "startDate": "2025-01-09T01:00:00.000Z",
-      "endDate": "2025-01-23T01:00:00.000Z",
+      "startDate": "2025-01-09T01:00:00Z",
+      "endDate": "2025-01-23T01:00:00Z",
       "requiredCondition": {
         "id": 10043,
         "value": 8
@@ -138,8 +138,8 @@
     {
       "id": 10044,
       "category": "EVENT_WALPU5_NORMAL",
-      "startDate": "2025-01-09T01:00:00.000Z",
-      "endDate": "2025-01-23T01:00:00.000Z",
+      "startDate": "2025-01-09T01:00:00Z",
+      "endDate": "2025-01-23T01:00:00Z",
       "requiredCondition": {
         "id": 10044,
         "value": 1
@@ -160,8 +160,8 @@
     {
       "id": 10045,
       "category": "EVENT_WALPU5_NORMAL",
-      "startDate": "2025-01-09T01:00:00.000Z",
-      "endDate": "2025-01-23T01:00:00.000Z",
+      "startDate": "2025-01-09T01:00:00Z",
+      "endDate": "2025-01-23T01:00:00Z",
       "requiredCondition": {
         "id": 10045,
         "value": 1
@@ -182,8 +182,8 @@
     {
       "id": 10046,
       "category": "EVENT_WALPU5_NORMAL",
-      "startDate": "2025-01-09T01:00:00.000Z",
-      "endDate": "2025-01-23T01:00:00.000Z",
+      "startDate": "2025-01-09T01:00:00Z",
+      "endDate": "2025-01-23T01:00:00Z",
       "requiredCondition": {
         "id": 10046,
         "value": 1
@@ -204,8 +204,8 @@
     {
       "id": 20039,
       "category": "EVENT_WALPU5_HARD",
-      "startDate": "2025-01-09T01:00:00.000Z",
-      "endDate": "2025-01-23T01:00:00.000Z",
+      "startDate": "2025-01-09T01:00:00Z",
+      "endDate": "2025-01-23T01:00:00Z",
       "requiredCondition": {
         "id": 20039,
         "value": 30
@@ -221,8 +221,8 @@
     {
       "id": 20040,
       "category": "EVENT_WALPU5_HARD",
-      "startDate": "2025-01-09T01:00:00.000Z",
-      "endDate": "2025-01-23T01:00:00.000Z",
+      "startDate": "2025-01-09T01:00:00Z",
+      "endDate": "2025-01-23T01:00:00Z",
       "requiredCondition": {
         "id": 20040,
         "value": 53
@@ -243,8 +243,8 @@
     {
       "id": 20041,
       "category": "EVENT_WALPU5_HARD",
-      "startDate": "2025-01-09T01:00:00.000Z",
-      "endDate": "2025-01-23T01:00:00.000Z",
+      "startDate": "2025-01-09T01:00:00Z",
+      "endDate": "2025-01-23T01:00:00Z",
       "requiredCondition": {
         "id": 20041,
         "value": 77
@@ -260,8 +260,8 @@
     {
       "id": 20042,
       "category": "EVENT_WALPU5_HARD",
-      "startDate": "2025-01-09T01:00:00.000Z",
-      "endDate": "2025-01-23T01:00:00.000Z",
+      "startDate": "2025-01-09T01:00:00Z",
+      "endDate": "2025-01-23T01:00:00Z",
       "requiredCondition": {
         "id": 20042,
         "value": 8
@@ -282,8 +282,8 @@
     {
       "id": 20043,
       "category": "EVENT_WALPU5_HARD",
-      "startDate": "2025-01-09T01:00:00.000Z",
-      "endDate": "2025-01-23T01:00:00.000Z",
+      "startDate": "2025-01-09T01:00:00Z",
+      "endDate": "2025-01-23T01:00:00Z",
       "requiredCondition": {
         "id": 20043,
         "value": 1
@@ -304,8 +304,8 @@
     {
       "id": 20044,
       "category": "EVENT_WALPU5_HARD",
-      "startDate": "2025-01-09T01:00:00.000Z",
-      "endDate": "2025-01-23T01:00:00.000Z",
+      "startDate": "2025-01-09T01:00:00Z",
+      "endDate": "2025-01-23T01:00:00Z",
       "requiredCondition": {
         "id": 20044,
         "value": 1
@@ -321,8 +321,8 @@
     {
       "id": 20045,
       "category": "EVENT_WALPU5_HARD",
-      "startDate": "2025-01-09T01:00:00.000Z",
-      "endDate": "2025-01-23T01:00:00.000Z",
+      "startDate": "2025-01-09T01:00:00Z",
+      "endDate": "2025-01-23T01:00:00Z",
       "requiredCondition": {
         "id": 20045,
         "value": 1
@@ -343,8 +343,8 @@
     {
       "id": 20046,
       "category": "EVENT_WALPU5_HARD",
-      "startDate": "2025-01-09T01:00:00.000Z",
-      "endDate": "2025-01-23T01:00:00.000Z",
+      "startDate": "2025-01-09T01:00:00Z",
+      "endDate": "2025-01-23T01:00:00Z",
       "requiredCondition": {
         "id": 20046,
         "value": 15
@@ -360,8 +360,8 @@
     {
       "id": 20047,
       "category": "EVENT_WALPU5_HARD",
-      "startDate": "2025-01-09T01:00:00.000Z",
-      "endDate": "2025-01-23T01:00:00.000Z",
+      "startDate": "2025-01-09T01:00:00Z",
+      "endDate": "2025-01-23T01:00:00Z",
       "requiredCondition": {
         "id": 20047,
         "value": 30
@@ -382,8 +382,8 @@
     {
       "id": 20048,
       "category": "EVENT_WALPU5_HARD",
-      "startDate": "2025-01-09T01:00:00.000Z",
-      "endDate": "2025-01-23T01:00:00.000Z",
+      "startDate": "2025-01-09T01:00:00Z",
+      "endDate": "2025-01-23T01:00:00Z",
       "requiredCondition": {
         "id": 20048,
         "value": 1
@@ -404,8 +404,8 @@
     {
       "id": 20049,
       "category": "EVENT_WALPU5_HARD",
-      "startDate": "2025-01-09T01:00:00.000Z",
-      "endDate": "2025-01-23T01:00:00.000Z",
+      "startDate": "2025-01-09T01:00:00Z",
+      "endDate": "2025-01-23T01:00:00Z",
       "requiredCondition": {
         "id": 20049,
         "value": 1
@@ -426,8 +426,8 @@
     {
       "id": 20050,
       "category": "EVENT_WALPU5_HARD",
-      "startDate": "2025-01-09T01:00:00.000Z",
-      "endDate": "2025-01-23T01:00:00.000Z",
+      "startDate": "2025-01-09T01:00:00Z",
+      "endDate": "2025-01-23T01:00:00Z",
       "requiredCondition": {
         "id": 20050,
         "value": 1
@@ -448,8 +448,8 @@
     {
       "id": 20051,
       "category": "EVENT_WALPU5_HARD",
-      "startDate": "2025-01-09T01:00:00.000Z",
-      "endDate": "2025-01-23T01:00:00.000Z",
+      "startDate": "2025-01-09T01:00:00Z",
+      "endDate": "2025-01-23T01:00:00Z",
       "requiredCondition": {
         "id": 20051,
         "value": 1

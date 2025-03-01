@@ -49,10 +49,10 @@
           "formationTargetNode": 7
         }
       ],
-      "startDate": "2024-01-01T03:00:00.000Z",
-      "startDateForUI": "2024-07-04T03:00:00.000Z",
-      "endDate": "2025-12-30T15:00:00.000Z",
-      "endDateforUI": "2025-12-30T15:00:00.000Z",
+      "startDate": "2024-01-01T03:00:00Z",
+      "startDateForUI": "2024-07-04T03:00:00Z",
+      "endDate": "2025-12-30T15:00:00Z",
+      "endDateforUI": "2025-12-30T15:00:00Z",
       "bannerRewards": [
         {
           "requiredConditions": [],
@@ -71,7 +71,7 @@
               "count": 100
             }
           ],
-          "endDate": "2024-10-09T21:00:00.000Z",
+          "endDate": "2024-10-09T21:00:00Z",
           "reward": {
             "type": "USERBANNER",
             "id": 40,
@@ -204,8 +204,8 @@
               "count": 100
             }
           ],
-          "startDateForUI": "2024-07-04T03:00:00.000Z",
-          "endDate": "2024-10-09T21:00:00.000Z",
+          "startDateForUI": "2024-07-04T03:00:00Z",
+          "endDate": "2024-10-09T21:00:00Z",
           "rewards": [
             {
               "type": "USER_TICKET_DECO_LEFT",

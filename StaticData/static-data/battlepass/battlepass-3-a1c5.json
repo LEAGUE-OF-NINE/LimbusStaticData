@@ -6,11 +6,11 @@
       "currentPartitionForUI": 2,
       "isExRewardAcquirable": true,
       "limbusExRewardAcquireType": "COLLECT_FROM_MAX_LEVEL",
-      "exRewardStartDate": "2023-11-16T03:00:00.000Z",
+      "exRewardStartDate": "2023-11-16T03:00:00Z",
       "passSeasonInfo": {
-        "startDate": "2023-11-15T21:00:00.000Z",
-        "startDateForUI": "2023-11-16T03:00:00.000Z",
-        "endDate": "2024-03-27T21:00:00.000Z",
+        "startDate": "2023-11-15T21:00:00Z",
+        "startDateForUI": "2023-11-16T03:00:00Z",
+        "endDate": "2024-03-27T21:00:00Z",
         "banner": "banner_battlepass3",
         "acquirableEgoIds": [],
         "acquirableAnnouncerIds": []
@@ -25,17 +25,17 @@
         "partitions": [
           {
             "index": 0,
-            "partialStartDate": "2023-11-15T21:00:00.000Z",
+            "partialStartDate": "2023-11-15T21:00:00Z",
             "partialMaxLevel": 20
           },
           {
             "index": 1,
-            "partialStartDate": "2023-11-16T03:00:00.000Z",
+            "partialStartDate": "2023-11-16T03:00:00Z",
             "partialMaxLevel": 40
           },
           {
             "index": 2,
-            "partialStartDate": "2023-11-16T03:00:00.000Z",
+            "partialStartDate": "2023-11-16T03:00:00Z",
             "partialMaxLevel": 120
           }
         ],

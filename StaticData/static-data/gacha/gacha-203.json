@@ -2,10 +2,10 @@
   "list": [
     {
       "id": 203,
-      "startDate": "2023-11-16T03:00:00.000Z",
-      "endDate": "2024-12-26T01:00:00.000Z",
+      "startDate": "2023-11-16T03:00:00Z",
+      "endDate": "2024-12-26T01:00:00Z",
       "bannerInfo": {
-        "endDate": "2024-12-26T01:00:00.000Z",
+        "endDate": "2024-12-26T01:00:00Z",
         "bannerType": "TEMPORARY_MAIN",
         "priority": 100,
         "pickupIdList": [
@@ -298,7 +298,7 @@
         }
       ],
       "pitySystem": {
-        "endDate": "2024-12-26T01:00:00.000Z",
+        "endDate": "2024-12-26T01:00:00Z",
         "catalog": [
           {
             "element": {

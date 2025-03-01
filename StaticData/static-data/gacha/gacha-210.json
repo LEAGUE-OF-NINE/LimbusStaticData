@@ -2,10 +2,10 @@
   "list": [
     {
       "id": 210,
-      "startDate": "2023-11-16T03:00:00.000Z",
-      "endDate": "2025-02-20T01:00:00.000Z",
+      "startDate": "2023-11-16T03:00:00Z",
+      "endDate": "2025-02-20T01:00:00Z",
       "bannerInfo": {
-        "endDate": "2025-02-20T01:00:00.000Z",
+        "endDate": "2025-02-20T01:00:00Z",
         "bannerType": "TEMPORARY_SUB",
         "priority": 98,
         "pickupIdList": [
@@ -14,7 +14,7 @@
           10208
         ],
         "vendingAvailableDate": [
-          "2025-02-13T03:00:00.000Z",
+          "2025-02-13T03:00:00Z",
           "",
           ""
         ],
@@ -366,7 +366,7 @@
         }
       ],
       "pitySystem": {
-        "endDate": "2025-02-20T01:00:00.000Z",
+        "endDate": "2025-02-20T01:00:00Z",
         "catalog": [
           {
             "element": {

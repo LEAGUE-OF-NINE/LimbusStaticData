@@ -2,8 +2,8 @@
   "list": [
     {
       "seasonId": 4,
-      "startDate": "2024-03-27T21:00:00.000Z",
-      "endDate": "2024-10-09T21:00:00.000Z",
+      "startDate": "2024-03-27T21:00:00Z",
+      "endDate": "2024-10-09T21:00:00Z",
       "seasonalPieceRandomPackageId": 1104,
       "seasonalPieceOptionalPackageId": 1204,
       "seasonalPieceIdList": [

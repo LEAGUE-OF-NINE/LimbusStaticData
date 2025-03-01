@@ -3,8 +3,8 @@
     {
       "id": 103001001,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103001001,
         "value": 1
@@ -31,8 +31,8 @@
     {
       "id": 103001002,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103001001,
         "value": 4
@@ -59,8 +59,8 @@
     {
       "id": 103001003,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103001001,
         "value": 9
@@ -87,8 +87,8 @@
     {
       "id": 103001004,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103001001,
         "value": 16
@@ -115,8 +115,8 @@
     {
       "id": 103001005,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103001001,
         "value": 25
@@ -143,8 +143,8 @@
     {
       "id": 103002001,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103002001,
         "value": 1
@@ -171,8 +171,8 @@
     {
       "id": 103002002,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103002001,
         "value": 3
@@ -199,8 +199,8 @@
     {
       "id": 103002003,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103002001,
         "value": 6
@@ -227,8 +227,8 @@
     {
       "id": 103002004,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103002001,
         "value": 9
@@ -260,8 +260,8 @@
     {
       "id": 103002005,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103002001,
         "value": 12
@@ -293,8 +293,8 @@
     {
       "id": 103003001,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103003001,
         "value": 1
@@ -321,8 +321,8 @@
     {
       "id": 103003002,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103003001,
         "value": 3
@@ -349,8 +349,8 @@
     {
       "id": 103003003,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103003001,
         "value": 6
@@ -377,8 +377,8 @@
     {
       "id": 103003004,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103003001,
         "value": 9
@@ -410,8 +410,8 @@
     {
       "id": 103003005,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103003001,
         "value": 12
@@ -443,8 +443,8 @@
     {
       "id": 103004001,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103004001,
         "value": 1
@@ -470,8 +470,8 @@
     {
       "id": 103004002,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103004002,
         "value": 1
@@ -497,8 +497,8 @@
     {
       "id": 103004003,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103004003,
         "value": 1
@@ -524,8 +524,8 @@
     {
       "id": 103004004,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103004004,
         "value": 1
@@ -551,8 +551,8 @@
     {
       "id": 103004005,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103004004,
         "value": 3
@@ -583,8 +583,8 @@
     {
       "id": 103005001,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103005001,
         "value": 1
@@ -610,8 +610,8 @@
     {
       "id": 103005002,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103005001,
         "value": 3
@@ -637,8 +637,8 @@
     {
       "id": 103005003,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103005002,
         "value": 1
@@ -664,8 +664,8 @@
     {
       "id": 103005004,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103005003,
         "value": 1
@@ -691,8 +691,8 @@
     {
       "id": 103005005,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103005004,
         "value": 1
@@ -723,8 +723,8 @@
     {
       "id": 103006001,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103006001,
         "value": 1
@@ -750,8 +750,8 @@
     {
       "id": 103006002,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103006001,
         "value": 5
@@ -777,8 +777,8 @@
     {
       "id": 103006003,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103006001,
         "value": 10
@@ -804,8 +804,8 @@
     {
       "id": 103006004,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103006002,
         "value": 1
@@ -831,8 +831,8 @@
     {
       "id": 103006005,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103006002,
         "value": 5
@@ -858,8 +858,8 @@
     {
       "id": 103009001,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103009001,
         "value": 4
@@ -885,8 +885,8 @@
     {
       "id": 103009002,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103009001,
         "value": 10
@@ -912,8 +912,8 @@
     {
       "id": 103009003,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103009001,
         "value": 18
@@ -939,8 +939,8 @@
     {
       "id": 103009004,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103009001,
         "value": 24
@@ -966,8 +966,8 @@
     {
       "id": 103009005,
       "category": "RETURN",
-      "startDate": "2024-09-26T03:00:00.000Z",
-      "endDate": "2024-10-30T20:59:59.000Z",
+      "startDate": "2024-09-26T03:00:00Z",
+      "endDate": "2024-10-30T20:59:59Z",
       "requiredCondition": {
         "id": 103009001,
         "value": 30

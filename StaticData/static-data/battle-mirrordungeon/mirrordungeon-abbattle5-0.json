@@ -37994,8 +37994,8 @@
       "stageScriptList": [
         "AbnormalityEvent"
       ],
-      "isBatonPassOn": "TRUE",
       "eventScriptName": "NobodyGonnaCry",
+      "isBatonPassOn": "TRUE",
       "abnormalityEventList": [
         804701
       ]
@@ -38062,8 +38062,8 @@
       "stageScriptList": [
         "AbnormalityEvent"
       ],
-      "isBatonPassOn": "TRUE",
       "eventScriptName": "8059",
+      "isBatonPassOn": "TRUE",
       "abnormalityEventList": [
         805901
       ]

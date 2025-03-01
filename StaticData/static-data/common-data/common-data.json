@@ -639,7 +639,7 @@
     "eventUnlockCode": 90002,
     "unlockCodeExpireDay": 14,
     "returnCoolTimeDay": 60,
-    "checkingEndDate": "2024-10-30T21:00:00.000Z",
+    "checkingEndDate": "2024-10-30T21:00:00Z",
     "returnCondition": {
       "unlockCode": 101
     }

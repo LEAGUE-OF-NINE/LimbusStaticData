@@ -3,8 +3,8 @@
     {
       "id": 10001,
       "category": "EVENT_NEWYEAR_2024_NORMAL",
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z",
+      "startDate": "2023-12-26T00:00:00Z",
+      "endDate": "2024-01-25T01:00:00Z",
       "requiredCondition": {
         "id": 10001,
         "value": 15
@@ -20,8 +20,8 @@
     {
       "id": 10002,
       "category": "EVENT_NEWYEAR_2024_NORMAL",
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z",
+      "startDate": "2023-12-26T00:00:00Z",
+      "endDate": "2024-01-25T01:00:00Z",
       "requiredCondition": {
         "id": 10001,
         "value": 30
@@ -37,8 +37,8 @@
     {
       "id": 10003,
       "category": "EVENT_NEWYEAR_2024_NORMAL",
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z",
+      "startDate": "2023-12-26T00:00:00Z",
+      "endDate": "2024-01-25T01:00:00Z",
       "requiredCondition": {
         "id": 10002,
         "value": 1
@@ -54,8 +54,8 @@
     {
       "id": 10004,
       "category": "EVENT_NEWYEAR_2024_NORMAL",
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z",
+      "startDate": "2023-12-26T00:00:00Z",
+      "endDate": "2024-01-25T01:00:00Z",
       "requiredCondition": {
         "id": 10003,
         "value": 1
@@ -76,8 +76,8 @@
     {
       "id": 10005,
       "category": "EVENT_NEWYEAR_2024_NORMAL",
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z",
+      "startDate": "2023-12-26T00:00:00Z",
+      "endDate": "2024-01-25T01:00:00Z",
       "requiredCondition": {
         "id": 10004,
         "value": 1
@@ -93,8 +93,8 @@
     {
       "id": 10006,
       "category": "EVENT_NEWYEAR_2024_NORMAL",
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z",
+      "startDate": "2023-12-26T00:00:00Z",
+      "endDate": "2024-01-25T01:00:00Z",
       "requiredCondition": {
         "id": 10005,
         "value": 1
@@ -115,8 +115,8 @@
     {
       "id": 10007,
       "category": "EVENT_NEWYEAR_2024_NORMAL",
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z",
+      "startDate": "2023-12-26T00:00:00Z",
+      "endDate": "2024-01-25T01:00:00Z",
       "requiredCondition": {
         "id": 10006,
         "value": 3
@@ -137,8 +137,8 @@
     {
       "id": 10008,
       "category": "EVENT_NEWYEAR_2024_NORMAL",
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z",
+      "startDate": "2023-12-26T00:00:00Z",
+      "endDate": "2024-01-25T01:00:00Z",
       "requiredCondition": {
         "id": 10007,
         "value": 10
@@ -159,8 +159,8 @@
     {
       "id": 10009,
       "category": "EVENT_NEWYEAR_2024_NORMAL",
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z",
+      "startDate": "2023-12-26T00:00:00Z",
+      "endDate": "2024-01-25T01:00:00Z",
       "requiredCondition": {
         "id": 10008,
         "value": 1
@@ -181,8 +181,8 @@
     {
       "id": 20001,
       "category": "EVENT_NEWYEAR_2024_HARD",
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z",
+      "startDate": "2023-12-26T00:00:00Z",
+      "endDate": "2024-01-25T01:00:00Z",
       "requiredCondition": {
         "id": 20001,
         "value": 15
@@ -198,8 +198,8 @@
     {
       "id": 20002,
       "category": "EVENT_NEWYEAR_2024_HARD",
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z",
+      "startDate": "2023-12-26T00:00:00Z",
+      "endDate": "2024-01-25T01:00:00Z",
       "requiredCondition": {
         "id": 20001,
         "value": 48
@@ -220,8 +220,8 @@
     {
       "id": 20003,
       "category": "EVENT_NEWYEAR_2024_HARD",
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z",
+      "startDate": "2023-12-26T00:00:00Z",
+      "endDate": "2024-01-25T01:00:00Z",
       "requiredCondition": {
         "id": 20001,
         "value": 77
@@ -247,8 +247,8 @@
     {
       "id": 20004,
       "category": "EVENT_NEWYEAR_2024_HARD",
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z",
+      "startDate": "2023-12-26T00:00:00Z",
+      "endDate": "2024-01-25T01:00:00Z",
       "requiredCondition": {
         "id": 20002,
         "value": 3
@@ -264,8 +264,8 @@
     {
       "id": 20005,
       "category": "EVENT_NEWYEAR_2024_HARD",
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z",
+      "startDate": "2023-12-26T00:00:00Z",
+      "endDate": "2024-01-25T01:00:00Z",
       "requiredCondition": {
         "id": 20002,
         "value": 5
@@ -286,8 +286,8 @@
     {
       "id": 20006,
       "category": "EVENT_NEWYEAR_2024_HARD",
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z",
+      "startDate": "2023-12-26T00:00:00Z",
+      "endDate": "2024-01-25T01:00:00Z",
       "requiredCondition": {
         "id": 20003,
         "value": 1
@@ -308,8 +308,8 @@
     {
       "id": 20007,
       "category": "EVENT_NEWYEAR_2024_HARD",
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z",
+      "startDate": "2023-12-26T00:00:00Z",
+      "endDate": "2024-01-25T01:00:00Z",
       "requiredCondition": {
         "id": 20003,
         "value": 3
@@ -330,8 +330,8 @@
     {
       "id": 20008,
       "category": "EVENT_NEWYEAR_2024_HARD",
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z",
+      "startDate": "2023-12-26T00:00:00Z",
+      "endDate": "2024-01-25T01:00:00Z",
       "requiredCondition": {
         "id": 20004,
         "value": 1
@@ -347,8 +347,8 @@
     {
       "id": 20009,
       "category": "EVENT_NEWYEAR_2024_HARD",
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z",
+      "startDate": "2023-12-26T00:00:00Z",
+      "endDate": "2024-01-25T01:00:00Z",
       "requiredCondition": {
         "id": 20005,
         "value": 1
@@ -369,8 +369,8 @@
     {
       "id": 20010,
       "category": "EVENT_NEWYEAR_2024_HARD",
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z",
+      "startDate": "2023-12-26T00:00:00Z",
+      "endDate": "2024-01-25T01:00:00Z",
       "requiredCondition": {
         "id": 20006,
         "value": 7
@@ -391,8 +391,8 @@
     {
       "id": 20011,
       "category": "EVENT_NEWYEAR_2024_HARD",
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z",
+      "startDate": "2023-12-26T00:00:00Z",
+      "endDate": "2024-01-25T01:00:00Z",
       "requiredCondition": {
         "id": 20007,
         "value": 25
@@ -413,8 +413,8 @@
     {
       "id": 20012,
       "category": "EVENT_NEWYEAR_2024_HARD",
-      "startDate": "2023-12-26T00:00:00.000Z",
-      "endDate": "2024-01-25T01:00:00.000Z",
+      "startDate": "2023-12-26T00:00:00Z",
+      "endDate": "2024-01-25T01:00:00Z",
       "requiredCondition": {
         "id": 20008,
         "value": 1
