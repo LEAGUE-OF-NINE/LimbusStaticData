@@ -1169,6 +1169,111 @@
           "number": 1
         }
       ]
+    },
+    {
+      "id": 10112,
+      "appearance": "10112_Yisang_LiuAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIU"
+      ],
+      "characterId": 1,
+      "panicType": 9999,
+      "season": 0,
+      "defenseSkillIDList": [
+        1011204
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 2.73
+      },
+      "defCorrection": 2,
+      "minSpeedList": [
+        3,
+        3,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        5,
+        6,
+        6,
+        6
+      ],
+      "uniqueAttribute": "AMBER",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          65,
+          35,
+          15
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1011201,
+          "number": 3
+        },
+        {
+          "skillId": 1011202,
+          "number": 2
+        },
+        {
+          "skillId": 1011203,
+          "number": 1
+        }
+      ]
     }
   ]
 }

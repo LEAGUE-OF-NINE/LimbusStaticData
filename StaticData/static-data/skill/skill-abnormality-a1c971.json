@@ -444,7 +444,7 @@
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "Sinking",
-                    "target": "RandomEnemy2",
+                    "target": "Target",
                     "buffOwner": "",
                     "stack": 5,
                     "turn": 4,
@@ -502,21 +502,6 @@
           "defaultValue": 3,
           "skillLevelCorrection": 0,
           "abilityScriptList": [
-            {
-              "scriptName": "CoinScaleAdder1IfMpLessThan0"
-            },
-            {
-              "scriptName": "SkillPowerAdderViaBuffCheck",
-              "buffData": {
-                "buffKeyword": "Sinking",
-                "target": "",
-                "buffOwner": "Target",
-                "stack": 10,
-                "turn": 0,
-                "activeRound": 0,
-                "value": 1
-              }
-            },
             {
               "scriptName": "GiveMpDmgOnSucceedEvadeTarget5"
             },

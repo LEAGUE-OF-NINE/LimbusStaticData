@@ -5459,7 +5459,12 @@
               "operatorType": "ADD",
               "grade": 2,
               "color": "GREY",
-              "scale": 7
+              "scale": 7,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                }
+              ]
             }
           ]
         },
@@ -5490,7 +5495,12 @@
               "operatorType": "ADD",
               "grade": 2,
               "color": "GREY",
-              "scale": 9
+              "scale": 9,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                }
+              ]
             }
           ]
         }

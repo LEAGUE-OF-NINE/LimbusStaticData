@@ -797,6 +797,9 @@
               "color": "GREY",
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "GiveBuffOnSucceedAttackAfterWinDuel",
                   "buffData": {
                     "buffKeyword": "Laceration",
@@ -1005,6 +1008,9 @@
               "color": "GREY",
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "BloomingThorns",
@@ -1132,6 +1138,9 @@
               "grade": 2,
               "color": "GREY",
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
@@ -1346,6 +1355,9 @@
               "color": "GREY",
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "GiveBuffOnSucceedAttackAfterWinDuel",
                   "buffData": {
                     "buffKeyword": "Laceration",
@@ -1554,6 +1566,9 @@
               "color": "GREY",
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "BloomingThorns",
@@ -1681,6 +1696,9 @@
               "grade": 2,
               "color": "GREY",
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {

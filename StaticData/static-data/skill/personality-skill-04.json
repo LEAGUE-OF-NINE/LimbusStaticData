@@ -2651,7 +2651,7 @@
               "cutsceneStart": true,
               "abilityScriptList": [
                 {
-                  "scriptName": "Empty[necessary:Bullet:1]"
+                  "scriptName": "UseBullet[necessary:Bullet:1]"
                 },
                 {
                   "scriptName": "Empty"
@@ -2754,7 +2754,7 @@
               "cutsceneStart": true,
               "abilityScriptList": [
                 {
-                  "scriptName": "Empty[necessary:Bullet:1]"
+                  "scriptName": "UseBullet[necessary:Bullet:1]"
                 },
                 {
                   "scriptName": "Empty"

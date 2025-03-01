@@ -4024,7 +4024,7 @@
         {
           "level": 4,
           "name": "押し付ける",
-          "desc": "[WhenUse] 次のターンにこのスキルスロットの挑発値 が4増加\n対象の振動 が8以上なら、スキル威力 +2",
+          "desc": "[WhenUse] 次のターンにこのスキルスロットの挑発値 が4増加\n対象の[Vibration]が8以上なら、スキル威力 +2",
           "coinlist": [
             {
               "coindescs": [
@@ -7502,7 +7502,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "流れる火花",
+          "name": "流れる炎",
           "desc": "",
           "coinlist": [
             {
@@ -7523,7 +7523,7 @@
         },
         {
           "level": 2,
-          "name": "流れる火花",
+          "name": "流れる炎",
           "desc": "",
           "coinlist": [
             {
@@ -7544,7 +7544,7 @@
         },
         {
           "level": 4,
-          "name": "流れる火花",
+          "name": "流れる炎",
           "desc": "対象の火傷 回数が6以上なら、コイン威力 +2",
           "coinlist": [
             {
@@ -8227,7 +8227,7 @@
         {
           "level": 1,
           "name": "やめ…",
-          "desc": "[StartBattle] 自分の精神力を5~10回復",
+          "desc": "[StartBattle] 自分の精神力を5～10回復",
           "coinlist": [
             {}
           ]
@@ -8727,7 +8727,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に振動 が5以上あるなら、次のターンに攻撃威力減少 1を付与"
+                  "desc": "[OnSucceedAttack] 対象に[Vibration]が5以上あるなら、次のターンに攻撃威力減少 1を付与"
                 }
               ]
             }
@@ -8751,7 +8751,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に振動 が5以上あるなら、次のターンに攻撃威力減少 1を付与"
+                  "desc": "[OnSucceedAttack] 対象に[Vibration]が5以上あるなら、次のターンに攻撃威力減少 1を付与"
                 }
               ]
             }
@@ -8775,7 +8775,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に振動 が5以上あるなら、次のターンに攻撃威力減少 1を付与"
+                  "desc": "[OnSucceedAttack] 対象に[Vibration]が5以上あるなら、次のターンに攻撃威力減少 1を付与"
                 }
               ]
             }

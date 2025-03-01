@@ -336,6 +336,23 @@
                   "selectNumber": 2
                 }
               ]
+            },
+            {
+              "floor": 5,
+              "rewardList": [
+                {
+                  "type": "GetBattleRewardCase",
+                  "probability": 1,
+                  "showNumber": 3,
+                  "selectNumber": 1
+                },
+                {
+                  "type": "GetEgogiftWithEnemyBuf",
+                  "probability": 1,
+                  "showNumber": 3,
+                  "selectNumber": 2
+                }
+              ]
             }
           ]
         }

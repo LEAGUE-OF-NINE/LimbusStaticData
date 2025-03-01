@@ -27,6 +27,11 @@
             },
             {
               "type": "PERSONALITY",
+              "id": 10112,
+              "price": 400
+            },
+            {
+              "type": "PERSONALITY",
               "id": 10206,
               "price": 400
             },

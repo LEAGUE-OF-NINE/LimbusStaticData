@@ -4682,7 +4682,7 @@
           "gaksungLevel": 4,
           "attributeType": "AMBER",
           "defaultValue": 15,
-          "iconID": "1040904_4",
+          "iconID": "1090904_4",
           "abilityScriptList": [
             {
               "scriptName": "1030904",

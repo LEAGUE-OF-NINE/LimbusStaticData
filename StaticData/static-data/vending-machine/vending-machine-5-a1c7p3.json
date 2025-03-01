@@ -63,6 +63,12 @@
             },
             {
               "type": "EGO",
+              "id": 20208,
+              "vendingAvailableDate": "2025-02-27T03:00:00Z",
+              "price": 400
+            },
+            {
+              "type": "EGO",
               "id": 20408,
               "price": 400
             },

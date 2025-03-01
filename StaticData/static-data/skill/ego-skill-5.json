@@ -1525,6 +1525,9 @@
               "scale": 3,
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "GiveBuffOnSucceedAttackAfterWinDuel",
                   "buffData": {
                     "buffKeyword": "RoseWedge",
@@ -1554,6 +1557,9 @@
               "color": "GREY",
               "scale": 3,
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "ForceToActivateBuffOSAAfterWinDuel",
                   "buffData": {
@@ -1644,6 +1650,9 @@
               "scale": 4,
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "GiveBuffOnSucceedAttackAfterWinDuel",
                   "buffData": {
                     "buffKeyword": "RoseWedge",
@@ -1673,6 +1682,9 @@
               "color": "GREY",
               "scale": 4,
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "MeursaultSeventhEgoLastCoinAbility1",
                   "buffData": {
@@ -1765,6 +1777,9 @@
               "scale": 4,
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "GiveBuffOnSucceedAttackAfterWinDuel",
                   "buffData": {
                     "buffKeyword": "RoseWedge",
@@ -1794,6 +1809,9 @@
               "color": "GREY",
               "scale": 4,
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "MeursaultSeventhEgoLastCoinAbility1",
                   "buffData": {
@@ -1895,6 +1913,9 @@
               "scale": 3,
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "GiveBuffOnSucceedAttackAfterWinDuel",
                   "buffData": {
                     "buffKeyword": "RoseWedge",
@@ -1925,6 +1946,9 @@
               "color": "GREY",
               "scale": 3,
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "ForceToActivateBuffOSAAfterWinDuel",
                   "buffData": {
@@ -2005,6 +2029,9 @@
               "scale": 4,
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "GiveBuffOnSucceedAttackAfterWinDuel",
                   "buffData": {
                     "buffKeyword": "RoseWedge",
@@ -2035,6 +2062,9 @@
               "color": "GREY",
               "scale": 4,
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "MeursaultSeventhEgoLastCoinAbility1",
                   "buffData": {
@@ -2153,6 +2183,9 @@
               "scale": 4,
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "GiveBuffOnSucceedAttackAfterWinDuel",
                   "buffData": {
                     "buffKeyword": "RoseWedge",
@@ -2183,6 +2216,9 @@
               "color": "GREY",
               "scale": 4,
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "MeursaultSeventhEgoLastCoinAbility1",
                   "buffData": {

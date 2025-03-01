@@ -58,41 +58,15 @@
       ],
       "contents": [
         {
-          "groupType": "ANNOUNCER",
-          "occupancyCaseList": [
-            {
-              "occupancyCase": "DEFAULT",
-              "occupancy": 130
-            },
-            {
-              "occupancyCase": "TENTH",
-              "occupancy": 130
-            },
-            {
-              "occupancyCase": "COMPLETE_EGO_DEFAULT",
-              "occupancy": 130
-            },
-            {
-              "occupancyCase": "COMPLETE_EGO_TENTH",
-              "occupancy": 130
-            }
-          ],
-          "elementType": "ANNOUNCER",
-          "elementIdList": [
-            26,
-            27
-          ]
-        },
-        {
           "groupType": "1",
           "occupancyCaseList": [
             {
               "occupancyCase": "DEFAULT",
-              "occupancy": 8170
+              "occupancy": 8300
             },
             {
               "occupancyCase": "COMPLETE_EGO_DEFAULT",
-              "occupancy": 8270
+              "occupancy": 8400
             }
           ],
           "elementType": "PERSONALITY",
@@ -120,7 +94,7 @@
             },
             {
               "occupancyCase": "TENTH",
-              "occupancy": 9450
+              "occupancy": 9580
             },
             {
               "occupancyCase": "COMPLETE_EGO_DEFAULT",
@@ -128,7 +102,7 @@
             },
             {
               "occupancyCase": "COMPLETE_EGO_TENTH",
-              "occupancy": 9570
+              "occupancy": 9700
             }
           ],
           "elementType": "PERSONALITY",
@@ -202,6 +176,7 @@
             10104,
             10106,
             10109,
+            10112,
             10204,
             10206,
             10211,
@@ -271,6 +246,7 @@
             20107,
             20203,
             20204,
+            20208,
             20303,
             20305,
             20403,

@@ -830,8 +830,7 @@
         9715,
         9716,
         9719,
-        9720,
-        9195
+        9720
       ],
       "mapGenSequence": [
         {
@@ -3166,8 +3165,9 @@
     },
     {
       "id": 1115,
-      "relatedEventId": 19,
-      "unlockCondition": {},
+      "unlockCondition": {
+        "unlockCode": 9114
+      },
       "desc": "LCB 정기검진",
       "exceptionConditions": [
         {
@@ -3439,10 +3439,6 @@
       "desc": "육참골단 BokGak",
       "exceptionConditions": [
         {
-          "dungeonIdx": 0,
-          "selectableFloors": []
-        },
-        {
           "dungeonIdx": 1,
           "selectableFloors": [
             3,
@@ -3624,8 +3620,7 @@
         9720,
         9781,
         9782,
-        9785,
-        9195
+        9785
       ],
       "mapGenSequence": [
         {
@@ -3643,7 +3638,7 @@
       ],
       "uiConfigs": {
         "showBossIds": [
-          8123
+          1123
         ],
         "packSpriteId": "Canto_YFCB_BokGak",
         "textColor": "5ce6ff",

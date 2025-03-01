@@ -38,7 +38,9 @@
         "abnormality-choice-event-a1c7p3",
         "story-dungeon-action-choice-event-a1c7p3",
         "story-dungeon-personality-choice-event-a1c7p3",
-        "abnormality-action-choice-event-a1c971"
+        "abnormality-action-choice-event-a1c971",
+        "abnormality-action-choice-event_Refraction5",
+        "abnormality-personality-choice-event-Refraction5"
       ]
     },
     {
@@ -73,7 +75,6 @@
         "abnormality-part-wp3",
         "abnormality-part-tkt",
         "abnormality-shadowenemy-part",
-        "abnormality-refraction4-part",
         "abnormality-part-wp4",
         "abnormality-part-a1c7p1",
         "abnormality-part-a1c7p2",
@@ -81,7 +82,8 @@
         "abnormality-part91-5-hard",
         "abnormality-part-a1c971",
         "abnormality-part-a1c971-s",
-        "abnormality-part-a1c9115"
+        "abnormality-part-a1c9115",
+        "abnormality-refraction5-part"
       ]
     },
     {
@@ -109,7 +111,6 @@
         "abnormality-unit-wp3",
         "abnormality-unit-tkt",
         "abnormality-shadowenemy-unit",
-        "abnormality-refraction4-unit",
         "abnormality-unit-wp4",
         "abnormality-unit-a1c7p1",
         "abnormality-unit-a1c7p2",
@@ -117,7 +118,8 @@
         "abnormality-unit91-5-hard",
         "abnormality-unit-a1c971",
         "abnormality-unit-a1c971-s",
-        "abnormality-unit-a1c9115"
+        "abnormality-unit-a1c9115",
+        "abnormality-refraction5-unit"
       ]
     },
     {
@@ -138,6 +140,7 @@
         "mirror-dungeon-floor-buff",
         "mirror-dungeon-4-floor-buff",
         "mirror-dungeon-5-floor-buff",
+        "mirror-dungeon-5-infinite-floor-buff",
         "negative-sin-buff",
         "negative-volatile-buff",
         "neutral-nonvolatile-buff",
@@ -171,7 +174,9 @@
         "buff-enemy-a1c7p3",
         "buff-enemy-wp5",
         "buff-enemy-a1c971",
-        "buff-enemy-a1c9115"
+        "buff-enemy-a1c9115",
+        "buff-enemy-refraction5",
+        "buff-floor-refraction5"
       ]
     },
     {
@@ -196,7 +201,8 @@
       "fileList": [
         "rail-line2-buff",
         "rail-line2-content-buff",
-        "mirror-dungeon-5-faction-buff"
+        "mirror-dungeon-5-faction-buff",
+        "mirror-refraction-railway-5-faction-buff"
       ]
     },
     {
@@ -241,6 +247,7 @@
       "fileList": [
         "ego-gift",
         "hidden-ego-gift-storydungeon",
+        "hidden-ego-gift-mirror-refraction-railway",
         "ego-gift-a1c5p1",
         "ego-gift-a1c5p2",
         "ego-gift-a1c5p3",
@@ -305,10 +312,10 @@
         "gacha-6",
         "gacha-7",
         "gacha-8",
-        "gacha-208",
-        "gacha-209",
         "gacha-210",
-        "gacha-211"
+        "gacha-211",
+        "gacha-212",
+        "gacha-213"
       ]
     },
     {
@@ -370,7 +377,8 @@
         "passive-enemy-a1c7p3",
         "passive-mr5",
         "passive-enemy-wp5",
-        "passive-enemy-a1c971"
+        "passive-enemy-a1c971",
+        "passive-enemy-refraction5"
       ]
     },
     {
@@ -483,7 +491,8 @@
         "skill-abnormality-a1c971",
         "skill-abnormality-a1c971-s",
         "skill-abnormality-a1c9115",
-        "skill-enemy-a1c9115"
+        "skill-enemy-a1c9115",
+        "abnormality-refraction5-skill"
       ]
     },
     {
@@ -709,21 +718,24 @@
       "dataClass": "mirrordungeon",
       "fileList": [
         "mirrordungeon-05",
-        "mirrordungeon-05-hard"
+        "mirrordungeon-05-hard",
+        "mirrordungeon-05-infinite"
       ]
     },
     {
       "dataClass": "mirrordungeon-encounterinfo",
       "fileList": [
         "mirrordungeon-encounterinfos-05-normal",
-        "mirrordungeon-encounterinfos-05-hard"
+        "mirrordungeon-encounterinfos-05-hard",
+        "mirrordungeon-encounterinfos-05-infinite"
       ]
     },
     {
       "dataClass": "mirrordungeon-global-encounterinfo",
       "fileList": [
         "mirrordungeon-global-encounterinfos-5-0",
-        "mirrordungeon-global-encounterinfos-5-1"
+        "mirrordungeon-global-encounterinfos-5-1",
+        "mirrordungeon-global-encounterinfos-5-2"
       ]
     },
     {
@@ -822,7 +834,8 @@
         "announcer-wp4",
         "announcer-a1c7p3",
         "announcer-wp5",
-        "announcer-ycgd-renewal"
+        "announcer-ycgd-renewal",
+        "announcer-limbus2ndAnniversary"
       ]
     },
     {
@@ -837,7 +850,8 @@
         "mirrordungeon-egogift-droppool-3",
         "mirrordungeon-egogift-droppool-4",
         "mirrordungeon-egogift-droppool-5",
-        "mirrordungeon-egogift-droppool-5-1"
+        "mirrordungeon-egogift-droppool-5-1",
+        "mirrordungeon-egogift-droppool-5-2"
       ]
     },
     {
@@ -1069,7 +1083,8 @@
         "railway-dungeon-01",
         "railway-dungeon-02",
         "railway-dungeon-03",
-        "railway-dungeon-04-a1c7p3"
+        "railway-dungeon-04-a1c7p3",
+        "railway-dungeon-05"
       ]
     },
     {
@@ -1078,7 +1093,8 @@
         "battle-railway-dungeon-01",
         "battle-railway-dungeon-02",
         "battle-railway-dungeon-03",
-        "battle-railway-dungeon-04"
+        "battle-railway-dungeon-04",
+        "battle-railway-dungeon-05"
       ]
     },
     {
@@ -1243,7 +1259,8 @@
         "mirrordungeon-acquire-cost-in-battle-3-0",
         "mirrordungeon-acquire-cost-in-battle-3-1",
         "mirrordungeon-acquire-cost-in-battle-5-0",
-        "mirrordungeon-acquire-cost-in-battle-5-1"
+        "mirrordungeon-acquire-cost-in-battle-5-1",
+        "mirrordungeon-acquire-cost-in-battle-5-2"
       ]
     },
     {
@@ -1252,7 +1269,10 @@
         "returninguser-event",
         "newuser-event",
         "lcbcheckup-event",
-        "ycgd-returns-event"
+        "ycgd-returns-event",
+        "Limbus2ndAnniversary-onetime-event",
+        "mirrordungeon5-mission-event",
+        "Limbus2ndAnniversary-attendance-event"
       ]
     },
     {
@@ -1316,14 +1336,17 @@
     {
       "dataClass": "event-mission",
       "fileList": [
-        "event-walpu5"
+        "event-walpu5",
+        "event-mirrordungeon5-mission"
       ]
     },
     {
       "dataClass": "mission",
       "fileList": [
         "return-mission-a1c7",
-        "event-walpu5-mission"
+        "event-walpu5-mission",
+        "mirrordungeon5-mission-collection",
+        "mirrordungeon5-mission-clear"
       ]
     },
     {
@@ -1331,7 +1354,8 @@
       "fileList": [
         "return-mission-condition",
         "return-mission-open-condition",
-        "event-walpu5-mission-condition"
+        "event-walpu5-mission-condition",
+        "mirrordungeon5-mission-condition"
       ]
     },
     {

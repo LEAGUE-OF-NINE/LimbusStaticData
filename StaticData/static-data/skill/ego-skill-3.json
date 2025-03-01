@@ -1479,6 +1479,9 @@
               "scale": 3,
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "SeventhDonquixoteEgoDmgUpCoinAbility0And1And10And1000"
                 }
               ]
@@ -1489,6 +1492,9 @@
               "color": "GREY",
               "scale": 3,
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "SeventhDonquixoteEgoDmgUpCoinAbility100And1And10And1000"
                 }
@@ -1501,6 +1507,9 @@
               "scale": 3,
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "SeventhDonquixoteEgoDmgUpCoinAbility200And1And10And2000"
                 }
               ]
@@ -1512,6 +1521,9 @@
               "scale": 3,
               "actionIndex": 4,
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "SeventhDonquixoteEgoDmgUpCoinAbility300And1And10And3000"
                 },
@@ -1585,6 +1597,9 @@
               "scale": 3,
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "SeventhDonquixoteEgoDmgUpCoinAbility0And1And10And1000"
                 }
               ]
@@ -1595,6 +1610,9 @@
               "color": "GREY",
               "scale": 3,
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "SeventhDonquixoteEgoDmgUpCoinAbility100And1And10And1500"
                 }
@@ -1607,6 +1625,9 @@
               "scale": 3,
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "SeventhDonquixoteEgoDmgUpCoinAbility200And1And10And2500"
                 }
               ]
@@ -1618,6 +1639,9 @@
               "scale": 3,
               "actionIndex": 4,
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "SeventhDonquixoteEgoDmgUpCoinAbility300And1And10And4000"
                 },
@@ -1692,6 +1716,9 @@
               "scale": 3,
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "SeventhDonquixoteEgoDmgUpCoinAbility0And1And10And1000"
                 }
               ]
@@ -1702,6 +1729,9 @@
               "color": "GREY",
               "scale": 3,
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "SeventhDonquixoteEgoDmgUpCoinAbility100And1And10And2000"
                 }
@@ -1714,6 +1744,9 @@
               "scale": 3,
               "abilityScriptList": [
                 {
+                  "scriptName": "SuperCoin"
+                },
+                {
                   "scriptName": "SeventhDonquixoteEgoDmgUpCoinAbility200And1And10And3000"
                 }
               ]
@@ -1725,6 +1758,9 @@
               "scale": 3,
               "actionIndex": 4,
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "SeventhDonquixoteEgoDmgUpCoinAbility300And1And10And5000"
                 },

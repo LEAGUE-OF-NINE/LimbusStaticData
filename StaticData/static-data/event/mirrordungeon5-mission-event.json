@@ -1,0 +1,418 @@
+{
+  "list": [
+    {
+      "id": 21,
+      "startDate": "2025-02-06T03:00:00Z",
+      "startDateForUI": "2025-02-06T03:00:00Z",
+      "endDate": "9999-01-01T00:00:00Z",
+      "endDateForUI": "9999-01-01T00:00:00Z",
+      "gracePeriod": "9999-01-01T00:00:00Z",
+      "unlockCondition": {
+        "unlockCode": 102
+      },
+      "eventRewardDatas": [
+        {
+          "rewardId": 1,
+          "rewardCondition": {
+            "type": "ITEM",
+            "id": 20026,
+            "num": 100
+          },
+          "rewardItemList": [
+            {
+              "type": "ITEM",
+              "id": 201,
+              "num": 20
+            }
+          ],
+          "limitCount": 1
+        },
+        {
+          "rewardId": 2,
+          "rewardCondition": {
+            "type": "ITEM",
+            "id": 20026,
+            "num": 200
+          },
+          "rewardItemList": [
+            {
+              "type": "ITEM",
+              "id": 213,
+              "num": 5
+            }
+          ],
+          "limitCount": 1
+        },
+        {
+          "rewardId": 3,
+          "rewardCondition": {
+            "type": "ITEM",
+            "id": 20026,
+            "num": 300
+          },
+          "rewardItemList": [
+            {
+              "type": "ITEM",
+              "id": 201,
+              "num": 20
+            }
+          ],
+          "limitCount": 1
+        },
+        {
+          "rewardId": 4,
+          "rewardCondition": {
+            "type": "ITEM",
+            "id": 20026,
+            "num": 400
+          },
+          "rewardItemList": [
+            {
+              "type": "ITEM",
+              "id": 101,
+              "num": 1
+            }
+          ],
+          "limitCount": 1
+        },
+        {
+          "rewardId": 5,
+          "rewardCondition": {
+            "type": "ITEM",
+            "id": 20026,
+            "num": 500
+          },
+          "rewardItemList": [
+            {
+              "type": "ITEM",
+              "id": 201,
+              "num": 20
+            }
+          ],
+          "limitCount": 1
+        },
+        {
+          "rewardId": 6,
+          "rewardCondition": {
+            "type": "ITEM",
+            "id": 20026,
+            "num": 600
+          },
+          "rewardItemList": [
+            {
+              "type": "ITEM",
+              "id": 213,
+              "num": 5
+            }
+          ],
+          "limitCount": 1
+        },
+        {
+          "rewardId": 7,
+          "rewardCondition": {
+            "type": "ITEM",
+            "id": 20026,
+            "num": 700
+          },
+          "rewardItemList": [
+            {
+              "type": "ITEM",
+              "id": 201,
+              "num": 20
+            }
+          ],
+          "limitCount": 1
+        },
+        {
+          "rewardId": 8,
+          "rewardCondition": {
+            "type": "ITEM",
+            "id": 20026,
+            "num": 800
+          },
+          "rewardItemList": [
+            {
+              "type": "ITEM",
+              "id": 101,
+              "num": 1
+            }
+          ],
+          "limitCount": 1
+        },
+        {
+          "rewardId": 9,
+          "rewardCondition": {
+            "type": "ITEM",
+            "id": 20026,
+            "num": 900
+          },
+          "rewardItemList": [
+            {
+              "type": "ITEM",
+              "id": 201,
+              "num": 20
+            }
+          ],
+          "limitCount": 1
+        },
+        {
+          "rewardId": 10,
+          "rewardCondition": {
+            "type": "ITEM",
+            "id": 20026,
+            "num": 1000
+          },
+          "rewardItemList": [
+            {
+              "type": "ITEM",
+              "id": 213,
+              "num": 5
+            }
+          ],
+          "limitCount": 1
+        },
+        {
+          "rewardId": 11,
+          "rewardCondition": {
+            "type": "ITEM",
+            "id": 20026,
+            "num": 1100
+          },
+          "rewardItemList": [
+            {
+              "type": "ITEM",
+              "id": 201,
+              "num": 20
+            }
+          ],
+          "limitCount": 1
+        },
+        {
+          "rewardId": 12,
+          "rewardCondition": {
+            "type": "ITEM",
+            "id": 20026,
+            "num": 1200
+          },
+          "rewardItemList": [
+            {
+              "type": "ITEM",
+              "id": 101,
+              "num": 1
+            }
+          ],
+          "limitCount": 1
+        },
+        {
+          "rewardId": 13,
+          "rewardCondition": {
+            "type": "ITEM",
+            "id": 20026,
+            "num": 1300
+          },
+          "rewardItemList": [
+            {
+              "type": "ITEM",
+              "id": 201,
+              "num": 20
+            }
+          ],
+          "limitCount": 1
+        },
+        {
+          "rewardId": 14,
+          "rewardCondition": {
+            "type": "ITEM",
+            "id": 20026,
+            "num": 1400
+          },
+          "rewardItemList": [
+            {
+              "type": "ITEM",
+              "id": 213,
+              "num": 5
+            }
+          ],
+          "limitCount": 1
+        },
+        {
+          "rewardId": 15,
+          "rewardCondition": {
+            "type": "ITEM",
+            "id": 20026,
+            "num": 1500
+          },
+          "rewardItemList": [
+            {
+              "type": "ITEM",
+              "id": 201,
+              "num": 20
+            }
+          ],
+          "limitCount": 1
+        },
+        {
+          "rewardId": 16,
+          "rewardCondition": {
+            "type": "ITEM",
+            "id": 20026,
+            "num": 1600
+          },
+          "rewardItemList": [
+            {
+              "type": "ITEM",
+              "id": 101,
+              "num": 1
+            }
+          ],
+          "limitCount": 1
+        },
+        {
+          "rewardId": 17,
+          "rewardCondition": {
+            "type": "ITEM",
+            "id": 20026,
+            "num": 1700
+          },
+          "rewardItemList": [
+            {
+              "type": "ITEM",
+              "id": 201,
+              "num": 20
+            }
+          ],
+          "limitCount": 1
+        },
+        {
+          "rewardId": 18,
+          "rewardCondition": {
+            "type": "ITEM",
+            "id": 20026,
+            "num": 1800
+          },
+          "rewardItemList": [
+            {
+              "type": "ITEM",
+              "id": 214,
+              "num": 4
+            }
+          ],
+          "limitCount": 1
+        },
+        {
+          "rewardId": 19,
+          "rewardCondition": {
+            "type": "ITEM",
+            "id": 20026,
+            "num": 1900
+          },
+          "rewardItemList": [
+            {
+              "type": "ITEM",
+              "id": 201,
+              "num": 20
+            }
+          ],
+          "limitCount": 1
+        },
+        {
+          "rewardId": 20,
+          "rewardCondition": {
+            "type": "ITEM",
+            "id": 20026,
+            "num": 2000
+          },
+          "rewardItemList": [
+            {
+              "type": "ITEM",
+              "id": 101,
+              "num": 1
+            }
+          ],
+          "limitCount": 1
+        },
+        {
+          "rewardId": 21,
+          "rewardCondition": {
+            "type": "ITEM",
+            "id": 20026,
+            "num": 2100
+          },
+          "rewardItemList": [
+            {
+              "type": "ITEM",
+              "id": 201,
+              "num": 20
+            }
+          ],
+          "limitCount": 1
+        },
+        {
+          "rewardId": 22,
+          "rewardCondition": {
+            "type": "ITEM",
+            "id": 20026,
+            "num": 2200
+          },
+          "rewardItemList": [
+            {
+              "type": "ITEM",
+              "id": 214,
+              "num": 4
+            }
+          ],
+          "limitCount": 1
+        },
+        {
+          "rewardId": 23,
+          "rewardCondition": {
+            "type": "ITEM",
+            "id": 20026,
+            "num": 2300
+          },
+          "rewardItemList": [
+            {
+              "type": "ITEM",
+              "id": 201,
+              "num": 20
+            }
+          ],
+          "limitCount": 1
+        },
+        {
+          "rewardId": 24,
+          "rewardCondition": {
+            "type": "ITEM",
+            "id": 20026,
+            "num": 2400
+          },
+          "rewardItemList": [
+            {
+              "type": "ITEM",
+              "id": 214,
+              "num": 4
+            }
+          ],
+          "limitCount": 1
+        },
+        {
+          "rewardId": 25,
+          "rewardCondition": {
+            "type": "ITEM",
+            "id": 20026,
+            "num": 2500
+          },
+          "rewardItemList": [
+            {
+              "type": "ITEM",
+              "id": 102,
+              "num": 1
+            }
+          ],
+          "limitCount": 1
+        }
+      ],
+      "eventMainItemId": 20026
+    }
+  ]
+}

@@ -655,21 +655,11 @@
               "scale": 2,
               "grade": 2,
               "color": "GREY",
-              "abilityScriptList": []
-            },
-            {
-              "operatorType": "ADD",
-              "scale": 2,
-              "grade": 2,
-              "color": "GREY",
-              "abilityScriptList": []
-            },
-            {
-              "operatorType": "ADD",
-              "scale": 2,
-              "grade": 2,
-              "color": "GREY",
-              "abilityScriptList": []
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                }
+              ]
             },
             {
               "operatorType": "ADD",
@@ -677,6 +667,31 @@
               "grade": 2,
               "color": "GREY",
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "grade": 2,
+              "color": "GREY",
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "grade": 2,
+              "color": "GREY",
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
@@ -762,6 +777,9 @@
               "grade": 2,
               "color": "GREY",
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "GiveBuffOnSucceedAttackAfterWinDuel",
                   "buffData": {
@@ -856,6 +874,9 @@
               "grade": 2,
               "color": "GREY",
               "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {

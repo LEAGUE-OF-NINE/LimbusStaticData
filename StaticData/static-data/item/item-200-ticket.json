@@ -160,6 +160,23 @@
       "category": "CONSUMABLE",
       "spriteStr": "jumping_ticket_4",
       "itemUseType": "LEAPUP_TICKET"
+    },
+    {
+      "id": 235,
+      "desc": "인격 성장 도약 티켓 - ver.2",
+      "itemUseFuncs": [
+        {
+          "itemUseFuncType": "PERSONALITY_LEVEL_TO",
+          "itemUseFuncValue": 50
+        },
+        {
+          "itemUseFuncType": "PERSONALITY_GACKSUNG_TO",
+          "itemUseFuncValue": 4
+        }
+      ],
+      "category": "CONSUMABLE",
+      "spriteStr": "jumping_ticket_5",
+      "itemUseType": "LEAPUP_TICKET"
     }
   ]
 }

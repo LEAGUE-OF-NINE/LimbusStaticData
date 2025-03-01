@@ -6438,7 +6438,12 @@
               "operatorType": "ADD",
               "grade": 2,
               "color": "GREY",
-              "scale": 8
+              "scale": 8,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                }
+              ]
             }
           ]
         },

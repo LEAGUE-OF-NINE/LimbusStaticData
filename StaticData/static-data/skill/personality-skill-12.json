@@ -3598,7 +3598,7 @@
               "cutsceneStart": true,
               "abilityScriptList": [
                 {
-                  "scriptName": "Empty[necessary:Bullet:1]"
+                  "scriptName": "UseBullet[necessary:Bullet:1]"
                 },
                 {
                   "scriptName": "CriticalDmgUpByRatio50"
@@ -3658,7 +3658,7 @@
               "cutsceneStart": true,
               "abilityScriptList": [
                 {
-                  "scriptName": "Empty[necessary:Bullet:1]"
+                  "scriptName": "UseBullet[necessary:Bullet:1]"
                 },
                 {
                   "scriptName": "CriticalDmgUpByRatio100"
