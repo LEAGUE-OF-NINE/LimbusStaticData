@@ -2974,7 +2974,8 @@
               }
             },
             {
-              "scriptName": "1010604(limit:3)"
+              "scriptName": "1010604",
+              "turnLimit": 3
             }
           ],
           "coinList": [
@@ -5246,7 +5247,8 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "TacticalReloadBulletLamentOnBattleStart(limit:1)"
+              "scriptName": "TacticalReloadBulletLamentOnBattleStart",
+              "turnLimit": 1
             }
           ],
           "coinList": [
@@ -5262,10 +5264,12 @@
           "iconID": "1011004_4",
           "abilityScriptList": [
             {
-              "scriptName": "TacticalReloadBulletLamentOnBattleStart(limit:1)"
+              "scriptName": "TacticalReloadBulletLamentOnBattleStart",
+              "turnLimit": 1
             },
             {
-              "scriptName": "AddShieldOnBattleStartSelfViaTotalButterfly(limit:1)"
+              "scriptName": "AddShieldOnBattleStartSelfViaTotalButterfly",
+              "turnLimit": 1
             }
           ]
         }
@@ -5608,7 +5612,8 @@
               "scriptName": "SkillPowerAdder10111_1_2"
             },
             {
-              "scriptName": "GiveBuffOnUse(limit:1)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "GlowingLantern",
                 "target": "Self",
@@ -5716,7 +5721,8 @@
               "scriptName": "SkillPowerAdder10111_1_3"
             },
             {
-              "scriptName": "GiveBuffOnUse(limit:1)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "GlowingLantern",
                 "target": "Self",
@@ -5839,7 +5845,8 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnBattleStart(limit:1)",
+              "scriptName": "GiveBuffOnBattleStart",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "GlowingLantern",
                 "target": "Self",
@@ -5889,7 +5896,8 @@
           "gaksungLevel": 4,
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnBattleStart(limit:1)",
+              "scriptName": "GiveBuffOnBattleStart",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "GlowingLantern",
                 "target": "Self",
@@ -6570,7 +6578,8 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "CounterShieldViaBuff(limit:1)",
+              "scriptName": "CounterShieldViaBuff",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "Combustion",
                 "buffOwner": "Target",
@@ -6653,7 +6662,8 @@
           "defaultValue": 5,
           "abilityScriptList": [
             {
-              "scriptName": "CounterShieldViaBuff(limit:1)",
+              "scriptName": "CounterShieldViaBuff",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "Combustion",
                 "buffOwner": "Target",

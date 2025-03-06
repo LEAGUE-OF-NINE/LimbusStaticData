@@ -7,6 +7,7 @@
                 "BASE_APPEARANCE", "SMALL"
             ],
             "associationList": [ "LIMBUS_COMPANY", "LIMBUS_COMPANY_LCB" ],
+      "skillKeywordList": [ "Laceration" ],
       "characterId": 3,
       "panicType": 9999,
       "season": 0,
@@ -107,6 +108,7 @@
       "appearance": "10302_Donquixote_WAppearance",
       "unitKeywordList": [ "SMALL" ],
       "associationList": [ "W_CORP" ],
+      "skillKeywordList": [ "Charge", "Burst" ],
       "characterId": 3,
       "panicType": 9999,
       "season": 0,
@@ -207,6 +209,7 @@
       "appearance": "10303_Donquixote_ShiAssoAppearance",
       "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "SHI" ],
+      "skillKeywordList": [ "Breath" ],
       "characterId": 3,
       "panicType": 9999,
       "season": 0,
@@ -306,6 +309,7 @@
       "appearance": "10304_Donquixote_NCorpAppearance",
       "unitKeywordList": [ "SMALL" ],
       "associationList": [ "N_CORP", "N_CORP_FNATIC" ],
+      "skillKeywordList": [ "Vibration", "Laceration" ],
       "characterId": 3,
       "panicType": 9999,
       "season": 1,
@@ -415,6 +419,7 @@
       "appearance": "10305_Donquixote_CinqAppearance",
       "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "CINQ" ],
+      "skillKeywordList": [  ],
       "characterId": 3,
       "panicType": 9999,
       "season": 0,
@@ -525,6 +530,7 @@
       "appearance": "10306_Donquixote_MiddleFingerAppearance",
       "unitKeywordList": [ "CLAN", "SMALL" ],
       "associationList": [ "MIDDLE_FINGER" ],
+      "skillKeywordList": [ "Laceration" ],
       "characterId": 3,
       "panicType": 9999,
       "season": 3,
@@ -625,6 +631,7 @@
       "appearance": "10307_Donquixote_MeatLanternAppearance",
       "unitKeywordList": [ "LOBOTOMY_HEAD", "SMALL" ],
       "associationList": [ "L_CORP" ],
+      "skillKeywordList": [ "Burst" ],
       "characterId": 3,
       "panicType": 9999,
       "season": 9102,
@@ -725,6 +732,7 @@
       "appearance": "10308_Donquixote_SwordGroupAppearance",
       "unitKeywordList": [ "CLAN", "SMALL" ],
       "associationList": [ "BLADE_LINEAGE" ],
+      "skillKeywordList": [ "Breath" ],
       "characterId": 3,
       "panicType": 9999,
       "season": 3,
@@ -828,6 +836,7 @@
       "associationList": [
         "T_CORP"
       ],
+      "skillKeywordList": [ "Vibration" ],
       "characterId": 3,
       "panicType": 9999,
       "season": 0,
@@ -926,6 +935,7 @@
       "appearance": "10310_Donquixote_DarkSanchoAppearance",
       "unitKeywordList": [ "SMALL", "BLOODFIEND", "SECOND_DEPENDENT" ],
       "associationList": [ "LA_MANCHA_LAND" ],
+      "skillKeywordList": [ "Laceration" ],
       "characterId": 3,
       "panicType": 9999,
       "season": 5,
@@ -1046,6 +1056,106 @@
           1031021
         ]
       }
+    },
+    {
+      "id": 10311,
+      "appearance": "10311_Donquixote_Cinq_EastAppearance",
+      "unitKeywordList": [ "FIXER", "SMALL" ],
+      "associationList": [ "CINQ" ],
+      "skillKeywordList": [ "Breath", "Combustion" ],
+      "characterId": 3,
+      "panicType": 9999,
+      "defenseSkillIDList": [
+        1031104
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 82,
+        "incrementByLevel": 2.82
+      },
+      "defCorrection": 2,
+      "minSpeedList": [
+        2,
+        3,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        5,
+        7,
+        7,
+        7
+      ],
+      "uniqueAttribute": "SHAMROCK",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          70,
+          40,
+          20
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1031101,
+          "number": 3
+        },
+        {
+          "skillId": 1031102,
+          "number": 2
+        },
+        {
+          "skillId": 1031103,
+          "number": 1
+        }
+      ]
     }
   ]
 }

@@ -7,6 +7,7 @@
                 "BASE_APPEARANCE", "SMALL"
             ],
             "associationList": [ "LIMBUS_COMPANY", "LIMBUS_COMPANY_LCB" ],
+      "skillKeywordList": [ "Burst" ],
       "characterId": 12,
       "panicType": 9999,
       "season": 0,
@@ -106,6 +107,7 @@
       "appearance": "11202_Gregor_LiuAssoAppearance",
       "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "LIU" ],
+      "skillKeywordList": [ "Combustion" ],
       "characterId": 12,
       "panicType": 9999,
       "season": 0,
@@ -206,6 +208,7 @@
       "appearance": "11203_Gregor_TommyAppearance",
       "unitKeywordList": [ "SMALL" ],
       "associationList": [ "G_CORP" ],
+      "skillKeywordList": [ "Burst" ],
       "characterId": 12,
       "panicType": 9999,
       "season": 1,
@@ -306,6 +309,7 @@
       "appearance": "11204_Gregor_JackAppearance",
       "unitKeywordList": [ "CLAN", "BACK_STREET", "SMALL" ],
       "associationList": [ "BACKSTREET_COOK" ],
+      "skillKeywordList": [ "Laceration" ],
       "characterId": 12,
       "panicType": 9999,
       "season": 1,
@@ -406,6 +410,7 @@
       "appearance": "11205_Gregor_ChainsawFixerAppearance",
       "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "TROUBLE_SHOOTER" ],
+      "skillKeywordList": [ "Charge", "Vibration", "Burst" ],
       "characterId": 12,
       "panicType": 9999,
       "season": 2,
@@ -506,6 +511,7 @@
       "appearance": "11206_Gregor_ZweiAppearance",
       "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "ZWEI" ],
+      "skillKeywordList": [  ],
       "characterId": 12,
       "panicType": 9999,
       "season": 0,
@@ -604,6 +610,7 @@
       "appearance": "11207_Gregor_SmeeAppearance",
       "unitKeywordList": [ "CLAN", "SMALL" ],
       "associationList": [ "DUAL_HOOK_PIRATE" ],
+      "skillKeywordList": [ "Breath", "Laceration" ],
       "characterId": 12,
       "panicType": 9999,
       "season": 3,
@@ -715,6 +722,7 @@
       "appearance": "11208_Gregor_KurokumoAppearance",
       "unitKeywordList": [ "CLAN", "SMALL" ],
       "associationList": [ "BLACK_CLOUD" ],
+      "skillKeywordList": [ "Laceration" ],
       "characterId": 12,
       "panicType": 9999,
       "season": 3,
@@ -816,6 +824,7 @@
       "appearance": "11209_Gregor_LintonAppearance",
       "unitKeywordList": [ "SMALL" ],
       "associationList": [ "LINTON" ],
+      "skillKeywordList": [ "Sinking" ],
       "characterId": 12,
       "panicType": 9999,
       "season": 4,
@@ -919,6 +928,7 @@
       ],
       "unitKeywordList": [ "SMALL", "BLOODFIEND", "THIRD_DEPENDENT" ],
       "unitScriptID": "BloodWraithTier3",
+      "skillKeywordList": [ "Laceration", "Burst" ],
       "characterId": 12,
       "panicType": 9999,
       "season": 5,
@@ -1019,6 +1029,117 @@
         },
         {
           "skillId": 1121003,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 11211,
+      "appearance": "11211_Gregor_FirePunchAppearance",
+      "unitKeywordList": [ "FIXER", "SMALL" ],
+      "associationList": [ "FIREPUNCH_OFFICE" ],
+      "skillKeywordList": [ "Combustion" ],
+      "characterId": 12,
+      "panicType": 9999,
+      "season": 5,
+      "defenseSkillIDList": [
+        1121104
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 82,
+        "incrementByLevel": 2.95
+      },
+      "initBuffList": [
+        {
+          "level": 1,
+          "list": [
+            {
+              "buff": "FirePunchFuel",
+              "stack": 100
+            }
+          ]
+        }
+      ],
+      "defCorrection": 3,
+      "minSpeedList": [
+        3,
+        3,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        5,
+        5,
+        6,
+        6
+      ],
+      "uniqueAttribute": "SCARLET",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          70,
+          0
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1121101,
+          "number": 3
+        },
+        {
+          "skillId": 1121102,
+          "number": 2
+        },
+        {
+          "skillId": 1121103,
           "number": 1
         }
       ]

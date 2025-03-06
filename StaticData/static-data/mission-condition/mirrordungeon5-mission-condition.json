@@ -287,6 +287,270 @@
       "uiConfig": {
         "textTags": [ "value" ]
       }
+    },
+
+
+    {
+      "id": 201003001,
+      "type": "MIRROR_DUNGEON_CLEAR_WITH_SKILL_KEYWORD",
+      "valueType": "PEAK",
+      "targetList1": [ 38 ],
+      "targetList2": [ 5 ],
+      "targetList2Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "value", "targetList2" ]
+      }
+    },
+    {
+      "id": 201003002,
+      "type": "MIRROR_DUNGEON_CLEAR_WITH_SKILL_KEYWORD",
+      "valueType": "PEAK",
+      "targetList1": [ 39 ],
+      "targetList2": [ 5 ],
+      "targetList2Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "value", "targetList2" ]
+      }
+    },
+    {
+      "id": 201003003,
+      "type": "MIRROR_DUNGEON_CLEAR_WITH_SKILL_KEYWORD",
+      "valueType": "PEAK",
+      "targetList1": [ 40 ],
+      "targetList2": [ 5 ],
+      "targetList2Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "value", "targetList2" ]
+      }
+    },
+    {
+      "id": 201003004,
+      "type": "MIRROR_DUNGEON_CLEAR_WITH_SKILL_KEYWORD",
+      "valueType": "PEAK",
+      "targetList1": [ 41 ],
+      "targetList2": [ 5 ],
+      "targetList2Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "value", "targetList2" ]
+      }
+    },
+    {
+      "id": 201003005,
+      "type": "MIRROR_DUNGEON_CLEAR_WITH_SKILL_KEYWORD",
+      "valueType": "PEAK",
+      "targetList1": [ 42 ],
+      "targetList2": [ 5 ],
+      "targetList2Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "value", "targetList2" ]
+      }
+    },
+    {
+      "id": 201003006,
+      "type": "MIRROR_DUNGEON_CLEAR_WITH_SKILL_KEYWORD",
+      "valueType": "PEAK",
+      "targetList1": [ 43 ],
+      "targetList2": [ 5 ],
+      "targetList2Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "value", "targetList2" ]
+      }
+    },
+    {
+      "id": 201003007,
+      "type": "MIRROR_DUNGEON_CLEAR_WITH_SKILL_KEYWORD",
+      "valueType": "PEAK",
+      "targetList1": [ 6 ],
+      "targetList2": [ 5 ],
+      "targetList2Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "value", "targetList2" ]
+      }
+    },
+
+    {
+      "id": 201003008,
+      "type": "MIRROR_DUNGEON_CLEAR_WITH_UNIT_KEYWORD",
+      "valueType": "PEAK",
+      "targetList1": [ 58 ],
+      "targetList2": [ 5 ],
+      "targetList2Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "value", "targetList2" ]
+      }
+    },
+    {
+      "id": 201003009,
+      "type": "MIRROR_DUNGEON_CLEAR_WITH_UNIT_KEYWORD",
+      "valueType": "PEAK",
+      "targetList1": [ 60 ],
+      "targetList2": [ 5 ],
+      "targetList2Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "value", "targetList2" ]
+      }
+    },
+    {
+      "id": 201003010,
+      "type": "MIRROR_DUNGEON_CLEAR_WITH_UNIT_KEYWORD",
+      "valueType": "PEAK",
+      "targetList1": [ 55 ],
+      "targetList2": [ 5 ],
+      "targetList2Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "value", "targetList2" ]
+      }
+    },
+    {
+      "id": 201003011,
+      "type": "MIRROR_DUNGEON_CLEAR_WITH_UNIT_KEYWORD",
+      "valueType": "PEAK",
+      "targetList1": [ 52 ],
+      "targetList2": [ 5 ],
+      "targetList2Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "value", "targetList2" ]
+      }
+    },
+    {
+      "id": 201003012,
+      "type": "MIRROR_DUNGEON_CLEAR_WITH_UNIT_KEYWORD",
+      "valueType": "PEAK",
+      "targetList1": [ 49 ],
+      "targetList2": [ 5 ],
+      "targetList2Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "value", "targetList2" ]
+      }
+    },
+    {
+      "id": 201003013,
+      "type": "MIRROR_DUNGEON_CLEAR_WITH_UNIT_KEYWORD",
+      "valueType": "PEAK_UNION",
+      "targetList1": [ 76, 77 ],
+      "targetList2": [ 5 ],
+      "targetList2Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "value", "targetList2" ]
+      }
+    },
+    {
+      "id": 201003014,
+      "type": "MIRROR_DUNGEON_CLEAR_WITH_UNIT_KEYWORD",
+      "valueType": "PEAK",
+      "targetList1": [ 70 ],
+      "targetList2": [ 5 ],
+      "targetList2Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "value", "targetList2" ]
+      }
+    },
+    {
+      "id": 201003015,
+      "type": "MIRROR_DUNGEON_CLEAR_WITH_UNIT_KEYWORD",
+      "valueType": "PEAK",
+      "targetList1": [ 74 ],
+      "targetList2": [ 5 ],
+      "targetList2Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "value", "targetList2" ]
+      }
+    },
+    {
+      "id": 201003016,
+      "type": "MIRROR_DUNGEON_CLEAR_WITH_UNIT_KEYWORD",
+      "valueType": "PEAK",
+      "targetList1": [ 89 ],
+      "targetList2": [ 5 ],
+      "targetList2Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "value", "targetList2" ]
+      }
+    },
+    {
+      "id": 201003017,
+      "type": "MIRROR_DUNGEON_CLEAR_WITH_UNIT_KEYWORD",
+      "valueType": "PEAK",
+      "targetList1": [ 59 ],
+      "targetList2": [ 5 ],
+      "targetList2Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "value", "targetList2" ]
+      }
+    },
+    {
+      "id": 201003018,
+      "type": "MIRROR_DUNGEON_CLEAR_WITH_UNIT_KEYWORD",
+      "valueType": "PEAK",
+      "targetList1": [ 68 ],
+      "targetList2": [ 5 ],
+      "targetList2Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "value", "targetList2" ]
+      }
+    },
+
+    {
+      "id": 201004001,
+      "type": "MIRROR_DUNGEON_CLEAR_WITH_SHOP_REFRESH",
+      "valueType": "PEAK",
+      "targetList1": [ 5 ],
+      "targetList1Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "value", "targetList1" ]
+      }
+    },
+    {
+      "id": 201004002,
+      "type": "MIRROR_DUNGEON_CLEAR_WITH_SHOP_BUY_EGOGIFT",
+      "valueType": "PEAK",
+      "targetList1": [ 5 ],
+      "targetList1Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "value", "targetList1" ]
+      }
+    },
+    {
+      "id": 201004003,
+      "type": "MIRROR_DUNGEON_CLEAR_WITH_SHOP_UPGRADE_EGOGIFT",
+      "valueType": "PEAK",
+      "targetList1": [ 5 ],
+      "targetList1Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "value", "targetList1" ]
+      }
+    },
+    {
+      "id": 201004004,
+      "type": "MIRROR_DUNGEON_CLEAR_WITH_SHOP_COST",
+      "valueType": "PEAK",
+      "targetList1": [ 5 ],
+      "targetList1Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "value", "targetList1" ]
+      }
+    },
+    {
+      "id": 201004005,
+      "type": "MIRROR_DUNGEON_CLEAR_WITH_SHOP_UPGRADE_EGOGIFT_MAX",
+      "valueType": "PEAK",
+      "targetList1": [ 3 ],
+      "targetList2": [ 5 ],
+      "targetList1Op": "GREATER_THAN_OR_EQUAL",
+      "targetList2Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "targetList1", "targetList2" ]
+      }
+    },
+    {
+      "id": 201004006,
+      "type": "MIRROR_DUNGEON_CLEAR_WITH_SHOP_UPGRADE_SKILL",
+      "valueType": "PEAK",
+      "targetList1": [ 5 ],
+      "targetList1Op": "GREATER_THAN_OR_EQUAL",
+      "uiConfig": {
+        "textTags": [ "targetList1" ]
+      }
     }
   ]
 }

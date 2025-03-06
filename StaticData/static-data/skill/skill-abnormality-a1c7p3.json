@@ -1501,7 +1501,8 @@
               "scriptName": "EmptyBody"
             },
             {
-              "scriptName": "AddShieldOnUseSelfViaBuffDevide(limit:2)",
+              "scriptName": "AddShieldOnUseSelfViaBuffDevide",
+              "turnLimit": 2,
               "buffData": {
                 "buffKeyword": "DefenseUp",
                 "buffOwner": "Self",

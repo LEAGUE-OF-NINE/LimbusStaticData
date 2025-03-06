@@ -1683,6 +1683,7 @@
         9174,
         9177,
         9178,
+        9181,
         9182
       ],
       "specificEgoGiftPool": [
@@ -1889,6 +1890,7 @@
         9174,
         9177,
         9178,
+        9181,
         9182
       ],
       "specificEgoGiftPool": [
@@ -2093,6 +2095,7 @@
         9174,
         9177,
         9178,
+        9181,
         9182
       ],
       "specificEgoGiftPool": [
@@ -2299,6 +2302,7 @@
         9174,
         9177,
         9178,
+        9181,
         9182
       ],
       "specificEgoGiftPool": [
@@ -2503,6 +2507,7 @@
         9174,
         9177,
         9178,
+        9181,
         9182
       ],
       "specificEgoGiftPool": [
@@ -3357,7 +3362,9 @@
     },
     {
       "id": 1116,
-      "relatedEventId": 20,
+      "unlockCondition": {
+        "unlockCode": 106
+      },
       "desc": "육참골단 BokGak",
       "exceptionConditions": [
         {

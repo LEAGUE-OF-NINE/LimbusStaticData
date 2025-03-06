@@ -741,7 +741,8 @@
           "skillLevelCorrection": 5,
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnSucceedEvade(limit:3)",
+              "scriptName": "GiveBuffOnSucceedEvade",
+              "turnLimit": 3,
               "buffData": {
                 "buffKeyword": "AttackUp",
                 "target": "Self",

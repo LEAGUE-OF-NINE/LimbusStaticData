@@ -2347,7 +2347,8 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnUse(limit:3)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 3,
               "buffData": {
                 "buffKeyword": "ChargeForceField",
                 "target": "Self",
@@ -2371,7 +2372,8 @@
           "defaultValue": 12,
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnUse(limit:3)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 3,
               "buffData": {
                 "buffKeyword": "ChargeForceField",
                 "target": "Self",
@@ -2974,7 +2976,8 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnSucceedEvade(limit:3)",
+              "scriptName": "GiveBuffOnSucceedEvade",
+              "turnLimit": 3,
               "buffData": {
                 "buffKeyword": "Agility",
                 "target": "Self",
@@ -3009,7 +3012,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnSucceedEvade(limit:3)",
+              "scriptName": "GiveBuffOnSucceedEvade",
+              "turnLimit": 3,
               "buffData": {
                 "buffKeyword": "Agility",
                 "target": "Self",
@@ -4852,7 +4856,8 @@
           "iconID": "1061004_4",
           "abilityScriptList": [
             {
-              "scriptName": "10610LoseLaceration(Limit:3)",
+              "scriptName": "10610LoseLaceration",
+              "turnLimit": 3,
               "buffData": {
                 "buffKeyword": "Laceration",
                 "stack": 2
@@ -5638,7 +5643,8 @@
               "scriptName": "Empty"
             },
             {
-              "scriptName": "GiveBuffOnSucceedEvade(Limit:3)",
+              "scriptName": "GiveBuffOnSucceedEvade",
+              "turnLimit": 3,
               "buffData": {
                 "buffKeyword": "Breath",
                 "target": "Self",
@@ -5664,7 +5670,8 @@
               "scriptName": "Empty"
             },
             {
-              "scriptName": "GiveBuffOnSucceedEvade(Limit:5)",
+              "scriptName": "GiveBuffOnSucceedEvade",
+              "turnLimit": 5,
               "buffData": {
                 "buffKeyword": "Breath",
                 "target": "Self",

@@ -1,0 +1,384 @@
+{
+  "list": [
+    {
+      "id": 201003001,
+      "category": "MIRROR_DUNGEON5_DECK",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201003001,
+        "value": 5
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 30
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "화상 키워드 인격을 5명 이상 편성하고 거울 던전 5층 클리어"
+      }
+    },
+    {
+      "id": 201003002,
+      "category": "MIRROR_DUNGEON5_DECK",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201003002,
+        "value": 5
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 30
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "출혈 키워드 인격을 5명 이상 편성하고 거울 던전 5층 클리어"
+      }
+    },
+    {
+      "id": 201003003,
+      "category": "MIRROR_DUNGEON5_DECK",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201003003,
+        "value": 5
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 30
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "진동 키워드 인격을 5명 이상 편성하고 거울 던전 5층 클리어"
+      }
+    },
+    {
+      "id": 201003004,
+      "category": "MIRROR_DUNGEON5_DECK",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201003004,
+        "value": 5
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 30
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "파열 키워드 인격을 5명 이상 편성하고 거울 던전 5층 클리어"
+      }
+    },
+    {
+      "id": 201003005,
+      "category": "MIRROR_DUNGEON5_DECK",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201003005,
+        "value": 5
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 30
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "침잠 키워드 인격을 5명 이상 편성하고 거울 던전 5층 클리어"
+      }
+    },
+    {
+      "id": 201003006,
+      "category": "MIRROR_DUNGEON5_DECK",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201003006,
+        "value": 5
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 30
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "호흡 키워드 인격을 5명 이상 편성하고 거울 던전 5층 클리어"
+      }
+    },
+    {
+      "id": 201003007,
+      "category": "MIRROR_DUNGEON5_DECK",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201003007,
+        "value": 5
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 30
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "충전 키워드 인격을 5명 이상 편성하고 거울 던전 5층 클리어"
+      }
+    },
+
+
+    {
+      "id": 201003008,
+      "category": "MIRROR_DUNGEON5_DECK",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201003008,
+        "value": 6
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 80
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "검계 소속 인격을 6명 이상 편성하고 거울 던전 5층 클리어"
+      }
+    },
+    {
+      "id": 201003009,
+      "category": "MIRROR_DUNGEON5_DECK",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201003009,
+        "value": 5
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 50
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "리우 협회 소속 인격을 5명 이상 편성하고 거울 던전 5층 클리어"
+      }
+    },
+    {
+      "id": 201003010,
+      "category": "MIRROR_DUNGEON5_DECK",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201003010,
+        "value": 5
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 50
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "세븐 협회 소속 인격을 5명 이상 편성하고 거울 던전 5층 클리어"
+      }
+    },
+    {
+      "id": 201003011,
+      "category": "MIRROR_DUNGEON5_DECK",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201003011,
+        "value": 5
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 50
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "W사 소속 인격을 5명 이상 편성하고 거울 던전 5층 클리어"
+      }
+    },
+    {
+      "id": 201003012,
+      "category": "MIRROR_DUNGEON5_DECK",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201003012,
+        "value": 5
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 80
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "N사 소속 인격을 5명 이상 편성하고 거울 던전 5층 클리어"
+      }
+    },
+    {
+      "id": 201003013,
+      "category": "MIRROR_DUNGEON5_DECK",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201003013,
+        "value": 6
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 80
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "워더링하이츠와 에드가 가문 소속 인격을 6명 이상 편성하고 거울 던전 5층 클리어"
+      }
+    },
+    {
+      "id": 201003014,
+      "category": "MIRROR_DUNGEON5_DECK",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201003014,
+        "value": 3
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 50
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "디에치 협회 소속 인격을 3명 이상 편성하고 거울 던전 5층 클리어"
+      }
+    },
+    {
+      "id": 201003015,
+      "category": "MIRROR_DUNGEON5_DECK",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201003015,
+        "value": 3
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 80
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "피쿼드호 소속 인격을 3명 이상 편성하고 거울 던전 5층 클리어"
+      }
+    },
+    {
+      "id": 201003016,
+      "category": "MIRROR_DUNGEON5_DECK",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201003016,
+        "value": 4
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 80
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "라만차랜드 소속 인격을 4명 이상 편성하고 거울 던전 5층 클리어"
+      }
+    },
+    {
+      "id": 201003017,
+      "category": "MIRROR_DUNGEON5_DECK",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201003017,
+        "value": 5
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 80
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "흑운회 소속 인격을 5명 이상 편성하고 거울 던전 5층 클리어"
+      }
+    },
+    {
+      "id": 201003018,
+      "category": "MIRROR_DUNGEON5_DECK",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201003018,
+        "value": 4
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 80
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "기술해방연합 소속 인격을 4명 이상 편성하고 거울 던전 5층 클리어"
+      }
+    }
+  ]
+}

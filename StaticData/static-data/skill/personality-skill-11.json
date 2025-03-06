@@ -2764,7 +2764,8 @@
               "scriptName": "CoinScaleAdder1IfFasterThanMainTargetMinDiff1"
             },
             {
-              "scriptName": "GiveBuffOnSucceedEvade(limit:5)",
+              "scriptName": "GiveBuffOnSucceedEvade",
+              "turnLimit": 5,
               "buffData": {
                 "buffKeyword": "Breath",
                 "target": "Self",
@@ -2791,7 +2792,8 @@
               "scriptName": "CoinScaleAdder1IfFasterViaSpeedDiffMax3"
             },
             {
-              "scriptName": "GiveBuffOnSucceedEvade(limit:10)",
+              "scriptName": "GiveBuffOnSucceedEvade",
+              "turnLimit": 10,
               "buffData": {
                 "buffKeyword": "Breath",
                 "target": "Self",
@@ -3328,7 +3330,8 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnUse(limit:1)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "FreischutzShotCount",
                 "target": "Self",
@@ -3365,7 +3368,8 @@
           "defaultValue": 10,
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnUse(limit:1)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "FreischutzShotCount",
                 "target": "Self",
@@ -3782,7 +3786,8 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnSucceedEvade(limit:3)",
+              "scriptName": "GiveBuffOnSucceedEvade",
+              "turnLimit": 3,
               "buffData": {
                 "buffKeyword": "Sinking",
                 "target": "Target",
@@ -3807,7 +3812,8 @@
           "defaultValue": 4,
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnSucceedEvade(limit:6)",
+              "scriptName": "GiveBuffOnSucceedEvade",
+              "turnLimit": 6,
               "buffData": {
                 "buffKeyword": "Sinking",
                 "target": "Target",
@@ -4643,7 +4649,8 @@
               }
             },
             {
-              "scriptName": "1111002(limit:1)",
+              "scriptName": "1111002",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "ChargeForceField",
                 "target": "Custom",
@@ -4747,7 +4754,8 @@
               }
             },
             {
-              "scriptName": "1111002(limit:2)",
+              "scriptName": "1111002",
+              "turnLimit": 2,
               "buffData": {
                 "buffKeyword": "ChargeForceField",
                 "target": "Custom",
@@ -5120,7 +5128,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnUse(limit:2)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 2,
               "buffData": {
                 "buffKeyword": "Charge",
                 "target": "Self",
@@ -5156,7 +5165,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnUse(limit:3)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 3,
               "buffData": {
                 "buffKeyword": "Charge",
                 "target": "Self",
@@ -5975,10 +5985,12 @@
               }
             },
             {
-              "scriptName": "AddBloodDinnerOnBreakOrKillTarget10(limit:1)"
+              "scriptName": "AddBloodDinnerOnBreakOrKillTarget10",
+              "turnLimit": 1
             },
             {
-              "scriptName": "EleventhOutisPayback(limit:1)",
+              "scriptName": "EleventhOutisPayback",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "BloodScissorPersonalityFirst",
                 "target": "Self",
@@ -6112,10 +6124,12 @@
               }
             },
             {
-              "scriptName": "AddBloodDinnerOnBreakOrKillTarget20(limit:1)"
+              "scriptName": "AddBloodDinnerOnBreakOrKillTarget20",
+              "turnLimit": 1
             },
             {
-              "scriptName": "EleventhOutisPayback(limit:1)",
+              "scriptName": "EleventhOutisPayback",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "BloodScissorPersonalityFirst",
                 "target": "Self",
@@ -6126,7 +6140,8 @@
               }
             },
             {
-              "scriptName": "AddBloodDinnerOnBreakOrKillTargetViaBuffCheck(limit:1)",
+              "scriptName": "AddBloodDinnerOnBreakOrKillTargetViaBuffCheck",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "LineCuttingPersonality",
                 "target": "Target",
@@ -6137,7 +6152,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnBreakOrKillTargetIfHasStack_LineCuttingPersonality1(limit:1)",
+              "scriptName": "GiveBuffOnBreakOrKillTargetIfHasStack_LineCuttingPersonality1",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "BloodScissorPersonalityFirst",
                 "target": "Self",

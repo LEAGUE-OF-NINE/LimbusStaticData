@@ -293,6 +293,18 @@
         10712,
         10811
       ]
+    },
+    {
+      "mirrorWorldId": 36,
+      "needsPersonalityIdList": [
+        10311
+      ]
+    },
+    {
+      "mirrorWorldId": 37,
+      "needsPersonalityIdList": [
+        11211
+      ]
     }
   ]
 }

@@ -410,6 +410,261 @@
 						}
 					],
 					"limitCount": 1
+				},
+				{
+					"rewardId": 26,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20026,
+						"num": 2600
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id":201,
+							"num":20
+						}
+					],
+					"limitCount": 1
+				},
+				{
+					"rewardId": 27,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20026,
+						"num": 2700
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id":214,
+							"num":4
+						}
+					],
+					"limitCount": 1
+				},
+				{
+					"rewardId": 28,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20026,
+						"num": 2800
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id":201,
+							"num":20
+						}
+					],
+					"limitCount": 1
+				},
+				{
+					"rewardId": 29,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20026,
+						"num": 2900
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id":214,
+							"num":4
+						}
+					],
+					"limitCount": 1
+				},
+				{
+					"rewardId": 30,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20026,
+						"num": 3000
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id":108,
+							"num":1
+						}
+					],
+					"limitCount": 1
+				},
+				{
+					"rewardId": 31,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20026,
+						"num": 3100
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id":201,
+							"num":20
+						}
+					],
+					"limitCount": 1
+				},
+				{
+					"rewardId": 32,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20026,
+						"num": 3200
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id":214,
+							"num":6
+						}
+					],
+					"limitCount": 1
+				},
+				{
+					"rewardId": 33,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20026,
+						"num": 3300
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id":101,
+							"num":1
+						}
+					],
+					"limitCount": 1
+				},
+				{
+					"rewardId": 34,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20026,
+						"num": 3400
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id":201,
+							"num":20
+						}
+					],
+					"limitCount": 1
+				},
+				{
+					"rewardId": 35,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20026,
+						"num": 3500
+					},
+					"rewardItemList": [
+						{
+							"type": "USERBANNER",
+							"id":55,
+							"num":1
+						},
+						{
+							"type": "USERBANNER_RECORD",
+							"id":1,
+							"num":1
+						}
+					],
+					"limitCount": 1
+				},
+				{
+					"rewardId": 36,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20026,
+						"num": 3600
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id":201,
+							"num":20
+						}
+					],
+					"limitCount": 1
+				},
+				{
+					"rewardId": 37,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20026,
+						"num": 3700
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id":214,
+							"num":6
+						}
+					],
+					"limitCount": 1
+				},
+				{
+					"rewardId": 38,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20026,
+						"num": 3800
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id":101,
+							"num":1
+						}
+					],
+					"limitCount": 1
+				},
+				{
+					"rewardId": 39,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20026,
+						"num": 3900
+					},
+					"rewardItemList": [
+						{
+							"type": "ITEM",
+							"id":201,
+							"num":20
+						}
+					],
+					"limitCount": 1
+				},
+				{
+					"rewardId": 40,
+					"rewardCondition": {
+						"type": "ITEM",
+						"id": 20026,
+						"num": 4000
+					},
+					"rewardItemList": [
+						{
+							"type": "USER_TICKET_DECO_LEFT",
+							"id": 46,
+							"num": 1
+						  },
+						  {
+							"type": "USER_TICKET_DECO_RIGHT",
+							"id": 46,
+							"num": 1
+						  },
+						  {
+							"type": "USER_TICKET_DECO_EGOBG",
+							"id": 46,
+							"num": 1
+						  }
+					],
+					"limitCount": 1
 				}
 			],
 			"eventMainItemId": 20026

@@ -3245,6 +3245,7 @@
         "AztecDisk"
       ],
       "eventScriptName": "AztecDisk",
+      "allowMaxEnemyViewCount": 8,
       "abnormalityEventList": [
         800201,
         800202,
@@ -25192,6 +25193,7 @@
       ],
       "rewardList": [],
       "isBatonPassOn": "TRUE",
+      "allowMaxEnemyViewCount": 8,
       "stageScriptList": [
         "1050",
         "FilterAddForce3_Abnormality"
@@ -28051,7 +28053,7 @@
           ],
           "bgmList": [
             "Battle_Cp5_Ally_3",
-            "Battle_Cp5_Enemy_2"
+            "Battle_Cp5_Enemy_1"
           ]
         }
       ],
@@ -28136,7 +28138,7 @@
           ],
           "bgmList": [
             "Battle_Cp5_Ally_3",
-            "Battle_Cp5_Enemy_8"
+            "Battle_Cp5_Enemy_1"
           ]
         }
       ],
@@ -28221,7 +28223,7 @@
           ],
           "bgmList": [
             "Battle_Cp5_Ally_3",
-            "Battle_Cp5_Enemy_9"
+            "Battle_Cp5_Enemy_1"
           ]
         }
       ],
@@ -28306,7 +28308,7 @@
           ],
           "bgmList": [
             "Battle_Cp5_Ally_3",
-            "Battle_Cp5_Enemy_10"
+            "Battle_Cp5_Enemy_1"
           ]
         }
       ],
@@ -28895,7 +28897,7 @@
           ],
           "bgmList": [
             "Battle_Cp5_Ally_3",
-            "Battle_Cp5_Enemy_2"
+            "Battle_Cp5_Enemy_1"
           ]
         }
       ],
@@ -28980,7 +28982,7 @@
           ],
           "bgmList": [
             "Battle_Cp5_Ally_3",
-            "Battle_Cp5_Enemy_8"
+            "Battle_Cp5_Enemy_1"
           ]
         }
       ],
@@ -29065,7 +29067,7 @@
           ],
           "bgmList": [
             "Battle_Cp5_Ally_3",
-            "Battle_Cp5_Enemy_9"
+            "Battle_Cp5_Enemy_1"
           ]
         }
       ],
@@ -29150,7 +29152,7 @@
           ],
           "bgmList": [
             "Battle_Cp5_Ally_3",
-            "Battle_Cp5_Enemy_10"
+            "Battle_Cp5_Enemy_1"
           ]
         }
       ],
@@ -33007,6 +33009,7 @@
       ],
       "staminaCost": 0,
       "recommendedLevel": 50,
+      "allowMaxEnemyViewCount": 8,
       "turnLimit": 99,
       "questlist": [
         {
@@ -42212,6 +42215,7 @@
       ],
       "staminaCost": 0,
       "recommendedLevel": 50,
+      "allowMaxEnemyViewCount": 8,
       "turnLimit": 99,
       "questlist": [
         {

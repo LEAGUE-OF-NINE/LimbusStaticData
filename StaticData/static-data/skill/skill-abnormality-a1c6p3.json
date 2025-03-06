@@ -2332,7 +2332,8 @@
               "scriptName": "8172_common"
             },
             {
-              "scriptName": "GiveBuffOnUse(limit:1)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "Enhancement",
                 "target": "IfAbnormalityAllPartsOrSelf",
@@ -4157,7 +4158,8 @@
               "scriptName": "EmptyBody"
             },
             {
-              "scriptName": "GiveBuffOnSucceedEvade(limit:2)",
+              "scriptName": "GiveBuffOnSucceedEvade",
+              "turnLimit": 2,
               "buffData": {
                 "buffKeyword": "Binding",
                 "target": "Target",

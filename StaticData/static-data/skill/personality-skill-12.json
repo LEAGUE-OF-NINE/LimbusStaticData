@@ -3704,7 +3704,8 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnSucceedEvade(limit:3)",
+              "scriptName": "GiveBuffOnSucceedEvade",
+              "turnLimit": 3,
               "buffData": {
                 "buffKeyword": "Breath",
                 "target": "Self",
@@ -3727,7 +3728,8 @@
           "attributeType": "AZURE",
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnSucceedEvade(limit:5)",
+              "scriptName": "GiveBuffOnSucceedEvade",
+              "turnLimit": 5,
               "buffData": {
                 "buffKeyword": "Breath",
                 "target": "Self",
@@ -5960,7 +5962,8 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnBattleStart(limit:1)",
+              "scriptName": "GiveBuffOnBattleStart",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "WornHeartGreg",
                 "target": "Self",
@@ -5984,7 +5987,8 @@
           "iconID": "1121004_4",
           "abilityScriptList": [
             {
-              "scriptName": "TenthGregorDefensSkillMainAbility_1(limit:1)",
+              "scriptName": "TenthGregorDefensSkillMainAbility_1",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "Laceration",
                 "target": "Self",
@@ -5996,10 +6000,12 @@
               }
             },
             {
-              "scriptName": "TenthGregorDefensSkillSubAbility[1:20:1](limit:1)"
+              "scriptName": "TenthGregorDefensSkillSubAbility[1:20:1]",
+              "turnLimit": 1
             },
             {
-              "scriptName": "GiveBuffOnBattleStart(limit:1)",
+              "scriptName": "GiveBuffOnBattleStart",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "WornHeartGreg",
                 "target": "Self",
@@ -6008,6 +6014,974 @@
                 "turn": 0,
                 "activeRound": 0
               }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121101,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "SCARLET",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 2,
+          "defaultValue": 2,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 6,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex" : 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex" : 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffStack_FirePunchFuel15",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "Self",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 2,
+          "abilityScriptList": [
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 3,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1
+              }
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 3,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex" : 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex" : 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffStack_FirePunchFuel15",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "Self",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheckDevideByStackWithLimit2",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 3,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex" : 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex" : 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffStack_FirePunchFuel15",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "Self",
+                    "stack": 0,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121102,
+      "skillType": "SKILL",
+      "skillTier": 2,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "CRIMSON",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 3,
+          "defaultValue": 4,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 6,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "AttackDmgUp1121102",
+              "buffData": {
+                "buffKeyword": "FirePunchFuelOverheated",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 0.1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "actionIndex" : 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOSAByStack1121102_FirePunchFuel10",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Custom",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "actionIndex" : 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOSAByTurn1121102_FirePunchFuel10",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Custom",
+                    "buffOwner": "Self",
+                    "stack": 0,
+                    "turn": 1,
+                    "value": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 2,
+          "abilityScriptList": [
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 6,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "AttackDmgUp1121102",
+              "buffData": {
+                "buffKeyword": "FirePunchFuel",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 0.1
+              }
+            },
+            {
+              "scriptName": "AttackDmgUp1121102",
+              "buffData": {
+                "buffKeyword": "FirePunchFuelOverheated",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 0.2
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "actionIndex" : 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOSAByStack1121102_FirePunchFuel10",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Custom",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "actionIndex" : 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOSAByTurn1121102_FirePunchFuel10",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Custom",
+                    "buffOwner": "Self",
+                    "stack": 0,
+                    "turn": 1,
+                    "value": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6,
+              "actionIndex" : 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOSAByStack1121102_FirePunchFuel10",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Custom",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 6,
+              "actionIndex" : 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOSAByTurn1121102_FirePunchFuel10",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Custom",
+                    "buffOwner": "Self",
+                    "stack": 0,
+                    "turn": 1,
+                    "value": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheckDevideByStackWithLimit2",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 6,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "AttackDmgUp1121102",
+              "buffData": {
+                "buffKeyword": "FirePunchFuel",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 0.15
+              }
+            },
+            {
+              "scriptName": "AttackDmgUp1121102",
+              "buffData": {
+                "buffKeyword": "FirePunchFuelOverheated",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 0.3
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6,
+              "actionIndex" : 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOSAByStack1121102_FirePunchFuel10",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Custom",
+                    "buffOwner": "Self",
+                    "stack": 2,
+                    "turn": 0,
+                    "value": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 6,
+              "actionIndex" : 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOSAByTurn1121102_FirePunchFuel10",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Custom",
+                    "buffOwner": "Self",
+                    "stack": 0,
+                    "turn": 1,
+                    "value": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121103,
+      "skillType": "SKILL",
+      "skillTier": 3,
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ],
+      "skillData": [
+        {
+          "gaksungLevel": 3,
+          "attributeType": "CRIMSON",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 5,
+          "defaultValue": 4,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S3",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 0,
+                "turn": 3,
+                "activeRound": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "SkillPowerAdderOnUseViaBuffCheckDevideByStackWithLimit2",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 6,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "AttackDmgUpOnUse1121103",
+              "buffData": {
+                "buffKeyword": "FirePunchFuel",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 0.01,
+                "limit": 25
+              },
+              "conditionalData": {
+                "category": "Buff_Stack",
+                "type": "GreaterEqual",
+                "conditionBuffData": {
+                  "buffKeyword": "FirePunchFuelOverheated",
+                  "buffOwner": "Self",
+                  "stack": 1,
+                  "turn": 0,
+                  "activeRound": 0
+                },
+                "resultBuffData": {
+                  "buffKeyword": "FirePunchFuel",
+                  "target": "",
+                  "buffOwner": "Self",
+                  "stack": 1,
+                  "turn": 0,
+                  "activeRound": 0,
+                  "value": 0.03,
+                  "limit": 25
+                }
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnKill1121103",
+              "value": 1,
+              "buffData": {
+                "buffKeyword": "HitDamageUp",
+                "buffOwner": "",
+                "target": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex" : 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSuccessAttackIfSkillUsedBuffStackThisAction_FirePunchFuel1",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex" : 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSuccessAttackIfSkillUsedBuffStackThisAction_FirePunchFuel1",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex" : 3,
+              "cutsceneStart": true,
+              "abilityScriptList": [
+                {
+                  "scriptName": "AtackDmgUp1121103",
+                  "buffData": {
+                    "buffKeyword": "FirePunchFuel",
+                    "target": "",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "value": 0.01,
+                    "limit": 25
+                  },
+                  "conditionalData": {
+                    "category": "Buff_Stack",
+                    "type": "GreaterEqual",
+                    "conditionBuffData": {
+                      "buffKeyword": "FirePunchFuelOverheated",
+                      "buffOwner": "Self",
+                      "stack": 1,
+                      "turn": 0,
+                      "activeRound": 0
+                    },
+                    "resultBuffData": {
+                      "buffKeyword": "FirePunchFuel",
+                      "target": "",
+                      "buffOwner": "",
+                      "stack": 1,
+                      "turn": 0,
+                      "activeRound": 0,
+                      "value": 0.03,
+                      "limit": 75
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "defaultValue": 5,
+          "abilityScriptList": [
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheckDevideByTurnWithLimit2",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 0,
+                "turn": 3,
+                "activeRound": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "SkillPowerAdderOnUseViaBuffCheckDevideByStackWithLimit3",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 6,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "AttackDmgUpOnUse1121103",
+              "buffData": {
+                "buffKeyword": "FirePunchFuel",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 0.02,
+                "limit": 25
+              },
+              "conditionalData": {
+                "category": "Buff_Stack",
+                "type": "GreaterEqual",
+                "conditionBuffData": {
+                  "buffKeyword": "FirePunchFuelOverheated",
+                  "buffOwner": "Self",
+                  "stack": 1,
+                  "turn": 0,
+                  "activeRound": 0
+                },
+                "resultBuffData": {
+                  "buffKeyword": "FirePunchFuel",
+                  "target": "",
+                  "buffOwner": "Self",
+                  "stack": 1,
+                  "turn": 0,
+                  "activeRound": 0,
+                  "value": 0.04,
+                  "limit": 25
+                }
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnKill1121103",
+              "value": 1,
+              "buffData": {
+                "buffKeyword": "HitDamageUp",
+                "buffOwner": "",
+                "target": "Self",
+                "stack": 2,
+                "turn": 0,
+                "activeRound": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex" : 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSuccessAttackIfSkillUsedBuffStackThisAction_FirePunchFuel1",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex" : 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSuccessAttackIfSkillUsedBuffStackThisAction_FirePunchFuel1",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex" : 3,
+              "cutsceneStart": true,
+              "abilityScriptList": [
+                {
+                  "scriptName": "AtackDmgUp1121103",
+                  "buffData": {
+                    "buffKeyword": "FirePunchFuel",
+                    "target": "",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "value": 0.02,
+                    "limit": 50
+                  },
+                  "conditionalData": {
+                    "category": "Buff_Stack",
+                    "type": "GreaterEqual",
+                    "conditionBuffData": {
+                      "buffKeyword": "FirePunchFuelOverheated",
+                      "buffOwner": "Self",
+                      "stack": 1,
+                      "turn": 0,
+                      "activeRound": 0
+                    },
+                    "resultBuffData": {
+                      "buffKeyword": "FirePunchFuel",
+                      "target": "",
+                      "buffOwner": "",
+                      "stack": 1,
+                      "turn": 0,
+                      "activeRound": 0,
+                      "value": 0.04,
+                      "limit": 100
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121104,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "AZURE",
+          "atkType": "HIT",
+          "defType": "COUNTER",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 2,
+          "defaultValue": 9,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnBattleStart",
+              "buffData": {
+                "buffKeyword": "FirePunchFuel",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 100,
+                "turn": 0,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 7,
+              "actionIndex" : 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
             }
           ]
         }

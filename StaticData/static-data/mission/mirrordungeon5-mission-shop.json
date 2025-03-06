@@ -1,0 +1,281 @@
+{
+  "list": [
+    {
+      "id": 201004001,
+      "category": "MIRROR_DUNGEON5_SHOP",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201004001,
+        "value": 10
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 10
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "거울 던전 1회 플레이에서 상점 새로고침 기능 10회 이상 사용하고 클리어 (키워드 새로고침 포함)"
+      }
+    },
+    {
+      "id": 201004002,
+      "category": "MIRROR_DUNGEON5_SHOP",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201004001,
+        "value": 20
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 30
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "거울 던전 1회 플레이에서 상점 새로고침 기능 20회 이상 사용하고 클리어 (키워드 새로고침 포함)"
+      }
+    },
+    {
+      "id": 201004003,
+      "category": "MIRROR_DUNGEON5_SHOP",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201004001,
+        "value": 30
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 50
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "거울 던전 1회 플레이에서 상점 새로고침 기능 30회 이상 사용하고 클리어 (키워드 새로고침 포함)"
+      }
+    },
+
+    {
+      "id": 201004004,
+      "category": "MIRROR_DUNGEON5_SHOP",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201004002,
+        "value": 10
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 10
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "거울 던전 1회 플레이에서 상점에서 기프트 10개 이상 구매하고 클리어"
+      }
+    },
+    {
+      "id": 201004005,
+      "category": "MIRROR_DUNGEON5_SHOP",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201004002,
+        "value": 20
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 30
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "거울 던전 1회 플레이에서 상점에서 기프트 20개 이상 구매하고 클리어"
+      }
+    },
+    {
+      "id": 201004006,
+      "category": "MIRROR_DUNGEON5_SHOP",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201004002,
+        "value": 30
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 60
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "거울 던전 1회 플레이에서 상점에서 기프트 30개 이상 구매하고 클리어"
+      }
+    },
+
+    {
+      "id": 201004007,
+      "category": "MIRROR_DUNGEON5_SHOP",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201004003,
+        "value": 5
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 30
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "거울 던전 1회 플레이에서 상점에서 기프트 5개 이상 강화하고 클리어 (단계 무관)"
+      }
+    },
+    {
+      "id": 201004008,
+      "category": "MIRROR_DUNGEON5_SHOP",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201004003,
+        "value": 10
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 50
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "거울 던전 1회 플레이에서 상점에서 기프트 10개 이상 강화하고 클리어 (단계 무관)"
+      }
+    },
+    {
+      "id": 201004009,
+      "category": "MIRROR_DUNGEON5_SHOP",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201004003,
+        "value": 15
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 80
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "거울 던전 1회 플레이에서 상점에서 기프트 15개 이상 강화하고 클리어 (단계 무관)"
+      }
+    },
+
+    {
+      "id": 201004010,
+      "category": "MIRROR_DUNGEON5_SHOP",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201004004,
+        "value": 500
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 10
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "코스트 500을 보유한 상태로 거울 던전 5층 클리어"
+      }
+    },
+    {
+      "id": 201004011,
+      "category": "MIRROR_DUNGEON5_SHOP",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201004004,
+        "value": 1000
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 30
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "코스트 1000을 보유한 상태로 거울 던전 5층 클리어"
+      }
+    },
+
+    {
+      "id": 201004012,
+      "category": "MIRROR_DUNGEON5_SHOP",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201004005,
+        "value": 1
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 10
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "3등급 이상의 기프트 1개를 2단계까지 강화하고 클리어"
+      }
+    },
+    {
+      "id": 201004013,
+      "category": "MIRROR_DUNGEON5_SHOP",
+      "startDate": "2025-02-06T03:00:00.000Z",
+      "endDate": "9999-01-01T00:00:00.000Z",
+      "requiredCondition": {
+        "id": 201004006,
+        "value": 1
+      },
+      "rewards": [
+        {
+          "type": "ITEM",
+          "id": 20026,
+          "num": 100
+        }
+      ],
+      "uiConfig": {
+        "type": "ui_condition_tags",
+        "comment": "아군 1명의 스킬 1을 상점에서 전부 스킬 3으로 교환하고 클리어"
+      }
+    }
+  ]
+}

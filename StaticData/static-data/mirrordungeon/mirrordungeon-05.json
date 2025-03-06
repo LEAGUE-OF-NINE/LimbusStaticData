@@ -463,6 +463,11 @@
                 "type": "BATTLEPASS_POINT",
                 "id": 0,
                 "num": 3
+              },
+              {
+                "type": "USERBANNER_RECORD",
+                "id":1,
+                "num":1
               }
             ]
           },
@@ -481,6 +486,11 @@
                 "type": "BATTLEPASS_POINT",
                 "id": 0,
                 "num": 5
+              },
+              {
+                "type": "USERBANNER_RECORD",
+                "id":1,
+                "num":1
               }
             ]
           }

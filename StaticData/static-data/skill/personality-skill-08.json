@@ -3242,7 +3242,8 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnUse(limit:3)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 3,
               "buffData": {
                 "buffKeyword": "BurstProtection",
                 "target": "Self",
@@ -3265,7 +3266,8 @@
           "attributeType": "INDIGO",
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnUse(limit:3)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 3,
               "buffData": {
                 "buffKeyword": "BurstProtection",
                 "target": "Self",
@@ -3310,7 +3312,8 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "10808041(Limit:1)"
+              "scriptName": "10808041",
+              "turnLimit": 1
             }
           ],
           "coinList": [
@@ -3344,7 +3347,8 @@
           "gaksungLevel": 2,
           "abilityScriptList": [
             {
-              "scriptName": "10808044(Limit:1)",
+              "scriptName": "10808044",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "Protection",
                 "target": "Custom",
@@ -3402,7 +3406,8 @@
               }
             },
             {
-              "scriptName": "10808044(Limit:1)",
+              "scriptName": "10808044",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "Protection",
                 "target": "Custom",
@@ -3668,7 +3673,8 @@
               "scriptName": "10808031_2_20"
             },
             {
-              "scriptName": "10808033_2_10(Limit:2)",
+              "scriptName": "10808033_2_10",
+              "turnLimit": 2,
               "buffData": {
                 "buffKeyword": "Breath",
                 "target": "Custom",
@@ -3760,7 +3766,8 @@
               }
             },
             {
-              "scriptName": "10808034_2_10(Limit:4)",
+              "scriptName": "10808034_2_10",
+              "turnLimit": 4,
               "buffData": {
                 "buffKeyword": "Breath",
                 "target": "Custom",
@@ -3861,7 +3868,8 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "1080801_2(Limit:2)"
+              "scriptName": "1080801_2",
+              "turnLimit": 2
             }
           ],
           "coinList": [
@@ -3877,7 +3885,8 @@
           "iconID": "1080804_4",
           "abilityScriptList": [
             {
-              "scriptName": "1080801_4(Limit:2)"
+              "scriptName": "1080801_4",
+              "turnLimit": 2
             }
           ]
         }
@@ -4485,7 +4494,8 @@
           "iconID": "1080904_4",
           "abilityScriptList": [
             {
-              "scriptName": "HealMpOnSucceedEvadeSelf5(limit:1)"
+              "scriptName": "HealMpOnSucceedEvadeSelf5",
+              "turnLimit": 1
             }
           ]
         }
@@ -5397,7 +5407,8 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnBattleStart(limit:1)",
+              "scriptName": "GiveBuffOnBattleStart",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "DefensiveStance",
                 "target": "Self",
@@ -5408,7 +5419,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnUse(limit:1)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "Vibration",
                 "target": "Self",
@@ -5439,7 +5451,8 @@
           "defaultValue": 3,
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnBattleStart(limit:1)",
+              "scriptName": "GiveBuffOnBattleStart",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "DefensiveStance",
                 "target": "Self",
@@ -5450,7 +5463,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnUse(limit:1)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "Vibration",
                 "target": "Self",
@@ -5658,7 +5672,8 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnBattleStartExceptSelf1081102_5(limit:1)",
+              "scriptName": "GiveBuffOnBattleStartExceptSelf1081102_5",
+              "turnLimit": 1,
               "value": 2,
               "buffData": {
                 "buffKeyword": "AttackDmgUp",
@@ -5725,7 +5740,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnBattleStartExceptSelf1081102_5(limit:1)",
+              "scriptName": "GiveBuffOnBattleStartExceptSelf1081102_5",
+              "turnLimit": 1,
               "value": 2,
               "buffData": {
                 "buffKeyword": "AttackDmgUp",
@@ -5757,7 +5773,8 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSucceedAttackHead(limit:1)",
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "SlashTakeDamageUp",
                     "target": "Target",
@@ -5786,7 +5803,8 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack(limit:1)",
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "SlashResultUp",
                     "target": "Self",
@@ -5821,7 +5839,8 @@
               "scriptName": "AttackDmgUp100PerNegativeBuffCountWithLimit500"
             },
             {
-              "scriptName": "GiveBuffOnBattleStartExceptSelf1081102_5(limit:1)",
+              "scriptName": "GiveBuffOnBattleStartExceptSelf1081102_5",
+              "turnLimit": 1,
               "value": 2,
               "buffData": {
                 "buffKeyword": "AttackDmgUp",
@@ -5853,7 +5872,8 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSucceedAttackHead1081102_Vulnerable2(limit:1)",
+                  "scriptName": "GiveBuffOnSucceedAttackHead1081102_Vulnerable2",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "SlashTakeDamageUp",
                     "target": "Target",
@@ -5883,7 +5903,8 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack(limit:2)",
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "turnLimit": 2,
                   "buffData": {
                     "buffKeyword": "SlashResultUp",
                     "target": "Self",
@@ -6007,7 +6028,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnKillTarget(limit:1)",
+              "scriptName": "GiveBuffOnKillTarget",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "SlashResultUp",
                 "target": "Self",
@@ -6103,7 +6125,8 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnBattleStart(limit:1)",
+              "scriptName": "GiveBuffOnBattleStart",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "Protection",
                 "target": "Self",
@@ -6127,7 +6150,8 @@
           "iconID": "1081104_4",
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnBattleStart(limit:1)",
+              "scriptName": "GiveBuffOnBattleStart",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "Protection",
                 "target": "Self",
@@ -6138,7 +6162,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnBattleStart1081104(limit:1)",
+              "scriptName": "GiveBuffOnBattleStart1081104",
+              "turnLimit": 1,
               "value": 1,
               "buffData": {
                 "buffKeyword": "Endurance",

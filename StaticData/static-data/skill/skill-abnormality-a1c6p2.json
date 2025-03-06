@@ -1231,7 +1231,8 @@
               "scriptName": "EmptyBody"
             },
             {
-              "scriptName": "GiveBuffOnSucceedEvade(limit:2)",
+              "scriptName": "GiveBuffOnSucceedEvade",
+              "turnLimit": 2,
               "buffData": {
                 "buffKeyword": "Binding",
                 "target": "Target",
