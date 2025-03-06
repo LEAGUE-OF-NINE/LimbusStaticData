@@ -3347,7 +3347,8 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnUse(limit:3)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 3,
               "buffData": {
                 "buffKeyword": "BurstProtection",
                 "target": "Self",
@@ -3370,7 +3371,8 @@
           "attributeType": "AZURE",
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnUse(limit:3)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 3,
               "buffData": {
                 "buffKeyword": "BurstProtection",
                 "target": "Self",
@@ -3806,7 +3808,8 @@
               }
             },
             {
-              "scriptName": "1100803_3_3(limit:2)",
+              "scriptName": "1100803_3_3",
+              "turnLimit": 2,
               "buffData": {
                 "buffKeyword": "Vulnerable",
                 "target": "Target",
@@ -3870,7 +3873,8 @@
               }
             },
             {
-              "scriptName": "1100803_3_3(limit:2)",
+              "scriptName": "1100803_3_3",
+              "turnLimit": 2,
               "buffData": {
                 "buffKeyword": "Vulnerable",
                 "target": "Target",
@@ -5062,7 +5066,8 @@
               "scale": 5,
               "abilityScriptList": [
                 {
-                  "scriptName": "TenthSinclairSecondSkillSecondCoinAbility_DefenseUp1(limit:1)",
+                  "scriptName": "TenthSinclairSecondSkillSecondCoinAbility_DefenseUp1",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "AttackUp",
                     "target": "Custom",
@@ -5142,7 +5147,8 @@
               "scale": 5,
               "abilityScriptList": [
                 {
-                  "scriptName": "TenthSinclairSecondSkillSecondCoinAbility_DefenseUp1(limit:1)",
+                  "scriptName": "TenthSinclairSecondSkillSecondCoinAbility_DefenseUp1",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "AttackUp",
                     "target": "Custom",
@@ -5226,7 +5232,8 @@
               "scale": 5,
               "abilityScriptList": [
                 {
-                  "scriptName": "TenthSinclairSecondSkillSecondCoinAbility_DefenseUp2(limit:1)",
+                  "scriptName": "TenthSinclairSecondSkillSecondCoinAbility_DefenseUp2",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "AttackUp",
                     "target": "Custom",
@@ -5449,7 +5456,8 @@
               "scriptName": "AddTauntOnBattleStart5"
             },
             {
-              "scriptName": "GiveBuffOnUse(limit:1)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "Vibration",
                 "target": "Self",
@@ -5485,7 +5493,8 @@
               "scriptName": "AddTauntOnBattleStart5"
             },
             {
-              "scriptName": "GiveBuffOnUse(limit:1)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "Vibration",
                 "target": "Self",
@@ -5837,7 +5846,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnUseIfStackLess_DevyatDimensionalSackSinclair21(limit:1)",
+              "scriptName": "GiveBuffOnUseIfStackLess_DevyatDimensionalSackSinclair21",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "Agility",
                 "target": "Self",
@@ -5950,7 +5960,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnUseIfStackLess_DevyatDimensionalSackSinclair31(limit:1)",
+              "scriptName": "GiveBuffOnUseIfStackLess_DevyatDimensionalSackSinclair31",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "Agility",
                 "target": "Self",
@@ -6315,7 +6326,8 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "1101104(limit:1)",
+              "scriptName": "1101104",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "DevyatDimensionalSackSinclair",
                 "target": "",
@@ -6325,7 +6337,8 @@
               }
             },
             {
-              "scriptName": "AddShieldOnBattleStartSelfByHpRatioViaBuffStack(limit:1)",
+              "scriptName": "AddShieldOnBattleStartSelfByHpRatioViaBuffStack",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "DevyatDimensionalSackSinclair",
                 "buffOwner": "Self",
@@ -6345,7 +6358,8 @@
           "gaksungLevel": 4,
           "abilityScriptList": [
             {
-              "scriptName": "1101104(limit:1)",
+              "scriptName": "1101104",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "DevyatDimensionalSackSinclair",
                 "target": "",
@@ -6355,7 +6369,8 @@
               }
             },
             {
-              "scriptName": "AddShieldOnBattleStartSelfByHpRatioViaBuffStack(limit:1)",
+              "scriptName": "AddShieldOnBattleStartSelfByHpRatioViaBuffStack",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "DevyatDimensionalSackSinclair",
                 "buffOwner": "Self",
@@ -6391,7 +6406,8 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "AddShieldOnBattleStartSelfByHpRatioViaBuffStack(limit:1)",
+              "scriptName": "AddShieldOnBattleStartSelfByHpRatioViaBuffStack",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "DevyatDimensionalSackSinclair",
                 "buffOwner": "Self",
@@ -6414,7 +6430,8 @@
           "gaksungLevel": 4,
           "abilityScriptList": [
             {
-              "scriptName": "AddShieldOnBattleStartSelfByHpRatioViaBuffStack(limit:1)",
+              "scriptName": "AddShieldOnBattleStartSelfByHpRatioViaBuffStack",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "DevyatDimensionalSackSinclair",
                 "buffOwner": "Self",

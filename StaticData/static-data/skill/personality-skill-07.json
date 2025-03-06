@@ -2979,7 +2979,8 @@
               "scriptName": "AddTauntOnUse2"
             },
             {
-              "scriptName": "GiveBuffOnBattleStartByDeuplicateStack_Breath(limit:1)",
+              "scriptName": "GiveBuffOnBattleStartByDeuplicateStack_Breath",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "DefenseUp",
                 "target": "Self",
@@ -3012,7 +3013,8 @@
               "scriptName": "AddTauntOnUse5"
             },
             {
-              "scriptName": "GiveBuffOnBattleStartByDeuplicateStack_Breath(limit:1)",
+              "scriptName": "GiveBuffOnBattleStartByDeuplicateStack_Breath",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "DefenseUp",
                 "target": "Self",
@@ -3392,7 +3394,8 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "1070804(limit:1)"
+              "scriptName": "1070804",
+              "turnLimit": 1
             }
           ],
           "coinList": [
@@ -3960,7 +3963,8 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnUse(limit:1)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "Charge",
                 "target": "Self",
@@ -3985,7 +3989,8 @@
           "defaultValue": 12,
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnUse(limit:2)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 2,
               "buffData": {
                 "buffKeyword": "Charge",
                 "target": "Self",
@@ -4802,7 +4807,8 @@
           "parryingCloseType": "FAR",
           "abilityScriptList": [
             {
-              "scriptName": "1071004_1(Limit:1)",
+              "scriptName": "1071004_1",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "NightPathfinding",
                 "target": "Self",
@@ -4847,10 +4853,12 @@
           "gaksungLevel": 3,
           "abilityScriptList": [
             {
-              "scriptName": "1071004(Limit:1)"
+              "scriptName": "1071004",
+              "turnLimit": 1
             },
             {
-              "scriptName": "1071004_1(Limit:1)",
+              "scriptName": "1071004_1",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "NightPathfinding",
                 "target": "Self",
@@ -4907,10 +4915,12 @@
           "gaksungLevel": 4,
           "abilityScriptList": [
             {
-              "scriptName": "1071004(Limit:1)"
+              "scriptName": "1071004",
+              "turnLimit": 1
             },
             {
-              "scriptName": "1071004_1(Limit:1)",
+              "scriptName": "1071004_1",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "NightPathfinding",
                 "target": "Self",
@@ -4932,7 +4942,8 @@
               }
             },
             {
-              "scriptName": "1071004_4(Limit:1)",
+              "scriptName": "1071004_4",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "AttackUp",
                 "target": "Self",
@@ -5665,7 +5676,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnUse(limit:1)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "Agility",
                 "target": "Self",
@@ -5736,7 +5748,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnUse(limit:1)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "Agility",
                 "target": "Self",
@@ -5836,7 +5849,8 @@
                   "scriptName": "UseBullet[necessary:Bullet:1]"
                 },
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack(limit:2)",
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "turnLimit": 2,
                   "buffData": {
                     "buffKeyword": "PenetrateTakeDamageUp",
                     "target": "Target",
@@ -5868,7 +5882,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnUse(limit:1)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "Agility",
                 "target": "Self",
@@ -5891,7 +5906,8 @@
                   "scriptName": "CriticalDmgUpByRatio30"
                 },
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack(limit:2)",
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "turnLimit": 2,
                   "buffData": {
                     "buffKeyword": "PenetrateTakeDamageUp",
                     "target": "Target",
@@ -5902,7 +5918,8 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSuccessCriticalAttack(limit:1)",
+                  "scriptName": "GiveBuffOnSuccessCriticalAttack",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "PenetrateTakeDamageUp",
                     "target": "Target",
@@ -5938,7 +5955,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnUse(limit:1)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "Agility",
                 "target": "Self",
@@ -5961,7 +5979,8 @@
                   "scriptName": "CriticalDmgUpByRatio50"
                 },
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack(limit:2)",
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "turnLimit": 2,
                   "buffData": {
                     "buffKeyword": "PenetrateTakeDamageUp",
                     "target": "Target",
@@ -5972,7 +5991,8 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSuccessCriticalAttack(limit:1)",
+                  "scriptName": "GiveBuffOnSuccessCriticalAttack",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "PenetrateTakeDamageUp",
                     "target": "Target",
@@ -6180,10 +6200,12 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "1071104(Limit:1)"
+              "scriptName": "1071104",
+              "turnLimit": 1
             },
             {
-              "scriptName": "GiveBuffOnRoundEndAlive(Limit:1)",
+              "scriptName": "GiveBuffOnRoundEndAlive",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "LogicAtelierAM",
                 "target": "Self",
@@ -6206,10 +6228,12 @@
           "iconID": "1071104_4",
           "abilityScriptList": [
             {
-              "scriptName": "1071104(Limit:1)"
+              "scriptName": "1071104",
+              "turnLimit": 1
             },
             {
-              "scriptName": "GiveBuffOnSucceedEvade(limit:3)",
+              "scriptName": "GiveBuffOnSucceedEvade",
+              "turnLimit": 3,
               "buffData": {
                 "buffKeyword": "Breath",
                 "target": "Self",
@@ -6220,7 +6244,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnRoundEndAlive(Limit:1)",
+              "scriptName": "GiveBuffOnRoundEndAlive",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "LogicAtelierAM",
                 "target": "Self",
@@ -6421,10 +6446,12 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "1071104(Limit:1)"
+              "scriptName": "1071104",
+              "turnLimit": 1
             },
             {
-              "scriptName": "GiveBuffOnRoundEndAlive(Limit:1)",
+              "scriptName": "GiveBuffOnRoundEndAlive",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "LogicAtelierAM",
                 "target": "Self",
@@ -6454,10 +6481,12 @@
           "iconID": "1071106_4",
           "abilityScriptList": [
             {
-              "scriptName": "1071104(Limit:1)"
+              "scriptName": "1071104",
+              "turnLimit": 1
             },
             {
-              "scriptName": "GiveBuffOnWinDuel(limit:1)",
+              "scriptName": "GiveBuffOnWinDuel",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "PenetrateResistDown",
                 "target": "Target",
@@ -6467,7 +6496,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnRoundEndAlive(Limit:1)",
+              "scriptName": "GiveBuffOnRoundEndAlive",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "LogicAtelierAM",
                 "target": "Self",
@@ -6504,7 +6534,8 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnUse(limit:1)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "Endurance",
                 "target": "Self",
@@ -6579,7 +6610,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnUse(limit:1)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "Endurance",
                 "target": "Self",
@@ -6657,7 +6689,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnUse(limit:1)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "Endurance",
                 "target": "Self",
@@ -6729,7 +6762,8 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack(limit:1)",
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "Reduction",
                     "target": "Target",
@@ -6804,7 +6838,8 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack(limit:1)",
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "Reduction",
                     "target": "Target",
@@ -6836,7 +6871,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnUse(limit:1)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "Endurance",
                 "target": "Self",
@@ -6894,7 +6930,8 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack(limit:2)",
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "turnLimit": 2,
                   "buffData": {
                     "buffKeyword": "Reduction",
                     "target": "Target",
@@ -6957,7 +6994,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnUse(limit:1)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "Endurance",
                 "target": "Self",
@@ -7061,7 +7099,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnUse(limit:1)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "Endurance",
                 "target": "Self",
@@ -7072,7 +7111,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnWinDuel(limit:1)",
+              "scriptName": "GiveBuffOnWinDuel",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "BlackCloudBlade",
                 "target": "Self",

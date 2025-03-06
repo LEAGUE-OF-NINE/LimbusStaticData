@@ -3477,7 +3477,8 @@
           "gaksungLevel": 2,
           "abilityScriptList": [
             {
-              "scriptName": "10508012(limit:2)",
+              "scriptName": "10508012",
+              "turnLimit": 2,
               "buffData": {
                 "buffKeyword": "BladeResultUpTier1",
                 "target": "Custom",
@@ -3557,7 +3558,8 @@
               }
             },
             {
-              "scriptName": "10508012(limit:2)",
+              "scriptName": "10508012",
+              "turnLimit": 2,
               "buffData": {
                 "buffKeyword": "BladeResultUpTier1",
                 "target": "Custom",
@@ -3706,7 +3708,8 @@
           "gaksungLevel": 2,
           "abilityScriptList": [
             {
-              "scriptName": "10508022(limit:2)",
+              "scriptName": "10508022",
+              "turnLimit": 2,
               "buffData": {
                 "buffKeyword": "BladeResultUpTier2",
                 "target": "Custom",
@@ -3796,7 +3799,8 @@
               }
             },
             {
-              "scriptName": "10508022(limit:2)",
+              "scriptName": "10508022",
+              "turnLimit": 2,
               "buffData": {
                 "buffKeyword": "BladeResultUpTier2",
                 "target": "Custom",
@@ -4026,7 +4030,8 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnUse(limit:1)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "SlashResultUp",
                 "target": "Self",
@@ -4063,7 +4068,8 @@
           "iconID": "1050804_4",
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnUse(limit:1)",
+              "scriptName": "GiveBuffOnUse",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "SlashResultUp",
                 "target": "Self",
@@ -4873,7 +4879,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnWinDuel(limit:1)",
+              "scriptName": "GiveBuffOnWinDuel",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "KnowledgeTraining",
                 "target": "Self",
@@ -4919,7 +4926,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnWinDuel(limit:1)",
+              "scriptName": "GiveBuffOnWinDuel",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "KnowledgeTraining",
                 "target": "Self",

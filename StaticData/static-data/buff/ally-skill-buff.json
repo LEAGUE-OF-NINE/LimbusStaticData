@@ -1990,6 +1990,45 @@
           "ability": "ReleaseBreath"
         }
       ]
+    },
+    {
+      "id": "DianxueDonQuixote",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "maxStack": 3,
+      "canBeDespelled": true,
+      "destroyableOnDie": true,
+      "list": [
+
+      ],
+      "categoryKeywordList": [ "DIANXUE" ]
+    },
+    {
+      "id": "FirePunchFuel",
+      "buffClass": "CumulativeStackReportBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "destroyableOnZero": false,
+      "maxStack": 100,
+      "list": [
+        {
+          "ability": "FirePunchFuel"
+        }
+      ]
+    },
+    {
+      "id": "FirePunchFuelOverheated",
+      "subIdList": [ "FirePunchFuel" ],
+      "buffClass": "CumulativeStackReportBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "destroyableOnZero": false,
+      "maxStack": 100,
+      "list": [
+        {
+          "ability": "FirePunchFuel"
+        }
+      ]
     }
   ]
 }

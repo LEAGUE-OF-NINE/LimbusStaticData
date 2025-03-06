@@ -1080,6 +1080,33 @@
       "endDate": "2025-03-27T01:00:00.000Z",
       "priorityForUI": 999
     },
+    {
+      "id": 418,
+      "category": "PACKAGE",
+      "returnpolicytype": "PACKAGE_C",
+      "productId": "gacha215_growth_package_1st",
+      "priceTier": 22,
+      "chanceId": 1418,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 232,
+          "num": 1
+        },
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 50
+        },
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 20
+        }
+      ],
+      "endDate": "2025-03-20T01:00:00.000Z",
+      "priorityForUI": 997
+    },
 
 
     {

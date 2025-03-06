@@ -4048,7 +4048,8 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "HealMpOnSucceedEvadeSelf3(limit:3)"
+              "scriptName": "HealMpOnSucceedEvadeSelf3",
+              "turnLimit": 3
             }
           ],
           "coinList": [
@@ -4063,10 +4064,12 @@
           "defaultValue": 4,
           "abilityScriptList": [
             {
-              "scriptName": "HealMpOnSucceedEvadeSelf3(limit:5)"
+              "scriptName": "HealMpOnSucceedEvadeSelf3",
+              "turnLimit": 5
             },
             {
-              "scriptName": "GiveBuffOnSucceedEvade(limit:5)",
+              "scriptName": "GiveBuffOnSucceedEvade",
+              "turnLimit": 5,
               "buffData": {
                 "buffKeyword": "Breath",
                 "target": "Self",

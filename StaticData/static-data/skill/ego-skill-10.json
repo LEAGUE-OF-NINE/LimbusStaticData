@@ -1176,7 +1176,8 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSucceedAttackHead(Limit:1)",
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "Binding",
                     "target": "Target",
@@ -1248,7 +1249,8 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSucceedAttackIfHasStack_Curse4(Limit:1)",
+                  "scriptName": "GiveBuffOnSucceedAttackIfHasStack_Curse4",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "ParryingResultDown",
                     "target": "Target",
@@ -1259,7 +1261,8 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSucceedAttackHead(Limit:1)",
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "Binding",
                     "target": "Target",
@@ -1402,7 +1405,8 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSucceedAttackTail(Limit:1)",
+                  "scriptName": "GiveBuffOnSucceedAttackTail",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "Binding",
                     "target": "Target",
@@ -1469,7 +1473,8 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSAOnRC_VIOLET4(Limit:1)",
+                  "scriptName": "GiveBuffOnSAOnRC_VIOLET4",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "ParryingResultDown",
                     "target": "Target",
@@ -1480,7 +1485,8 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSucceedAttackTail(Limit:1)",
+                  "scriptName": "GiveBuffOnSucceedAttackTail",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "Binding",
                     "target": "Target",
@@ -1491,7 +1497,8 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSucceedAttackTail(Limit:1)",
+                  "scriptName": "GiveBuffOnSucceedAttackTail",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "DefenseDown",
                     "target": "Target",

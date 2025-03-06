@@ -308,6 +308,11 @@
       "max": 1,
       "resetTimeType": "PERMANENT"
     },
+    {
+      "id": 1418,
+      "max": 2,
+      "resetTimeType": "PERMANENT"
+    },
 
     {
       "id": 1998,

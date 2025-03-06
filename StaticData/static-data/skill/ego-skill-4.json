@@ -1931,7 +1931,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnKillTarget(Limit:2)",
+              "scriptName": "GiveBuffOnKillTarget",
+              "turnLimit": 2,
               "buffData": {
                 "buffKeyword": "HoldingBreath",
                 "target": "Self",
@@ -1956,7 +1957,8 @@
               "scale": 5,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack(Limit:1)",
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "HoldingBreath",
                     "target": "Self",
@@ -2002,7 +2004,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnKillTarget(Limit:2)",
+              "scriptName": "GiveBuffOnKillTarget",
+              "turnLimit": 2,
               "buffData": {
                 "buffKeyword": "HoldingBreath",
                 "target": "Self",
@@ -2036,7 +2039,8 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack(Limit:1)",
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "HoldingBreath",
                     "target": "Self",
@@ -2082,7 +2086,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnKillTarget(Limit:3)",
+              "scriptName": "GiveBuffOnKillTarget",
+              "turnLimit": 3,
               "buffData": {
                 "buffKeyword": "HoldingBreath",
                 "target": "Self",
@@ -2116,7 +2121,8 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack(Limit:1)",
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "HoldingBreath",
                     "target": "Self",
@@ -2177,7 +2183,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnKillTarget2040821(Limit:1)",
+              "scriptName": "GiveBuffOnKillTarget2040821",
+              "turnLimit": 1,
               "value": 0,
               "buffData": {
                 "buffKeyword": "HoldingBreath",
@@ -2205,7 +2212,8 @@
               "scale": 8,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack(Limit:1)",
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "HoldingBreath",
                     "target": "Self",
@@ -2244,7 +2252,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnKillTarget2040821(Limit:1)",
+              "scriptName": "GiveBuffOnKillTarget2040821",
+              "turnLimit": 1,
               "value": 1,
               "buffData": {
                 "buffKeyword": "HoldingBreath",
@@ -2281,7 +2290,8 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack(Limit:1)",
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "HoldingBreath",
                     "target": "Self",
@@ -2321,7 +2331,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnKillTarget2040821(Limit:1)",
+              "scriptName": "GiveBuffOnKillTarget2040821",
+              "turnLimit": 1,
               "value": 2,
               "buffData": {
                 "buffKeyword": "HoldingBreath",
@@ -2358,7 +2369,8 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack(Limit:1)",
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "HoldingBreath",
                     "target": "Self",

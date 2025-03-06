@@ -3,8 +3,28 @@
 	"currentEventId": 21,
 	"currentMissionCategory": [
 		"MIRROR_DUNGEON5_COLLECTION",
-		"MIRROR_DUNGEON5_CLEAR"
+		"MIRROR_DUNGEON5_CLEAR",
+		"MIRROR_DUNGEON5_DECK",
+		"MIRROR_DUNGEON5_SHOP"
 	],
+	"specialRestingTable": [
+		{
+			"dataChecker":{
+				"gachaId": 215
+			}, 
+			"desc": "불주먹그렉&동섕돈",
+			"startDate": "2025-03-06T03:00:00.000Z",
+			"endDate": "2025-03-20T01:00:00.000Z",
+			"personalities": [11211, 10311]
+		}
+	],
+	"specialRestingTableDataChecker": {
+		"excludeGachaId": [
+			214
+		],
+		"excludeEventId": [
+		]
+	},
 	"egoGiftUpgradeCostTable": {
 		"table": [
 			{

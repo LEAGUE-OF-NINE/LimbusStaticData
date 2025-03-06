@@ -17392,7 +17392,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_2"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -17484,7 +17484,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -17576,7 +17576,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_4"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -17668,7 +17668,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_5"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -19287,7 +19287,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_2"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -19389,7 +19389,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -96325,7 +96325,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_5"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -97170,7 +97170,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_5"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -106608,7 +106608,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -107338,7 +107338,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -107425,7 +107425,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -107517,7 +107517,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -108242,7 +108242,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -108334,7 +108334,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -108436,7 +108436,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -108923,7 +108923,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -109653,7 +109653,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -109740,7 +109740,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -109832,7 +109832,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -110562,7 +110562,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -110649,7 +110649,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -110751,7 +110751,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -138606,6 +138606,7 @@
       "staminaCost": 0,
       "recommendedLevel": 50,
       "turnLimit": 99,
+      "allowMaxEnemyViewCount": 8,
       "questlist": [
         {
           "args": [

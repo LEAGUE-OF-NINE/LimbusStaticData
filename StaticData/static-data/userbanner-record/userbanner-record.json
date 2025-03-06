@@ -1,0 +1,13 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "bannerIds": [55, 56],
+      "detail": {
+        "valueIdx": 1,
+        "type": "MIRROR_DUNGEON_CLEAR_COUNT",
+        "params": ["5"]
+      }
+    }
+  ]
+}

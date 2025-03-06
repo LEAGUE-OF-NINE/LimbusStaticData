@@ -183,6 +183,7 @@
       "dataClass": "panic-buff",
       "fileList": [
         "panic-buff",
+        "panic-buff-nextupdate-S",
         "panic-buff-a1c6p1",
         "panic-buff-a1c6p2",
         "panic-buff-a1c6p3",
@@ -312,10 +313,10 @@
         "gacha-6",
         "gacha-7",
         "gacha-8",
-        "gacha-210",
-        "gacha-211",
         "gacha-212",
-        "gacha-213"
+        "gacha-213",
+        "gacha-214",
+        "gacha-215"
       ]
     },
     {
@@ -907,6 +908,12 @@
       ]
     },
     {
+      "dataClass": "userbanner-record",
+      "fileList": [
+        "userbanner-record"
+      ]
+    },
+    {
       "dataClass": "userticketconfiguration",
       "fileList": [
         "userticketconfiguration"
@@ -1346,7 +1353,9 @@
         "return-mission-a1c7",
         "event-walpu5-mission",
         "mirrordungeon5-mission-collection",
-        "mirrordungeon5-mission-clear"
+        "mirrordungeon5-mission-clear",
+        "mirrordungeon5-mission-deck",
+        "mirrordungeon5-mission-shop"
       ]
     },
     {
@@ -1444,6 +1453,12 @@
       "dataClass": "levelnumber-adjust-value",
       "fileList": [
         "levelnumber-adjust-value"
+      ]
+    },
+    {
+      "dataClass": "date",
+      "fileList": [
+        "date-version-01"
       ]
     }
   ]

@@ -12336,8 +12336,8 @@
       "classType": "TETH",
       "attributeType": "SCARLET",
       "hp": {
-        "defaultStat": 438,
-        "incrementByLevel": 18.13
+        "defaultStat": 251,
+        "incrementByLevel": 25.96
       },
       "patternID": "8578",
       "abnormalityPartList": [

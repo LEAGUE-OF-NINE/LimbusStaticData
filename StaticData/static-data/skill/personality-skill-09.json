@@ -4662,7 +4662,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffToEnemyAttackerIfUsedThisSkill(limit:1)",
+              "scriptName": "GiveBuffToEnemyAttackerIfUsedThisSkill",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "Vibration",
                 "target": "",
@@ -4699,7 +4700,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffToEnemyAttackerIfUsedThisSkill(limit:1)",
+              "scriptName": "GiveBuffToEnemyAttackerIfUsedThisSkill",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "Vibration",
                 "target": "",
@@ -5001,7 +5003,8 @@
               "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttackHead(limit:1)",
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "Agility",
                     "target": "Self",
@@ -5018,7 +5021,8 @@
               "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "TenthRodionSecondSkillThirdCoinAbility10And5(limit:1)",
+                  "scriptName": "TenthRodionSecondSkillThirdCoinAbility10And5",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "DefenseDown",
                     "target": "Target",
@@ -5075,7 +5079,8 @@
               "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttackHead(limit:1)",
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "Agility",
                     "target": "Self",
@@ -5092,7 +5097,8 @@
               "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "TenthRodionSecondSkillThirdCoinAbility5And5(limit:1)",
+                  "scriptName": "TenthRodionSecondSkillThirdCoinAbility5And5",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "DefenseDown",
                     "target": "Target",
@@ -5163,7 +5169,8 @@
               "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttackHeadSetStackAsValueIfHasStack_DevyatDimensionalSack15(limit:1)",
+                  "scriptName": "GiveBuffOnSucceedAttackHeadSetStackAsValueIfHasStack_DevyatDimensionalSack15",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "Agility",
                     "target": "Self",
@@ -5181,7 +5188,8 @@
               "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "TenthRodionSecondSkillThirdCoinAbility5And5(limit:1)",
+                  "scriptName": "TenthRodionSecondSkillThirdCoinAbility5And5",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "DefenseDown",
                     "target": "Target",
@@ -5258,7 +5266,8 @@
               "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack(limit:1)",
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "Burst",
                     "target": "Target",
@@ -5288,7 +5297,8 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnBreakOrKillTarget(limit:1)",
+                  "scriptName": "GiveBuffOnBreakOrKillTarget",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "Agility",
                     "target": "Self",
@@ -5343,7 +5353,8 @@
               "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "TenthRodionThirdSkillSecondCoinAbility10(limit:1)",
+                  "scriptName": "TenthRodionThirdSkillSecondCoinAbility10",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "Burst",
                     "target": "Target",
@@ -5375,7 +5386,8 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnBreakOrKillTarget(limit:1)",
+                  "scriptName": "GiveBuffOnBreakOrKillTarget",
+                  "turnLimit": 1,
                   "buffData": {
                     "buffKeyword": "Agility",
                     "target": "Self",
@@ -5418,7 +5430,8 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "1091004(limit:1)",
+              "scriptName": "1091004",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "DevyatDimensionalSack",
                 "target": "",
@@ -5428,7 +5441,8 @@
               }
             },
             {
-              "scriptName": "AddShieldOnBattleStartSelfByHpRatioViaBuffStack(limit:1)",
+              "scriptName": "AddShieldOnBattleStartSelfByHpRatioViaBuffStack",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "DevyatDimensionalSack",
                 "buffOwner": "Self",
@@ -5437,7 +5451,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnUseSetStackAsValueIfStackLess_DevyatDimensionalSack15(limit:1)",
+              "scriptName": "GiveBuffOnUseSetStackAsValueIfStackLess_DevyatDimensionalSack15",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "DevyatDimensionalSack",
                 "target": "Self",
@@ -5460,7 +5475,8 @@
           "gaksungLevel": 4,
           "abilityScriptList": [
             {
-              "scriptName": "1091004(limit:1)",
+              "scriptName": "1091004",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "DevyatDimensionalSack",
                 "target": "",
@@ -5470,7 +5486,8 @@
               }
             },
             {
-              "scriptName": "AddShieldOnBattleStartSelfByHpRatioViaBuffStack(limit:1)",
+              "scriptName": "AddShieldOnBattleStartSelfByHpRatioViaBuffStack",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "DevyatDimensionalSack",
                 "buffOwner": "Self",
@@ -5479,7 +5496,8 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnUseSetStackAsValueIfStackLess_DevyatDimensionalSack15(limit:1)",
+              "scriptName": "GiveBuffOnUseSetStackAsValueIfStackLess_DevyatDimensionalSack15",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "DevyatDimensionalSack",
                 "target": "Self",
@@ -5518,7 +5536,8 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "AddShieldOnBattleStartSelfByHpRatioViaBuffStack(limit:1)",
+              "scriptName": "AddShieldOnBattleStartSelfByHpRatioViaBuffStack",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "DevyatDimensionalSack",
                 "buffOwner": "Self",
@@ -5541,7 +5560,8 @@
           "gaksungLevel": 4,
           "abilityScriptList": [
             {
-              "scriptName": "AddShieldOnBattleStartSelfByHpRatioViaBuffStack(limit:1)",
+              "scriptName": "AddShieldOnBattleStartSelfByHpRatioViaBuffStack",
+              "turnLimit": 1,
               "buffData": {
                 "buffKeyword": "DevyatDimensionalSack",
                 "buffOwner": "Self",
@@ -5580,7 +5600,8 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnBattleStart1091101_BloomingThornsRodionFirst1_Laceration5[10:20:10](limit:2)",
+              "scriptName": "GiveBuffOnBattleStart1091101_BloomingThornsRodionFirst1_Laceration5[10:20:10]",
+              "turnLimit": 2,
               "buffData": {
                 "buffKeyword": "BloomingThornsRodionFirst",
                 "target": "HighestMaxHpAllyExceptSelf",
@@ -5630,7 +5651,8 @@
           "gaksungLevel": 2,
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnBattleStart1091101_BloomingThornsRodionFirst1_Laceration5[10:20:10](limit:2)",
+              "scriptName": "GiveBuffOnBattleStart1091101_BloomingThornsRodionFirst1_Laceration5[10:20:10]",
+              "turnLimit": 2,
               "buffData": {
                 "buffKeyword": "BloomingThornsRodionFirst",
                 "target": "HighestMaxHpAllyExceptSelf",
@@ -5661,7 +5683,8 @@
           "gaksungLevel": 4,
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnBattleStart1091101_BloomingThornsRodionFirst1_Laceration5[10:20:10](limit:2)",
+              "scriptName": "GiveBuffOnBattleStart1091101_BloomingThornsRodionFirst1_Laceration5[10:20:10]",
+              "turnLimit": 2,
               "buffData": {
                 "buffKeyword": "BloomingThornsRodionFirst",
                 "target": "HighestMaxHpAllyExceptSelf",
@@ -5710,7 +5733,8 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnBattleStart1091102_BloomingThornsRodionFirst1_Enhancement1_BloomingThornsRodionFirst2_Laceration5[10:30:10](limit:2)",
+              "scriptName": "GiveBuffOnBattleStart1091102_BloomingThornsRodionFirst1_Enhancement1_BloomingThornsRodionFirst2_Laceration5[10:30:10]",
+              "turnLimit": 2,
               "buffData": {
                 "buffKeyword": "Enhancement",
                 "target": "LowestMaxHpAllyExceptSelf",
@@ -5788,7 +5812,8 @@
           "gaksungLevel": 2,
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnBattleStart1091102_BloomingThornsRodionFirst1_Enhancement1_BloomingThornsRodionFirst2_Laceration5[10:30:10](limit:2)",
+              "scriptName": "GiveBuffOnBattleStart1091102_BloomingThornsRodionFirst1_Enhancement1_BloomingThornsRodionFirst2_Laceration5[10:30:10]",
+              "turnLimit": 2,
               "buffData": {
                 "buffKeyword": "Enhancement",
                 "target": "LowestMaxHpAllyExceptSelf",
@@ -5881,7 +5906,8 @@
           "gaksungLevel": 4,
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnBattleStart1091102_BloomingThornsRodionFirst1_Enhancement1_BloomingThornsRodionFirst2_Laceration5[10:30:10](limit:2)",
+              "scriptName": "GiveBuffOnBattleStart1091102_BloomingThornsRodionFirst1_Enhancement1_BloomingThornsRodionFirst2_Laceration5[10:30:10]",
+              "turnLimit": 2,
               "buffData": {
                 "buffKeyword": "Enhancement",
                 "target": "LowestMaxHpAllyExceptSelf",
