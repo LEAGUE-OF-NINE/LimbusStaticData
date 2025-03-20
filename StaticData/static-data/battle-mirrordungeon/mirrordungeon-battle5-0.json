@@ -144898,6 +144898,2415 @@
         "SubUnitDefaultSlotAdder",
         "FilterBase"
       ]
+    },
+    {
+      "id": 2067801,
+      "stageLevel": 50,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_BackstreetH_Entrance"
+          },
+          "unitList": [
+            {
+              "unitID": 90184,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 90183,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90184,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90193,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90193,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [ "Battle_Cp7_5_Sweep_Enemy_1" ],
+          "enemyPositionID": 118,
+          "allyPositionID": 117
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill",
+        "SubUnitDefaultSlotAdder"
+      ]
+    },
+    {
+      "id": 2067802,
+      "stageLevel": 50,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_BackstreetH_Entrance"
+          },
+          "unitList": [
+            {
+              "unitID": 90184,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 90183,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90184,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90193,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90193,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [ "Battle_Cp7_5_Sweep_Enemy_1" ],
+          "enemyPositionID": 118,
+          "allyPositionID": 117
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill",
+        "SubUnitDefaultSlotAdder"
+      ]
+    },
+    {
+      "id": 2067803,
+      "stageLevel": 50,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_BackstreetH_Entrance"
+          },
+          "unitList": [
+            {
+              "unitID": 90184,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 90183,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90184,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90193,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90193,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [ "Battle_Cp7_5_Sweep_Enemy_1" ],
+          "enemyPositionID": 118,
+          "allyPositionID": 117
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill",
+        "SubUnitDefaultSlotAdder"
+      ]
+    },
+    {
+      "id": 2067804,
+      "stageLevel": 50,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_BackstreetH_Entrance"
+          },
+          "unitList": [
+            {
+              "unitID": 90184,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 90183,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90184,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90193,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90193,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [ "Battle_Cp7_5_Sweep_Enemy_1" ],
+          "enemyPositionID": 118,
+          "allyPositionID": 117
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill",
+        "SubUnitDefaultSlotAdder"
+      ]
+    },
+    {
+      "id": 2067805,
+      "stageLevel": 50,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_BackstreetH_Entrance"
+          },
+          "unitList": [
+            {
+              "unitID": 90184,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 90183,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90184,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90193,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90193,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [ "Battle_Cp7_5_Sweep_Enemy_1" ],
+          "enemyPositionID": 118,
+          "allyPositionID": 117
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill",
+        "SubUnitDefaultSlotAdder"
+      ]
+    },
+    {
+      "id": 2067806,
+      "stageLevel": 50,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_BackstreetH_Entrance"
+          },
+          "unitList": [
+            {
+              "unitID": 90184,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 90183,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90184,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90193,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90193,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [ "Battle_Cp7_5_Sweep_Enemy_1" ],
+          "enemyPositionID": 118,
+          "allyPositionID": 117
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill",
+        "SubUnitDefaultSlotAdder"
+      ]
+    },
+    {
+      "id": 2067807,
+      "stageLevel": 50,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_BackstreetH_Entrance"
+          },
+          "unitList": [
+            {
+              "unitID": 90184,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 90183,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90184,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90193,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90193,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [ "Battle_Cp7_5_Sweep_Enemy_1" ],
+          "enemyPositionID": 118,
+          "allyPositionID": 117
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill",
+        "SubUnitDefaultSlotAdder"
+      ]
+    },
+    {
+      "id": 2067808,
+      "stageLevel": 50,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_BackstreetH_Entrance"
+          },
+          "unitList": [
+            {
+              "unitID": 90184,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 90183,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90184,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90193,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90193,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [ "Battle_Cp7_5_Sweep_Enemy_1" ],
+          "enemyPositionID": 118,
+          "allyPositionID": 117
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill",
+        "SubUnitDefaultSlotAdder"
+      ]
+    },
+    {
+      "id": 2067809,
+      "stageLevel": 50,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_BackstreetH_Entrance"
+          },
+          "unitList": [
+            {
+              "unitID": 90184,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 90183,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90184,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90193,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90193,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [ "Battle_Cp7_5_Sweep_Enemy_1" ],
+          "enemyPositionID": 118,
+          "allyPositionID": 117
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill",
+        "SubUnitDefaultSlotAdder"
+      ]
+    },
+    {
+      "id": 2067810,
+      "stageLevel": 50,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_BackstreetH_Entrance"
+          },
+          "unitList": [
+            {
+              "unitID": 90184,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 90183,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90184,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90193,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90193,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90194,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [ "Battle_Cp7_5_Sweep_Enemy_1" ],
+          "enemyPositionID": 118,
+          "allyPositionID": 117
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill",
+        "SubUnitDefaultSlotAdder"
+      ]
+    },
+    {
+      "id": 2067811,
+      "stageLevel": 50,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 20
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_Hotel",
+            "mapSize": 20
+          },
+          "unitList": [
+            {
+              "unitID": 90185,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 90185,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90185,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": ["Battle_Cp7_5_Sweep_Enemy_1"],
+          "enemyPositionID": 118,
+          "allyPositionID": 117
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill",
+        "SubUnitDefaultSlotAdder",
+        "EnemyRun_Normal"
+      ]
+    },
+    {
+      "id": 2067812,
+      "stageLevel": 50,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 20
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_Hotel",
+            "mapSize": 20
+          },
+          "unitList": [
+            {
+              "unitID": 90185,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 90185,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90185,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": ["Battle_Cp7_5_Sweep_Enemy_1"],
+          "enemyPositionID": 118,
+          "allyPositionID": 117
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill",
+        "SubUnitDefaultSlotAdder",
+        "EnemyRun_Normal"
+      ]
+    },
+    {
+      "id": 2067813,
+      "stageLevel": 50,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 20
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_Hotel",
+            "mapSize": 20
+          },
+          "unitList": [
+            {
+              "unitID": 90185,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 90185,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90185,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": ["Battle_Cp7_5_Sweep_Enemy_1"],
+          "enemyPositionID": 118,
+          "allyPositionID": 117
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill",
+        "SubUnitDefaultSlotAdder",
+        "EnemyRun_Normal"
+      ]
+    },
+    {
+      "id": 2067814,
+      "stageLevel": 50,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 20
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_Hotel",
+            "mapSize": 20
+          },
+          "unitList": [
+            {
+              "unitID": 90185,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 90185,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90185,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": ["Battle_Cp7_5_Sweep_Enemy_1"],
+          "enemyPositionID": 118,
+          "allyPositionID": 117
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill",
+        "SubUnitDefaultSlotAdder",
+        "EnemyRun_Normal"
+      ]
+    },
+    {
+      "id": 2067815,
+      "stageLevel": 50,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 20
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_Hotel",
+            "mapSize": 20
+          },
+          "unitList": [
+            {
+              "unitID": 90185,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 90185,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90185,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": ["Battle_Cp7_5_Sweep_Enemy_1"],
+          "enemyPositionID": 118,
+          "allyPositionID": 117
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill",
+        "SubUnitDefaultSlotAdder",
+        "EnemyRun_Normal"
+      ]
+    },
+    {
+      "id": 2067816,
+      "stageLevel": 50,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 20
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_Hotel",
+            "mapSize": 20
+          },
+          "unitList": [
+            {
+              "unitID": 90185,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 90185,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90185,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": ["Battle_Cp7_5_Sweep_Enemy_1"],
+          "enemyPositionID": 118,
+          "allyPositionID": 117
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill",
+        "SubUnitDefaultSlotAdder",
+        "EnemyRun_Normal"
+      ]
+    },
+    {
+      "id": 2067817,
+      "stageLevel": 50,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 20
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_Hotel",
+            "mapSize": 20
+          },
+          "unitList": [
+            {
+              "unitID": 90185,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 90185,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90185,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": ["Battle_Cp7_5_Sweep_Enemy_1"],
+          "enemyPositionID": 118,
+          "allyPositionID": 117
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill",
+        "SubUnitDefaultSlotAdder",
+        "EnemyRun_Normal"
+      ]
+    },
+    {
+      "id": 2067818,
+      "stageLevel": 50,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 20
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_Hotel",
+            "mapSize": 20
+          },
+          "unitList": [
+            {
+              "unitID": 90185,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 90185,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90185,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp6_Ally_2",
+            "Battle_Cp6_Enemy_2"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill",
+        "SubUnitDefaultSlotAdder",
+        "EnemyRun_Normal"
+      ]
+    },
+    {
+      "id": 2067819,
+      "stageLevel": 50,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 20
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_Hotel",
+            "mapSize": 20
+          },
+          "unitList": [
+            {
+              "unitID": 90185,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 90185,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90185,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp6_Ally_2",
+            "Battle_Cp6_Enemy_2"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill",
+        "SubUnitDefaultSlotAdder",
+        "EnemyRun_Normal"
+      ]
+    },
+    {
+      "id": 2067820,
+      "stageLevel": 50,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 20
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_Hotel",
+            "mapSize": 20
+          },
+          "unitList": [
+            {
+              "unitID": 90185,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 90185,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90185,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp6_Ally_2",
+            "Battle_Cp6_Enemy_2"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill",
+        "SubUnitDefaultSlotAdder",
+        "EnemyRun_Normal"
+      ]
+    },
+    {
+      "id": 2067826,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 10
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_BrokenHotel",
+            "mapSize": 20
+          },
+          "unitList": [
+            {
+              "unitID": 1129,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1130,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "enemyPositionID": 118,
+          "allyPositionID": 117,
+          "subUnitList": [
+            {
+              "unitID": 1129,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1130,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1128,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1129,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1130,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_MiddleBossBattle"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill_Abnormality",
+        "mirror9009601_Abnormality"
+      ]
+    },
+    {
+      "id": 2067827,
+      "stageLevel": 50,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 10
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_BrokenHotel",
+            "mapSize": 20
+          },
+          "unitList": [
+            {
+              "unitID": 1129,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1130,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "enemyPositionID": 118,
+          "allyPositionID": 117,
+          "subUnitList": [
+            {
+              "unitID": 1129,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1130,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1128,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1129,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1130,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_MiddleBossBattle"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill_Abnormality",
+        "mirror9009601_Abnormality"
+      ]
+    },
+    {
+      "id": 2067828,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 10
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_BrokenHotel",
+            "mapSize": 20
+          },
+          "unitList": [
+            {
+              "unitID": 1129,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1130,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "enemyPositionID": 118,
+          "allyPositionID": 117,
+          "subUnitList": [
+            {
+              "unitID": 1129,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1130,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1128,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1129,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1130,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_MiddleBossBattle"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill_Abnormality",
+        "mirror9009601_Abnormality"
+      ]
+    },
+    {
+      "id": 2067829,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 10
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_BrokenHotel",
+            "mapSize": 20
+          },
+          "unitList": [
+            {
+              "unitID": 1129,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1130,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "enemyPositionID": 118,
+          "allyPositionID": 117,
+          "subUnitList": [
+            {
+              "unitID": 1129,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1130,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1128,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1129,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1130,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_MiddleBossBattle"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill_Abnormality",
+        "mirror9009601_Abnormality"
+      ]
+    },
+    {
+      "id": 2067830,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 10
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_BrokenHotel",
+            "mapSize": 20
+          },
+          "unitList": [
+            {
+              "unitID": 1129,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1130,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "enemyPositionID": 118,
+          "allyPositionID": 117,
+          "subUnitList": [
+            {
+              "unitID": 1129,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1130,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1128,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1129,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1130,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp5_MiddleBossBattle"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill_Abnormality",
+        "mirror9009601_Abnormality"
+      ]
+    },
+    {
+      "id": 2067831,
+      "stageLevel": 50,
+      "stageType": "Normal",
+      "stageClearTypeSurvived": true,
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5_2_CleaningHotel_1"
+          },
+          "unitList": [
+            {
+              "unitID": 90187,
+              "unitCount": 2,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90188,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90189,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90190,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 90187,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90188,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90189,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90190,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp7_5_Sweep_Enemy_2"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90187,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90188,
+              "unitCount": 2,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90189,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90190,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 90188,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90189,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90190,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90187,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90187,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90188,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90189,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90190,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 90187,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90188,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90189,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp7_5_Sweep_Enemy_3"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "allowMaxEnemyViewCount": 8,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill",
+        "911611"
+      ]
+    },
+    {
+      "id": 2060049,
+      "stageLevel": 50,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5_2_CleaningHotel_1"
+          },
+          "unitList": [
+            {
+              "unitID": 90187,
+              "unitCount": 2,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90188,
+              "unitCount": 2,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90189,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 90187,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90187,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90188,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90188,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90189,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90190,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp6_Ally_2",
+            "Battle_Cp6_Enemy_2"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill",
+        "911611"
+      ]
+    },
+    {
+      "id": 2060050,
+      "stageLevel": 50,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5_2_CleaningHotel_1"
+          },
+          "unitList": [
+            {
+              "unitID": 90187,
+              "unitCount": 2,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90188,
+              "unitCount": 2,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90189,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 90187,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90187,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90188,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90188,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90189,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90190,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp6_Ally_2",
+            "Battle_Cp6_Enemy_2"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill",
+        "911611"
+      ]
+    },
+    {
+      "id": 2060051,
+      "stageLevel": 50,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 20
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_Hotel",
+            "mapSize": 20
+          },
+          "unitList": [
+            {
+              "unitID": 90185,
+              "unitCount": 3,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 90185,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90185,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 90186,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": ["Battle_Cp7_5_Sweep_Enemy_1"],
+          "enemyPositionID": 118,
+          "allyPositionID": 117
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill",
+        "SubUnitDefaultSlotAdder",
+        "EnemyRun_Normal"
+      ]
     }
   ]
 }

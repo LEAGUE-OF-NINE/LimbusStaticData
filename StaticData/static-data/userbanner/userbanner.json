@@ -267,12 +267,32 @@
     },
     {
       "id": 55,
-      "valueAssetName": "MD5_Achievement"
+      "valueAssetName": "MD5_Achievement",
+      "masterBannerData":
+      {
+        "id": 1
+      }
     },
     {
       "id": 56,
       "effectId": 14,
-      "valueAssetName": "MD5_Achievement"
+      "valueAssetName": "MD5_Achievement",
+      "masterBannerData":
+      {
+        "id": 2,
+        "effectId": 1
+      }
+    },
+    {
+      "id": 57
+    },
+    {
+      "id": 58,
+      "effectId": 15
+    },
+    {
+      "id": 59,
+      "uiSpriteAddressable": "Assets/Resources_moved/Sprite/UserInfoBannerMaster/UserInfo_Banner_Master_2.png"
     }
   ]
 }

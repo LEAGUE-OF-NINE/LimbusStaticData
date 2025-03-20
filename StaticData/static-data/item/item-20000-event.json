@@ -175,7 +175,6 @@
         "num": 20
       },
       "ignoreExcess": true,
-
       "spriteStr": "lcb_checkup_event_item_2"
     },
     {
@@ -190,6 +189,22 @@
     {
       "id": 20028,
       "ignoreExcess": true
+    },
+    {
+      "id": 20029,
+      "ignoreExcess": true,
+      "spriteStr": "night_cleanup_event_item_1"
+    },
+    {
+      "id": 20030,
+      "autoTransformable": true,
+      "autoTransformTargetElement": {
+        "type": "ITEM",
+        "id": 20029,
+        "num": 20
+      },
+      "ignoreExcess": true,
+      "spriteStr": "night_cleanup_event_item_2"
     }
   ]
 }

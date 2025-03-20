@@ -42,6 +42,11 @@
       "subchapterGroupIdList": [
         "DIFFICULTY_GROUP_YCGD"
       ]
+    },
+    {
+      "partId": 91,
+      "subchapterId": 9116,
+      "bgmTypeByUIPanel": "NIGHT_CLEANUP_MAIN"
     }
   ],
   "subchapterGroupList": [

@@ -1,6 +1,22 @@
 {
   "list": [
     {
+      "eventId": "NightCleanUp",
+      "mainUIPhaseTypeList": [
+        "Lobby",
+        "Stage"
+      ],
+      "bannerSpriteId": "banner_NightSweep_event",
+      "isBannerVisible": true
+    },
+    {
+      "eventId": "NightCleanUpReward",
+      "mainUIPhaseTypeList": [
+        "Stage"
+      ],
+      "isBannerVisible": true
+    },
+    {
       "eventId": "LimbusAnniversaryOneTime",
       "mainUIPhaseTypeList": [
         "Lobby"
@@ -21,22 +37,6 @@
         "Lobby"
       ],
       "bannerSpriteId": "banner_RailwayLine5",
-      "isBannerVisible": true
-    },
-    {
-      "eventId": "YCGD",
-      "mainUIPhaseTypeList": [
-        "Lobby",
-        "Stage"
-      ],
-      "bannerSpriteId": "banner_YCGDBokGak_event",
-      "isBannerVisible": true
-    },
-    {
-      "eventId": "YCGDReward",
-      "mainUIPhaseTypeList": [
-        "Stage"
-      ],
       "isBannerVisible": true
     },
     {

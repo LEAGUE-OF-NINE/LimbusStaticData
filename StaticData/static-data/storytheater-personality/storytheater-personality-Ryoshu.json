@@ -165,6 +165,21 @@
                 "reward":{"type":"ITEM","id":2,"num":40}
               }
             ]
+          },
+          {
+            "personalityId": 10411,
+            "releaseDay": 20250320,
+            "cv_Id": "",
+            "personalityStoryList": [
+              {
+                "storyId": "P10411",
+                "lockCondition": [
+                  {"condition": "gacksung"}
+                ],
+                "order": 1,
+                "reward":{"type":"ITEM","id":2,"num":40}
+              }
+            ]
           }
         ]
     }

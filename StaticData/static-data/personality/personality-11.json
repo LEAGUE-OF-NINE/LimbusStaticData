@@ -1130,6 +1130,108 @@
           "number": 1
         }
       ]
+    },
+    {
+      "id": 11112,
+      "appearance": "11112_Outis_BlackHand_MaoAppearance",
+      "unitKeywordList": [ "SMALL", "BLACK_BEAST" ],
+      "associationList": [ "BLACK_BEAST_RABBIT" ],
+      "skillKeywordList": [ "Burst" ],
+      "characterId": 11,
+      "panicType": 9999,
+      "season": 5,
+      "additionalAttachment": "EVENT",
+      "defenseSkillIDList": [
+        1111204
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 69,
+        "incrementByLevel": 2.34
+      },
+      "defCorrection": -3,
+      "minSpeedList": [
+        3,
+        3,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        5,
+        6,
+        7,
+        7
+      ],
+      "uniqueAttribute": "AMBER",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          70,
+          40,
+          20
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1111201,
+          "number": 3
+        },
+        {
+          "skillId": 1111202,
+          "number": 2
+        },
+        {
+          "skillId": 1111203,
+          "number": 1
+        }
+      ]
     }
   ]
 }

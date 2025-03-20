@@ -5,22 +5,25 @@
 		"MIRROR_DUNGEON5_COLLECTION",
 		"MIRROR_DUNGEON5_CLEAR",
 		"MIRROR_DUNGEON5_DECK",
-		"MIRROR_DUNGEON5_SHOP"
+		"MIRROR_DUNGEON5_SHOP",
+		"MIRROR_DUNGEON5_BATTLE",
+		"MIRROR_DUNGEON5_ALL"
 	],
 	"specialRestingTable": [
 		{
 			"dataChecker":{
-				"gachaId": 215
-			}, 
-			"desc": "불주먹그렉&동섕돈",
-			"startDate": "2025-03-06T03:00:00.000Z",
-			"endDate": "2025-03-20T01:00:00.000Z",
-			"personalities": [11211, 10311]
+				"eventId": 24
+			},
+			"desc": "흑수묘료슈&흑수묘오티스",
+			"startDate": "2025-03-20T01:00:00.000Z",
+			"endDate": "2025-04-17T01:00:00.000Z",
+			"personalities": [10411, 11112]
 		}
 	],
 	"specialRestingTableDataChecker": {
 		"excludeGachaId": [
-			214
+			216,
+			217
 		],
 		"excludeEventId": [
 		]
@@ -620,6 +623,20 @@
 				"bEgoGiftId": 9782,
 				"resultEgoGiftId": 9784,
 				"requiredEgoGiftIds": [9715,9782]
+			},
+
+
+			{
+				"aEgoGiftId": 9786,
+				"bEgoGiftId": 9789,
+				"resultEgoGiftId": 9792,
+				"requiredEgoGiftIds": [9786,9789]
+			},
+			{
+				"aEgoGiftId": 9787,
+				"bEgoGiftId": 9790,
+				"resultEgoGiftId": 9793,
+				"requiredEgoGiftIds": [9787,9790]
 			}
 
 

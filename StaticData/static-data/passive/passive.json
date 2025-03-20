@@ -2889,6 +2889,30 @@
       ]
     },
     {
+      "id": 1041101,
+      "attributeStockCondition": [
+        {
+          "type": "SHAMROCK",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1041121,
+      "attributeStockCondition": [
+        {
+          "type": "SHAMROCK",
+          "value": 5
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
       "id": 1091001,
       "attributeStockCondition": [
         {
@@ -3380,6 +3404,30 @@
     },
     {
       "id": 1031102
+    },
+    {
+      "id": 1111201,
+      "attributeStockCondition": [
+        {
+          "type": "SHAMROCK",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1111221,
+      "attributeResonanceCondition": [
+        {
+          "type": "SHAMROCK",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
     },
 
     {

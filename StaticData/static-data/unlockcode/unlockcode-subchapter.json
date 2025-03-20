@@ -104,6 +104,11 @@
       "id": 9115,
       "unlockcodeType": "SUBCHAPTER_CLEAR",
       "desc": "5.5-ycgd returns"
+    },
+    {
+      "id": 9116,
+      "unlockcodeType": "SUBCHAPTER_CLEAR",
+      "desc": "Night clean up"
     }
   ]
 }

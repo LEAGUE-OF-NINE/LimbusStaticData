@@ -740,7 +740,7 @@
               "scale": 5,
               "abilityScriptList": [
                 {
-                  "scriptName": "HealHpOnSucceedAttackAbnormalityNSelf20"
+                  "scriptName": "HealHpOnSucceedAttackAbnormalityAndSelf20"
                 }
               ]
             }
@@ -1863,7 +1863,7 @@
               "scale": 6,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
                   "buffData": {
                     "buffKeyword": "Reduction",
                     "target": "Target",
@@ -2081,7 +2081,7 @@
               "scale": 6,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
                   "buffData": {
                     "buffKeyword": "Paralysis",
                     "target": "Target",
@@ -2190,7 +2190,7 @@
               "scale": 7,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
                   "buffData": {
                     "buffKeyword": "PlusCoinValueDown",
                     "target": "Target",

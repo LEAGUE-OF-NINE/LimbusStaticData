@@ -514,7 +514,7 @@
     },
     {
       "id": 23,
-      "imgStr": "gnome_announcer",      
+      "imgStr": "gnome_announcer",
       "announcerKeywords": [
         {
           "voicetype": "Danger",

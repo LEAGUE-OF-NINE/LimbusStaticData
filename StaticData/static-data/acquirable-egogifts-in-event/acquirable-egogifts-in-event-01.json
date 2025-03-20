@@ -505,6 +505,22 @@
     {
       "eventId": 971050,
       "egoGiftList": [ 9781 ]
+    },
+    {
+      "eventId": 971051,
+      "egoGiftList": [ 9788 ]
+    },
+    {
+      "eventId": 971052,
+      "egoGiftList": [ 9786, 9789 ]
+    },
+    {
+      "eventId": 971053,
+      "egoGiftList": [ 9787, 9790 ]
+    },
+    {
+      "eventId": 971054,
+      "egoGiftList": [ 9794 ]
     }
   ]
 }

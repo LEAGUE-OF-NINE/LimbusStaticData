@@ -83,7 +83,8 @@
         "abnormality-part-a1c971",
         "abnormality-part-a1c971-s",
         "abnormality-part-a1c9115",
-        "abnormality-refraction5-part"
+        "abnormality-refraction5-part",
+        "abnormality-part-a1c972"
       ]
     },
     {
@@ -119,7 +120,8 @@
         "abnormality-unit-a1c971",
         "abnormality-unit-a1c971-s",
         "abnormality-unit-a1c9115",
-        "abnormality-refraction5-unit"
+        "abnormality-refraction5-unit",
+        "abnormality-unit-a1c972"
       ]
     },
     {
@@ -176,14 +178,14 @@
         "buff-enemy-a1c971",
         "buff-enemy-a1c9115",
         "buff-enemy-refraction5",
-        "buff-floor-refraction5"
+        "buff-floor-refraction5",
+        "buff-enemy-a1c972"
       ]
     },
     {
       "dataClass": "panic-buff",
       "fileList": [
         "panic-buff",
-        "panic-buff-nextupdate-S",
         "panic-buff-a1c6p1",
         "panic-buff-a1c6p2",
         "panic-buff-a1c6p3",
@@ -194,7 +196,8 @@
         "panic-buff-a1c7p2",
         "panic-buff-a1c7p3",
         "panic-buff-wp5",
-        "panic-buff-a1c971"
+        "panic-buff-a1c971",
+        "panic-buff-a1c972"
       ]
     },
     {
@@ -264,6 +267,7 @@
         "ego-gift-mirrordungeon4",
         "ego-gift-mirrordungeon5",
         "ego-gift-mirrordungeon5_2",
+        "ego-gift-mirrordungeon5_3",
         "ego-gift-hellschickendungeon",
         "ego-gift-walpu4",
         "hidden-ego-gift-mirrordungeon",
@@ -299,7 +303,8 @@
         "enemy-mirrordungeon5",
         "enemy-wp5",
         "enemy-a1c971",
-        "enemy-a1c9115"
+        "enemy-a1c9115",
+        "enemy-a1c972"
       ]
     },
     {
@@ -313,10 +318,10 @@
         "gacha-6",
         "gacha-7",
         "gacha-8",
-        "gacha-212",
-        "gacha-213",
         "gacha-214",
-        "gacha-215"
+        "gacha-215",
+        "gacha-216",
+        "gacha-217"
       ]
     },
     {
@@ -379,7 +384,8 @@
         "passive-mr5",
         "passive-enemy-wp5",
         "passive-enemy-a1c971",
-        "passive-enemy-refraction5"
+        "passive-enemy-refraction5",
+        "passive-enemy-a1c972"
       ]
     },
     {
@@ -493,7 +499,9 @@
         "skill-abnormality-a1c971-s",
         "skill-abnormality-a1c9115",
         "skill-enemy-a1c9115",
-        "abnormality-refraction5-skill"
+        "abnormality-refraction5-skill",
+        "skill-enemy-a1c972",
+        "skill-abnormality-a1c972"
       ]
     },
     {
@@ -525,7 +533,8 @@
         "storybattle-a1c9112",
         "storybattle-wp5",
         "storybattle-a1c9114",
-        "storybattle-a1c9115"
+        "storybattle-a1c9115",
+        "storybattle-a1c9116"
       ]
     },
     {
@@ -561,7 +570,8 @@
         "abbattle-tkt",
         "abbattle-a1c7p3",
         "abbattle-a1c9114",
-        "abbattle-a1c9115"
+        "abbattle-a1c9115",
+        "abbattle-a1c9116"
       ]
     },
     {
@@ -610,7 +620,8 @@
         "stagenodereward91-12",
         "stagenodereward91-13",
         "stagenodereward91-14",
-        "stagenodereward91-15"
+        "stagenodereward91-15",
+        "stagenodereward91-16"
       ]
     },
     {
@@ -804,7 +815,9 @@
         "storytheater-other-9110",
         "storytheater-other-9018",
         "storytheater-other-9019",
-        "storytheater-other-9114"
+        "storytheater-other-9114",
+        "storytheater-other-9116"
+        
       ]
     },
     {
@@ -836,7 +849,8 @@
         "announcer-a1c7p3",
         "announcer-wp5",
         "announcer-ycgd-renewal",
-        "announcer-limbus2ndAnniversary"
+        "announcer-limbus2ndAnniversary",
+        "announcer-9116"
       ]
     },
     {
@@ -848,11 +862,7 @@
     {
       "dataClass": "mirrordungeon-egogift-droppool",
       "fileList": [
-        "mirrordungeon-egogift-droppool-3",
-        "mirrordungeon-egogift-droppool-4",
-        "mirrordungeon-egogift-droppool-5",
-        "mirrordungeon-egogift-droppool-5-1",
-        "mirrordungeon-egogift-droppool-5-2"
+        "mirrordungeon-egogift-droppool-5"
       ]
     },
     {
@@ -1243,7 +1253,8 @@
         "restrict-participation-walpu4",
         "restrict-participation-a1c7p1",
         "restrict-participation-a1c7p2",
-        "restrict-participation-walpu5"
+        "restrict-participation-walpu5",
+        "restrict-participation-a1c9116"
       ]
     },
     {
@@ -1279,7 +1290,9 @@
         "ycgd-returns-event",
         "Limbus2ndAnniversary-onetime-event",
         "mirrordungeon5-mission-event",
-        "Limbus2ndAnniversary-attendance-event"
+        "Limbus2ndAnniversary-attendance-event",
+        "night-clean-up-event",
+        "mirrordungeon5-mission-purchase-event"
       ]
     },
     {
@@ -1355,7 +1368,9 @@
         "mirrordungeon5-mission-collection",
         "mirrordungeon5-mission-clear",
         "mirrordungeon5-mission-deck",
-        "mirrordungeon5-mission-shop"
+        "mirrordungeon5-mission-shop",
+        "mirrordungeon5-mission-battle",
+        "mirrordungeon5-mission-all"
       ]
     },
     {

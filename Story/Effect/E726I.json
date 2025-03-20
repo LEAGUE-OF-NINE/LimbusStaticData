@@ -1,0 +1,268 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "characterlist": "히스클리프 : 5",
+      "feeling": "shy",
+      "bg": "story_hotel_inside_broken",
+      "effect": "CustomCamShake:[50][8][0.3]",
+      "bgm": "Middle_Finger_Toujou_Filtered",
+      "soundeffect": "SFX_Jean_Crumble_Hard"
+    },
+    {
+      "id": 1,
+      "cg": "black:FadeIn"
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3,
+      "characterlist": "작은형님그림자:5",
+      "cg": "black:FadeOut",
+      "bgm": "Middle_Finger_Toujou_Filtered:0",
+      "soundeffect": "SFX_Walk_Hard"
+    },
+    {
+      "id": 4,
+      "characterlist": "작은형님 : 5",
+      "cg": "white:FadeIn:[0~0.2],white:FadeOut:[0.2~0.3]",
+      "effect": "CustomCamShake:[50][8][0.3]",
+      "bgm": "Middle_Finger_Toujou",
+      "soundeffect": "SFX_5Impact_2, SFX_Huge_Impact"
+    },
+    {
+      "id": 5,
+      "feeling": "smile2",
+      "soundeffect": "SFX_Paper_Multi_2"
+    },
+    {
+      "id": 6,
+      "feeling": "smile",
+      "soundeffect": "SFX_Stretch_HardGrab"
+    },
+    {
+      "id": 7,
+      "characterlist": "히스클리프 : 1",
+      "feeling": "shork",
+      "effect": "CustomCamShake:[30][15][0.7]",
+      "soundeffect": "SFX_5Impact_1"
+    },
+    {
+      "id": 8,
+      "feeling": "shy",
+      "soundeffect": "SFX_Chair_Hard"
+    },
+    {
+      "id": 9,
+      "soundeffect": "SFX_Walk_Hard"
+    },
+    {
+      "id": 10,
+      "characterlist": "ALL : -1, 사이화 : 5",
+      "feeling": "surprise",
+      "soundeffect": "SFX_Jean_Crumble_Hard"
+    },
+    {
+      "id": 11,
+      "characterlist": "가시춘 : 1",
+      "feeling": "shork",
+      "soundeffect": "SFX_Leather_Crumble_Hard"
+    },
+    {
+      "id": 12,
+      "feeling": "angry",
+      "soundeffect": "SFX_Cotton_Crumble_Hard"
+    },
+    {
+      "id": 13,
+      "characterlist": "자로 : 6",
+      "soundeffect": "SFX_Cloth_Crumble"
+    },
+    {
+      "id": 14,
+      "effect": "CustomCamShake:[10][10][0.7]",
+      "soundeffect": "SFX_Sweat_Crumble_Hard"
+    },
+    {
+      "id": 15,
+      "soundeffect": "SFX_Cloth_Crumble"
+    },
+    {
+      "id": 16,
+      "characterlist": "ALL : -1, 가시춘 : 5",
+      "feeling": "shork",
+      "soundeffect": "SFX_Leather_Crumble_Light"
+    },
+    {
+      "id": 17,
+      "characterlist": "ALL : -1"
+    },
+    {
+      "id": 18
+    },
+    {
+      "id": 19,
+      "characterlist": "단테 : 3, 파우스트 : 1",
+      "emotion": "Sweat",
+      "voice": "D_FastTickTok"
+    },
+    {
+      "id": 20,
+      "feeling": "close",
+      "soundeffect": "SFX_Cloth_Rubbed_Move"
+    },
+    {
+      "id": 21,
+      "feeling": "idle2"
+    },
+    {
+      "id": 22,
+      "feeling": "idle",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 23,
+      "characterlist": "로쟈 : 7",
+      "feeling": "smile4",
+      "soundeffect": "SFX_Leather_Crumble_Light"
+    },
+    {
+      "id": 24,
+      "feeling": "close",
+      "soundeffect": "SFX_Cloth_Rubbed_Move"
+    },
+    {
+      "id": 25,
+      "characterlist": "ALL : -1, 작은형님 : 5",
+      "soundeffect": "SFX_Jean_Crumble_Hard"
+    },
+    {
+      "id": 26
+    },
+    {
+      "id": 27,
+      "soundeffect": "SFX_Stretch_HardGrab"
+    },
+    {
+      "id": 28
+    },
+    {
+      "id": 29,
+      "soundeffect": "SFX_Walk_Dirt"
+    },
+    {
+      "id": 30,
+      "characterlist": "사이화 : 1",
+      "feeling": "angry",
+      "effect": "CustomCamShake:[10][10][0.7]",
+      "bgm": "Middle_Finger_Toujou:0",
+      "soundeffect": "SFX_Jean_Crumble_Hard, SFX_5Impact_2"
+    },
+    {
+      "id": 31,
+      "characterlist": "ALL : -1, 작은형님 : 5",
+      "feeling": "surprise",
+      "soundeffect": "SFX_ClothNCoin_Crumble"
+    },
+    {
+      "id": 32,
+      "characterlist": "ALL : -1, 히스클리프 : 1",
+      "feeling": "idle3",
+      "bgm": "Middle_Finger_Toujou_Filtered:20",
+      "soundeffect": "SFX_Cotton_Crumble_ SoftNew"
+    },
+    {
+      "id": 33,
+      "characterlist": "오티스 : 3",
+      "feeling": "close",
+      "bgm": "Middle_Finger_Toujou_Filtered:30",
+      "soundeffect": "SFX_Sweat_Crumble_Light"
+    },
+    {
+      "id": 34,
+      "characterlist": "ALL : -1, 작은형님 : 5",
+      "bgm": "Middle_Finger_Toujou_Filtered:35"
+    },
+    {
+      "id": 35,
+      "bgm": "Middle_Finger_Toujou_Filtered:0",
+      "soundeffect": "PaperSlap4"
+    },
+    {
+      "id": 36,
+      "feeling": "surprise",
+      "effect": "CustomCamShake:[7][30][1.7]",
+      "bgm": "Middle_Finger_Toujou",
+      "soundeffect": "SFX_Pen_Weak_1"
+    },
+    {
+      "id": 37
+    },
+    {
+      "id": 38,
+      "feeling": "smile2",
+      "soundeffect": "SFX_Book_Close"
+    },
+    {
+      "id": 39,
+      "feeling": "smile",
+      "soundeffect": "SFX_Walk_Hard"
+    },
+    {
+      "id": 40,
+      "characterlist": "작은형님 : 9, 사이화 : 1",
+      "feeling": "shock",
+      "soundeffect": "SFX_Jean_Crumble_Hard"
+    },
+    {
+      "id": 41,
+      "characterlist": "자로 : 3 : mode=FADE_IN",
+      "soundeffect": "SFX_Cloth_Rubbed_Move"
+    },
+    {
+      "id": 42,
+      "feeling": "surprise2",
+      "soundeffect": "SFX_ClothNCoin_Crumble"
+    },
+    {
+      "id": 43,
+      "feeling": "smile",
+      "soundeffect": "SFX_Stretch_HardGrab,SFX_5Impact_1"
+    },
+    {
+      "id": 44,
+      "characterlist": "ALL : -1, 싱클레어 : 1",
+      "feeling": "surprise",
+      "soundeffect": "SFX_Cotton_Crumble_SoftNew"
+    },
+    {
+      "id": 45,
+      "characterlist": "단테 : 5",
+      "emotion": "Sweat",
+      "voice": "D_Wick"
+    },
+    {
+      "id": 46,
+      "characterlist": "ALL : -1",
+      "effect": "CustomCamShake:[20][10][0.7]",
+      "soundeffect": "SFX_Huge_Impact, SFX_Run_Wood_A:delay=0.2, SFX_Run_Wood_C:delay=0.5,SFX_SwordShower:delay=0.5, Hit:delay=0.7"
+    },
+    {
+      "id": 47,
+      "soundeffect": "SFX_Walk_Wood, SFX_Walk_Marble:delay=0.2"
+    },
+    {
+      "id": 48,
+      "characterlist": "이스마엘 : 5",
+      "feeling": "smile2",
+      "soundeffect": "SFX_Mace_Whip"
+    },
+    {
+      "id": 49,
+      "feeling": "smile4",
+      "effect": "CustomCamShake:[10][7][0.7]",
+      "soundeffect": "SFX_Stretch_HardGrab"
+    }
+  ]
+}
