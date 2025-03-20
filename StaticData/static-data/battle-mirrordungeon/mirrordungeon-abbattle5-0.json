@@ -3299,9 +3299,7 @@
       "stageScriptList": [
         "MuckwormedApple"
       ],
-      "abnormalityEventList": [
-        800801
-      ]
+      "abnormalityEventList": []
     },
     {
       "id": 2060316,
@@ -3940,7 +3938,7 @@
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "PinkShoe"
-     ],
+      ],
       "eventScriptName": "PinkShoe_Mirror",
       "abnormalityEventList": [
         801501,
@@ -17079,7 +17077,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp2_Ally_3",
             "Battle_Cp2_Enemy_3"
@@ -17138,7 +17135,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp2_Ally_3",
             "Battle_Cp2_Enemy_3"
@@ -17197,7 +17193,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp2_Ally_3",
             "Battle_Cp2_Enemy_3"
@@ -17256,7 +17251,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp5_5_Xmas_Enemy"
           ]
@@ -17314,7 +17308,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp5_5_Xmas_Enemy"
           ]
@@ -19173,7 +19166,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp4_Ally_4",
             "Battle_Cp4_Enemy_4"
@@ -19232,7 +19224,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp4_Ally_5",
             "Battle_Cp4_Enemy_5"
@@ -19291,7 +19282,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp4_Ally_4",
             "Battle_Cp4_Enemy_4"
@@ -19350,7 +19340,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp4_Ally_5",
             "Battle_Cp4_Enemy_5"
@@ -19409,7 +19398,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp4_Ally_4",
             "Battle_Cp4_Enemy_4"
@@ -21260,7 +21248,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp4_Ally_4",
             "Battle_Cp4_Enemy_4"
@@ -21314,7 +21301,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp4_Ally_5",
             "Battle_Cp4_Enemy_5"
@@ -21368,7 +21354,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp4_Ally_4",
             "Battle_Cp4_Enemy_4"
@@ -21422,7 +21407,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp4_Ally_5",
             "Battle_Cp4_Enemy_5"
@@ -21481,7 +21465,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp4_Ally_4",
             "Battle_Cp4_Enemy_4"
@@ -21645,10 +21628,7 @@
       ],
       "rewardList": [],
       "isBatonPassOn": "TRUE",
-      "eventScriptName": "MuckwormedApple",
-      "abnormalityEventList": [
-        800801
-      ]
+      "abnormalityEventList": []
     },
     {
       "id": 2063641,
@@ -21837,7 +21817,6 @@
               "unitCount": 1,
               "unitLevel": 50
             }
-
           ],
           "bgmList": [
             "Battle_Cp5_Ally_1",
@@ -23453,7 +23432,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp4_Ally_4",
             "Battle_Cp4_Enemy_4"
@@ -23512,7 +23490,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp4_Ally_5",
             "Battle_Cp4_Enemy_5"
@@ -23571,7 +23548,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp4_Ally_4",
             "Battle_Cp4_Enemy_4"
@@ -23630,7 +23606,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp4_Ally_5",
             "Battle_Cp4_Enemy_5"
@@ -23684,7 +23659,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp4_Ally_4",
             "Battle_Cp4_Enemy_4"
@@ -25617,7 +25591,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp4_Ally_5",
             "Battle_Cp4_Enemy_5"
@@ -25676,7 +25649,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp4_Ally_4",
             "Battle_Cp4_Enemy_4"
@@ -27373,7 +27345,7 @@
               "unitCount": 1,
               "unitLevel": 50
             }
-          ],  
+          ],
           "bgmList": [
             "Battle_Cp4_Ally_4",
             "Battle_Cp4_Enemy_4"
@@ -27563,7 +27535,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp4_Ally_4",
             "Battle_Cp4_Enemy_4"
@@ -29598,7 +29569,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp4_Ally_4",
             "Battle_Cp4_Enemy_4"
@@ -29657,7 +29627,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp4_Ally_5",
             "Battle_Cp4_Enemy_5"
@@ -29716,7 +29685,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp4_Ally_5",
             "Battle_Cp4_Enemy_5"
@@ -29775,7 +29743,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp4_Ally_4",
             "Battle_Cp4_Enemy_4"
@@ -29834,7 +29801,6 @@
               "unitLevel": 50
             }
           ],
-
           "bgmList": [
             "Battle_Cp4_Ally_5",
             "Battle_Cp4_Enemy_5"
@@ -36910,7 +36876,6 @@
               "unitCount": 1,
               "unitLevel": 50
             },
-
             {
               "unitID": 8152,
               "unitCount": 1,
@@ -38027,7 +37992,6 @@
       "stageScriptList": [
         "AbnormalityEvent"
       ],
-      "isBatonPassOn": "TRUE",
       "eventScriptName": "NobodyGonnaCry",
       "isBatonPassOn": "TRUE",
       "abnormalityEventList": [
@@ -38096,7 +38060,6 @@
       "stageScriptList": [
         "AbnormalityEvent"
       ],
-      "isBatonPassOn": "TRUE",
       "eventScriptName": "8059",
       "isBatonPassOn": "TRUE",
       "abnormalityEventList": [
@@ -40893,7 +40856,6 @@
           ],
           "bgmList": [
             "Battle_Cp6_5_MOWE_Enemy"
-
           ]
         }
       ],
@@ -40978,7 +40940,6 @@
           ],
           "bgmList": [
             "Battle_Cp6_5_MOWE_Enemy"
-
           ]
         }
       ],
@@ -41063,7 +41024,6 @@
           ],
           "bgmList": [
             "Battle_Cp6_5_MOWE_Enemy"
-
           ]
         }
       ],
@@ -41148,7 +41108,6 @@
           ],
           "bgmList": [
             "Battle_Cp6_5_MOWE_Enemy"
-
           ]
         }
       ],
@@ -41242,7 +41201,7 @@
           "localizeId": 1
         }
       ],
-      "rewardList": [ ],
+      "rewardList": [],
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "8350"
@@ -42437,7 +42396,8 @@
               "unitID": 8392,
               "unitCount": 1,
               "unitLevel": 50
-            },            {
+            },
+            {
               "unitID": 8393,
               "unitCount": 1,
               "unitLevel": 50
@@ -47717,9 +47677,10 @@
           "prob": 1
         }
       ],
-      "story": {
-      },
-      "stageScriptList": ["1063"],
+      "story": {},
+      "stageScriptList": [
+        "1063"
+      ],
       "eventScriptName": "8629",
       "abnormalityEventList": [
         862901,
@@ -47896,9 +47857,10 @@
         }
       ],
       "isBatonPassOn": "TRUE",
-      "stageScriptList": ["1078_Mirror"]
+      "stageScriptList": [
+        "1078_Mirror"
+      ]
     },
-
     {
       "id": 2067621,
       "stageLevel": 50,
@@ -48318,7 +48280,9 @@
       ],
       "rewardList": [],
       "isBatonPassOn": "TRUE",
-      "stageScriptList": ["1082"],
+      "stageScriptList": [
+        "1082"
+      ],
       "eventScriptName": "1082",
       "abnormalityEventList": [
         108201,
@@ -48723,6 +48687,376 @@
       "isBatonPassOn": "TRUE",
       "stageScriptList": [
         "AbnormalityEvent"
+      ]
+    },
+    {
+      "id": 2067821,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 10
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_BrokenHotel",
+            "mapSize": 20
+          },
+          "unitList": [
+            {
+              "unitID": 1129,
+              "unitCount": 2,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1130,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "enemyPositionID": 118,
+          "allyPositionID": 117,
+          "subUnitList": [
+            {
+              "unitID": 1128,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1129,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1130,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp6_Ally_2",
+            "Battle_Cp6_Enemy_2"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill_Abnormality", 
+        "mirror9009601_Abnormality"
+      ]
+    },
+    {
+      "id": 2067822,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 10
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_BrokenHotel",
+            "mapSize": 20
+          },
+          "unitList": [
+            {
+              "unitID": 1129,
+              "unitCount": 2,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1130,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "enemyPositionID": 118,
+          "allyPositionID": 117,
+          "subUnitList": [
+            {
+              "unitID": 1128,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1129,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1130,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp6_Ally_2",
+            "Battle_Cp6_Enemy_2"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill_Abnormality", 
+        "mirror9009601_Abnormality"
+      ]
+    },
+    {
+      "id": 2067823,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 10
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_BrokenHotel",
+            "mapSize": 20
+          },
+          "unitList": [
+            {
+              "unitID": 1129,
+              "unitCount": 2,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1130,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "enemyPositionID": 118,
+          "allyPositionID": 117,
+          "subUnitList": [
+            {
+              "unitID": 1128,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1129,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1130,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp6_Ally_2",
+            "Battle_Cp6_Enemy_2"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill_Abnormality", 
+        "mirror9009601_Abnormality"
+      ]
+    },
+    {
+      "id": 2067824,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 10
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_BrokenHotel",
+            "mapSize": 20
+          },
+          "unitList": [
+            {
+              "unitID": 1129,
+              "unitCount": 2,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1130,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "enemyPositionID": 118,
+          "allyPositionID": 117,
+          "subUnitList": [
+            {
+              "unitID": 1128,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1129,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1130,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp6_Ally_2",
+            "Battle_Cp6_Enemy_2"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill_Abnormality", 
+        "mirror9009601_Abnormality"
+      ]
+    },
+    {
+      "id": 2067825,
+      "stageLevel": 50,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 10
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp7.5-2_BrokenHotel",
+            "mapSize": 20
+          },
+          "unitList": [
+            {
+              "unitID": 1129,
+              "unitCount": 2,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1130,
+              "unitCount": 2,
+              "unitLevel": 50
+            }
+          ],
+          "enemyPositionID": 118,
+          "allyPositionID": 117,
+          "subUnitList": [
+            {
+              "unitID": 1128,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1129,
+              "unitCount": 1,
+              "unitLevel": 50
+            },
+            {
+              "unitID": 1130,
+              "unitCount": 1,
+              "unitLevel": 50
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp6_Ally_2",
+            "Battle_Cp6_Enemy_2"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 50,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "isBatonPassOn": "TRUE",
+      "stageScriptList": [
+        "Refill_Abnormality", 
+        "mirror9009601_Abnormality"
       ]
     }
   ]

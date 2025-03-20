@@ -1900,7 +1900,7 @@
             "resultList": [
               {
                 "resultIndex": 0,
-                "resultCondition": "Prob_0.125",
+                "resultCondition": "ProbTimesRepeatCount_0.125",
                 "nextEventID": -1,
                 "eventResultDataList": [
                   {
@@ -1926,7 +1926,7 @@
               },
               {
                 "resultIndex": 1,
-                "resultCondition": "Prob_0.875",
+                "resultCondition": "ProbTimesRepeatCount_-0.125",
                 "nextEventID": 90102301
               }
             ]
@@ -7464,6 +7464,193 @@
                     "resultForm": {
                       "resultEffect": "Nothing",
                       "nextBattleID": -1
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 971051,
+      "canSkip": false,
+      "eventType": "EVENT",
+      "actionEvent": {
+        "eachOptionList": [
+          {
+            "index": 0,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": 97105101
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "Nothing",
+                      "nextBattleID": -1
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 971052,
+      "canSkip": false,
+      "eventType": "EVENT",
+      "actionEvent": {
+        "eachOptionList": [
+          {
+            "index": 0,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": 97105201
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "Nothing",
+                      "nextBattleID": -1
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 971053,
+      "canSkip": false,
+      "eventType": "EVENT",
+      "actionEvent": {
+        "eachOptionList": [
+          {
+            "index": 0,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": 97105301
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": 97105302
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 971054,
+      "canSkip": false,
+      "eventType": "EVENT",
+      "actionEvent": {
+        "eachOptionList": [
+          {
+            "index": 0,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": 97105401
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_0.5",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "Nothing",
+                      "nextBattleID": -1
+                    }
+                  }
+                ]
+              },
+              {
+                "resultIndex": 1,
+                "resultCondition": "Prob_0.5",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "StartBattle",
+                      "nextBattleID": 2060049
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogiftOnWinBattle",
+                      "resultDescId": "Choice_EGO971054",
+                      "nextBattleID": -1,
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9794,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogiftOnWinBattle",
+                      "resultDescId": "Choice_LoseBattle",
+                      "nextBattleID": -1,
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9794,
+                        "num": 1,
+                        "prob": 1
+                      }
                     }
                   }
                 ]

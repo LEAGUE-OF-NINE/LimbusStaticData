@@ -2201,8 +2201,16 @@
           "type": "SUB",
           "uiConfig": {
             "timeLine": "984-12"
-          },
-          "relatedEventId": "LCBCheckup"
+          }
+        },
+        {
+          "chapterId": 91,
+          "subchapterId": 9116,
+          "relatedEventId": "NightCleanUp",
+          "type": "SUB",
+          "uiConfig": {
+            "timeLine": "985-01"
+          }
         }
       ]
     },
@@ -3292,9 +3300,9 @@
               "stageNodeType": "DUNGEON"
             }
           ],
-          "nextMainchapterid": -1,
-          "nextSubchapterid": -1,
-          "lastnodeid": -1
+          "nextMainchapterid": 91,
+          "nextSubchapterid": 9116,
+          "lastnodeid": 911414
         },
         {
           "id": 9115,
@@ -3432,6 +3440,118 @@
               "stageNodeType": "DUNGEON",
               "nodeInfoId": 910701,
               "nodeIllustIdString": "910701"
+            }
+          ]
+        },
+        {
+          "id": 9116,
+          "illustSprName": "9116",
+          "region": "h",
+          "sprName": "chapter7.5_NightSweep",
+          "subChapterNumber": "7.5",
+          "mapIllustId": "9116",
+          "mapSizeRow": 2,
+          "mapSizeColoumn": 5,
+          "unlockCondition": {
+            "unlockCode": 9114
+          },
+          "stageNodeList": [
+            {
+              "nodeId": 911601,
+              "stageId": 911601,
+              "posx": 711,
+              "posy": 1162,
+              "upper": 1,
+              "stageNodeType": "STORY"
+            },
+            {
+              "nodeId": 911602,
+              "stageId": 911602,
+              "posx": 2449,
+              "posy": 1162,
+              "upper": 0,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911603,
+              "stageId": 911603,
+              "posx": 2963,
+              "posy": 1583,
+              "upper": 1,
+              "stageNodeType": "STORY",
+              "nodeIllustIdString": 911602
+            },
+            {
+              "nodeId": 911604,
+              "stageId": 911604,
+              "posx": 3724,
+              "posy": 1462,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911605,
+              "stageId": 911605,
+              "posx": 4695,
+              "posy": 1921,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911606,
+              "stageId": 911606,
+              "posx": 5355,
+              "posy": 2298,
+              "upper": 1,
+              "stageNodeType": "STORY"
+            },
+            {
+              "nodeId": 911607,
+              "stageId": 911607,
+              "posx": 6042,
+              "posy": 2135,
+              "upper": 0,
+              "stageNodeType": "STORY"
+            },
+            {
+              "nodeId": 911608,
+              "stageId": 911608,
+              "posx": 6609,
+              "posy": 2315,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911609,
+              "stageId": 911609,
+              "posx": 7131,
+              "posy": 2135,
+              "upper": 0,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911610,
+              "stageId": 911610,
+              "posx": 7630,
+              "posy": 2370,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911611,
+              "stageId": 911611,
+              "posx": 7781,
+              "posy": 741,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911612,
+              "stageId": 911612,
+              "posx": 9339,
+              "posy": 639,
+              "upper": 1,
+              "stageNodeType": "STORY"
             }
           ]
         }

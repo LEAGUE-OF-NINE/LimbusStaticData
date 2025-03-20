@@ -1154,7 +1154,7 @@
     },
     {
       "id": "notice_consumption_multiples",
-      "content": "{0}消耗 {1}倍増化"
+      "content": "{0}消耗 {1}倍増加"
     },
     {
       "id": "notice_additional_rewards",
@@ -1851,6 +1851,14 @@
     {
       "id": "mainui_settings_push_notification",
       "content": "通知設定"
+    },
+    {
+      "id": "paid_lunacy_ui",
+      "content": "有償狂気"
+    },
+    {
+      "id": "story_unable_to_skip",
+      "content": "(ダミー)スキップできないストーリーです"
     }
   ]
 }

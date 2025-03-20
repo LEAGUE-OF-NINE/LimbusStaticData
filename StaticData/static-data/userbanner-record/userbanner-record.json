@@ -8,6 +8,14 @@
         "type": "MIRROR_DUNGEON_CLEAR_COUNT",
         "params": ["5"]
       }
+    },
+    {
+      "id": 2,
+      "bannerIds": [55, 56],
+      "detail": {
+        "valueIdx": 2,
+        "type": "MIRROR_DUNGEON_MISSION_ALL_CLEAR"
+      }
     }
   ]
 }

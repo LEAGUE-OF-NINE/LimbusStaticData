@@ -8813,6 +8813,425 @@
           }
         ]
       }
+    },
+    {
+      "id": 97105101,
+      "canSkip": false,
+      "eventType": "COIN_EVENT",
+      "personalityEvent": {
+        "participantInfo": {
+          "min": 1,
+          "max": 1
+        },
+        "silenceCharacterUniqueIdList": [],
+        "not_allowed_list": [],
+        "adderInfo": [],
+        "judgement": {
+          "upDownType": 1,
+          "inclusiveValue": 12,
+          "exclusiveValue": 24,
+          "judgementDataList": [
+            {
+              "attributeType": "SHAMROCK"
+            },
+            {
+              "attributeType": "INDIGO"
+            }
+          ]
+        },
+        "eventResults": [
+          {
+            "eventResult": "SUCCESS",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9788,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "eventResult": "FAILURE",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "MirrorDungeonLossCost",
+                      "itemReward": {
+                        "type": "MIRRORDUNGEON_COST",
+                        "num": 40,
+                        "prob": 1.0
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 97105201,
+      "canSkip": false,
+      "eventType": "COIN_EVENT",
+      "personalityEvent": {
+        "participantInfo": {
+          "min": 1,
+          "max": 1
+        },
+        "silenceCharacterUniqueIdList": [],
+        "not_allowed_list": [],
+        "adderInfo": [
+          {
+            "correctionCase": "SpecificUnit_Ishmael",
+            "adder": -3
+          }
+        ],
+        "judgement": {
+          "upDownType": 1,
+          "inclusiveValue": 15,
+          "exclusiveValue": 30,
+          "judgementDataList": [
+            {
+              "attributeType": "SHAMROCK"
+            },
+            {
+              "attributeType": "INDIGO"
+            }
+          ]
+        },
+        "eventResults": [
+          {
+            "eventResult": "SUCCESS",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9789,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "eventResult": "FAILURE",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9786,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 97105301,
+      "canSkip": false,
+      "eventType": "COIN_EVENT",
+      "personalityEvent": {
+        "participantInfo": {
+          "min": 1,
+          "max": 1
+        },
+        "silenceCharacterUniqueIdList": [],
+        "not_allowed_list": [],
+        "adderInfo": [
+          {
+            "correctionCase": "SpecificAssociation_BLACK_BEAST_RABBIT",
+            "adder": 5
+          }
+        ],
+        "judgement": {
+          "upDownType": 1,
+          "inclusiveValue": 12,
+          "exclusiveValue": 24,
+          "judgementDataList": [
+            {
+              "attributeType": "SHAMROCK"
+            },
+            {
+              "attributeType": "INDIGO"
+            }
+          ]
+        },
+        "eventResults": [
+          {
+            "eventResult": "SUCCESS",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9790,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "eventResult": "FAILURE",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9787,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 97105302,
+      "canSkip": false,
+      "eventType": "COIN_EVENT",
+      "personalityEvent": {
+        "participantInfo": {
+          "min": 1,
+          "max": 1
+        },
+        "silenceCharacterUniqueIdList": [],
+        "not_allowed_list": [],
+        "adderInfo": [
+          {
+            "correctionCase": "SpecificAssociation_BLACK_BEAST_RABBIT",
+            "adder": 5
+          }
+        ],
+        "judgement": {
+          "upDownType": 1,
+          "inclusiveValue": 14,
+          "exclusiveValue": 28,
+          "judgementDataList": [
+            {
+              "attributeType": "SHAMROCK"
+            },
+            {
+              "attributeType": "INDIGO"
+            }
+          ]
+        },
+        "eventResults": [
+          {
+            "eventResult": "SUCCESS",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9787,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9790,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "eventResult": "FAILURE",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "StartBattle_Abnormality",
+                      "nextBattleID": 2060051
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogiftOnWinBattle",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9787,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 97105401,
+      "canSkip": false,
+      "eventType": "COIN_EVENT",
+      "personalityEvent": {
+        "participantInfo": {
+          "min": 1,
+          "max": 1
+        },
+        "silenceCharacterUniqueIdList": [],
+        "not_allowed_list": [],
+        "adderInfo": [],
+        "judgement": {
+          "upDownType": 1,
+          "inclusiveValue": 14,
+          "exclusiveValue": 28,
+          "judgementDataList": [
+            {
+              "attributeType": "SHAMROCK"
+            },
+            {
+              "attributeType": "INDIGO"
+            }
+          ]
+        },
+        "eventResults": [
+          {
+            "eventResult": "SUCCESS",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9794,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "eventResult": "FAILURE",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffectTarget": "EveryAlly",
+                      "resultEffect": "LoseHpOnly_20"
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffect": "StartBattle",
+                      "nextBattleID": 2060050
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogiftOnWinBattle",
+                      "resultDescId": "Choice_EGO971054",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9794,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }

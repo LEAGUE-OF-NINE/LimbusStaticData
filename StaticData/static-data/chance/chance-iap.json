@@ -313,6 +313,16 @@
       "max": 2,
       "resetTimeType": "PERMANENT"
     },
+    {
+      "id": 1419,
+      "max": 1,
+      "resetTimeType": "PERMANENT"
+    },
+    {
+      "id": 1420,
+      "max": 2,
+      "resetTimeType": "PERMANENT"
+    },
 
     {
       "id": 1998,

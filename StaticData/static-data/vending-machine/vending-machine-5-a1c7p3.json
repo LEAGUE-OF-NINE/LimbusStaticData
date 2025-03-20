@@ -22,6 +22,12 @@
 						},
 						{
 							"type": "PERSONALITY",
+							"id": 10411,
+							"vendingAvailableDate": "2025-03-27T03:00:00.000Z",
+							"price": 400
+						},
+						{
+							"type": "PERSONALITY",
 							"id": 10511,
 							"price": 400
 						},

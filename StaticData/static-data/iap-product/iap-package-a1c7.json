@@ -19,7 +19,8 @@
           "num": 1
         }
       ],
-      "priorityForUI": 89
+      "priorityForUI": 89,
+      "ar":true
     },
     {
       "id": 102,
@@ -61,7 +62,8 @@
           "num": 30
         }
       ],
-      "priorityForUI": 99
+      "priorityForUI": 99,
+      "ar":true
     },
     {
       "id": 103,
@@ -87,7 +89,8 @@
           "num": 120
         }
       ],
-      "priorityForUI": 98
+      "priorityForUI": 98,
+      "ar":true
     },
     {
       "id": 104,
@@ -113,7 +116,8 @@
           "id": 213,
           "num": 20
         }
-      ]
+      ],
+      "ar":true
     },
     {
       "id": 105,
@@ -129,7 +133,8 @@
           "id": 201,
           "num": 300
         }
-      ]
+      ],
+      "ar":true
     },
     {
       "id": 106,
@@ -155,7 +160,8 @@
           "num": 30
         }
       ],
-      "priorityForUI": 99
+      "priorityForUI": 99,
+      "ar":true
     },
     {
       "id": 111,
@@ -176,7 +182,8 @@
           "num": 1
         }
       ],
-      "priorityForUI": 997
+      "priorityForUI": 997,
+      "ar":true
     },
     {
       "id": 121,
@@ -315,7 +322,8 @@
           "num": 1300
         }
       ],
-      "priorityForUI": 998
+      "priorityForUI": 998,
+      "ar":true
     },
     {
       "id": 125,
@@ -378,7 +386,8 @@
           "num": 5
         }
       ],
-      "priorityForUI": 9
+      "priorityForUI": 9,
+      "ar":true
     },
     {
       "id": 133,
@@ -393,7 +402,8 @@
           "id": 201,
           "num": 75
         }
-      ]
+      ],
+      "ar":true
     },
     {
       "id": 134,
@@ -409,7 +419,8 @@
           "num": 20
         }
       ],
-      "priorityForUI": 7
+      "priorityForUI": 7,
+      "ar":true
     },
     {
       "id": 135,
@@ -437,7 +448,8 @@
         }
       ],
       "additionalStickerId": 135,
-      "priorityForUI": 6
+      "priorityForUI": 6,
+      "ar":true
     },
     {
       "id": 136,
@@ -453,7 +465,8 @@
           "num": 100
         }
       ],
-      "priorityForUI": 5
+      "priorityForUI": 5,
+      "ar":true
     },
     {
       "id": 141,
@@ -469,7 +482,8 @@
           "num": 3
         }
       ],
-      "priorityForUI": 88
+      "priorityForUI": 88,
+      "ar":true
     },
     {
       "id": 142,
@@ -485,7 +499,8 @@
           "num": 5
         }
       ],
-      "priorityForUI": 87
+      "priorityForUI": 87,
+      "ar":true
     },
     {
       "id": 143,
@@ -501,7 +516,8 @@
           "num": 10
         }
       ],
-      "priorityForUI": 8
+      "priorityForUI": 8,
+      "ar":true
     },
     {
       "id": 144,
@@ -529,7 +545,8 @@
         }
       ],
       "additionalStickerId": 144,
-      "priorityForUI": 79
+      "priorityForUI": 79,
+      "ar":true
     },
     {
       "id": 145,
@@ -557,7 +574,8 @@
         }
       ],
       "additionalStickerId": 145,
-      "priorityForUI": 78
+      "priorityForUI": 78,
+      "ar":true
     },
     {
       "id": 146,
@@ -585,7 +603,8 @@
         }
       ],
       "additionalStickerId": 146,
-      "priorityForUI": 77
+      "priorityForUI": 77,
+      "ar":true
     },
     {
       "id": 147,
@@ -601,7 +620,8 @@
           "num": 300
         }
       ],
-      "priorityForUI": 69
+      "priorityForUI": 69,
+      "ar":true
     },
     {
       "id": 148,
@@ -617,7 +637,8 @@
           "num": 500
         }
       ],
-      "priorityForUI": 68
+      "priorityForUI": 68,
+      "ar":true
     },
     {
       "id": 149,
@@ -633,7 +654,8 @@
           "num": 1000
         }
       ],
-      "priorityForUI": 67
+      "priorityForUI": 67,
+      "ar":true
     },
     {
       "id": 150,
@@ -654,7 +676,8 @@
           "num": 18
         }
       ],
-      "priorityForUI": 6
+      "priorityForUI": 6,
+      "ar":true
     },
     {
       "id": 151,
@@ -675,7 +698,8 @@
           "num": 48
         }
       ],
-      "priorityForUI": 79
+      "priorityForUI": 79,
+      "ar":true
     },
     {
       "id": 152,
@@ -696,7 +720,8 @@
           "num": 72
         }
       ],
-      "priorityForUI": 78
+      "priorityForUI": 78,
+      "ar":true
     },
     {
       "id": 153,
@@ -717,7 +742,8 @@
           "num": 144
         }
       ],
-      "priorityForUI": 77
+      "priorityForUI": 77,
+      "ar":true
     },
 
 
@@ -749,7 +775,8 @@
           "num": 100
         }
       ],
-      "priorityForUI": 100
+      "priorityForUI": 100,
+      "ar":true
     },
     {
       "id": 402,
@@ -766,7 +793,8 @@
         }
       ],
       "endDate": "2024-12-26T01:00:00.000Z",
-      "priorityForUI": 999
+      "priorityForUI": 999,
+      "ar":true
     },
     {
       "id": 403,
@@ -793,7 +821,8 @@
         }
       ],
       "endDate": "2024-12-26T01:00:00.000Z",
-      "priorityForUI": 998
+      "priorityForUI": 998,
+      "ar":true
     },
 
     {
@@ -811,7 +840,8 @@
         }
       ],
       "endDate": "2025-01-09T01:00:00.000Z",
-      "priorityForUI": 999
+      "priorityForUI": 999,
+      "ar":true
     },
     {
       "id": 405,
@@ -828,7 +858,8 @@
         }
       ],
       "endDate": "2025-01-09T01:00:00.000Z",
-      "priorityForUI": 998
+      "priorityForUI": 998,
+      "ar":true
     },
 
     {
@@ -846,7 +877,8 @@
         }
       ],
       "endDate": "2025-01-23T01:00:00.000Z",
-      "priorityForUI": 999
+      "priorityForUI": 999,
+      "ar":true
     },
     {
       "id": 407,
@@ -873,7 +905,8 @@
         }
       ],
       "endDate": "2025-01-23T01:00:00.000Z",
-      "priorityForUI": 998
+      "priorityForUI": 998,
+      "ar":true
     },
     {
       "id": 408,
@@ -890,7 +923,8 @@
         }
       ],
       "endDate": "2025-01-23T01:00:00.000Z",
-      "priorityForUI": 997
+      "priorityForUI": 997,
+      "ar":true
     },
     {
       "id": 409,
@@ -907,7 +941,8 @@
         }
       ],
       "endDate": "2025-02-06T01:00:00.000Z",
-      "priorityForUI": 999
+      "priorityForUI": 999,
+      "ar":true
     },
     {
       "id": 410,
@@ -934,7 +969,8 @@
         }
       ],
       "endDate": "2025-02-06T01:00:00.000Z",
-      "priorityForUI": 998
+      "priorityForUI": 998,
+      "ar":true
     },
     {
       "id": 411,
@@ -951,7 +987,8 @@
         }
       ],
       "endDate": "2025-02-06T01:00:00.000Z",
-      "priorityForUI": 997
+      "priorityForUI": 997,
+      "ar":true
     },
     {
       "id": 412,
@@ -968,7 +1005,8 @@
         }
       ],
       "endDate": "2025-02-20T01:00:00.000Z",
-      "priorityForUI": 999
+      "priorityForUI": 999,
+      "ar":true
     },
     {
       "id": 413,
@@ -995,7 +1033,8 @@
         }
       ],
       "endDate": "2025-02-20T01:00:00.000Z",
-      "priorityForUI": 998
+      "priorityForUI": 998,
+      "ar":true
     },
     {
       "id": 414,
@@ -1022,7 +1061,8 @@
         }
       ],
       "endDate": "2025-03-06T01:00:00.000Z",
-      "priorityForUI": 998
+      "priorityForUI": 998,
+      "ar":true
     },
     {
       "id": 415,
@@ -1039,7 +1079,8 @@
         }
       ],
       "endDate": "2025-03-06T01:00:00.000Z",
-      "priorityForUI": 997
+      "priorityForUI": 997,
+      "ar":true
     },
     {
       "id": 416,
@@ -1056,7 +1097,8 @@
         }
       ],
       "endDate": "2025-03-27T01:00:00.000Z",
-      "priorityForUI": 999
+      "priorityForUI": 999,
+      "ar":true
     },
     {
       "id": 417,
@@ -1078,7 +1120,8 @@
         }
       ],
       "endDate": "2025-03-27T01:00:00.000Z",
-      "priorityForUI": 999
+      "priorityForUI": 999,
+      "ar":true
     },
     {
       "id": 418,
@@ -1105,7 +1148,54 @@
         }
       ],
       "endDate": "2025-03-20T01:00:00.000Z",
-      "priorityForUI": 997
+      "priorityForUI": 997,
+      "ar":true
+    },
+    {
+      "id": 419,
+      "category": "PACKAGE",
+      "returnpolicytype": "PACKAGE_C",
+      "productId": "gacha217_extraction_package_1st",
+      "priceTier": 22,
+      "chanceId": 1419,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 102,
+          "num": 4
+        }
+      ],
+      "endDate": "2025-04-03T01:00:00.000Z",
+      "priorityForUI": 999,
+      "ar":true
+    },
+    {
+      "id": 420,
+      "category": "PACKAGE",
+      "returnpolicytype": "PACKAGE_C",
+      "productId": "gacha217_growth_package_1st",
+      "priceTier": 22,
+      "chanceId": 1420,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 232,
+          "num": 1
+        },
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 50
+        },
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 20
+        }
+      ],
+      "endDate": "2025-04-03T01:00:00.000Z",
+      "priorityForUI": 998,
+      "ar":true
     },
 
 
@@ -1123,7 +1213,8 @@
           "num": 1300
         }
       ],
-      "priorityForUI": 996
+      "priorityForUI": 996,
+      "ar":true
     },
     {
       "id": 602,
@@ -1159,7 +1250,8 @@
           "num": 40
         }
       ],
-      "priorityForUI": 995
+      "priorityForUI": 995,
+      "ar":true
     }
   ]
 }

@@ -1,0 +1,161 @@
+{
+  "list": [
+    {
+      "id": "MiddleFingerBook",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": false,
+      "maxStack": 10,
+      "list": [
+        {
+          "ability": "MiddleFingerBookBase_30_300"
+        }
+      ]
+    },
+    {
+      "id": "RepressedMurderousIntend",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": false,
+      "maxStack": 1,
+      "list": [
+        {
+          "ability": "AtkAdder",
+          "value": -10
+        },
+        {
+          "ability": "DefAdder",
+          "value": -10
+        }
+      ],
+      "categoryKeywordList": []
+    },
+    {
+      "id": "WeighedMurderousIntend",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": false,
+      "maxStack": 1,
+      "list": [
+        {
+          "ability": "AtkAdder",
+          "value": -25
+        },
+        {
+          "ability": "DefAdder",
+          "value": -25
+        }
+      ],
+      "categoryKeywordList": []
+    },
+    {
+      "id": "Persistent",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": true,
+      "destroyableOnZero": true,
+      "maxStack": 4,
+      "list": [
+        {
+          "ability": "Persistent_60",
+          "value": 0.8
+        },
+        {
+          "ability": "LoseStackOnRoundEnd",
+          "value": 1
+        }
+      ],
+      "categoryKeywordList": []
+    },
+    {
+      "id": "BurstAgility",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": true,
+      "maxStack": 3,
+      "list": [
+        {
+          "ability": "BurstAgility",
+          "buffData": {
+            "buffKeyword": "Burst",
+            "target": "Self",
+            "stack": 0,
+            "turn": 1,
+            "activeRound": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "LegStrength",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": true,
+      "maxStack": 3,
+      "list": [
+        {
+          "ability": "GiveBuffOnRoundEnd",
+          "buffData": {
+            "buffKeyword": "Agility",
+            "target": "Self",
+            "stack": 5,
+            "turn": 0,
+            "activeRound": 1
+          }
+        },
+        {
+          "ability": "LoseStackOnRoundEnd",
+          "value": 1
+        },
+        {
+          "ability": "LegStrength"
+        }
+      ]
+    },
+    {
+      "id": "SweeperA",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "destroyableOnZero": true,
+      "maxStack": 5,
+      "list": [
+        {
+          "ability": "LoseStackOnRoundEnd",
+          "value": 1
+        }
+      ],
+      "categoryKeywordList": []
+    },
+    {
+      "id": "SweeperB",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "destroyableOnZero": true,
+      "maxStack": 5,
+      "list": [
+        {
+          "ability": "LoseStackOnRoundEnd",
+          "value": 1
+        }
+      ],
+      "categoryKeywordList": []
+    },
+    {
+      "id": "SweeperC",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "destroyableOnZero": true,
+      "maxStack": 5,
+      "list": [
+        {
+          "ability": "LoseStackOnRoundEnd",
+          "value": 1
+        }
+      ],
+      "categoryKeywordList": []
+    }
+  ]
+}
