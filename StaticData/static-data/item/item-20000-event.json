@@ -205,6 +205,10 @@
       },
       "ignoreExcess": true,
       "spriteStr": "night_cleanup_event_item_2"
+    },
+    {
+      "id": 20031,
+      "ignoreExcess": true
     }
   ]
 }

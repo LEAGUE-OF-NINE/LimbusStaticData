@@ -208,5 +208,6 @@
   "staminaNotificationMessageProbsForEach": [
     3,3,3,3,3,3,3,3,3,3,3,3,1,2
   ],
-  "isStorePlatformInitFixed": true
+  "isStorePlatformInitFixed": true,
+  "enablePurchaseRestoreButton" : true
 }

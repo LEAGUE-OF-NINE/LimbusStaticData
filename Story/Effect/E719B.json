@@ -536,6 +536,7 @@
     {
       "id": 104,
       "feeling": "nervous",
+      "emotion": "Sweat",
       "soundeffect": "SFX_Cloth_Crumble"
     },
     {

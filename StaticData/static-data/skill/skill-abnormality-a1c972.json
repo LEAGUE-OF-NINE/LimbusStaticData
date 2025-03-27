@@ -36,7 +36,7 @@
           "coinList": [
             {
               "operatorType": "ADD",
-              "scale": 7,
+              "scale": 6,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
@@ -100,7 +100,7 @@
           "coinList": [
             {
               "operatorType": "ADD",
-              "scale": 7,
+              "scale": 6,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",

@@ -2,35 +2,31 @@
   "list": [
     {
       "id": "NewDungeonUpdated",
-      "priority": 5
+      "priority": 6
     },
     {
       "id": "BattlePassOpened",
-      "priority": 3
+      "priority": 5
     },
     {
       "id": "SeasonOpenedOrClosed",
-      "priority": 2
-    },
-    {
-      "id": "Limbus1stAnniv0227",
-      "priority": 1
-    },
-    {
-      "id": "Limbus1stAnnivAttendance",
       "priority": 4
     },
     {
       "id": "PersonalityLevelLimitRelease",
-      "priority": 6
-    },
-    {
-      "id": "NewUserDailyLoginEvent",
       "priority": 7
     },
     {
+      "id": "NewUserDailyLoginEvent",
+      "priority": 2
+    },
+    {
       "id": "ReturningUserDailyLoginEvent",
-      "priority": 8
+      "priority": 3
+    },
+    {
+      "id": "2025_fools_event",
+      "priority": 1
     },
     {
       "id": "Membership_Remain_7days_Alarm",

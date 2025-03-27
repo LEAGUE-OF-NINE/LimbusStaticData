@@ -4615,7 +4615,21 @@
       "nameTagColor": "#a000c4",
       "nameFontColor": "#f5f4e9",
       "portraitSpritePath": "StoryLog_Werner"
+    },
+    {
+      "name": "베르너다침",
+      "krname": "베르너",
+      "jpname": "",
+      "enname": "",
+      "nickName": "중지",
+      "jpNickName": "中指",
+      "enNickName": "The Middle",
+      "fileName": "Werner_Hurt",
+      "scale": 0.8,
+      "bottomYPos": -40,
+      "nameTagColor": "#a000c4",
+      "nameFontColor": "#f5f4e9",
+      "portraitSpritePath": "StoryLog_Werner"
     }
-
   ]
 }

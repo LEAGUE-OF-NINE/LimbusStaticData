@@ -287,59 +287,12 @@
           "unitList": [
             {
               "unitID": 90185,
-              "unitCount": 1,
-              "unitLevel": 60
-            },
-            {
-              "unitID": 90185,
-              "unitCount": 1,
-              "unitLevel": 60
-            },
-            {
-              "unitID": 90185,
-              "unitCount": 1,
+              "unitCount": 3,
               "unitLevel": 60
             },
             {
               "unitID": 90186,
-              "unitCount": 1,
-              "unitLevel": 60
-            },
-            {
-              "unitID": 90186,
-              "unitCount": 1,
-              "unitLevel": 60
-            }
-          ],
-          "subUnitList": [
-            {
-              "unitID": 90185,
-              "unitCount": 1,
-              "unitLevel": 60
-            },
-            {
-              "unitID": 90185,
-              "unitCount": 1,
-              "unitLevel": 60
-            },
-            {
-              "unitID": 90186,
-              "unitCount": 1,
-              "unitLevel": 60
-            },
-            {
-              "unitID": 90186,
-              "unitCount": 1,
-              "unitLevel": 60
-            },
-            {
-              "unitID": 90186,
-              "unitCount": 1,
-              "unitLevel": 60
-            },
-            {
-              "unitID": 90186,
-              "unitCount": 1,
+              "unitCount": 2,
               "unitLevel": 60
             }
           ],
@@ -353,7 +306,7 @@
           ]
         }
       ],
-      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder", "EnemyRun_Normal"],
+      "stageScriptList": [ "SubUnitDefaultSlotAdder", "EnemyRun_Normal"],
       "abstainSupporterCharacterIds": [ 1, 2, 6, 7, 8, 9, 10 ],
       "staminaCost": 20,
       "recommendedLevel": 50,
@@ -395,59 +348,12 @@
           "unitList": [
             {
               "unitID": 90185,
-              "unitCount": 1,
-              "unitLevel": 60
-            },
-            {
-              "unitID": 90185,
-              "unitCount": 1,
-              "unitLevel": 60
-            },
-            {
-              "unitID": 90185,
-              "unitCount": 1,
+              "unitCount": 2,
               "unitLevel": 60
             },
             {
               "unitID": 90186,
-              "unitCount": 1,
-              "unitLevel": 60
-            },
-            {
-              "unitID": 90186,
-              "unitCount": 1,
-              "unitLevel": 60
-            }
-          ],
-          "subUnitList": [
-            {
-              "unitID": 90185,
-              "unitCount": 1,
-              "unitLevel": 60
-            },
-            {
-              "unitID": 90185,
-              "unitCount": 1,
-              "unitLevel": 60
-            },
-            {
-              "unitID": 90186,
-              "unitCount": 1,
-              "unitLevel": 60
-            },
-            {
-              "unitID": 90186,
-              "unitCount": 1,
-              "unitLevel": 60
-            },
-            {
-              "unitID": 90186,
-              "unitCount": 1,
-              "unitLevel": 60
-            },
-            {
-              "unitID": 90186,
-              "unitCount": 1,
+              "unitCount": 3,
               "unitLevel": 60
             }
           ],
@@ -475,7 +381,7 @@
           "E725A"
         ]
       },
-      "stageScriptList": [ "Refill", "SubUnitDefaultSlotAdder", "EnemyRun_Normal"],
+      "stageScriptList": [ "SubUnitDefaultSlotAdder", "EnemyRun_Normal"],
       "abstainSupporterCharacterIds": [ 1, 2, 6, 7, 8, 9, 10 ]
     },
     {
