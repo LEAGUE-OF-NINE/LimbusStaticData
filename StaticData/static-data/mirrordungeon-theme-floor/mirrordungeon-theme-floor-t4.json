@@ -384,6 +384,10 @@
             "value": "410000"
           },
           {
+            "key": "SetColor_FloorBackgroundSet",
+            "value": "ad0000"
+          },
+          {
             "key": "MirrorDungeon4_Base"
           }
         ]

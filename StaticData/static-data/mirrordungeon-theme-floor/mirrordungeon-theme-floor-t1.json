@@ -1040,24 +1040,6 @@
           }
         ]
       },
-      "battlevictorycostvaluList": [
-        {
-          "encounterType": "BATTLE",
-          "cost": 40
-        },
-        {
-          "encounterType": "AB_BATTLE",
-          "cost": 60
-        },
-        {
-          "encounterType": "HARD_BATTLE",
-          "cost": 80
-        },
-        {
-          "encounterType": "BOSS",
-          "cost": 150
-        }
-      ],
       "difficulty": "DIFFICULT"
     },
     {
